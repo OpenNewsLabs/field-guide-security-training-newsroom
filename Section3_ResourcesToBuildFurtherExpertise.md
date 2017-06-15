@@ -22,7 +22,7 @@ To contribute a link, please open a pull request.  This is a community-curated l
 Comprehensive resources addressing digital security in general, and online communities where digital security is discussed.
 
 **[Surveillance Self-Defense:  Tips, Tools and How-tos for Safer Online Communication](https://ssd.eff.org/)**
-[https://ssd.eff.org/](https://ssd.eff.org/)**
+[https://ssd.eff.org/](https://ssd.eff.org/)
 *Electronic Frontier Foundation*
 A guide to protection against surveillance, this guide also includes great material on personal digital security.  Organized into overviews, tutorials, briefings, playlists.
 **Published:**  October, 2014, updated frequently (timestamp at the bottom of each guide.)
@@ -43,7 +43,7 @@ A primer booklet for those beginning to think about digital security and threat 
 [https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/](https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/)
 *Olivia Martin, Freedom of the Press Foundation*
 An introduction to digital security with brief descriptions and links to resources on threat modeling, strong authentication, secure communications, device encryption, browser security. The article also includes guidance on update hygiene, VPNs, and phishing.
-**Published: **January, 2017
+**Published:** January, 2017
 **Added:** June 2017
 **Tags:**  intros, lists, beginners
 
@@ -190,7 +190,7 @@ MIX: LINKS TO GUIDES, ARTICLES, TOOLS.
 *Martin Shelton/OpenNews*
 A curated list of account security resources and articles from Martin Shelton -- a really good overview.
 **Published:** 2014-2017
-Added: June 2017
+**Added:** June 2017
 
 
 **[Securing Your Digital Life Like a Normal Person](https://medium.com/@mshelton/securing-your-digital-life-like-a-normal-person-a-hasty-and-incomplete-guide-56437f127425)**
@@ -207,7 +207,7 @@ A very approachable guide to better security practices for the average user of t
 GUIDE (101)
 *Vice, Joseph Cox and Lorenzo Franceschi-Bicchierai*
 A basic guide to personal digital security from Motherboard.
-**Published: **August, 2016
+**Published:** August, 2016
 **Added:** June 2017
 
 
@@ -225,7 +225,7 @@ An open source ([github](https://github.com/securityfirst)) app with checklists 
 GUIDE
 *Sophia Cope, Amul Kalia, Seth Schoen, Adam Schwartz, Electronic Frontier Foundation*
 In light of the looming U.S. travel ban targeted at individuals traveling to and from primarily Muslim countries, the Electronic Frontier Foundation Part released this whitepaper to examine travelers’ security options at the U.S. border. The paper examines the basics of risk assessment, as well as legal, technical, and practical concerns when you are preparing to leave, arriving at the border, and what to do afterwards. The guide also examines your rights, U.S. border policy, a wide range tools you can use to protect yourself, and their constraints.
-**Published: **March 2017
+**Published:** March 2017
 **Added:**  June 2017
 
 
@@ -261,7 +261,7 @@ Two Factor Auth is a list of popular websites, and information on whether they s
 TOOL-SPECIFIC GUIDE
 *Martin Shelton*
 This guide examines how to use two-factor authentication by breaking it down into multiple methods, and walking through how to set it up, using Gmail as one example. It also describes some considerations for its use in a team setting.
-**Updated: ** May 2017
+**Updated:** May 2017
 **Added:**  June 2017
 
 
@@ -270,8 +270,8 @@ This guide examines how to use two-factor authentication by breaking it down int
 TOOL-SPECIFIC GUIDE
 *Yael Grauer*
 This article lays out the many, many issues with choosing a VPN, including logging, using preshared keys, and outdated encryption protocols.
-**Published: ** June 2016
-**Added: ** June 2017
+**Published:** June 2016
+**Added:** June 2017
 
 
 **[The Motherboard Guide to VPNs](https://motherboard.vice.com/en_us/article/the-best-vpns-ranked)**
@@ -361,7 +361,7 @@ A useful resource for understanding how Signal’s encryption works and the vari
 *Martin Shelton*
 A short guide that walks through improving WhatsApp’s security by turning off and removing cloud backups, adjusting privacy settings, encryption key change notifications, and using session verification, as well as information on securing the device itself (e.g., with device encryption).
 **Published:**  February 2017
-**Added: **June 2017
+**Added:** June 2017
 
 
 **[Opening Secure Channels for Confidential Tips](https://source.opennews.org/articles/opening-secure-channels-confidential-tips/)**
