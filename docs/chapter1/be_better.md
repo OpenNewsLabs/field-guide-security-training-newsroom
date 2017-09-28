@@ -1,15 +1,6 @@
-It takes more than technical knowledge to be a great trainer. If you’re convening 4-5 colleagues for a quick brown bag, you may not need to think too deeply about the training space you create. But if you're ready to start improving your skills as a trainer, there are some fantastic resources that can help you out. Some of our favorites include:
+It takes more than technical knowledge to be a great trainer. If you’re convening 4-5 colleagues for a quick brown bag, you may not need to think too deeply about the training space you create. 
 
-+ Do you need to read about something to understand it? Or would you rather play with it with your own two hands? Not everyone learns the same way, and [Level Up's guide to adult learning](https://level-up.cc/before-an-event/levelups-approach-to-adult-learning/) will help you think about lessons that work for different learning styles.
-+ Level Up's guide to [Creating Safe Spaces](https://level-up.cc/before-an-event/creating-safe-spaces/
-) is also an excellent resource to get you thinking about making everyone welcome in your workshops.
-+  Integrated Security maintains a number of guides that cover [facilitation, learning styles and creating safe spaces](http://www.integratedsecuritymanual.org/facilitation-method).
-+ Aorta is a fantastic collective that does among other things, great work training facilitators and trainers. They publish a number of excellent [resources](http://aorta.coop/resources/) including a guide to [Anti-oppressive Facilitation for Democratic Process](http://aorta.coop/portfolio_page/anti-oppressive-facilitation/). Though their guide is geared more towards group decision making, but it is still a fantastic resource for trainers.
-+ Aspiration facilitates nonprofit technology convenings and they work hard to create collaborative and rewarding workshops. Their [facilitation guidelines](https://facilitation.aspirationtech.org/index.php?title=Facilitation:Facilitator_Guidelines
-) and [workshop design advice](https://facilitation.aspirationtech.org/index.php?title=Facilitation:Sessions) are both worth checking out.
-+ Open News led the process of creating the curriculum resource you're reading right now. Their [SRCCON facilitation guide](https://srccon.org/facilitators/index.html) is great, as is their roundup of [OpenNews posts on session design](https://opennews.org/blog/srccon-session-planning/).
-
-In addition to these great resources, there are some basic steps you can take to ensure a successful, effective training.
+here are some basic steps you can take to ensure a successful, effective training.
 
 # Before: Plan Ahead
 The time and effort that goes into preparing for a workshop can make a big difference in everyone's experience.
@@ -57,5 +48,17 @@ Assess your session plan: where did you diverge from it?
 
 Reflection never hurts.
 
-## Tools You Might Like
+## Being a Better Trainer
+
+If you're ready to start improving your skills as a trainer, there are some fantastic resources that can help you out. Some of our favorites include:
+
++ Do you need to read about something to understand it? Or would you rather play with it with your own two hands? Not everyone learns the same way, and [Level Up's guide to adult learning](https://level-up.cc/before-an-event/levelups-approach-to-adult-learning/) will help you think about lessons that work for different learning styles.
++ Level Up's guide to [Creating Safe Spaces](https://level-up.cc/before-an-event/creating-safe-spaces/
+) is also an excellent resource to get you thinking about making everyone welcome in your workshops.
++  Integrated Security maintains a number of guides that cover [facilitation, learning styles and creating safe spaces](http://www.integratedsecuritymanual.org/facilitation-method).
++ Aorta is a fantastic collective that does among other things, great work training facilitators and trainers. They publish a number of excellent [resources](http://aorta.coop/resources/) including a guide to [Anti-oppressive Facilitation for Democratic Process](http://aorta.coop/portfolio_page/anti-oppressive-facilitation/). Though their guide is geared more towards group decision making, but it is still a fantastic resource for trainers.
++ Aspiration facilitates nonprofit technology convenings and they work hard to create collaborative and rewarding workshops. Their [facilitation guidelines](https://facilitation.aspirationtech.org/index.php?title=Facilitation:Facilitator_Guidelines
+) and [workshop design advice](https://facilitation.aspirationtech.org/index.php?title=Facilitation:Sessions) are both worth checking out.
++ Open News led the process of creating the curriculum resource you're reading right now. Their [SRCCON facilitation guide](https://srccon.org/facilitators/index.html) is great, as is their roundup of [OpenNews posts on session design](https://opennews.org/blog/srccon-session-planning/).
+ 
 
