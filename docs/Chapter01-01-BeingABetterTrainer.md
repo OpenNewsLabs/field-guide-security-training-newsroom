@@ -1,6 +1,6 @@
 It takes more than technical knowledge to be a great trainer. If you’re convening 4-5 colleagues for a quick brown bag, you may not need to think too deeply about the training space you create. 
 
-here are some basic steps you can take to ensure a successful, effective training.
+There are some basic steps you can take to ensure a successful, effective training.
 
 # Before: Plan Ahead
 The time and effort that goes into preparing for a workshop can make a big difference in everyone's experience.
@@ -32,23 +32,21 @@ If the group is larger than your own newsroom, definitely establish a code of co
 
 
 # After: Follow Up!
-Send out a “thank you” note with, at a minimum:
-  Links to any sites that you mentioned.
+Send everyone a “thank you” note. It should probably include:
+  + Next steps. If everyone left with a lot of good intentions, a short list of action items will help them make good on those intentions. 
+  + Links to any sites that you mentioned.
+  + If you set aside any questions during the session, capture them in the follow up email. If you've figured out the answer, share it. If you haven't, just say so: "I haven't had a chance to take a closer look at this one."
 Follow up on any questions you promised to come back to.
-A copy of your slide deck or handouts, if you used one.
+  + A copy of your slide deck or handouts.
+  + A repeat of any instructions you followed (or a link to them). 
 
-If you set aside any questions during the workshop, capture them for folks. If you've figured out the answer, share it. If you haven't, just say so: "I haven't had a chance to take a closer look at this one."
+Revise your session plan -- look back over your plan and update it to reflect what actually worked in the session. Make any notes you wish you'd had handy this time, while all those thoughts are still fresh in your mind. 
 
-Instructions you followed (or a link to them) so people can get back to them.
-Assess your own work: How do you feel about how the training went. What do you feel went well? What do you feel didn’t go so well? What do you wish you’d done differently?
+Reflection never hurt -- take stock of what you wish you'd done differently, things you think you handled well, things you wish you'd handled differently. 
 
-Homeworks is optional but it's always handy. Deadlines are even handier. What are the next steps that you think participants ought to take? 
+Mark your calendar: if you gave folks any next steps, or even if you didn't, follow up with everyone a week or two later to check in about whether they took any action, how it went, where they got stuck. 
 
-Assess your session plan: where did you diverge from it?
-
-Reflection never hurts.
-
-## Being a Better Trainer
+## Getting Better 
 
 If you're ready to start improving your skills as a trainer, there are some fantastic resources that can help you out. Some of our favorites include:
 
