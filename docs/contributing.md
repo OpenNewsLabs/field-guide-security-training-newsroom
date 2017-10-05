@@ -1,32 +1,40 @@
 # Contributing
 
-The Field Guide to Open Source in the Newsroom is a collaborative project. It gets better every time anyone from the journalism-code community shares advice, writes up an experience, asks a question, or even just spots a typo. We'd love to add your voice to this project.
+The Newsroom Security Curriculum is a collaborative project. It gets better every time anyone from the journalism community shares advice, writes up an experience, asks a question, or even just spots a typo. We'd love to add your voice to this project.
 
 ## Who should contribute
 
 This project actively encourages contributions from people of all genders and statuses, races, ethnicities, ages, creeds, nationalities, persuasions, alignments, sizes, shapes, and journalistic affiliations. You are welcome here. By participating in this project, you are agreeing to abide by its [code of conduct](#code-of-conduct).
 
-The guidebook also benefits from contributors of all skill levels. Telling the story of a library you released and developed into a community resource is awesome. So is asking a question as you work through your first open-source project. If you're wondering what you might be able to offer, here are a few questions to get you started:
+The curriculum also benefits from contributors of all skill levels. Telling the story of resource or training game that you love is awesome. So is asking a question as you think about **TK TK** If you're wondering what you might be able to offer, here are a few questions to get you started:
 
 * Could you read through the guidebook and tell us what's missing, or what could be better?
 * Could you write up a case study covering a project you've worked on?
-* Could you describe the cultural roadblocks you've run into in your newsroom, and how you've pushed through them?
-* Could you help refine or add to the checklists at the ends of chapters?
+* Could you describe the cultural roadblocks you've run into trying to bring more security to your newsroom, and how you've pushed through them?
+* Could you help add articles to the refine or add to the checklists at the ends of chapters?
 * Could you work on translating this documentation into another language?
+
+**I need formatting and wordsmithing**
+TK:
+- Add resources to the resource guide;
+- links in the news -- if you've got a timely link or an old favorite that really captures the value of taking a lesson seriously, that would help.
+- What we don't want to do with this curriculum is recycle work other people have done better elsewhere, nor do we want to pretend this isn't one of many great resources. If you find great lesson plans or walk-throughs there's a section in each lesson for links, and our resource guide is an excellent round up of links that don't fit a specific lesson. Share your favorites.
+- use these lesson plans and let us know how it goes;
+
 
 ## Where to start
 
-The documentation in this guidebook lives in [a GitHub repository](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom), where we love to see comments, issues, and pull requests. If you're interested in contributing but you're not sure where to start, we have a great [list of open issues](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/issues)—pick one and dive in!
+The documentation in this guidebook lives in [a GitHub repository](https://github.com/OpenNewsLabs/newsroom-security-curricula), where we love to see comments, issues, and pull requests. If you're interested in contributing but you're not sure where to start, we have a great [list of open issues](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues)—pick one and dive in!
 
 ## How to contribute
 
-If you'd like to submit an update to this guidebook, first of all, thank you! If your changes could use some editorial consideration, please [open an issue on GitHub](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/issues/new) so there's an easy place to have that conversation. Or if you're tackling [an existing issue](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/issues), please leave a comment on the issue to let people know—that way someone else won't end up duplicating your effort.
+If you'd like to submit an update to this guidebook, first of all, thank you! If your changes could use some editorial consideration, please [open an issue on GitHub](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues/new) so there's an easy place to have that conversation. Or if you're tackling [an existing issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues), please leave a comment on the issue to let people know—that way someone else won't end up duplicating your effort.
 
-If you're comfortable using git and GitHub, you should feel free to submit changes by cloning this project and [opening a pull request](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/compare). (And when you do, we'd love it if you'd add yourself to the [AUTHORS list](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom#authors) as well.) If you're not used to git, we're also very happy to receive comments and updates at [fieldguide@opennews.org](mailto:fieldguide@opennews.org).
+If you're comfortable using git and GitHub, you should feel free to submit changes by cloning this project and [opening a pull request](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/compare). (And when you do, we'd love it if you'd add yourself to the [AUTHORS list](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom#authors) as well.) If you're not used to git, we're also very happy to receive comments and updates at [fieldguide@opennews.org](mailto:fieldguide@opennews.org). **UPDATE tk**
 
 ## Localization
 
-TK
+**TK -- we want to invite localization but also the phrasing should recognize that more than language varies**
 
 ## Our process
 
