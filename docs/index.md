@@ -39,4 +39,4 @@ Ryan Pitts
 
 ## License
 
-[MIT](link to repo license)
+[MIT](https://github.com/OpenNewsLabs/newsroom-security-curricula/blob/master/LICENSE)
