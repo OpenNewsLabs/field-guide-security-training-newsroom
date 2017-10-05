@@ -32,19 +32,18 @@ If the group is larger than your own newsroom, definitely establish a code of co
 
 
 # After: Follow Up!
-Send everyone a “thank you” note. It should probably include:
+
++ Send everyone a “Thank You” note within a few days. It should probably include:
   + Next steps. If everyone left with a lot of good intentions, a short list of action items will help them make good on those intentions. 
-  + Links to any sites that you mentioned.
   + If you set aside any questions during the session, capture them in the follow up email. If you've figured out the answer, share it. If you haven't, just say so: "I haven't had a chance to take a closer look at this one."
 Follow up on any questions you promised to come back to.
-  + A copy of your slide deck or handouts.
+  + Links to any sites that you mentioned.
+  + A copy of your slide deck or handouts, so folks can refer back to it. 
   + A repeat of any instructions you followed (or a link to them). 
 
-Revise your session plan -- look back over your plan and update it to reflect what actually worked in the session. Make any notes you wish you'd had handy this time, while all those thoughts are still fresh in your mind. 
++ Review and revise your session plan within a day or two of the session. Look back over your plan and update it to reflect what actually worked in the session. Make any notes you wish you'd had handy this time, while those thoughts are still fresh in your mind. 
 
-Reflection never hurt -- take stock of what you wish you'd done differently, things you think you handled well, things you wish you'd handled differently. 
-
-Mark your calendar: if you gave folks any next steps, or even if you didn't, follow up with everyone a week or two later to check in about whether they took any action, how it went, where they got stuck. 
++ Mark your calendar: if you gave participants any next steps, or even if you didn't, follow up with everyone a week or two later to check in about whether they took any action, how it went, where they got stuck.  
 
 ## Getting Better 
 
