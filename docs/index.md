@@ -16,26 +16,26 @@ We’ve organized this guide into three key sections. Chapter 1 is an enormous r
 
 ## Contributing
 
-This is a community resource, and it gets better every time anyone from the journalism and security communities shares advice, writes up a new lesson, asks a question, or even just spots a typo. We'd love to add your expertise to this project, and [here's how you can join in](link to contributing.md).
+This is a community resource, and it gets better every time anyone from the journalism and security communities shares advice, writes up a new lesson, asks a question, or even just spots a typo. We'd love to add your expertise to this project, and [here's how you can join in](contributing.md).
 
 ## Authors
 
 The following people have contributed to this resource:
 
-Martin Shelton
-Matt Perry
-Quinn Norton
-Mike Tigas
-Emma Carew Grovum
-Norman Shamas
-Kevin O'Gorman
-Blaine Cook
-Carol Waters
-Mariel García-Montes
-Freddy Martinez
-Amanda Hickman
-Dan Sinker
-Ryan Pitts
++ Martin Shelton
++ Matt Perry
++ Quinn Norton
++ Mike Tigas
++ Emma Carew Grovum
++ Norman Shamas
++ Kevin O'Gorman
++ Blaine Cook
++ Carol Waters
++ Mariel García-Montes
++ Freddy Martinez
++ Amanda Hickman
++ Dan Sinker
++ Ryan Pitts
 
 ## License
 
