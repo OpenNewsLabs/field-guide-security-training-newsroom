@@ -123,6 +123,8 @@ locations.
     application has used your location recently or within the past 24
     hours.
 
+![iOS Location Services settings](img/ch2-1-1.PNG)
+
 * Microphone
 
     * Any application that has requested access to the microphone should
@@ -162,6 +164,8 @@ Open **Settings > System > About Phone ** - the Android Version value will be di
     Microphone, along with their current settings.
 * Android versions before 6.0: Open **Settings > Apps** and select an app -
     permissions the app uses are displayed.
+
+![Android App Permissions](img/ch2-1-2.PNG)
 
 ## Other similar existing/tested curricula
 
