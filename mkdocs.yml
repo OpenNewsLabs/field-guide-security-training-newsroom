@@ -5,7 +5,8 @@ pages:
         - Being A Better Trainer: Chapter01-01-BeingABetterTrainer.md 
         - Organizational Self-Assessment: Chapter01-02-OrganizationalSelfAssessment.md
     - Chapter 2:
-        - Security Settings on Mobile Devices: Chapter02-01-Checking-Security-Settings.md 
+        - Mobile App Security Settings: Chapter02-01-Checking-Security-Settings.md 
+        - Setting Up Signal: Chapter02-03-Setting-Up-Signal.md 
     - Chapter 3 - Resources: Chapter03-Resources.md
     - Contribute to this guide: contributing.md
 theme: readthedocs
