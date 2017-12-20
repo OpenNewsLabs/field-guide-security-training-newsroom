@@ -28,7 +28,7 @@ and edit those settings.
 
 ### What materials will participants need?
 
-Their smartphone (iOS, Android).
+Their smartphone (iOS or Android).
 
 ### What materials will the instructor need?
 
@@ -46,6 +46,8 @@ devices.
 
 ### Icebreakers/activities
 
+This can be a quick session and an opportunity to "get something done" that helps everyone take a basic step towards better security.
+
 Trainer should begin with an overview of why this topic matters. Not all
 journalists will realize how their phone components (location services,
 microphone, and camera) can be used by third-party apps. Below are
@@ -54,25 +56,20 @@ mobile services without average consumers' knowledge.
 
 ### Links in the news
 
-* Uber's use of rider location data and ride history:
-[https://www.buzzfeed.com/bensmith/uber-executive-suggests-digging-up-dirt-on-journalists](https://www.buzzfeed.com/bensmith/uber-executive-suggests-digging-up-dirt-on-journalists)
+* Uber uses rider location data and ride history: [BuzzFeed News](https://www.buzzfeed.com/bensmith/uber-executive-suggests-digging-up-dirt-on-journalists)
 
-* Macy's using shopper location data:
-[http://abcnews.go.com/Technology/retailers-tracking-shoppers-locations-real-world/story?id=47825826](http://abcnews.go.com/Technology/retailers-tracking-shoppers-locations-real-world/story?id=47825826) 
+* Macy's uses shopper location data: [ABC News](http://abcnews.go.com/Technology/retailers-tracking-shoppers-locations-real-world/story?id=47825826) 
 
-* Turn off your Facebook application's permission to the phone microphone
-[https://qz.com/697923/heres-how-to-stop-facebook-from-listening-to-you-on-your-phone/](https://qz.com/697923/heres-how-to-stop-facebook-from-listening-to-you-on-your-phone/)
+* Facebook could be listening all of the time: [Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-using-people-s-phones-to-listen-in-on-what-they-re-saying-claims-professor-a7057526.html) (So you should probably stop letitng FB access your microphone: [QZ](https://qz.com/697923/heres-how-to-stop-facebook-from-listening-to-you-on-your-phone/))
 
-* Uber using access to prohibited iOS code to fingerprint devices even
-across factory resets:
-[https://arstechnica.com/apple/2017/04/tim-cook-once-slapped-uber-on-the-wrist-for-breaking-the-app-store-rules/](https://arstechnica.com/apple/2017/04/tim-cook-once-slapped-uber-on-the-wrist-for-breaking-the-app-store-rules/)
+* Uber is fingerprinting your device, even across factory resets: [arstechnica](https://arstechnica.com/apple/2017/04/tim-cook-once-slapped-uber-on-the-wrist-for-breaking-the-app-store-rules/)
 
 
 ### 5-minute discussion
 
 Ask participants to name as many data collection points on their
 smartphones as they can (think: gyroscope, compass, microphone, camera,
-GPS, barometer, etc). Note which could be used for malicious/nefarious
+GPS, barometer, etc). Note which could be used for malicious
 purposes by a third-party application (Uber using your location to send
 a car to you vs. Siri/Alexa listening to you all the time). Use a
 whiteboard or giant sticky note if you have one.
@@ -98,7 +95,6 @@ their phones together and review which applications are using location,
 microphone, and camera. (If someone wants to review their phone settings
 individually, let them know that's OK.)
 
-
 While the group is reviewing their privacy settings, it's a good time to
 talk about how and why a seemingly unrelated application may ask for
 access to the camera, microphone or location services.
@@ -123,7 +119,7 @@ locations.
     application has used your location recently or within the past 24
     hours.
 
-![iOS Location Services settings](img/ch2-1/ch2-1-1.PNG)
+![iOS Location Services settings](img/ch2-1/ch2-1-1.png)
 
 * Microphone
 
@@ -146,9 +142,6 @@ should hold up.)*
 
 **For Android users:**
 
-*(TK this section could use some fleshing out if there
-are more Android experts out there--ecg, kg)*
-
 The process of checking application permission settings differs between
 Android versions.
 
@@ -165,9 +158,8 @@ Open **Settings > System > About Phone ** - the Android Version value will be di
 * Android versions before 6.0: Open **Settings > Apps** and select an app -
     permissions the app uses are displayed.
 
-![Android App Permissions](img/ch2-1/ch2-1-2.PNG)
+![Android App Permissions](img/ch2-1/ch2-1-2.png)
 
 ## Other similar existing/tested curricula
 
 * [Tactical Training Collective: Data Privacy](https://gitlab.com/ttc/data-privacy-training/blob/4f9a1657770ff0ad8ae27f3c6aaf4196325a692a/content/Workshops/MobilePhoneSettingsHandsOn.md "Tactical Training Collective: Data Privacy")
-
