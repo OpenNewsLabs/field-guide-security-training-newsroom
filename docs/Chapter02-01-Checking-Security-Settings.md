@@ -134,18 +134,17 @@ locations.
     are "on" and "off"). This includes access to the camera itself, as
     well as access to the photos stored on your phone.
 
-*(A note for trainers -- this is one section where instructions may
-become outdated quickly and often. However, the concepts of checking
+*(Note -- this is one section where the specific instructions will
+become outdated quickly and often. Always double check that the steps still work, and please consider [submitting an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) with updated instructions.  The concept of auditing
 location, microphone, and camera access for the reasons outlined above
 should hold up.)*
-
 
 **For Android users:**
 
 The process of checking application permission settings differs between
 Android versions.
 
-**how to figure out which version you are using**
+**Not sure which version you are using?**
 
 Open **Settings > System > About Phone ** - the Android Version value will be displayed, along with other system information.
 
@@ -160,6 +159,6 @@ Open **Settings > System > About Phone ** - the Android Version value will be di
 
 ![Android App Permissions](img/ch2-1/ch2-1-2.png)
 
-## Other similar existing/tested curricula
+## More curricula resources: 
 
 * [Tactical Training Collective: Data Privacy](https://gitlab.com/ttc/data-privacy-training/blob/4f9a1657770ff0ad8ae27f3c6aaf4196325a692a/content/Workshops/MobilePhoneSettingsHandsOn.md "Tactical Training Collective: Data Privacy")
