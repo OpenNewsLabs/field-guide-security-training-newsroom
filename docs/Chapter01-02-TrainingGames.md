@@ -1,3 +1,8 @@
+# Chapter 1
+## Part 3: Games Worth Playing
+
+Games are an indispensable
+
 **Cell phone game (generally for 10+ people)**
 ----------------------------------------------
 
@@ -64,8 +69,8 @@ how the data looks to the tower/telecom perspective.
 Thank the towers and cell phones, if it's a big room it's fun to clap
 for them, and ask everyone to sit down again.
 
-**Packet switching/passing notes in class (Not easily playable with fewer than 6 people)** 
--------------------------------------------------------------------------------------------
+**Packet switching/passing notes in class (Not easily playable with fewer than 6 people)**
+--------------------------------------------------------------------------
 
 Materials: notes made out with To and From fields as well as a message,
 pen or pencil. (Pre-populate the notes with something funny or cute.)
@@ -77,7 +82,7 @@ architecture.
 Start with a diagram or picture of a packet switching network. I often
 use this one:
 
-https://www.flickr.com/photos/quinn/34298256984
+[![Diagram of a Packet Switching Network](/docs/img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)
 
 Explain that the node on the end breaks the message into pieces, then
 passes the pieces to the node it thinks will get the message closer to
@@ -118,7 +123,8 @@ Materials: notes with messages, envelopes with To and From fields, pen
 or pencil. (Pre-populate the notes with something funny or cute.)
 
 Keep or return to a packet switching network image.
-https://www.flickr.com/photos/quinn/34298256984
+
+[![Diagram of a Packet Switching Network](/docs/img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)  
 
 After you've run the first variation of passing notes in class, you can
 relax the pretense of teacher (though it may be fun to keep it up,
@@ -236,3 +242,8 @@ Ask what the problem is now, but also what this system is accomplishing
 message came from, but they can see what the message is, without a
 further layer of encryption using one of the two models we've talked
 about in previous note passing exercises)
+
+# More games to use in training
+These are great road tested games for teaching networking principles. If you're looking for more ideas for games trainers play, check out:
+
++ [Games Trainers Play](http://www.worldcat.org/oclc/6016638) and [Even More Games Trainers Play](http://www.worldcat.org/oclc/30318772) for some great ideas.
