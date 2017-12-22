@@ -2,8 +2,7 @@
 
 ## Overview
 Signal is a secure messaging platform that utilizes end-to-end
-encryption. Because participants have already secured their phones in
-previous two lessons (mobile application settings review and secure
+encryption. Participants should have already secured their phones  ([mobile application settings review] and secure
 lockscreens), their device is now ready to use with a program like
 Signal.
 
@@ -55,7 +54,7 @@ This lesson draws from both.
 
 ## Lesson Plan
 
-How to set up Signal -- encrypted messaging and calls 
+How to set up Signal -- encrypted messaging and calls
 
 Click
 [here](https://www.google.com/url?q=https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt%3D8&sa=D&ust=1507580454390000&usg=AFQjCNHE_58WLMXaG6-MQ69F4mL4FHZuPQ)to
@@ -79,7 +78,7 @@ download for iPhone
 ![](img/ch2-3/image6.png)
 
 2. Next, the system will send you a six-digit verification
-code 
+code
 ![](img/ch2-3/image4.png)
 
 ![](img/ch2-3/image7.png)
@@ -192,7 +191,6 @@ possible to protect their sources by encouraging their sources to read
 guides on using Signal (such as this one, or the ones linked for
 trainers above).
 
-## Recommended reading 
+## Recommended reading
 
 [How To Keep Your Chats Truly Private With Signal](https://theintercept.com/2017/05/01/cybersecurity-for-the-people-how-to-keep-your-chats-truly-private-with-signal/)
-

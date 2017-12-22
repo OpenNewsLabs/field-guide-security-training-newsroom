@@ -74,7 +74,7 @@ purposes by a third-party application (Uber using your location to send
 a car to you vs. Siri/Alexa listening to you all the time). Use a
 whiteboard or giant sticky note if you have one.
 
-Also discuss how apps may utilize hard-coded identifiers that are
+Also discuss ways that app vendors can use hard-coded identifiers that are
 required by cellular telecommunications providers, such as a unique
 identification for each device (international mobile equipment
 identification, IMEI) and unique identifier for each subscriber (SIM
@@ -87,24 +87,19 @@ which allow apps to request the permission "Device ID and Call
 Information." IOS devices do not allow for IMEI, though it is still
 possible to fingerprint devices using other identifying information.
 
-### Walkthrough or Active Lesson
+### Walk through
 
-Ask participants to break into partner groups for the next exercise. If
-they are comfortable with doing so, each pair will open the settings on
-their phones together and review which applications are using location,
-microphone, and camera. (If someone wants to review their phone settings
-individually, let them know that's OK.)
+Ask participants to break into pairs, so they can help each other troubleshoot. Each pair will open the settings on their phones together and review the applications that have access to their location, microphone, and camera. (Some participants may feel more comfortable doing this solo, which is fine.)
 
 While the group is reviewing their privacy settings, it's a good time to
 talk about how and why a seemingly unrelated application may ask for
 access to the camera, microphone or location services.
 
-
 **For iPhone users:**
 
 Open settings, go to **Privacy** (a small gray icon with a hand)
 
-* Location Services: these are applications that have access to your
+* Location Services: these applications that have access to your
 location based on GPS, Bluetooth, wifi hotspots and cell tower
 locations.
 
@@ -134,10 +129,7 @@ locations.
     are "on" and "off"). This includes access to the camera itself, as
     well as access to the photos stored on your phone.
 
-*(Note -- this is one section where the specific instructions will
-become outdated quickly and often. Always double check that the steps still work, and please consider [submitting an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) with updated instructions.  The concept of auditing
-location, microphone, and camera access for the reasons outlined above
-should hold up.)*
+* These instructions will become outdated quickly and often. If you're planning on working with a large group, double check that the steps still apply, and consider [submitting an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) with updated instructions.  The concept of auditing location, microphone, and camera access for the reasons outlined above should hold up.) *
 
 **For Android users:**
 
@@ -159,6 +151,6 @@ Open **Settings > System > About Phone ** - the Android Version value will be di
 
 ![Android App Permissions](img/ch2-1/ch2-1-2.png)
 
-## More curricula resources: 
+## Additional training resources:
 
 * [Tactical Training Collective: Data Privacy](https://gitlab.com/ttc/data-privacy-training/blob/4f9a1657770ff0ad8ae27f3c6aaf4196325a692a/content/Workshops/MobilePhoneSettingsHandsOn.md "Tactical Training Collective: Data Privacy")
