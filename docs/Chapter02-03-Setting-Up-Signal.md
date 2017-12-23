@@ -1,55 +1,41 @@
 # Setting Up Signal
 
 ## Overview
-Signal is a secure messaging platform that utilizes end-to-end
-encryption. Participants should have already secured their phones  ([mobile application settings review] and secure
-lockscreens), their device is now ready to use with a program like
-Signal.
+Signal is a secure messaging platform that utilizes end-to-end encryption. Participants should have already been through a [mobile application settings review](LINK TK) and added secure lock screens, to ensure that their device is now ready to use with a program like Signal.
 
-Benefits of Signal include the fact that they do not store the messages
-on their servers, participants can set their conversations to
-"self-destruct" and users can customize what information (contact name,
-message preview) is available on the lockscreen of the mobile device.
+Benefits of Signal include the fact that they do not store your messages on their servers, participants can set their conversations to "self-destruct" and users can customize what information (contact name,
+message preview) is available on their phones lock screen.
 
-This lesson plan is intended to be taught as the third in a series,
-following [Mobile app security settings](Chapter02-01-Checking-Security-Settings/) and **Locking down your mobile
-devices** *TK*.
+This lesson plan is intended to be taught as the third in a series, following [mobile app security settings](/docs/Chapter02-01-Mobile-Security-Settings/) and [locking down mobile devices](LINK TK).
 
 ## About This Lesson Plan
 
 **Review date:** June 6, 2017
 
-**Lesson duration:** 15-30 minutes (this lesson is meant to be taught as the
-third in a series on securing mobile devices for a total 60-75 minute
-training block).
+**Lesson duration:** 15-30 minutes
 
 
 ### What will participants learn?
 
-Participants will learn why secure messaging through a program like
-Signal is important and easy to set up. They will install Signal, learn
-how to set and review their privacy settings, learn how to verify safety
-numbers, set up a group chat, and share a photo.
+Participants will learn why secure messaging through a program like Signal is important and easy to set up. They will install Signal, learn how to set and review their privacy settings, learn how to verify safety numbers, set up a group chat, and share a photo.
 
 ### What materials will participants need?
 
 Smartphone: iPhone or Android
 
 
-###Level
+### Level
 
 Beginner
 
 ### Preconditions
-This lesson is the third in a series, following mobile
-applications security settings review, creating a lockscreen, and
-setting up device encryption.
+This lesson is the third in a series, following mobile applications security settings review, creating a lockscreen, and setting up device encryption.
 
 ### How can the trainer prepare?
 
-Two excellent resources on how and why journalists are moving to Signal
-are
-[here](https://www.google.com/url?q=https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0%23.5nbt1bfp9&sa=D&ust=1507580454388000&usg=AFQjCNETGbYH8ZDLy5BpOFQYLZJRUxRQtQ) and [here](https://www.google.com/url?q=https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/&sa=D&ust=1507580454389000&usg=AFQjCNG4rH4p8876Oa3a2sXrDGGJ64P9Xw).
+Two excellent resources on how and why journalists are moving to Signal:
++ [Martin Shelton on Signal for Beginners](https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0) 
++ [Security Tips Every Signal User Should Know (The Intercept)](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/&sa=D&ust=1507580454389000&usg=AFQjCNG4rH4p8876Oa3a2sXrDGGJ64P9Xw).
 This lesson draws from both.
 
 ## Lesson Plan
@@ -57,9 +43,9 @@ This lesson draws from both.
 How to set up Signal -- encrypted messaging and calls
 
 Click
-[here](https://www.google.com/url?q=https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt%3D8&sa=D&ust=1507580454390000&usg=AFQjCNHE_58WLMXaG6-MQ69F4mL4FHZuPQ)to
+[iPhone](https://itunes.apple.com/us/app/signal-private-messenger/id874139669) to
 download for iPhone and
-[here](https://www.google.com/url?q=https://play.google.com/store/apps/details?id%3Dorg.thoughtcrime.securesms%26referrer%3Dutm_source%253DOWS%2526utm_medium%253DWeb%2526utm_campaign%253DMessaging&sa=D&ust=1507580454391000&usg=AFQjCNEV1aNs1tubkexzHIsHqL5WM8kTuQ)for
+[Android](https://www.google.com/url?q=https://play.google.com/store/apps/details?id%3Dorg.thoughtcrime.securesms%26referrer%3Dutm_source%253DOWS%2526utm_medium%253DWeb%2526utm_campaign%253DMessaging&sa=D&ust=1507580454391000&usg=AFQjCNEV1aNs1tubkexzHIsHqL5WM8kTuQ)for
 Android. (the screenshots that follow are for specific to iPhone
 installation)
 
