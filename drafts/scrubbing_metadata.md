@@ -1,7 +1,7 @@
 Scrubbing Metadata from Files- A low-fi approach
 ================================================
 
-**Overview:** Files such as Word documents and JPEG images usually
+## Overview FIX Files such as Word documents and JPEG images usually
 contain information about the systems used to create them. This
 information, commonly referred to as metadata, could inadvertently
 reveal personally identifiable details about your sources to anyone

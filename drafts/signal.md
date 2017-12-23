@@ -1,7 +1,7 @@
 How to Set Up Signal
 ====================
 
-**Overview:** Signal is a secure messaging platform that utilizes
+## Overview FIX Signal is a secure messaging platform that utilizes
 end-to-end encryption. Because participants have already secured their
 phones in previous two lessons (mobile application settings review and
 secure lockscreens), their device is now ready to use with a program

@@ -1,7 +1,7 @@
 Connected App Hygiene
 ======================
 
-**Overview:** Don’t let orphaned apps degenerate into an unlocked back
+## Overview FIX Don’t let orphaned apps degenerate into an unlocked back
 door to your account.
 
 **ABOUT THIS LESSON PLAN**

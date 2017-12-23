@@ -1,7 +1,7 @@
 Planning for Securedrop - how to get it, how to use it
 ======================================================
 
-**Overview:** SecureDrop is an anonymous whistleblowing tool, built on
+## Overview FIX SecureDrop is an anonymous whistleblowing tool, built on
 well-tested cryptographic technologies, and designed to provide its
 users with a high degree of protection from detection through
 Internet-based surveillance. This lesson outlines organisational and

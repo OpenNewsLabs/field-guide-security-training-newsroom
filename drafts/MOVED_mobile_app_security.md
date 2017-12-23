@@ -4,7 +4,7 @@
 Mobile app security settings
 ============================
 
-**Overview:** This is the first short training module in a series of
+## Overview FIX This is the first short training module in a series of
 three trainings dedicated to securing your mobile device. In this
 module, participants will learn how to review the security settings on
 their mobile devices (for iPhone and Android users). In later trainings,

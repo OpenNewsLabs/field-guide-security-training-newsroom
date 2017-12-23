@@ -2,7 +2,7 @@ Physical Custody of Electronics &\
 Full Disk Encryption
 ==================================
 
-**Overview:** Digital security isn't just about encryption and data and
+## Overview FIX Digital security isn't just about encryption and data and
 metadata. The physical security of data and devices is also paramount:
 What happens to your data if your device is stolen? What's at risk if a
 border agent or other adversary takes your laptop for 30 minutes? We'll

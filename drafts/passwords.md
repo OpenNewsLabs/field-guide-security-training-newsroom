@@ -4,7 +4,7 @@ NOTE: when this is migrated, it will need a link to the two factor authenticatio
 Password Management
 ===================
 
-**Overview:** Passwords are the bedrock of account security, but hard to
+## Overview FIX Passwords are the bedrock of account security, but hard to
 get right. This lesson provides a methodology for understanding how to
 take a harm reduction approach to password management. Participants
 should have a clear understanding of phishing (LESSON LINK TK) and two
