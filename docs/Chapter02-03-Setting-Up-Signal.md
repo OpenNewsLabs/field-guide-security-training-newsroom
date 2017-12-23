@@ -23,9 +23,7 @@ Participants will learn why secure messaging through a program like Signal is im
 
 Smartphone: iPhone or Android
 
-
 ### Level
-
 Beginner
 
 ### Preconditions
