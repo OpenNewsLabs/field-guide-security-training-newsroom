@@ -8,21 +8,29 @@ To contribute a link, please open a pull request.  This is a community-curated l
 **To add a link please follow this format:**  
 
 ```
-<title>
-<url>
-<authors> (csv)
-<description> (single paragraph, or sentence)
-<date> (date known to be published or updated)  format:  [month] [yyyy]
-<added> (date added to this list) [month] [yyyy]
-<tags> (keywords, csv)
+**<title>**  
+<url>  
+*<authors> (csv)*  
+<description> (single paragraph, or sentence)  
+**Published:** <date> (date known to be published or updated)  format:  [month] [yyyy]
+**Added:** <added> (date added to this list) [month] [yyyy]
+**Tags:** <tags> (keywords, csv)
 ```
 
 ### COMMUNITIES, LEARNING and GUIDES
 
 Comprehensive resources addressing digital security in general, and online communities where digital security is discussed.
 
+**EFF's [Security Education Companion](https://sec.eff.org)**  
+<https://sec.eff.org>  
+*Electronic Frontier Foundation*
+A resource for people teaching digital security to their friends and neighbors.
+**Published:** November 2017  
+**Added: ** December 2017  
+**Tags: ** curriculum, train-the-trainer
+
 **[Surveillance Self-Defense:  Tips, Tools and How-tos for Safer Online Communication](https://ssd.eff.org/)**  
-[https://ssd.eff.org/](https://ssd.eff.org/)  
+<https://ssd.eff.org/>
 *Electronic Frontier Foundation*  
 A guide to protection against surveillance, this guide also includes great material on personal digital security.  Organized into overviews, tutorials, briefings, playlists.  
 **Published:**  October, 2014, updated frequently (timestamp at the bottom of each guide.)  
