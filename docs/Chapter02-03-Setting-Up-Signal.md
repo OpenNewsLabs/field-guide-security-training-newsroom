@@ -191,6 +191,6 @@ possible to protect their sources by encouraging their sources to read
 guides on using Signal (such as this one, or the ones linked for
 trainers above).
 
-## Recommended reading
+## Recommended Reading
 
 [How To Keep Your Chats Truly Private With Signal](https://theintercept.com/2017/05/01/cybersecurity-for-the-people-how-to-keep-your-chats-truly-private-with-signal/)

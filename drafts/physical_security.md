@@ -168,10 +168,10 @@ Disk encryption protects your data from being read if your device is
 stolen. It only works when your device is turned off. It does not
 provide protection if the adversary knows your device password.
 
-&lt; NOTE: Don't have participants enable FDE during your workshop. On a
+< NOTE: Don't have participants enable FDE during your workshop. On a
 smartphone it could take an hour or so, and on a laptop it could be take
 as long as ten hours. Start the process in the evening and let it go
-overnight. &gt;
+overnight. >
 
 macOS:
 

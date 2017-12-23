@@ -103,7 +103,7 @@ unlock a device by a court).
 
 **Set a passcode:**
 
--   To set a passcode, open Settings &gt; go to Touch ID & Passcode
+-   To set a passcode, open Settings > go to Touch ID & Passcode
     > (it’s a little red icon with a fingerprint on it)
 
 -   If you already have a passcode in place, you will be asked to

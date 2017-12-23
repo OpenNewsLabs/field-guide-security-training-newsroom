@@ -1,4 +1,4 @@
-Connected App Hygiene 
+Connected App Hygiene
 ======================
 
 **Overview:** Don’t let orphaned apps degenerate into an unlocked back
@@ -26,6 +26,9 @@ laptop.
 You want some way to share links with folks.
 [*https://etherpad.opennews.org/*](https://etherpad.opennews.org/) is
 handy for that, or you can send out this URL in advance.
+
+
+https://sec.eff.org/topics/locking-down-social-media/beginning?expand=1
 
 **How should the instructor prepare?**
 
@@ -123,6 +126,8 @@ Google
 **RECOMMENDED READING**
 
 **Other Tutorials **
+
+https://sec.eff.org/topics/locking-down-social-media/beginning?expand=1
 
 [*https://www.howtogeek.com/198673/secure-your-online-accounts-by-removing-third-party-app-access/*](https://www.howtogeek.com/198673/secure-your-online-accounts-by-removing-third-party-app-access/)
 

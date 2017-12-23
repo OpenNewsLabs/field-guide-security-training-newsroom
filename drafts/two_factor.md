@@ -156,8 +156,8 @@ Setting up 2FA should not take more than 10 minutes.
 Time to break out the laptops. Open up the browser of your choice, and
 show everyone how to navigate to the Gmail setup page.\
 \
-Account icon (top right) &gt; My Account &gt; Sign-in & security &gt;
-Signing in to Google &gt; 2-Step Verification &gt; Get started
+Account icon (top right) > My Account > Sign-in & security >
+Signing in to Google > 2-Step Verification > Get started
 
 ![](media/image13.gif){width="6.5in" height="4.388888888888889in"}\
 \

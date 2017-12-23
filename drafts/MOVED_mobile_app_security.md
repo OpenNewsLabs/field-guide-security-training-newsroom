@@ -155,14 +155,14 @@ Android versions.
 
 \*how to figure out which version you are using
 
-Settings &gt; About Phone (checked on 6.0, 7.0, 5.1.0)
+Settings > About Phone (checked on 6.0, 7.0, 5.1.0)
 
 -   Marshmallow (6.0) or later: Open **Settings** / **Apps.** Click the
     > gear icon and open **App Permissions**. A list of permissions will
     > be display including features such as Camera, Location, and
     > Microphone, along with
 
--   Android versions before 6.0: Open Settings &gt; Apps, select an app,
+-   Android versions before 6.0: Open Settings > Apps, select an app,
     > permissions the app uses is displayed
 
 **Screenshot for iPhone users of apps using location services**
