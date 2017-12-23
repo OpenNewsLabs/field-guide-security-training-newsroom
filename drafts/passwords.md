@@ -1,4 +1,4 @@
-NOTE: when this is migrated, it will need a link to the two factor authentication lesson and the phishing lession. 
+NOTE: when this is migrated, it will need a link to the two factor authentication lesson and the phishing lession.
 ===================================================================================================================
 
 Password Management
@@ -44,9 +44,7 @@ Their own laptop and (optionally) their phone.
 
 **How should participants prepare?**
 
-Read Martin Shelton’s Medium piece, \[Journalists, You Are Worthy of a
-Data
-Breach\]([*https://medium.com/@mshelton/journalists-you-are-worthy-of-a-data-breach-55f8e53fd3fe*](https://medium.com/@mshelton/journalists-you-are-worthy-of-a-data-breach-55f8e53fd3fe))
+Read Martin Shelton’s Medium piece, [Journalists, You Are Worthy of a Data Breach](https://medium.com/@mshelton/journalists-you-are-worthy-of-a-data-breach-55f8e53fd3fe).
 
 **What materials will the instructor need?**
 
@@ -163,7 +161,7 @@ of the consequences of getting them wrong. Martin Shelton has a [*great
 writeup*](https://medium.com/@mshelton/journalists-you-are-worthy-of-a-data-breach-55f8e53fd3fe)
 as a starting point.
 
-#### You want to cover: 
+#### You want to cover:
 
 1)  What passwords are for.
 
@@ -329,7 +327,7 @@ Have everyone…
 -   Export their saved browser passwords. There’s a [*good Firefox
     > plugin*](https://addons.mozilla.org/en-US/firefox/addon/password-exporter/)
     > for this, in Chrome users should be able to go
-    > to &lt;chrome://flags/\#password-import-export&gt;.
+    > to <chrome://flags/\#password-import-export>.
 
 -   Install the password manager that you’ve decided to focus on.
 

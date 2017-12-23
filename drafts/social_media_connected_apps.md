@@ -95,35 +95,27 @@ It’s also a great opportunity to spot any suspicious logins or behavior.
 
 Github
 
--   Active sessions
-    > [*https://github.com/settings/security*](https://github.com/settings/security)
+-   Active sessions -- <https://github.com/settings/security>
 
--   SSH keys
-    > [*https://github.com/settings/keys*](https://github.com/settings/keys)
-    > that have access to your account
+-   SSH keys -- <https://github.com/settings/keys> that have access to your account
 
--   Email addresses on file
-    > [*https://github.com/settings/emails*](https://github.com/settings/emails)
+-   Email addresses on file --  <https://github.com/settings/emails>
 
 Facebook
 
--   You may as well check all of your privacy settings:
-    > [*https://www.facebook.com/settings?tab=privacy*](https://www.facebook.com/settings?tab=privacy)
+-   You may as well check all of your privacy settings -- <(https://www.facebook.com/settings?tab=privacy>
 
--   And your active logins
-    > [*https://www.facebook.com/settings?tab=security&section=sessions&view*](https://www.facebook.com/settings?tab=security&section=sessions&view)
+-   And your active logins --  <https://www.facebook.com/settings?tab=security&section=sessions&view>
 
 Twitter
 
--   Privacy settings
-    > [*https://twitter.com/settings/safety*](https://twitter.com/settings/safety)
+-   Privacy settings --  <https://twitter.com/settings/safety>
 
 Google
 
--   Active sessions
-    > [*https://myaccount.google.com/security?utm\_source=OGB&utm\_medium=act\#activity*](https://myaccount.google.com/security?utm_source=OGB&utm_medium=act#activity)
+-   Active sessions -- <https://myaccount.google.com/security?utm_source=OGB&utm_medium=act#activity>
 
-**RECOMMENDED READING**
+### Recommended Reading
 
 **Other Tutorials **
 

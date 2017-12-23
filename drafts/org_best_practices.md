@@ -435,6 +435,6 @@ your secure tip page:
 
 -   Vice: *https://news.vice.com/securedrop/*
 
-Recommended Reading:
+### Recommended Reading
 
 [*https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/*](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)

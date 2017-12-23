@@ -101,7 +101,6 @@ the concept in a useful way. If you’re installing or demo-ing a specific
 tool make sure there’s enough information here to get around roadblocks
 that come up. \]
 
-Recommended Reading
--------------------
+### Recommended Reading
 
 \[any additional links that add context or suggest other approaches.\]
