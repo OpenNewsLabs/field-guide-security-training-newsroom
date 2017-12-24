@@ -1,11 +1,8 @@
 Locking down your mobile devices
 ================================
 
-## Overview FIX This lesson plan will guide participants through the
-process of securing their mobile device by setting up a lockscreen and
-securing lockscreen notifications, applying system updates, and
-encrypting the device storage. This module is meant to act as the second
-in a series of three, building up a 60-75 minute training block on
+## Overview
+This lesson plan will guide participants through the process of securing their mobile device by setting up a lockscreen and securing lockscreen notifications, applying system updates, and encrypting the device storage. This module is meant to act as the second in a series of three, building up a 60-75 minute training block on
 secure mobile communications.
 
 **ABOUT THIS LESSON PLAN**
