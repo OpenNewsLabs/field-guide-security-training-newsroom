@@ -121,7 +121,7 @@ The Intercept has [*an excellent guide*](https://theintercept.com/leak/)
 walking through the basics of reaching out anonymously. They are very
 clear both about how to reach out, and *what not to do*.
 
-![](media/image2.png){width="5.869792213473316in" height="3.15125in"}
+![](media/image2.png)
 
 **Be clear about risk**
 

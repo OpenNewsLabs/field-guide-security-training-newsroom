@@ -102,7 +102,7 @@ information may be “hidden” in a document’s guts.
 
 Microsoft Word example:
 
-![](media/image2.png){width="6.5in" height="7.069444444444445in"}
+![](media/image2.png)
 
 **How to find Properties on Microsoft Word, Microsoft Excel, Microsoft
 PowerPoint (are these different on Mac and PC?): **
@@ -111,7 +111,7 @@ PowerPoint (are these different on Mac and PC?): **
 
 How to view EXIF data on an image file:
 
-![](media/image4.png){width="6.5in" height="4.0in"}
+![](media/image4.png)
 
 **How to find EXIF data on an image file (both for PC and Mac -- do not
 assume the user has access to Photoshop or other paid software). **

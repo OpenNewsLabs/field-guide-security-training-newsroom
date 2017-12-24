@@ -111,7 +111,7 @@ They’re pretty cheap — one of the most popular options, a
 [*Yubikey*](https://www.yubico.com/) costs
 [*\$18*](https://www.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/).
 
-![](media/image12.gif){width="4.3125in" height="4.177083333333333in"}
+![](media/image12.gif)
 
 When prompted to provide your 2FA credentials, instead of typing in a
 code, you simply insert your security key and physically tap it when
@@ -159,7 +159,7 @@ show everyone how to navigate to the Gmail setup page.\
 Account icon (top right) > My Account > Sign-in & security >
 Signing in to Google > 2-Step Verification > Get started
 
-![](media/image13.gif){width="6.5in" height="4.388888888888889in"}\
+![](media/image13.gif)\
 \
 First, users must enter their phone number to register the device.
 They’ll be sent a confirmation code on the device, and they can enter it
@@ -197,7 +197,7 @@ Afterward, name the newly-registered device. During log in, instead of
 typing in a 2FA code, anyone who sets this up can just insert and tap
 the key.
 
-![](media/image10.gif){width="6.5in" height="4.069444444444445in"}\
+![](media/image10.gif)\
 \
 After setting up authenticator apps or security keys, they probably
 don’t need SMS any more. Show them how to scroll down to “Voice or text

@@ -114,7 +114,7 @@ What it comes down to are two models of use for passwords:
 
 2.  Encryption - a key to unlock a secret lock
 
-![](media/image2.png){width="3.125in" height="3.4895833333333335in"}
+![](media/image2.png)
 
 In the first case, a service has some data that’s associated with you.
 Because there’s no way to identify “you” on the internet, that data is
