@@ -51,13 +51,13 @@ The screenshots below reflect the iOS install process.
 
 1. Start by downloading and installing Signal. Visit <https://signal.org> for quick access to the most current download links.
 
-1. You will be prompted to confirm your device and phone number. ![Phone confirmation screen](img/ch2-3/image6.png)
+1. You will be prompted to confirm your device and phone number. ![Phone confirmation screen](img/ch2-4/image6.png)
 
-1. Next, Signal/Open Whisper Systems will send you a six-digit verification code. Add it. ![Verification Code Example](img/ch2-3/image4.png) ![Submit the verification code.](img/ch2-3/image7.png)
+1. Next, Signal/Open Whisper Systems will send you a six-digit verification code. Add it. ![Verification Code Example](img/ch2-4/image4.png) ![Submit the verification code.](img/ch2-4/image7.png)
 
 1. Android users: Signal will offer to become your default messaging app. Say yes! You can still use Signal to send cleartext messages to contacts who don't use the app, and you won't miss messages.
 
-1. You'll know that you've set Signal up correctly when you see the Welcome! popup. You can allow the system to access your contacts and send you notifications. *(NOTE: in the newest version of iOS, it is possible to continue without giving access to your contacts)* ![Welcome!](img/ch2-3/image5.png)![Notifications](img/ch2-3/image3.png)
+1. You'll know that you've set Signal up correctly when you see the Welcome! popup. You can allow the system to access your contacts and send you notifications. *(NOTE: in the newest version of iOS, it is possible to continue without giving access to your contacts)* ![Welcome!](img/ch2-4/image5.png)![Notifications](img/ch2-4/image3.png)
 
 ### For Android:
 
