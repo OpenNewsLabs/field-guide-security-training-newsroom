@@ -20,7 +20,7 @@ You want some way to share links with folks. [https://etherpad.opennews.org/](ht
 ### How should the instructor prepare?
 Review the recommended reading.
 
-Take stock of any social networks that your own office is active in that aren't on this list and find the privacy settings and connected apps for that network. Consider filing an issue or pull request if those instructions should be part of this lesson plan.  
+Take stock of any social networks that your own office is active in that aren't on this list and find the privacy settings and connected apps for that network. Consider [filing an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) or pull request if those instructions should be part of this lesson plan.  
 
 
 ## Lesson Plan
