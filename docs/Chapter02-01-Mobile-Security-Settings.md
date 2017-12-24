@@ -42,7 +42,7 @@ Have participants to name as many data collection points on their smartphones as
 
 Any mobile device has a few unique identifiers, the International Mobile Equipment Identification or IMEI distinguishes the actual device, while the SIM serial number is unique to each SIM card. These unique identifiers can be used by marketing companies to track a specific device or subscriber through multiple apps.
 
-Android devices allow apps to request access to "Device ID and Call Information." IOS does not allow apps to ask for the device ID, though it is still possible to fingerprint devices using other identifying information.
+Android devices allow apps to request access to "Device ID and Call Information." iOS does not allow apps to ask for the device ID, though it is still possible to fingerprint devices using other identifying information.
 
 ### Walk through
 
