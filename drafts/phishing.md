@@ -352,3 +352,6 @@ according to the same criteria used to evaluate it in the email.
 **Summary: flow of trust**
 
 ![](media/image7.png){width="6.5in" height="4.583333333333333in"}
+
+
+https://twitter.com/ericgeller/status/944205900138430464
