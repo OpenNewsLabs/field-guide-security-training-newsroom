@@ -144,7 +144,7 @@ that uses deception to extract information and access.
 -   Call to action (click here) will require a login, which is
     > the exploit.
 
-![](media/image10.png){width="6.5in" height="4.833333333333333in"}
+![](media/image10.png)
 
 6
 
@@ -159,7 +159,7 @@ that uses deception to extract information and access.
     > phishers because they may be perceived as urgent, and because
     > financial and personal details are often targeted.
 
-![](media/image8.png){width="5.427083333333333in" height="2.25in"}
+![](media/image8.png)
 
 **7 **
 
@@ -171,7 +171,7 @@ that uses deception to extract information and access.
 -   Incorrect transaction reports, when combined with convincing
     > branding, are frequent vectors.
 
-![](media/image6.png){width="5.53125in" height="7.041666666666667in"}
+![](media/image6.png)
 
 **8**
 
@@ -351,7 +351,7 @@ according to the same criteria used to evaluate it in the email.
 
 **Summary: flow of trust**
 
-![](media/image7.png){width="6.5in" height="4.583333333333333in"}
+![](media/image7.png)
 
 
 https://twitter.com/ericgeller/status/944205900138430464
