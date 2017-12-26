@@ -5,7 +5,7 @@ Creating regular, secure backups of data on your mobile devices is important, wh
 
 Getting everyone started backing up their phones is a great way to make sure everyone leaves a workshop with something solidly accomplished.
 
-**ABOUT THIS LESSON PLAN**
+## About This Lesson Plan
 
 **Review date:** Dec 5, 2017  
 **Lesson duration:** This should take under an hour.
