@@ -127,6 +127,7 @@ Links to videos and other resources on secure communication and digital security
 [http://www.tcij.org/node/1016](http://www.tcij.org/node/1016)  
 *Silkie Carlo & Arjen Kamphuis, the Center for Investigative Journalism*  
 GUIDE (Advanced)  
+**12/2017:** *This resource is not currently available. Reached out to TCIJ for more info. -- abh*  
 This guide focuses on security concerns for investigative journalists, particularly those with sophisticated attackers. This guide examines threat modeling, hardware security, enhancing operating system security (e.g., with TAILS), disk and communications encryption (e.g., PGP and OTR), file data and metadata, browser privacy tools, circumvention software, and strong password practices. (Great advanced guide,but probably not the best guide to give to users who are new to digital security, since they are likely to be overwhelmed and decide that digital security is not for them.)  
 **Published:**  2016  
 **Added: **June 2017  
