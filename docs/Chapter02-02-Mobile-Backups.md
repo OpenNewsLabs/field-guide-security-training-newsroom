@@ -1,6 +1,6 @@
-Backing up your mobile device
-=============================
+# Backing up your mobile device
 
+## Overview
 Creating regular, secure backups of data on your mobile devices is important, whether you want to protect against loss, theft, or catastrophic user error (eg. accidentally wiping your device while encrypting it). This session will cover the creation of encrypted backups for iOS and Android users, and make recommendations on a backup schedule. Even if you don't get on a regular schedule, you should always backup your phone before you make any major changes to it.
 
 Getting everyone started backing up their phones is a great way to make sure everyone leaves a workshop with something solidly accomplished.
