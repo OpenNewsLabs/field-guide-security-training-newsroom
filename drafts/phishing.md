@@ -50,7 +50,7 @@ Introductory
 
 ### Part A: A Trust Game
 
--   Each participant is given two cards, numbered 1 and 2. On each card, participants write down a single fact about themselves that may not be known to other participants and is not immediately verifiable (ie: avoid facts like “I have brown hair”.) One of these facts must be true, while the other be false, though not immediately implausible.
+-   Each participant is given two cards, numbered 1 and 2. On each card, participants write down a single fact about themselves that may not be known to other participants and is not immediately verifiable (ie: avoid facts like "I have brown hair".) One of these facts must be true, while the other be false, though not immediately implausible.
 
 -   Each participant’s sticky-notes are posted in a visible place, such
     > as a whiteboard, under their name.
@@ -248,10 +248,10 @@ surprise or out of the blue should be automatically suspect.
 
 **Techniques: Evaluating emails: implicit factors**
 
-Answering “yes” to any of the following questions may suggest that the
+Answering "yes" to any of the following questions may suggest that the
 email is not legitimate:
 
--   The email has an unusual “from” address whose domain is not
+-   The email has an unusual "from" address whose domain is not
     > associated with the organization
 
 -   The email body contains non-standard or odd-looking formatting
@@ -269,7 +269,7 @@ not guarantee trustworthiness.**
 
 5
 
-**Techniques: checking the “from” domain**
+**Techniques: checking the "from" domain**
 
 A strong indicator of a phishing email is an unexpected domain in the
 email’s **from** header.

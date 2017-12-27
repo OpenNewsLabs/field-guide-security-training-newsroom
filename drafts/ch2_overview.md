@@ -1,5 +1,5 @@
 NOTE: Each individual lesson plan should be written up in its own
-document here inside the “Chapter 2” directory. The easiest way to get
+document here inside the "Chapter 2" directory. The easiest way to get
 started is probably copying from the Lesson Plan Template here:
 [*https://drive.google.com/open?id=1bByrJ2s2cKh-h6XvSFkFz91xCiSmW4rejz1gSbmM6pw*](https://drive.google.com/open?id=1bByrJ2s2cKh-h6XvSFkFz91xCiSmW4rejz1gSbmM6pw)
 
@@ -73,7 +73,7 @@ Security Settings (first) and Locking Down Your Mobile Device (second).
 Device***](https://docs.google.com/document/d/17wZNXEMwmpNQVq55Jq02jyjYEPmLyhcS0ytQHAsRbNc):
 20-30 minutes, demonstration and walkthrough
 
-In this lesson, participants will learn how to “lock down” their mobile
+In this lesson, participants will learn how to "lock down" their mobile
 device by creating a secure passcode for unlocking the phone and
 preparing the device for installation and use of a secure messaging
 system. This lesson should be paired with Mobile Applications Security

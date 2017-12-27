@@ -11,8 +11,8 @@ Here are some considerations that can help decide on your own routes:
     * Ask about their needs and expectations, and choose the framing for your first session that resonates with you the most (read more on that [here](https://docs.google.com/document/d/1aa9iazU-viaPEPHjy35gK7KGNlFXBW9-9_2RyPUBD_4/edit))
     * Give some thought to ways you can bring different levels of skill together in your process. For example: pairing up those who are more confident and faster in learning about digital security with those who are getting started can help keep an even pace.
 * What is more important in your decision: the amount of time you’ll walk together or your destination?
-    * Amount of time: "We can meet only once every three weeks", “we want a two-day workshop but no further engagement”
-    * Destination: "We want the entire newsroom to do all internal communications in secure channels, and to have a process in place for source protection", “we want everyone to secure their email use”.
+    * Amount of time: "We can meet only once every three weeks", "we want a two-day workshop but no further engagement"
+    * Destination: "We want the entire newsroom to do all internal communications in secure channels, and to have a process in place for source protection", "we want everyone to secure their email use".
 
 You can’t have your cake and eat it too. There is no way you can get everyone to learn every tool and change all their habits in two days. So if two days is all you’ll get, choose a more realistic destination. Or, if you have buy-in to be ambitious in your goals, choose a more realistic time-frame.
 

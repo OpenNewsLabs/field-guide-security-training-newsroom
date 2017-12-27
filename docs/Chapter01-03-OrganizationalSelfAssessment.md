@@ -29,7 +29,7 @@ As a general rule, you want to work with, not against, internal IT policies. So 
 ### Questions for newsroom leadership:
 
 * Do you use collaborative document editing and storage services (eg. Google Drive, Dropbox, Trello, Evernote)?
-    * Do you have a policy about whether or not to store “sensitive” information in these services?
+    * Do you have a policy about whether or not to store "sensitive" information in these services?
 * Do you discuss information security as a newsroom?
 * Does your newsroom currently have recommendations for secure communications (i.e.: protonmail, signal, etc)
 * Are there reporters or teams that require a higher degree of security when dealing with sources than others?

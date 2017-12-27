@@ -54,7 +54,7 @@ as the risk of publishing even the redacted original would be too great.
 
 **What will participants learn?**
 
-Basic understanding of what metadata is and basic techniques to “clean”
+Basic understanding of what metadata is and basic techniques to "clean"
 common file formats before publishing or sharing. This session does
 \*not\* cover myriad other types of metadata, most notably the metadata
 created by journalists and sources when they browse the web, use their
@@ -98,7 +98,7 @@ security mistakes and metadata included in the printed files she shared.
 Trainer should begin by introducing participants to the concept of
 document metadata by showing multiple examples of Word documents, PDF
 files and images, showing where to find the metadata and what types of
-information may be “hidden” in a document’s guts.
+information may be "hidden" in a document’s guts.
 
 Microsoft Word example:
 
@@ -134,15 +134,15 @@ with the sensitive information, the other pretending to be a third-party
 expert in the subject area who is going to review the sensitive
 documents. In the second half of the exercise, one person should be a
 sensitive source with a photo to leak and the other should be a
-journalist who is going to receive a “scrubbed” image.
+journalist who is going to receive a "scrubbed" image.
 
--   The “journalist” should print out the document and use a scanner or
+-   The "journalist" should print out the document and use a scanner or
     > mobile application to ingest the document and share. (If the
-    > “journalist” uses a color printer, the trainer should verify that
+    > "journalist" uses a color printer, the trainer should verify that
     > they printed the document in monochrome.)
 
--   The “source” should make a screenshot of the original file and send
-    > the scrubbed version to the “journalist.”
+-   The "source" should make a screenshot of the original file and send
+    > the scrubbed version to the "journalist."
 
 Follow-up, other tools
 ======================

@@ -79,10 +79,10 @@ helpful, though is by no means essential.
 
 This is a lesson where it is very important to make sure that you, as
 the instructor, aren’t making things up or sharing bad information with
-participants. If you find yourself saying “I don’t really know how that
+participants. If you find yourself saying "I don’t really know how that
 works but the way I’ve always thought about is that it is a little like
-bears and ice chests” keep in mind that 50% of the people in the room
-will hear “the expert thinks this is just like bears and ice chests.” So
+bears and ice chests" keep in mind that 50% of the people in the room
+will hear "the expert thinks this is just like bears and ice chests." So
 be very clear and honest about what you don’t really know.
 
 **Harm Reduction** - a guiding principle of this lesson is that people
@@ -117,7 +117,7 @@ What it comes down to are two models of use for passwords:
 ![](media/image2.png)
 
 In the first case, a service has some data that’s associated with you.
-Because there’s no way to identify “you” on the internet, that data is
+Because there’s no way to identify "you" on the internet, that data is
 normally tied to your email address. To gain access, the most common
 approach is to prove that you (1) know the password associated with your
 email address on that service or (2) have access to your email (and can
@@ -135,8 +135,8 @@ passwords. Passwords are never a means to an end, they’re a hurdle
 between us and the thing we want to do.
 
 There are a few strategies that can be applied incrementally to increase
-personal security and simultaneously reduce friction to “doing the right
-thing.”
+personal security and simultaneously reduce friction to "doing the right
+thing."
 
 There are two hard and fast rules:
 
@@ -281,8 +281,8 @@ include: Apple ID (for participants with iPhones, iPads, or Macs),
 Google Account (especially for Android, even if not using GMail),
 Facebook, Twitter, WhatsApp, Signal.
 
-**Activity:** Have participants brainstorm a list of these “primary
-accounts” that offer special access to their phones, messaging, etc.
+**Activity:** Have participants brainstorm a list of these "primary
+accounts" that offer special access to their phones, messaging, etc.
 
 Either have everyone set a secure password and enable 2FA or have
 everyone make that list and assign password resetting as homework.
@@ -356,7 +356,7 @@ that is good enough in many cases:
 1.  Strongly secure your primary email account. If you only do one
     > thing, do this.
 
-2.  Use “Sign In With \[Google/Facebook/etc\]”\
+2.  Use "Sign In With \[Google/Facebook/etc\]"\
     > \
     > If you have secured your primary email account, this is a good
     > option and is the easiest option. (click approve the first time,
@@ -368,12 +368,12 @@ that is good enough in many cases:
     > \
     > Sign-in With Google is totally secure and fine, but be very
     > careful about what other access you grant apps that are using
-    > Google Sign-In. Don’t just “click okay” and accept whatever access
+    > Google Sign-In. Don’t just "click okay" and accept whatever access
     > they are asking for. (Note: there’s a whole workshop on working
     > with mobile apps in this curriculum. It’s worth addressing.)
 
-3.  Use the “reset my password by email” link. It’s very secure (almost
-    > as secure as “sign in with \[google/etc\]”) and as long as you
+3.  Use the "reset my password by email" link. It’s very secure (almost
+    > as secure as "sign in with \[google/etc\]") and as long as you
     > don’t use a weak or reused password to start, it guarantees that
     > no-one will be able to sign in as you later without access to
     > your account.
@@ -416,8 +416,8 @@ offered as part of this lesson. They’ll make mistakes, and use weak
 passwords and reuse passwords. They won’t consistently use a password
 manager, and when they do, there’s a chance that they’ll expose
 themselves to significant risk by losing control of (or access to) their
-password vault. Offering strategies to minimize the effect of that “risk
-seeking behaviour” is possibly the most valuable advice that can be
+password vault. Offering strategies to minimize the effect of that "risk
+seeking behaviour" is possibly the most valuable advice that can be
 given to participants.
 
 Create a hierarchy accounts. For example, passwords for really core
@@ -450,7 +450,7 @@ going to re-use passwords, you can probably safely use the same password
 for your neighborhood parents newsletter that you use on a sewing forum.
 
 Lead a brief brainstorming exercise with participants to come up with
-different “classes” of accounts where reusing a password might be ok, so
+different "classes" of accounts where reusing a password might be ok, so
 that they can think about the different security properties of those
 accounts in a concrete way. Some categories that they might come up with
 are: online shopping, games, discussion forums, commenting accounts on

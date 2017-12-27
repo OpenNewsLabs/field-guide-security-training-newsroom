@@ -38,7 +38,7 @@ should a participant understand by the end? \]
 need to know? \]
 
 **Advance email**
-\[ at least one possible email that a trainer could send out to participants or crib from so that they come prepared. Eg. “Folks! On Friday in our weekly brown bag, I’m going to answer all your questions about making peanut butter sandwiches. Please be sure you’ve at least tasted peanut butter by then. You will need to bring two slices of bread. I’ll have epi-pens and whole wheat bread. Please be sure to tell me if you can’t eat wheat. If you have time I encourage you to read at least one of these excellent articles about why everyone should know how to make a peanut butter sandwich.” \]
+\[ at least one possible email that a trainer could send out to participants or crib from so that they come prepared. Eg. "Folks! On Friday in our weekly brown bag, I’m going to answer all your questions about making peanut butter sandwiches. Please be sure you’ve at least tasted peanut butter by then. You will need to bring two slices of bread. I’ll have epi-pens and whole wheat bread. Please be sure to tell me if you can’t eat wheat. If you have time I encourage you to read at least one of these excellent articles about why everyone should know how to make a peanut butter sandwich." \]
 
 **Followup email**
 
@@ -48,7 +48,7 @@ need to know? \]
 
 + some outside reference links for context
 
-+ a followup exercise. Eg. “Thanks for coming to the peanut butter sandwich brown bag session. I’m attaching a link to an excellent YouTube video about spreading techniques. We talked about using a knife, choosing jams that spread well, and how to think about bread. Your homework is to make at least one sandwich with creamy PB and one with crunchy and report back to me by Tuesday on how that went.” \]
++ a followup exercise. Eg. "Thanks for coming to the peanut butter sandwich brown bag session. I’m attaching a link to an excellent YouTube video about spreading techniques. We talked about using a knife, choosing jams that spread well, and how to think about bread. Your homework is to make at least one sandwich with creamy PB and one with crunchy and report back to me by Tuesday on how that went." \]
 
 ## Lesson Plan
 

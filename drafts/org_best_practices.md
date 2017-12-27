@@ -98,10 +98,10 @@ it’s to have metadata that is less revealing when analyzed later.
 
 **The first contact problem**
 
-It’s easy for sources to “out” themselves with their metadata trail. If
+It’s easy for sources to "out" themselves with their metadata trail. If
 a source reached out over a work phone or email, they have already left
 a juicy metadata trail for their employer. This is sometimes called the
-“first contact problem,” and there is no quick fix. We need sources to
+"first contact problem," and there is no quick fix. We need sources to
 know the appropriate channels before reaching out.
 
 The best we can do is support the appropriate communication channels,
@@ -170,7 +170,7 @@ advantages and tradeoffs for each.
         > developers designed the service to retain as little metadata
         > as possible—only the user’s phone number, sign-up time, and
         > the time when the user was last active. It also allows
-        > messages to “self-destruct” automatically after a preset
+        > messages to "self-destruct" automatically after a preset
         > amount of time, leaving behind as little information
         > as possible. For help getting started, read [*Signal for
         > Beginners*](https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0).
@@ -231,16 +231,16 @@ advantages and tradeoffs for each.
     -   Tradeoffs: Not everyone is familiar with OTR, and you’re much
         > more likely to receive an OTR message from a savvy user than
         > anyone else. Note that OTR should not be confused with the
-        > “off the record” setting in Google Hangouts.
+        > "off the record" setting in Google Hangouts.
 
 -   [*Pretty Good
     > Privacy*](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) (PGP)
     > email encryption. PGP is an encryption standard that is becoming
     > increasingly popular among journalists for securing email. PGP
-    > uses public key cryptography, meaning that each user has a “public
-    > key” used to scramble messages to other users. The public key can
-    > be shared with anyone. Each user also has a corresponding “private
-    > key” that is used to unscramble messages, and should never
+    > uses public key cryptography, meaning that each user has a "public
+    > key" used to scramble messages to other users. The public key can
+    > be shared with anyone. Each user also has a corresponding "private
+    > key" that is used to unscramble messages, and should never
     > be shared. Users typically post their public key in an accessible
     > place, such as a personal website, byline, or a [*PGP public
     > keyserver*](https://pgp.mit.edu/pks/lookup?search=nytimes&op=index).
@@ -258,8 +258,8 @@ advantages and tradeoffs for each.
         > compromise your sensitive communications. Most importantly for
         > news organizations, PGP only secures the body of an email,
         > leaving email addresses and the subject line exposed
-        > to eavesdroppers. You are likely to get more “return on
-        > investment” with simpler channels, such as Signal.
+        > to eavesdroppers. You are likely to get more "return on
+        > investment" with simpler channels, such as Signal.
 
 **Secure Organizational Channels**
 
@@ -305,7 +305,7 @@ is, your sources have to know what to do.
 **Verification**
 
 Consider (1) verifying their information independently by asking
-experts, (2) other previous “insiders” (perhaps not present insiders)
+experts, (2) other previous "insiders" (perhaps not present insiders)
 who might understand the leak, or (3) consider having a conversation
 with your source about information they can give that would verify their
 identity without giving information that would be meaningful to their
@@ -362,7 +362,7 @@ Facebook, or any online account where you chat with sources.
 
 Defend against common attacks to protect your accounts and conversations
 with sources. One common way that newsroom accounts and devices are
-hijacked is through “phishing” emails—emails that link to a fake login
+hijacked is through "phishing" emails—emails that link to a fake login
 page, where you’re encouraged to enter your very real login information.
 
 [*Learn more about phishing
@@ -402,7 +402,7 @@ your secure tip page:
 
 -   ProPublica:
     > [*https://securedrop.propublica.org/*](https://securedrop.propublica.org/)
-    > and “[*How to Leak to
+    > and "[*How to Leak to
     > ProPublica*](https://www.propublica.org/article/how-to-leak-to-propublica)"
 
 -   The New York Times:
@@ -413,8 +413,8 @@ your secure tip page:
 
     -   See also
         > [*https://www.washingtonpost.com/securedrop/*](https://www.washingtonpost.com/securedrop/)
-        > and “[*Here’s how to leak government documents to The
-        > Post*](https://www.washingtonpost.com/news/politics/wp/2017/01/25/heres-how-to-leak-government-documents-to-the-post/)”
+        > and "[*Here’s how to leak government documents to The
+        > Post*](https://www.washingtonpost.com/news/politics/wp/2017/01/25/heres-how-to-leak-government-documents-to-the-post/)"
 
 -   BuzzFeed:
     > [*https://contact.buzzfeed.com/ *](https://contact.buzzfeed.com/)

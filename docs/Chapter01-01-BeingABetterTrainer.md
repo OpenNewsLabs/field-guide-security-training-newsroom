@@ -22,7 +22,7 @@ The time and effort that goes into preparing for a workshop can make a big diffe
 There are lots of great resources in the introduction that can help you facilitate a session that helps participants grow instead of alienating them. Here are few tips that will help you make the most of training time:
 
 + When someone asks a question, repeating it back to the group is a great way to make sure that everyone hears the question. Plus, the practice helps make sure that you didn’t misunderstand the question.
-+ There are no stupid questions! It's the golden rule of training. For every “stupid” question that someone asks out loud, there are three more people who are kind of wondering the same thing but afraid of sounding dumb. So encourage participants to ask questions, even questions that they think might be kind of dumb.
++ There are no stupid questions! It's the golden rule of training. For every "stupid" question that someone asks out loud, there are three more people who are kind of wondering the same thing but afraid of sounding dumb. So encourage participants to ask questions, even questions that they think might be kind of dumb.
 + Know what you don't know. If you've put yourself forward as an expert, it's easy to think you have to have an answer to every question. If you don't know the answer, you can say you don't know or
 + Watch out for rabbit holes -- you almost never want to try to solve a new problem on the fly in front of an audience. Especially if you're already nervous but even if you aren't, if you don't know the fix off the top of your head, table it. Set aside a place -- it might be a board, it might be your notebook, to log questions that you've punted during the training. Do come back to them later (see "After," below), but don't make the rest of the room sit through a lot of troubleshooting.
 + It's okay to be nervous. Take a deep breath, make sure you have water handy, and you'll do fine.
@@ -33,7 +33,7 @@ If the group is larger than your own newsroom, definitely establish a code of co
 
 # After: Follow Up!
 
-+ Send everyone a “Thank You” note within a few days. It should probably include:
++ Send everyone a "Thank You" note within a few days. It should probably include:
   + Next steps. If everyone left with a lot of good intentions, a short list of action items will help them make good on those intentions. 
   + If you set aside any questions during the session, capture them in the follow up email. If you've figured out the answer, share it. If you haven't, just say so: "I haven't had a chance to take a closer look at this one."
 Follow up on any questions you promised to come back to.

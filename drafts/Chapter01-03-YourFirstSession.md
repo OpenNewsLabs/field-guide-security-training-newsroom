@@ -21,7 +21,7 @@ Here are examples of lesson plans that different individuals and organizations u
 
 Mariel and Spyros’ [How the Internet Works introductory lesson plan](https://docs.google.com/document/d/1SmHfpm3Dy2ym9gUJfnA0hA12ytQ3LlW31Y5l_TCJkJo/edit) is based on the idea that, by promoting a basic understanding how information is stored flows between devices on the internet, you can then talk about the vulnerable points in the chain – and thus start a conversation about the related good security practices.
 
-Contexts in which this framing can be helpful: when working with newsrooms where levels of technological "literacy" are very disparate, or where some of the participants would identify as being “not very tech savvy”. It can also be useful in working with participants that come in with very mixed concerns, as it encompasses many of them and can help them all find something relevant to their own interests. The lesson plan is intended for sessions lasting between two and four hours.
+Contexts in which this framing can be helpful: when working with newsrooms where levels of technological "literacy" are very disparate, or where some of the participants would identify as being "not very tech savvy". It can also be useful in working with participants that come in with very mixed concerns, as it encompasses many of them and can help them all find something relevant to their own interests. The lesson plan is intended for sessions lasting between two and four hours.
 
 If you want the framing but not the full session, you can use Tactical Technology Collective’s How the internet works, or How mobile communications work modules on [My Shadow](https://myshadow.org/train) for 30-minute activities.
 
