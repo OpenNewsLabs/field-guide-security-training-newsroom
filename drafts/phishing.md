@@ -355,3 +355,9 @@ according to the same criteria used to evaluate it in the email.
 
 
 https://twitter.com/ericgeller/status/944205900138430464
+
+https://gizmodo.com/heres-how-easy-it-is-to-get-trump-officials-to-click-on-1794963635
+
+https://www.buzzfeed.com/sheerafrenkel/russian-hackers-faked-gmail-password-form-to-invade-dnc-emai?utm_term=.yf4Y7ZXwl#.fegWM26YX
+
+https://en.wikipedia.org/wiki/Podesta_emails and https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak
