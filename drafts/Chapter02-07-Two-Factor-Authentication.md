@@ -29,11 +29,21 @@ EFF's [Two Factor Authentication Handout](https://sec.eff.org/materials/two-fact
 
 **How should the instructor prepare?**
 
-Definitely read the two recommended participant readings. :) The recommended readings at the end of this lesson are an excellent way to build your own knowledge store. You should also take a look at the [phishing](LINKTK) lesson and recommended readings, as there is quite a bit of overlap.
+Decide where you're going to demo setting up 2FA -- a secondary or dummy gmail account is a god option for this.
+
+Definitely read the two recommended participant readings.
+
+Read also: the recommended readings at the end of this lesson are an excellent way to build your own knowledge store. You should also take a look at the [phishing](LINKTK) lesson and recommended readings -- they'll help you articulate the importance of 2FA.
 
 If you're working with an office group, touch base with IT about whether or not their primary email supports 2FA. In some cases it simply isn't an option. In other cases they may require and enforce it already -- you'll want to tailor your conversation to their circumstances.
 
 Read through the lesson plan.
+
+**Followup Opportunities**
+
+When you follow up after the workshop, definitely remind folks to confirm that the spot they stowed their backup codes still makes sense, and remind them to follow through on enabling 2FA on any services they didn't get to in the workshop.
+
+[Twofactorauth.org](https://twofactorauth.org/) and [TurnOn2FA.com](https://www.turnon2fa.com/tutorials/) are great resources to share.
 
 ## Lesson Plan
 
@@ -52,9 +62,9 @@ Common services include:
 + Developer tools (eg. Github, AWS)
 + Social media networks (eg. Facebook, Twitter)
 
-Folks should brainstorm other services that they want to prioritize and start setitng them up. [Twofactorauth.org](https://twofactorauth.org/) is a useful roundup of services that do provide 2FA, while [TurnOn2FA.com](https://www.turnon2fa.com/tutorials/) has great walk throughs for many of those services.
+Folks should brainstorm other services that they want to prioritize and start setitng them up. [Twofactorauth.org](https://twofactorauth.org/) is a useful roundup of services that do provide 2FA, while [TurnOn2FA.com](https://www.turnon2fa.com/tutorials/) has great instructions for many of those services.
 
-DO: Demo adding 2FA to a Google or Github account. Flag for everyone that setting up 2FA can mean they'll be permanently, irrevocably locked out of their account if they lose access to their 2FA vehicle so everyone should absolutely store backup codes somewhere safe.
+**DO:** Demo adding 2FA to a Google or Github account, by setting it up, walking through the process of printing recovery codes, and then using it. Flag for everyone that setting up 2FA can mean they'll be permanently, irrevocably locked out of their account if they lose access to their 2FA vehicle so everyone should absolutely store backup codes somewhere safe.
 
 There are a few easy, widely supported approaches for adding 2FA to your accounts:
 
@@ -65,9 +75,10 @@ There are a few easy, widely supported approaches for adding 2FA to your account
 Know these three approaches, their advantages, and tradeoffs, and spend some time introducing them to your audience.
 
 **SMS Text Messages: a Pretty Good Option:**
-Most services allow regular old text messages. When logging in, they’ll send a short confirmation code on your mobile device. When prompted during login, you enter the code.
+Most services allow regular old text messages. When logging in, they’ll send a short confirmation code on your mobile device. When prompted during login, you enter the code. Note that the National Institute of Standards and Technology says that the risk of exposure or tampering with SMS-based authentication is too high and they [do not recommend it](https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/).
 
-![](media/image3.png)
+
+![SMS auth code example](imgs/ch2-7-1.png)
 
 Text messages are a painless way to access 2FA codes, but if you lose network access or travel outside the country, you might not be able to receive the authenticator. And folks who are vulnerable to state sponsored hacking may
 
