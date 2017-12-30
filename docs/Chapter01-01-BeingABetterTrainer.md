@@ -10,7 +10,7 @@ The time and effort that goes into preparing for a workshop can make a big diffe
   + Does everyone know exactly what to bring? Will they need a laptop? A phone?
   + Should participants do any pre-reading? A couple of recent news stories that give context to the material are always helpful.
   + Do participants need to download or install anything? Avoid a bandwidth fiasco by having everyone at least complete any downloads before you gather.
-  + If your plans call for participants to install software in the session, make sure they all have the ability to actually do so -- this i
+  + If your plans call for participants to install software in the session, make sure they all have the ability to actually do so -- check with the organization's IT department beforehand if necessary.
   + Every email reminder should include everything that participants need, even if you've sent it all before. Don't make folks dredge up an old email to remember where to go or how to prepare.  
 + Consider offering office hours ahead of time, especially if you need folks to complete an installation.
 + If you’re planning a software walk-through, even if you’ve done 100 times, do it one more time on the machine you’ll be presenting from. You’d be surprised how often a new version of something thoroughly scrambles your plans.
@@ -23,7 +23,7 @@ There are lots of great resources in the introduction that can help you facilita
 
 + When someone asks a question, repeating it back to the group is a great way to make sure that everyone hears the question. Plus, the practice helps make sure that you didn’t misunderstand the question.
 + There are no stupid questions! It's the golden rule of training. For every "stupid" question that someone asks out loud, there are three more people who are kind of wondering the same thing but afraid of sounding dumb. So encourage participants to ask questions, even questions that they think might be kind of dumb.
-+ Know what you don't know. If you've put yourself forward as an expert, it's easy to think you have to have an answer to every question. If you don't know the answer, you can say you don't know or
++ Know what you don't know. If you've put yourself forward as an expert, it's easy to think you have to have an answer to every question. If you don't know the answer, you can say you don't know and promise to follow up with an answer.
 + Watch out for rabbit holes -- you almost never want to try to solve a new problem on the fly in front of an audience. Especially if you're already nervous but even if you aren't, if you don't know the fix off the top of your head, table it. Set aside a place -- it might be a board, it might be your notebook, to log questions that you've punted during the training. Do come back to them later (see "After," below), but don't make the rest of the room sit through a lot of troubleshooting.
 + It's okay to be nervous. Take a deep breath, make sure you have water handy, and you'll do fine.
 
