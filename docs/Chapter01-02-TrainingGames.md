@@ -1,7 +1,7 @@
 # Chapter 1
 ## Part 3: Games Worth Playing
 
-Games are an indispensable
+Games are a helpful way to keep your audience engaged, and to gently introduce them to technical concepts. It's unrealistic, and probably not useful, to try to provide a detailed description of how the Internet works in the time you'll most likely have. Instead, the games below will give your participants an intuitive understanding of basic networking concepts and the role that encryption plays in securing their communications - and hopefully add a little fun to your training sessions!
 
 **Cell phone game (generally for 10+ people)**
 ----------------------------------------------
@@ -187,7 +187,7 @@ Give Google the second "From Google" envelope before note passing
 begins, and put the two copies of the message into the first envelope
 and seal it, writing the from on it. Begin passing the first envelope,
 and go stand by Google. Once the envelope reaches Google, tell them to
-open it up, take out both messages, \_keep one of them\_, and put the
+open it up, take out both messages, _keep one of them_, and put the
 other into the destination envelope and reseal it.
 
 You can write "HTTPS" on the envelopes in the Google variation to prime
@@ -197,7 +197,7 @@ Now, pretend to be a European or the American government, someone that
 has the ability to compel Google with a lawful order. Walk over to your
 Google volunteer, and make a show of being friendly, then asking to see
 the copy of the message Google has. Google will usually agree and hand
-it over, but if you Google volunteer doesn't, ramp up the playful
+it over, but if your Google volunteer doesn't, ramp up the playful
 threats (seizing assets, arresting employees, etc.) until they hand it
 over. Make a show of reading it and hand it back.
 
@@ -216,7 +216,7 @@ network itself, for whatever part isn't covered by TLS.
 **Tor note passing variation**
 ------------------------------
 
-Materials: Three nesting envelops, one message (content isn't
+Materials: Three nesting envelopes, one message (content isn't
 important.) Largest envelope should be addressed to "Node 1", second
 largest, addressed to "Node 2", smallest addressed to "Node 3".
 
@@ -247,5 +247,4 @@ about in previous note passing exercises)
 These are great road tested games for teaching networking principles. If you're looking for more ideas for games trainers play, check out:
 
 + [Games Trainers Play](http://www.worldcat.org/oclc/6016638) and [Even More Games Trainers Play](http://www.worldcat.org/oclc/30318772) for some great ideas.
-
-Or take a look at the curricula and guides we've aggregated in our [Resource Guide](/docs/Chapter03-Resources).
++ Or take a look at the curricula and guides we've aggregated in our [Resource Guide](/docs/Chapter03-Resources).
