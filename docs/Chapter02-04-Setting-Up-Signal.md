@@ -1,12 +1,12 @@
 # Setting Up Signal
 
 ## Overview
-Signal is a secure messaging platform that utilizes end-to-end encryption. Participants should have already been through a [mobile application settings review](/docs/Chapter02-01-Mobile-Security-Settings.md) and added secure lock screens, to ensure that their device is now ready to use with a program like Signal.
+Signal is a secure messaging platform that utilizes end-to-end encryption. Participants should have already been through a [mobile application settings review](Chapter02-01-Mobile-Security-Settings.md) and added secure lock screens, to ensure that their device is now ready to use with a program like Signal.
 
 Benefits of Signal include the fact that they do not store your messages on their servers, participants can set their conversations to "self-destruct" and users can customize what information (contact name,
 message preview) is available on their phones lock screen.
 
-This lesson plan is intended to be taught as the third in a series, following [mobile app security settings](/docs/Chapter02-01-Mobile-Security-Settings/) and [locking down mobile devices](/docs/Chapter02-03-Locking-Down-Mobile.md).
+This lesson plan is intended to be taught as the third in a series, following [mobile app security settings](Chapter02-01-Mobile-Security-Settings) and [locking down mobile devices](Chapter02-03-Locking-Down-Mobile.md).
 
 ## About This Lesson Plan
 
@@ -15,7 +15,7 @@ This lesson plan is intended to be taught as the third in a series, following [m
 **Level:** Beginner
 
 ### Preconditions
-This lesson assumes users have already reviewed their [mobile app security settings](/docs/Chapter02-01-Mobile-Security-Settings/), and walked through  [locking down mobile devices](/docs/Chapter02-03-Locking-Down-Mobile.md).
+This lesson assumes users have already reviewed their [mobile app security settings](Chapter02-01-Mobile-Security-Settings), and walked through  [locking down mobile devices](Chapter02-03-Locking-Down-Mobile.md).
 
 ### What will participants learn?
 
