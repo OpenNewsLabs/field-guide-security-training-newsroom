@@ -39,7 +39,7 @@ Have everyone go through the apps installed on their phones (this is also a fine
 
 As other things come up, add to this list. Does the app contain data or settings that need backing up? What's a good strategy for making that backup happen?
 
-Note: we'd love your help expanding this lesson. Consider filing an (https://github.com/OpenNewsLabs/newsroom-security-curricula/issues)[issue] or pull request if there are valuable backup points that you think belong here.
+Note: we'd love your help expanding this lesson. Consider filing an [issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) or pull request if there are valuable backup points that you think belong here.
 
 ### Automated Backups
 By default, Android phones back up quite a bit of data to Google, iOS phones to iCloud. These baked in cloud backup services are far and away the easiest way to make sure that your contacts, photos and calendar are backed up someplace off of your phone. However, commercial cloud backup services are not a good fit for everyone. Commercial cloud providers may not be willing or able to fight a subpoena for contacts you've backed up to their server.
@@ -61,4 +61,4 @@ In addition to backing up to a cloud or web-based service, Android users can bac
 
 ### iOS Users
 
-*You can help us make this lesson stronger by [contributing](docs/contributing.md) insights on backup strategies for iOS users.*
+*You can help us make this lesson stronger by [contributing](contributing.md) insights on backup strategies for iOS users.*

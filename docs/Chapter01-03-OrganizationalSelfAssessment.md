@@ -1,7 +1,7 @@
 # Chapter 1
 ## Part 3: Organizational Self-Assessment
 
-These questions should help you build a better understanding of how your organization approaches security already. This is (or could be) a good starting point for a best practices list, too.  
+These questions should help you build a better understanding of how your organization approaches security already. They also make a good starting point for a best practices list.  
 
 ### Questions for IT
 
