@@ -72,18 +72,15 @@ There are a few easy, widely supported approaches for adding 2FA to your account
 -   Authenticator apps
 -   Security keys
 
-Know these three approaches, their advantages, and tradeoffs, and spend some time introducing them to your audience.
-
 **SMS Text Messages: a Pretty Good Option:**
-Most services allow regular old text messages. When logging in, they’ll send a short confirmation code on your mobile device. When prompted during login, you enter the code. Note that the National Institute of Standards and Technology says that the risk of exposure or tampering with SMS-based authentication is too high and they [do not recommend it](https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/).
-
+Most services allow you to receive an authentication code via text message. SMS codes are super convenient but also vulnerable.
 
 ![SMS auth code example](imgs/ch2-7-1.png)
 
-Text messages are a painless way to access 2FA codes, but if you lose network access or travel outside the country, you might not be able to receive the authenticator. And folks who are vulnerable to state sponsored hacking may
 
-SMS-based 2FA is much better than using a password alone, telephone
-infrastructure comes with a
+SMS-based 2FA is better than using a password alone, but relying on telephone infrastructure comes with enough trade-offs that the National Institute of Standards and Technology [does not recommend it](https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/).
+
+
 [*great*](https://citizenlab.org/2015/08/iran_two_factor_phishing/)
 [*deal*](https://www.theregister.co.uk/2017/05/03/hackers_fire_up_ss7_flaw/)
 [*of*](https://www.independent.co.uk/life-style/gadgets-and-tech/features/text-scams-icloud-iphone-google-android-messages-sms-security-privacy-cybercrime-a7067411.html)
@@ -97,8 +94,8 @@ Black Lives Matter activist, Deray McKesson, by convincing Verizon to
 redirect his phone messages to a new SIM card on a remote device. This
 allowed the attacker to intercept his 2FA messages.
 
-![](media/image14.png){width="5.208333333333333in"
-height="3.3333333333333335in"}
+
+![Vulnerable](imgs/ch2-7-2.png)
 
 The attacker had DeRay’s password already. 2FA forced them to work much
 harder, but again, SMS is not the best option. So let’s look to another
@@ -251,12 +248,10 @@ these printed out, so encourage the audience to keep these codes
 someplace where they can be physically accessed. Think of them a bit
 like passwords -- information you wouldn’t want to leave in plain sight.
 
-**Questions about 2FA use for teams**\
-So far we’ve only talked about situations where one person needs to log
-into an account, and they alone hold onto their authentication device.\
-\
-But newsrooms often share login information, and chances are, more than
-one person has access to the Twitter account.\
+### 2FA For Teams
+So far we’ve only talked about situations where one person needs to log into an account, and they alone hold onto their authentication device.
+
+But newsrooms often share login information, and chances are, more than one person has access to the Twitter account.
 \
 The audience might wonder, do 2FA users need to ask for permission to
 use your colleague’s phone every time you want to log in?\
