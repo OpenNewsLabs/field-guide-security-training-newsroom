@@ -74,7 +74,7 @@ There are a few easy, widely supported approaches for adding 2FA to your account
 -   Authenticator apps
 -   Security keys
 
-**SMS Text Messages: a Decent Option**
+**Least Great Option: SMS Text Messages**
 Most services allow you to receive an authentication code via text message. SMS codes are super convenient but also vulnerable.
 
 ![SMS auth code example](imgs/ch2-7-1.png)
@@ -83,65 +83,42 @@ SMS-based 2FA is better than using a password alone, but relying on telephone in
 
 For example: by convincing Verizon to redirect Deray McKesson's phone messages to a new SIM card, a hacker was able to bypass 2FA. They were able to access the Black Lives Matter activist's email and Twitter records.
 
-![Vulnerable](imgs/ch2-7-2.png)
+![Vulnerable](img/ch2-7-2.png)
+
+[SMS-based 2FA is a better than nothing](https://motherboard.vice.com/en_us/article/youre-probably-fine-with-sms-based-two-factor-authentication), but it isn't a great option.
 
 **Better Option: Authentication Apps**
 Some services allow you to receive your 2FA code from a mobile app. There are many options to choose from, including [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en),
 [Authy](https://authy.com/), and [Duo Mobile](https://guide.duo.com/).
 
+![Authenticator app sceenshot](img/ch2-7-3.png)
 
-![](media/image5.png){width="3.8489588801399823in"
-height="2.530333552055993in"}\
-\
-Some web services let you attach multiple authentication apps to the
-same account, which can be incredibly helpful for getting login codes
-when multiple people need access. Authenticator apps are also great
-because they work when you don’t have access to your phone network
-(e.g., when traveling internationally).\
-\
-Unlike SMS messages, authenticator apps can’t be intercepted on the
-phone network, making apps a hardened option.\
-\
-**Even Better Option: Security Keys**\
-Right now, security keys are one of the most secure and efficient ways
-to use 2FA. A security key is a physical USB device you can use to
-authenticate into your account.
+Some web services let you attach multiple authentication apps to the same account, which can be incredibly helpful when multiple people need access to a single account. Authenticator apps are also great because they work even when you don’t have access to your phone network.
 
-They’re pretty cheap — one of the most popular options, a
-[*Yubikey*](https://www.yubico.com/) costs
-[*\$18*](https://www.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/).
+Unlike SMS messages, authenticator apps can’t be intercepted on the phone network
 
-![](media/image12.gif)
 
-When prompted to provide your 2FA credentials, instead of typing in a
-code, you simply insert your security key and physically tap it when
-prompted during login.
+**Even Better Option: Security Keys**
+A security key is a physical USB device you can use to authenticate your account.
 
-Security keys are fairly resistant to phishing attacks, making them one
-of the best options available. Unlike code-based 2FA, phishing sites
-don’t have a great way to intercept information from security keys. If
-you were to land on a phishing site with an illegitimate URL domain
-(e.g., faceboook.com instead of facebook.com), the key will not
-cooperate with the website.
+They’re reasonably cheap — one of the most popular options, a [Yubikey](https://www.yubico.com/) costs
+[$18](https://www.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/).
 
-Security keys are not yet as well supported as authenticator apps, but
-the standard is getting traction on large websites. It can be used to
-log into Google, Facebook, Dropbox, and other services. If you’re using
-Google to manage your email, however, or other supportive services,
-security keys are a great option.
+![Yubi Key in action](img/ch2-7-4.png)
 
-Security keys for web require [*browser
-support*](https://en.wikipedia.org/wiki/Universal_2nd_Factor), and the
-Yubikey works with [*Opera*](https://www.opera.com/) and [*Google
-Chrome*](https://www.google.com/chrome/). Many other popular browsers
-are working to integrate support for Yubikeys and similar authentication
-devices.
+When prompted for your 2FA credentials, instead of typing in a code, you simply insert your security key and physically tap it when prompted during login.
 
-Encourage your audience to use whichever 2FA method is available and
-practical. [*SMS-based 2FA is a worthwhile
-upgrade*](https://motherboard.vice.com/en_us/article/youre-probably-fine-with-sms-based-two-factor-authentication),
-and it’s absolutely better than going without. But strongly nudge them
-toward hardened options, such as authenticator apps or security keys
+Security keys are fairly resistant to phishing attacks, making them one of the best options available. Unlike code-based 2FA, phishing sites don’t have a great way to intercept information from security keys. If you were to land on a phishing site with an illegitimate URL domain (e.g., faceboook.com instead of facebook.com), the key will not cooperate with the website.
+
+*Note: It would be great to add a better explanation of how Yubikeys avoid authenticating to fake URLs. Consider [submitting an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) if you can help add that.*
+
+Security keys are not yet as widely supported as authenticator apps, but the standard is getting traction on large websites. Google, Facebook, and Dropbox all support security keys.  If you’re using Google to manage your email, however, or other supportive services, security keys are a great option.
+
+Security keys for web require [browser support](https://en.wikipedia.org/wiki/Universal_2nd_Factor), and the Yubikey works with [Opera](https://www.opera.com/) and [Google Chrome](https://www.google.com/chrome/), or there's a good [workaround](https://www.yubico.com/support/knowledge-base/categories/articles/how-to-use-your-yubikey-with-authenticator-codes/) for Firefox users.
+
+### Just Pick One
+
+Encourage your audience to use whichever 2FA method is available and practical. SMS is absolutely better than going without, but strongly nudge participants toward hardened options, such as authenticator apps or security keys.
 
 **Set it up together**\
 Consider using an example to demonstrate how easy it is to set up 2FA,
