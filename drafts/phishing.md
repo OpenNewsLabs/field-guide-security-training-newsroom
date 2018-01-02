@@ -222,9 +222,9 @@ Activities that imply trust:
 
 -   Replying to an email
 
-***Exercise:** What other activities online imply trust? What would help
+**Exercise:** What other activities online imply trust? What would help
 you to remember to make a conscious trust decision when divulging
-information online? *
+information online?
 
 3
 
@@ -265,7 +265,7 @@ email is not legitimate:
     > language
 
 While any of these factors suggest illegitimacy, **their absence does
-not guarantee trustworthiness.**
+not guarantee trustworthiness.
 
 5
 
@@ -361,3 +361,5 @@ https://gizmodo.com/heres-how-easy-it-is-to-get-trump-officials-to-click-on-1794
 https://www.buzzfeed.com/sheerafrenkel/russian-hackers-faked-gmail-password-form-to-invade-dnc-emai?utm_term=.yf4Y7ZXwl#.fegWM26YX
 
 https://en.wikipedia.org/wiki/Podesta_emails and https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak
+
+https://www.welivesecurity.com/2016/04/23/sms-phishing-attackers-continue-pursue-apple-users/
