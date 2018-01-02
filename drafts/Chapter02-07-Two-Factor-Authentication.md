@@ -23,6 +23,8 @@ They’ll need their mobile devices (iPhone or Android).
 Have participants read [Two-Factor Authentication for
 Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/) and [The 12 Days of 2FA: How to Enable Two-Factor Authentication For Your Online Accounts](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts) -- both are good overviews of the process.
 
+If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop.
+
 **What materials will the instructor need?**
 
 EFF's [Two Factor Authentication Handout](https://sec.eff.org/materials/two-factor-authentication-handout-for-learners) is a great resource to provide to participants.
@@ -68,7 +70,9 @@ Folks should brainstorm other services that they want to prioritize and start se
 
 **DO:** Demo adding 2FA to a Google or Github account, by setting it up, walking through the process of printing recovery codes, and then using it. Flag for everyone that setting up 2FA can mean they'll be permanently, irrevocably locked out of their account if they lose access to their 2FA vehicle so everyone should absolutely store backup codes somewhere safe.
 
-There are a few easy, widely supported approaches for adding 2FA to your accounts:
+Unless you know everyone is using YubiKeys, have everyone download [Authy](https://authy.com/) or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en) now, while you discuss the tradeoffs of the three most common authentication methods.
+
+**DISCUSS:** There are a few easy, widely supported approaches for adding 2FA to your accounts:
 
 -   SMS text messages
 -   Authenticator apps
@@ -97,7 +101,6 @@ Some web services let you attach multiple authentication apps to the same accoun
 
 Unlike SMS messages, authenticator apps can’t be intercepted on the phone network
 
-
 **Even Better Option: Security Keys**
 A security key is a physical USB device you can use to authenticate your account.
 
@@ -116,50 +119,36 @@ Security keys are not yet as widely supported as authenticator apps, but the sta
 
 Security keys for web require [browser support](https://en.wikipedia.org/wiki/Universal_2nd_Factor), and the Yubikey works with [Opera](https://www.opera.com/) and [Google Chrome](https://www.google.com/chrome/), or there's a good [workaround](https://www.yubico.com/support/knowledge-base/categories/articles/how-to-use-your-yubikey-with-authenticator-codes/) for Firefox users.
 
-### Just Pick One
+### Pick One
 
-Encourage your audience to use whichever 2FA method is available and practical. SMS is absolutely better than going without, but strongly nudge participants toward hardened options, such as authenticator apps or security keys.
+Encourage your audience to use whichever 2FA method is available and practical. SMS is absolutely better than going without, but strongly nudge participants toward hardened options, such as authenticator apps or security keys. In most cases participants will need to download an authenticator app.
 
-**Set it up together**\
-Consider using an example to demonstrate how easy it is to set up 2FA,
-or give the audience a resource to look at for step-by-step directions.
-You can demonstrate how straightforward it is to set up 2FA with Gmail.
-Alternatively, see
-[*TurnOn2FA.com*](https://www.turnon2fa.com/tutorials/) for more
-examples.
+You already demonstrated setting up 2FA, but if you didn't, do that now.
+
+Everyone should have downloaded Authy or Google Authenticator by now, but if they haven't, have them do that. Seriously though: it is far preferable to do this during the discussion so you don't overload your bandwidth.
+
+And then have everyone set it up on their primary email account. Have folks look through [TurnOn2FA.com](https://www.turnon2fa.com/tutorials/) if it isn't obvious how to setup 2FA on their primary email account.
+
+Make sure everyone also sets aside backup codes!
 
 Setting up 2FA should not take more than 10 minutes.
 
-Time to break out the laptops. Open up the browser of your choice, and
-show everyone how to navigate to the Gmail setup page.\
-\
-Account icon (top right) > My Account > Sign-in & security >
-Signing in to Google > 2-Step Verification > Get started
+Time to break out the laptops. If your users aren't on Gmail, make sure you've walked through their system before. But if they are...show everyone how to navigate to the Gmail setup page. From the Account icon (top right) select `My Account > Sign-in & security >
+Signing in to Google` and look for a `2-Step Verification`  option. Click <kbd>Get Started</kbd>
 
-![](media/image13.gif)\
-\
-First, users must enter their phone number to register the device.
-They’ll be sent a confirmation code on the device, and they can enter it
-on the registration page. If someone prefers not to use their phone
-number, it can be removed later.\
-\
-After registering your device, they will be able to receive 2FA codes
-through SMS text messages.\
-\
-**Authenticator App**\
-For a more secure way to use 2FA, some services allow you to receive
-your temporary login code in an authenticator app. There are many
-options to choose from, such as [*Google
-Authenticator*](https://support.google.com/accounts/answer/1066447?hl=en),
-[*Authy*](https://authy.com/), [*Duo Mobile*](https://guide.duo.com/),
-and others. Have them download one of these apps.\
-\
-For Gmail, in the 2-step verification page, scroll down to
-"Authenticator app" and click "Set up." To register a new service in the
-app, users are asked to scan a barcode that appears on their screen.
-After the code appears in the app, they will type the code into the
-setup prompt.\
-\
+![2FA on Google](img/2-7-5.gif)
+
+The first thing they're going to need is their password.
+
+Next, users will have to add a phone number. Exasperatingly, you can't set up app based authentication without first setting up SMS authentication. At least not on Gmail.
+
+Once you've followed the setps on screen to register your phone, you will be able to receive 2FA codes through SMS text messages.
+
+**Set up an authenicator app** As discussed, we want more security than SMS provides. So once you have enabled SMS based 2FA, have everyone set up app based authentication. They'll have to select "Authenticator App" and then open the authenticator app (probalby on their phones) and add an account. They should be looking at a QR code on the screen and a camera on their app.
+
+**Backup Codes** now that you have two factor authentication set up, everyone DEFINITELY needs to download backup codes and put them someplace safe. Each backup code can only be used once, but if you lose your phone (or just leave it home one day) and all your authentication is connected to your phone, you're going to be awfully frustrated without backup codes. 
+
+
 **Security Keys**
 
 First need to purchase a security key, such as a Yubikey
