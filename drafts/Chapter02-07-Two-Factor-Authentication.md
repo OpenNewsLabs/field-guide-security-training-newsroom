@@ -136,7 +136,7 @@ Setting up 2FA should not take more than 10 minutes.
 Time to break out the laptops. If your users aren't on Gmail, make sure you've walked through their system before. But if they are...show everyone how to navigate to the Gmail setup page. From the Account icon (top right) select `My Account > Sign-in & security >
 Signing in to Google` and look for a `2-Step Verification`  option. Click <kbd>Get Started</kbd>
 
-![2FA on Google](img/2-7-5.gif)
+![2FA on Google](img/ch2-7-5.gif)
 
 The first thing they're going to need is their password.
 
@@ -146,53 +146,19 @@ Once you've followed the setps on screen to register your phone, you will be abl
 
 **Set up an authenicator app** As discussed, we want more security than SMS provides. So once you have enabled SMS based 2FA, have everyone set up app based authentication. They'll have to select "Authenticator App" and then open the authenticator app (probalby on their phones) and add an account. They should be looking at a QR code on the screen and a camera on their app.
 
-**Backup Codes** now that you have two factor authentication set up, everyone DEFINITELY needs to download backup codes and put them someplace safe. Each backup code can only be used once, but if you lose your phone (or just leave it home one day) and all your authentication is connected to your phone, you're going to be awfully frustrated without backup codes. 
+**Backup Codes** Now that you have two factor authentication set up, everyone DEFINITELY needs to download backup codes and put them someplace safe. Each backup code can only be used once, but if you lose your phone (or just leave it home one day) and all your authentication is connected to your phone, you're going to be awfully frustrated without backup codes.
 
+**Disable SMS** After setting up an authenticator app or security keys, folks should remove their phone as a 2FA method.
 
-**Security Keys**
+Optional: **Security Keys**  
+If folks have and are going to set up Yubikeys, scroll down to "Security keys" and click "Add security key." When prompted, insert the key into the USB port, and physically tap the gold disk on top.
 
-First need to purchase a security key, such as a Yubikey
-([*\$18*](https://www.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/)).
-They’re pretty easy to set up.\
-\
-Scroll down to "Security keys" and click "Add security key." When
-prompted, insert the key into the USB port, and physically tap the gold
-disk on top.
+You'll be prompted to name the newly-registered device. During log in, instead of typing in a 2FA code, anyone who sets this up can just insert and tap the key.
 
-Afterward, name the newly-registered device. During log in, instead of
-typing in a 2FA code, anyone who sets this up can just insert and tap
-the key.
+![YubiKey on Google](img/ch2-7-6.gif)
 
-![](media/image10.gif)\
-\
-After setting up authenticator apps or security keys, they probably
-don’t need SMS any more. Show them how to scroll down to "Voice or text
-message" and click the pencil icon, and then click "Remove phone."\
-\
-Note: Some new computers (e.g., the 2016 Macbook) only have USB Type-C
-ports. If you can’t use a traditional USB 2.0 or 3.0 port, you can still
-use security keys with a USB Type-C adapter. [*Here’s a short list of
-Type-C adapters that are confirmed to
-work*](https://www.yubico.com/support/knowledge-base/categories/articles/how-do-i-use-a-yubikey-with-usb-c-adapters/).
-It’s a little more expensive to purchase [*Type-C
-Yubikeys*](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c).\
-\
-**Encourage Backup Codes**\
-The audience might wonder what will happen if they lose access to their
-2FA device. Won’t they get locked out? Even if we lose our security key
-and authenticator app, backup codes will allow you to get back into your
-account. In case of emergency, you can enter your password and use one
-of these codes instead of a 2FA code.
-
-For Gmail, have your audience scroll down to "Backup codes" and click
-"set up."
-
-![](media/image11.png)
-\
-They should see a series of numeric codes. It’s generally wise to have
-these printed out, so encourage the audience to keep these codes
-someplace where they can be physically accessed. Think of them a bit
-like passwords -- information you wouldn’t want to leave in plain sight.
+Note: Some new computers (e.g., the 2016 Macbook) only have USB Type-C ports. If you can’t use a traditional USB 2.0 or 3.0 port, you can still use security keys with a USB Type-C adapter. Here’s a short list of [Type-C adapters that are confirmed to work](https://www.yubico.com/support/knowledge-base/categories/articles/how-do-i-use-a-yubikey-with-usb-c-adapters/). Alternatively, you can purchase a [USB Type-C
+Yubikey](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c).
 
 
 ## Recommended Reading
@@ -201,7 +167,6 @@ like passwords -- information you wouldn’t want to leave in plain sight.
 + [Two-Factor Authentication for
 Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/)
 
-### Good context
 + [London Calling: Two-Factor Authentication Phishing From Iran](https://citizenlab.org/2015/08/iran_two_factor_phishing/) from Citizen Lab (Munk School of Global Affairs, University of Toronto) is a good roundup of ways that really good phishing can circumvent 2FA. (August 2015)
 + [Phishers rip into two-factor authentication](https://www.theregister.co.uk/2017/05/03/hackers_fire_up_ss7_flaw/), *The Register* also covers some ways that phishing can be used to circumvent 2FA. (July 2006)
 + [Text scams: The messages that allow criminals to break into your iPhone, and how to spot them](https://www.independent.co.uk/life-style/gadgets-and-tech/features/text-scams-icloud-iphone-google-android-messages-sms-security-privacy-cybercrime-a7067411.html), *The Independent*, details another SMS-based phishing attack (June 2016)
