@@ -11,6 +11,7 @@ pages:
         - Locking Down Mobile: Chapter02-03-Locking-Down-Mobile.md 
         - Setting Up Signal: Chapter02-04-Setting-Up-Signal.md 
         - Good Hygiene For Apps: Chapter02-05-Good-Hygiene-For-Apps.md
+        - Two-Factor Authentication: Chapter02-07-Two-Factor-Authentication.md
     - Chapter 3 - Resources: Chapter03-Resources.md
     - Contribute to this guide: contributing.md
 theme: readthedocs

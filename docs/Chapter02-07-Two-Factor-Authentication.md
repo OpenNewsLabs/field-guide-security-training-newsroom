@@ -17,13 +17,13 @@ Enabling two-factor authentication is one of the easiest steps you can take to p
 Participants will set up an authenticator app and two-factor authentication on at least a few services and will learn how to use it.
 
 **What materials will participants need?**
-They’ll need their mobile devices (iPhone or Android).
+They’ll need their mobile devices (iPhone or Android) and laptop computers.
 
 **How should participants prepare?**
 Have participants read [Two-Factor Authentication for
 Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/) and [The 12 Days of 2FA: How to Enable Two-Factor Authentication For Your Online Accounts](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts) -- both are good overviews of the process.
 
-If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop.
+If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop. Make sure to include install links in your pre-class communications.
 
 **What materials will the instructor need?**
 
@@ -31,7 +31,7 @@ EFF's [Two Factor Authentication Handout](https://sec.eff.org/materials/two-fact
 
 **How should the instructor prepare?**
 
-Decide where you're going to demo setting up 2FA -- a secondary or dummy gmail account is a god option for this.
+Decide where you're going to demo setting up 2FA -- a secondary or dummy gmail account is a good option for this.
 
 Definitely read the two recommended participant readings.
 
@@ -57,14 +57,15 @@ If someone gains access to your primary email account, they can easily use that 
 
 Note: it's easy to get lost in a "is this really going to happen to me?" spiral, or a "sure, but what's the worst that could happen" discussion. Some clarity about what is at stake is certainly valuable but it probably isn't useful to get to caught up in horror stories. Remind folks that 2FA is relatively straightforward once it is part of your workflow. You can either get in the habit of carrying your keys and locking the door behind you, or you can stop and think everytime you leave the house "Have I left anything valuable out? What are the odds that someone will break in today?" [Mat Honan](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/) lost a lot of personal archives because some hackers wanted his Twitter handle. For a while hackers were doing a good job of taking over email accounts to send out desperate pleas for money -- "Help, I'm traveling and I was hit by a car and I can't reach my parents, but I desperately need you to wire $400 to this random stranger so I can pay my hospital bill and come home." -- even though the apparent sender was safe at home. If you work in a newsroom with someone working on sensitive investigations, if anyone who trusts you is doing sensitive work, you owe it to them to ensure that you're not the vector for an attack.
 
-There's very good reason to believe that Clinton's emails were exposed because [John Podesta didn't have 2FA turne don](http://fortune.com/2016/10/29/clinton-email-phishing-attack/). Don't be John Podesta. He fell for a spearphishing scam that told him he needed to change his password. With 2FA enabled, just knowing his new password wouldn't be enough to give a hacker access to his emails.
+There's very good reason to believe that the Clinton email hack was possible because [John Podesta didn't have 2FA turned on](http://fortune.com/2016/10/29/clinton-email-phishing-attack/). Don't be John Podesta. He fell for a spearphishing scam that told him he needed to change his password. With 2FA enabled, just knowing his new password wouldn't be enough to give a hacker access to his emails.
 
 Common services include:
-+ Email: everyone should have 2FA on their primary email account.
-+ Banks usually require 2FA, but if your bank makes it only optional, definitely turn it on.
-+ Backup and file sharing services (eg. Dropbox)
-+ Developer tools (eg. Github, AWS)
-+ Social media networks (eg. Facebook, Twitter)
+
+- Email: everyone should have 2FA on their primary email account.
+- Banks usually require 2FA, but if your bank makes it only optional, definitely turn it on.
+- Backup and file sharing services (eg. Dropbox)
+- Developer tools (eg. Github, AWS)
+- Social media networks (eg. Facebook, Twitter)
 
 Folks should brainstorm other services that they want to prioritize and start setitng them up. [Twofactorauth.org](https://twofactorauth.org/) is a useful roundup of services that do provide 2FA, while [TurnOn2FA.com](https://www.turnon2fa.com/tutorials/) has great instructions for many of those services.
 
@@ -99,7 +100,7 @@ Some services allow you to receive your 2FA code from a mobile app. There are ma
 
 Some web services let you attach multiple authentication apps to the same account, which can be incredibly helpful when multiple people need access to a single account. Authenticator apps are also great because they work even when you don’t have access to your phone network.
 
-Unlike SMS messages, authenticator apps can’t be intercepted on the phone network
+Unlike SMS messages, authenticator apps aren't vulnerable to attacks against your mobile network.
 
 **Even Better Option: Security Keys**
 A security key is a physical USB device you can use to authenticate your account.
@@ -109,19 +110,17 @@ They’re reasonably cheap — one of the most popular options, a [Yubikey](
 
 ![Yubi Key in action](img/ch2-7-4.png)
 
-When prompted for your 2FA credentials, instead of typing in a code, you simply insert your security key and physically tap it when prompted during login.
+Using them is easy -- you simply insert your security key during login, and physically tap it when prompted.
 
-Security keys are fairly resistant to phishing attacks, making them one of the best options available. Unlike code-based 2FA, phishing sites don’t have a great way to intercept information from security keys. If you were to land on a phishing site with an illegitimate URL domain (e.g., faceboook.com instead of facebook.com), the key will not cooperate with the website.
-
-*Note: It would be great to add a better explanation of how Yubikeys avoid authenticating to fake URLs. Consider [submitting an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) if you can help add that.*
+Security keys are fairly resistant to phishing attacks, making them one of the best options available. Unlike code-based 2FA, phishing sites don’t have a great way to intercept information from security keys. Also, Yubikeys and some other U2F devices store a unique ID for each login on first registration, and check this ID on subsequent logins. If you were to land on a phishing site with an illegitimate URL domain (e.g., faceboook.com instead of facebook.com), the ID will not match and the key will not cooperate with the website.
 
 Security keys are not yet as widely supported as authenticator apps, but the standard is getting traction on large websites. Google, Facebook, and Dropbox all support security keys.  If you’re using Google to manage your email, however, or other supportive services, security keys are a great option.
 
-Security keys for web require [browser support](https://en.wikipedia.org/wiki/Universal_2nd_Factor), and the Yubikey works with [Opera](https://www.opera.com/) and [Google Chrome](https://www.google.com/chrome/), or there's a good [workaround](https://www.yubico.com/support/knowledge-base/categories/articles/how-to-use-your-yubikey-with-authenticator-codes/) for Firefox users.
+Security keys for the Web require [browser support](https://en.wikipedia.org/wiki/Universal_2nd_Factor). The Yubikey works with [Opera](https://www.opera.com/) and [Google Chrome](https://www.google.com/chrome/),  and there's a good [workaround](https://www.yubico.com/support/knowledge-base/categories/articles/how-to-use-your-yubikey-with-authenticator-codes/) for Firefox users.
 
 ### Pick One
 
-Encourage your audience to use whichever 2FA method is available and practical. SMS is absolutely better than going without, but strongly nudge participants toward hardened options, such as authenticator apps or security keys. In most cases participants will need to download an authenticator app.
+Encourage your audience to use whichever 2FA method is available and practical. SMS is absolutely better than going without, but you should strongly nudge participants toward hardened options, such as authenticator apps or security keys. In most cases participants will need to download an authenticator app.
 
 You already demonstrated setting up 2FA, but if you didn't, do that now.
 
@@ -144,7 +143,7 @@ Next, users will have to add a phone number. Exasperatingly, you can't set up ap
 
 Once you've followed the setps on screen to register your phone, you will be able to receive 2FA codes through SMS text messages.
 
-**Set up an authenicator app** As discussed, we want more security than SMS provides. So once you have enabled SMS based 2FA, have everyone set up app based authentication. They'll have to select "Authenticator App" and then open the authenticator app (probalby on their phones) and add an account. They should be looking at a QR code on the screen and a camera on their app.
+**Set up an authenticator app** As discussed, we want more security than SMS provides. So once you have enabled SMS based 2FA, have everyone set up app based authentication. They'll have to select "Authenticator App" and then open the authenticator app (probalby on their phones) and add an account. They should be looking at a QR code on the screen and a camera on their app.
 
 **Backup Codes** Now that you have two factor authentication set up, everyone DEFINITELY needs to download backup codes and put them someplace safe. Each backup code can only be used once, but if you lose your phone (or just leave it home one day) and all your authentication is connected to your phone, you're going to be awfully frustrated without backup codes.
 
