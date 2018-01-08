@@ -25,7 +25,7 @@ They’ll need their mobile devices (iPhone or Android) and laptop computers.
 Have participants read [Two-Factor Authentication for
 Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/) and [The 12 Days of 2FA: How to Enable Two-Factor Authentication For Your Online Accounts](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts) -- both are good overviews of the process.
 
-If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop. Make sure to include install links for iOS and Android versions in your pre-class communications.  
+If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop. Make sure to include install links for iOS and Android versions in your pre-workshop communications.  
 
 **What materials will the instructor need?**
 
@@ -145,7 +145,7 @@ Next, participants will have to add a phone number. (Exasperatingly, you can't s
 Once participants have followed the setps on screen to register their phones, they will be able to receive 2FA codes through SMS text messages.
 
 **Set up an authenticator app:**
-As discussed, we want more security than SMS provides. So once you have enabled SMS based 2FA, have everyone set up app based authentication. They'll have to select "Authenticator App" and then open the authenticator app (probalby on their phones) and add an account. They should be looking at a QR code on the screen and a camera on their app.
+As discussed, we want more security than SMS provides. So once you have enabled SMS based 2FA, have everyone set up app based authentication. They'll have to select "Authenticator App" and then open the authenticator app (probably on their phones) and add an account. They should be looking at a QR code on the screen and a camera on their app.
 
 **Backup Codes:**
 Now that everybody has 2FA set up, they DEFINITELY need to download backup codes and put them someplace safe. Each backup code can only be used once, but if you lose your phone (or just leave it home one day) and all your authentication is connected to your phone, you're going to be awfully frustrated without backup codes.
@@ -153,7 +153,7 @@ Now that everybody has 2FA set up, they DEFINITELY need to download backup codes
 **Disable SMS authentication:** 
 After setting up an authenticator app or security keys, participants should remove their phone as a 2FA method.
 
-** Security Keys (optional):** If particpants have Yubikeys and want to set them up, they should scroll down to `Security keys` and click `Add security key`. When prompted, they should insert the key into the USB port, and physically tap the gold disk on top.
+**Security Keys (optional):** If particpants have Yubikeys and want to set them up, they should scroll down to `Security keys` and click `Add security key`. When prompted, they should insert the key into the USB port, and physically tap the gold disk on top.
 
 They'll be prompted to name the newly-registered device. During login, instead of typing in a 2FA code, anyone who sets this up can just insert and tap the key.
 
