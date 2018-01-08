@@ -142,7 +142,7 @@ First, participants will need to enter their password to verify that they own th
 
 Next, participants will have to add a phone number. (Exasperatingly, you can't set up app based authentication without first setting up SMS authentication. At least not on Gmail.)
 
-Once participants have followed the setps on screen to register their phones, they will be able to receive 2FA codes through SMS text messages.
+Once participants have followed the steps on screen to register their phones, they will be able to receive 2FA codes through SMS text messages.
 
 **Set up an authenticator app:**
 As discussed, we want more security than SMS provides. So once you have enabled SMS based 2FA, have everyone set up app based authentication. They'll have to select "Authenticator App" and then open the authenticator app (probably on their phones) and add an account. They should be looking at a QR code on the screen and a camera on their app.
