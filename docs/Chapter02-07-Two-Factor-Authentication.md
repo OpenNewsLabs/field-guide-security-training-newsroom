@@ -23,7 +23,7 @@ They’ll need their mobile devices (iPhone or Android) and laptop computers.
 
 **How should participants prepare?**
 Have participants read [Two-Factor Authentication for
-Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/) and [The 12 Days of 2FA: How to Enable Two-Factor Authentication For Your Online Accounts](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts) -- both are good overviews of the process.
+Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/) and [The 12 Days of 2FA: How to Enable Two-Factor Authentication For Your Online Accounts](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts)—both are good overviews of the process.
 
 If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop. Make sure to include install links for iOS and Android versions in your pre-workshop communications.  
 
@@ -34,11 +34,11 @@ EFF's [Two Factor Authentication Handout](https://sec.eff.org/materials/two-fact
 **How should the instructor prepare?**
  
 - Read through the lesson plan.
-- Set up an email account to use to demo 2FA -- a secondary or dummy gmail account is a good option for this.
+- Set up an email account to use to demo 2FA—a secondary or dummy gmail account is a good option for this.
 - Read the two recommended participant readings.
-- If you're unfamiliar with concepts in the lesson plan, the recommended readings at the end of this lesson are an excellent way to build your own knowledge store. You should also review the [phishing](LINKTK) lesson and recommended readings -- they'll help you articulate the importance of 2FA.
-- If you're working with a larger organization, check with their IT team to find out if their organizational email supports 2FA. It may not be supported -- or they may require and enforce it already. Either way, you'll want to tailor your conversation to their circumstances.
-- If possible, check with participants to find out their primary email provider (Gmail, Hotmail, corporate, etc.). The lesson plan covers setting up 2FA for Gmail -- you may need to review instructions for other providers beforehand based on the needs of your participants.
+- If you're unfamiliar with concepts in the lesson plan, the recommended readings at the end of this lesson are an excellent way to build your own knowledge store. You should also review the [phishing](LINKTK) lesson and recommended readings—they'll help you articulate the importance of 2FA.
+- If you're working with a larger organization, check with their IT team to find out if their organizational email supports 2FA. It may not be supported—or they may require and enforce it already. Either way, you'll want to tailor your conversation to their circumstances.
+- If possible, check with participants to find out their primary email provider (Gmail, Hotmail, corporate, etc.). The lesson plan covers setting up 2FA for Gmail—you may need to review instructions for other providers beforehand based on the needs of your participants.
 
 **Followup Opportunities**
 
@@ -52,9 +52,9 @@ When you follow up after the workshop, remind folks to confirm that the spot the
 
 ### Discussion
 
-If someone gains access to your primary email account, they can easily use that access to reset passwords and take over your other accounts. Two-factor authentication (2FA), along with [strong passwords](LINK TK) and alertness to [phishing](LINK TK), will go a long way towards protecting your online accounts. So have everyone start by identifying their primary email account and setting up 2FA there. Any accounts that participants use for single sign on -- Github, Facebook, Twitter, Google  -- are also a high priority. If someone is able to take over your Facebook account, that may give them a back door to all kinds of other accounts and services.
+If someone gains access to your primary email account, they can easily use that access to reset passwords and take over your other accounts. Two-factor authentication (2FA), along with [strong passwords](LINK TK) and alertness to [phishing](LINK TK), will go a long way towards protecting your online accounts. So have everyone start by identifying their primary email account and setting up 2FA there. Any accounts that participants use for single sign on—Github, Facebook, Twitter, Google—are also a high priority. If someone is able to take over your Facebook account, that may give them a back door to all kinds of other accounts and services.
 
-Note: it's easy to get lost in a "is this really going to happen to me?" spiral, or a "sure, but what's the worst that could happen" discussion. Some clarity about what is at stake is certainly valuable but it probably isn't useful to get to caught up in horror stories. Remind folks that 2FA is relatively straightforward once it is part of your workflow. You can either get in the habit of carrying your keys and locking the door behind you, or you can stop and think everytime you leave the house "Have I left anything valuable out? What are the odds that someone will break in today?" [Mat Honan](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/) lost a lot of personal archives because some hackers wanted his Twitter handle. For a while hackers were doing a good job of taking over email accounts to send out desperate pleas for money -- "Help, I'm traveling and I was hit by a car and I can't reach my parents, but I desperately need you to wire $400 to this random stranger so I can pay my hospital bill and come home." -- even though the apparent sender was safe at home. If you work in a newsroom with someone working on sensitive investigations, if anyone who trusts you is doing sensitive work, you owe it to them to ensure that you're not the vector for an attack.
+Note: it's easy to get lost in a "is this really going to happen to me?" spiral, or a "sure, but what's the worst that could happen" discussion. Some clarity about what is at stake is certainly valuable but it probably isn't useful to get to caught up in horror stories. Remind folks that 2FA is relatively straightforward once it is part of your workflow. You can either get in the habit of carrying your keys and locking the door behind you, or you can stop and think everytime you leave the house "Have I left anything valuable out? What are the odds that someone will break in today?" [Mat Honan](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/) lost a lot of personal archives because some hackers wanted his Twitter handle. For a while hackers were doing a good job of taking over email accounts to send out desperate pleas for money—"Help, I'm traveling and I was hit by a car and I can't reach my parents, but I desperately need you to wire $400 to this random stranger so I can pay my hospital bill and come home."—even though the apparent sender was safe at home. If you work in a newsroom with someone working on sensitive investigations, if anyone who trusts you is doing sensitive work, you owe it to them to ensure that you're not the vector for an attack.
 
 There's very good reason to believe that the Clinton email hack was made possible because [John Podesta didn't have 2FA turned on](http://fortune.com/2016/10/29/clinton-email-phishing-attack/). Don't be John Podesta. He fell for a spearphishing scam that told him he needed to change his password. With 2FA enabled, just knowing his new password wouldn't be enough to give a hacker access to his emails.
 
@@ -109,7 +109,7 @@ They’re reasonably cheap — one of the most popular options, a [Yubikey](
 
 ![YubiKey in action](img/ch2-7-4.png)
 
-Using them is easy -- you simply insert your security key during login, and physically tap it when prompted.
+Using them is easy—you simply insert your security key during login, and physically tap it when prompted.
 
 Security keys are fairly resistant to phishing attacks, making them one of the best options available. Unlike code-based 2FA, phishing sites don’t have a great way to intercept information from security keys. Also, Yubikeys  generate and store a unique ID for each login on first registration, and check this ID on subsequent logins. If you were to land on a phishing site with an illegitimate URL domain (e.g., faceboook.com instead of facebook.com), the ID will not match and the key will not cooperate with the website.
 
@@ -153,7 +153,8 @@ Now that everybody has 2FA set up, they DEFINITELY need to download backup codes
 **Disable SMS authentication:** 
 After setting up an authenticator app or security keys, participants should remove their phone as a 2FA method.
 
-**Security Keys (optional):** If particpants have Yubikeys and want to set them up, they should scroll down to `Security keys` and click `Add security key`. When prompted, they should insert the key into the USB port, and physically tap the gold disk on top.
+**Security Keys (optional):**
+If particpants have Yubikeys and want to set them up, they should scroll down to `Security keys` and click `Add security key`. When prompted, they should insert the key into the USB port, and physically tap the gold disk on top.
 
 They'll be prompted to name the newly-registered device. During login, instead of typing in a 2FA code, anyone who sets this up can just insert and tap the key.
 
