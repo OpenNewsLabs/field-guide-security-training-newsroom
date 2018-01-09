@@ -63,7 +63,7 @@ This fairly guide covers basic explainers and links to tools for blocking online
 
 **[Journalists in Distress: Securing Your Digital Life](http://www.cjfe.org/journalists_in_distress_securing_your_digital_life)**  
 [http://www.cjfe.org/journalists_in_distress_securing_your_digital_life](http://www.cjfe.org/journalists_in_distress_securing_your_digital_life)  
-*Canadian Journalists for Free Expression*** **  
+*Canadian Journalists for Free Expression*   
 The guide includes background information describing how data flows online and in mobile networks, as well as information on browser privacy and security, encrypted communications, social media privacy, internet cafe concerns, strong authentication, and information about technical threats from authorities.  
 **Published:**  January 2017  
 **Added:**  June 2017  
@@ -160,9 +160,26 @@ These are resources on security support for different types of collectives (usua
 [https://orgsec.community/display/OS](https://orgsec.community/display/OS)  
 *Internews, Multiple Human Rights International Training Organizations*  
 These are resources on security support for different types of collectives (usually organizations, but also networks of varying complexities). Includes conducting pentesting audits, training, incident response processes, persuading organizations and leadership to adopt security tool, practices and policies, etc. (When groups and industries fully commit to safe practices and behaviors for staff and users, this is the next step beyond ad hoc "trainings" and peer recommendations, since doing security at a collective level is vastly more effective than doing it in a scattershot manner.)  
-**Published: **early 2016, intermittent additions  
+**Published:** early 2016, intermittent additions  
 **Added:** June 2017  
 **Tags:** Security for Groups, Security for Networks, Organizational Security  
+
+**[WMC Speech Project - Tools and Resources](http://www.womensmediacenter.com/speech-project/tools-resources/)**<br/>
+[http://www.womensmediacenter.com/speech-project/tools-resources/](http://www.womensmediacenter.com/speech-project/tools-resources/)<br/>
+*Women's Media Center - multiple authors*<br/>
+These are resources and tools to support the The WMC Speech Project, which is dedicated to expanding women’s freedom of expression and curbing online harassment and abuse. Included are resources to assist with immediate and ongoing harassment, guides to digital security from the perspective of preventing doxxing and online harassment, and links to organizations with similar goals<br/>
+**Published:** late 2016, ongoing additions<br/>
+**Added:** January 2018<br/>
+**Tags:** Security for Groups, Online Harassment, Organizational Security, Personal Security<br/>
+
+**[The Holistic Security Manual - Tactical Tech](https://holistic-security.tacticaltech.org/)**<br/>
+[https://holistic-security.tacticaltech.org/](https://holistic-security.tacticaltech.org/)<br/>
+*Tactical Tech - multiple authors*<br/>
+This manual takes a holistic approach to security, treating physical, psycho-social, and digital security as part of a greater whole rather than addressing them separately. It describes a process with Prepare-Explore-Strategize-Act phases to produce security recommendations tailored to specific circumstances.<br/>
+**Published:** September 2016<br/>
+**Added:** January 2018<br/>
+**Tags:** Security for Groups, Organizational Security, Personal Security<br/>
+
 
 
 ### PERSONAL DIGITAL SECURITY
