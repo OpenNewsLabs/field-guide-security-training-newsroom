@@ -178,7 +178,7 @@ These are resources and tools to support the The WMC Speech Project, which is de
 This manual takes a holistic approach to security, treating physical, psycho-social, and digital security as part of a greater whole rather than addressing them separately. It describes a process with Prepare-Explore-Strategize-Act phases to produce security recommendations tailored to specific circumstances.<br/>
 **Published:** September 2016<br/>
 **Added:** January 2018<br/>
-**Tags:** Security for Groups, Organizational Security, Personal Security<br/>
+**Tags:** Security for Groups, Organizational Security, Personal Security
 
 
 
