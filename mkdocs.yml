@@ -2,15 +2,16 @@ site_name: Newsroom Security Curricula
 pages:
     - Home: index.md
     - Chapter 1:
-        - Being A Better Trainer: Chapter01-01-BeingABetterTrainer.md 
-        - Training Games: Chapter01-02-TrainingGames.md
-        - Organizational Self-Assessment: Chapter01-03-OrganizationalSelfAssessment.md
+        - "Being A Better Trainer": Chapter01-01-BeingABetterTrainer.md 
+        - "Training Games": Chapter01-02-TrainingGames.md
+        - "Organizational Self-Assessment": Chapter01-03-OrganizationalSelfAssessment.md
     - Chapter 2:
-        - Mobile Security Settings: Chapter02-01-Mobile-Security-Settings.md 
-        - Mobile Backups: Chapter02-02-Mobile-Backups.md 
-        - Locking Down Mobile: Chapter02-03-Locking-Down-Mobile.md 
-        - Setting Up Signal: Chapter02-04-Setting-Up-Signal.md 
-        - Good Hygiene For Apps: Chapter02-05-Good-Hygiene-For-Apps.md
+        - "Lesson: Mobile Security Settings": Chapter02-01-Mobile-Security-Settings.md 
+        - "Lesson: Mobile Backups": Chapter02-02-Mobile-Backups.md 
+        - "Lesson: Locking Down Mobile": Chapter02-03-Locking-Down-Mobile.md 
+        - "Lesson: Setting Up Signal": Chapter02-04-Setting-Up-Signal.md 
+        - "Lesson: Good Hygiene For Apps": Chapter02-05-Good-Hygiene-For-Apps.md
+        - "Lesson: Two-Factor Authentication": Chapter02-07-Two-Factor-Authentication.md
     - Chapter 3 - Resources: Chapter03-Resources.md
     - Contribute to this guide: contributing.md
 theme: readthedocs
