@@ -23,19 +23,19 @@ Comprehensive resources addressing digital security in general, and online commu
 
 **EFF's [Security Education Companion](https://sec.eff.org)**  
 <https://sec.eff.org>  
-*Electronic Frontier Foundation*
-A resource for people teaching digital security to their friends and neighbors.
-**Published:** November 2017  
+*Electronic Frontier Foundation*  
+A resource for people teaching digital security to their friends and neighbors.  
+**Published:** November 2017   
 **Added: ** December 2017  
-**Tags: ** curriculum, train-the-trainer
+**Tags: ** curriculum, train-the-trainer  
 
 **[Surveillance Self-Defense:  Tips, Tools and How-tos for Safer Online Communication](https://ssd.eff.org/)**  
-<https://ssd.eff.org/>
-*Electronic Frontier Foundation*  
-A guide to protection against surveillance, this guide also includes great material on personal digital security.  Organized into overviews, tutorials, briefings, playlists.  
+<https://ssd.eff.org/>  
+*Electronic Frontier Foundation*    
+A guide to protection against surveillance, this guide also includes great material on personal digital security.  Organized into overviews, tutorials, briefings, playlists.    
 **Published:**  October, 2014, updated frequently (timestamp at the bottom of each guide.)  
-**Added:**  June 2017  
-**Tags:** guides, surveillance  
+**Added:**  June 2017    
+**Tags:** guides, surveillance    
 
 **[A First Look at Digital Security](https://www.accessnow.org/a-first-look-at-digital-security/)**  
 [https://www.accessnow.org/a-first-look-at-digital-security/](https://www.accessnow.org/a-first-look-at-digital-security/)  
@@ -55,7 +55,7 @@ An introduction to digital security with brief descriptions and links to resourc
 
 **[A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)**  
 [https://hackblossom.org/cybersecurity/](https://hackblossom.org/cybersecurity/)  
-*Noah Kelley, HACK*BLOSSOM*  
+*Noah Kelley, HACKBLOSSOM*  
 This fairly guide covers basic explainers and links to tools for blocking online tracking, circumvention and anonymity tools, defending against malware, strong authentication practices, privacy on social media, as well as device and communication encryption. It does *not* include hands-on guides that walk users through use/installation of various tools.   
 **Published:**  ?  
 **Added:** June 2017  
@@ -164,22 +164,45 @@ These are resources on security support for different types of collectives (usua
 **Added:** June 2017  
 **Tags:** Security for Groups, Security for Networks, Organizational Security  
 
-**[WMC Speech Project - Tools and Resources](http://www.womensmediacenter.com/speech-project/tools-resources/)**<br/>
-[http://www.womensmediacenter.com/speech-project/tools-resources/](http://www.womensmediacenter.com/speech-project/tools-resources/)<br/>
-*Women's Media Center - multiple authors*<br/>
-These are resources and tools to support the The WMC Speech Project, which is dedicated to expanding women’s freedom of expression and curbing online harassment and abuse. Included are resources to assist with immediate and ongoing harassment, guides to digital security from the perspective of preventing doxxing and online harassment, and links to organizations with similar goals<br/>
-**Published:** late 2016, ongoing additions<br/>
-**Added:** January 2018<br/>
-**Tags:** Security for Groups, Online Harassment, Organizational Security, Personal Security<br/>
+**[WMC Speech Project - Tools and Resources](http://www.womensmediacenter.com/speech-project/tools-resources/)**  
+[http://www.womensmediacenter.com/speech-project/tools-resources/](http://www.womensmediacenter.com/speech-project/tools-resources/)  
+*Women's Media Center - multiple authors*  
+These are resources and tools to support the The WMC Speech Project, which is dedicated to expanding women’s freedom of expression and curbing online harassment and abuse. Included are resources to assist with immediate and ongoing harassment, guides to digital security from the perspective of preventing doxxing and online harassment, and links to organizations with similar goals  
+**Published:** late 2016, ongoing additions  
+**Added:** January 2018  
+**Tags:** Security for Groups, Online Harassment, Organizational Security, Personal Security  
 
-**[The Holistic Security Manual - Tactical Tech](https://holistic-security.tacticaltech.org/)**<br/>
-[https://holistic-security.tacticaltech.org/](https://holistic-security.tacticaltech.org/)<br/>
-*Tactical Tech - multiple authors*<br/>
-This manual takes a holistic approach to security, treating physical, psycho-social, and digital security as part of a greater whole rather than addressing them separately. It describes a process with Prepare-Explore-Strategize-Act phases to produce security recommendations tailored to specific circumstances.<br/>
-**Published:** September 2016<br/>
-**Added:** January 2018<br/>
+**[The Holistic Security Manual - Tactical Tech](https://holistic-security.tacticaltech.org/)**  
+[https://holistic-security.tacticaltech.org/](https://holistic-security.tacticaltech.org/)  
+*Tactical Tech - multiple authors*  
+This manual takes a holistic approach to security, treating physical, psycho-social, and digital security as part of a greater whole rather than addressing them separately. It describes a process with Prepare-Explore-Strategize-Act phases to produce security recommendations tailored to specific circumstances.  
+**Published:** September 2016  
+**Added:** January 2018  
 **Tags:** Security for Groups, Organizational Security, Personal Security
 
+**[CPJ - Emergency Response Team](https://cpj.org/emergency-response/)**  
+[https://cpj.org/emergency-response/](https://cpj.org/emergency-response/)  
+*CPJ staff*  
+This team provides safety and security tools and information for journalists, in addition to rapid response assictance for journalists at risk.  
+**Published:** undated    
+**Added:** January 2018  
+**Tags:** Security For Groups, Personal Security, Emergency Support
+
+**[Global Journalist Security](https://www.journalistsecurity.net/)**   
+[https://www.journalistsecurity.net/](https://www.journalistsecurity.net/)  
+*Global Journalist Security staff*  
+This organization provides hostile environment training for journalists and other at-risk groups. Their main focus seems to be physical security, but they also have a Digital Security For Newsrooms course.  
+**Published:** undated  
+**Added:** January 2018  
+**Tags:** Physical Security, Security for Groups, Personal Security  
+
+**[Global Investigative Journalism Network - Helpdesk](https://helpdesk.gijn.org/support/solutions/articles/14000036509-safety-and-security)**  
+[https://helpdesk.gijn.org/support/solutions/articles/14000036509-safety-and-security](https://helpdesk.gijn.org/support/solutions/articles/14000036509-safety-and-security)   
+*Multiple authors*   
+Guides covering physical and digital security for journalists, along with a helpdesk to provide support with queries related to the covered topics.  
+**Published:** undated   
+**Added:** January 2018   
+**Tags:** Physical Security, Security for Groups, Personal Security  
 
 
 ### PERSONAL DIGITAL SECURITY
