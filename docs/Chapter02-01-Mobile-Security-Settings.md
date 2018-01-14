@@ -6,8 +6,8 @@ This is the first short training module in a series of three trainings dedicated
 ## About this lesson plan
 
 **Review date:** June 5, 2017  
-**Lesson duration:** 20-30 minutes
-**Level:** Introductory.
+**Lesson duration:** 20-30 minutes  
+**Level:** Introductory.  
 This session is for journalists who may not realize how many permissions they have given to the third-party apps on their phone, and for those who are not regularly doing good security hygiene on their devices.
 
 ### What will participants learn?
@@ -70,7 +70,7 @@ Open settings, go to **Privacy** (a small gray icon with a hand)
 
 **For Android users:**
 
-The process of checking application permission settings differs between Android versions.You can check `Settings > System > About Phone` if you want to know, or just get started.
+The process of checking application permission settings differs between Android versions. To find out which version of Android your phone is running, check `Settings > System > About Phone`.
 
 * Marshmallow (6.0) or later: Open `Settings > Apps`. Click the gear icon and open **App Permissions**. A list of permissions will be displayed including features such as Camera, Location, and Microphone, along with their current settings.
 * Android versions before 6.0:  Open `Settings > Apps` and select an app - you have to review permissions per app, rather than per-sensor.
@@ -78,7 +78,7 @@ The process of checking application permission settings differs between Android 
 ![Android App Permissions](img/ch2-1/ch2-1-2.png)
 
 
-## Recommended Reaading
+## Recommended Reading
 
 ### Links in the news
 

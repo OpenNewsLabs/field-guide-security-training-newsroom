@@ -8,8 +8,8 @@ Getting everyone started backing up their phones is a great way to make sure eve
 ## About This Lesson Plan
 
 **Review date:** Dec 5, 2017  
-**Lesson duration:** This should take under an hour.
-**Level:** Introductory
+**Lesson duration:** This should take under an hour.  
+**Level:** Introductory  
 
 **What materials will participants need?**
 
@@ -31,6 +31,7 @@ Read [EFF on Harm Reduction](https://sec.eff.org/articles/harm-reduction) -- it'
 Everyone should take stock of what is actually on their phone that isn't already backed up. Most folks are syncing calendars and contacts with [Nextcloud](https://nextcloud.com/) or Google or iCloud or iTunes already, but if anyone isn't, start there.
 
 Have everyone go through the apps installed on their phones (this is also a fine time to think about deleting apps you don't use). Some things, like email, are easily restored from settings, but if you know you're going to do a hard reset on your phone, take a moment to make sure you have a record of those settings.
+
 + Social Media (eg. Tumblr, Twitter, What's App) is easy to restore if you know your login information.
 + Email often requires you to know a few settings.
 + Two Factor Authentication can really throw you -- if you're using 2FA open your authenticator app and make sure that you have backup codes for every service listed. If you aren't, make that sure that's one of your next sessions. :)
@@ -56,6 +57,7 @@ Everyone's backup strategy is going to be different. Your goal is to find a stra
 
 ### Android Users
 In addition to backing up to a cloud or web-based service, Android users can back up directly to a laptop or desktop via USB.  Just watch out for power-only USB cables that don't support data transfer. You should see a prompt inviting you to allow file transfer when you connect your phone to your laptop via USB -- it might be labeled "MTP" or "FTP". Once you accept that, your phone should mount as a drive on your laptop. If you're going to make a one-off backup like this, especially if you're going to be resetting your phone consider also ...
+
 + Export your contacts to a `.vcf` file (`Import/Export` is one of just four menu options) and back that up.
 + Most podcast apps will let you export an OPML file so you can restore your subscriptions.
 
