@@ -17,7 +17,7 @@ To contribute a link, please open a pull request.  This is a community-curated l
 **Tags:** <tags> (keywords, csv)
 ```
 
-### COMMUNITIES, LEARNING and GUIDES
+### COMMUNITIES, LEARNING AND GUIDES
 
 Comprehensive resources addressing digital security in general, and online communities where digital security is discussed.
 
