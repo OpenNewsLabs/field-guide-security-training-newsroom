@@ -11,8 +11,8 @@ This lesson plan is intended to be taught as the third in a series, following [m
 ## About This Lesson Plan
 
 **Review date:** June 6, 2017  
-**Lesson duration:** 15-30 minutes  
-**Level:** Beginner
+**Lesson duration:** 15-30 minutes   
+**Level:** Beginner  
 
 ### Preconditions
 This lesson assumes users have already reviewed their [mobile app security settings](Chapter02-01-Mobile-Security-Settings), and walked through  [locking down mobile devices](Chapter02-03-Locking-Down-Mobile.md).
@@ -28,6 +28,7 @@ Smartphone: iPhone or Android
 ### How can the trainer prepare?
 
 Two excellent resources on how and why journalists are moving to Signal:
+
 + [Martin Shelton on Signal for Beginners](https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0) 
 + [Security Tips Every Signal User Should Know (The Intercept)](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/).
 This lesson draws from both.
@@ -53,6 +54,7 @@ The conversation should include some review of what Signal can protect (messages
 Real questions that users might have: who actually has access to your text messages? The answer is a bit complex. While it is relatively trivial for someone else to read messages sent in cleartext over a public wifi network, messages sent from your phone over the cell network are not as easily intercepted. However, your phone company does have access to the contents of all of your cleartext SMS messages, which means they can be subpoenaed or otherwise acquired by local police, the FBI, or the NSA. It is relatively well documented that the NSA has, historically, [swept up phone records in bulk](https://theintercept.com/2015/07/09/spying-internet-orders-magnitude-invasive-phone-metadata/). And that's just inside the US. Around the world, privacy protections can vary widely. And as long as privacy protection is legal, and not technical, individuals are vulnerable to changes in the law or to government overreach.
 
 If you're sure you don't mind the FBI reading all of your text messages there are still good reasons to encrypt them:
+
 + You might change your mind. And by using Signal now, you can ensure that it is there, and working, when you decide you need it.
 + Other people need it. The more people there are who use software, the easier it is to use. That's because the simple act of using a tool like Signal effectively creates community around that tool.
 + Privacy should be normal. If democracy activists and vulnerable journalists are the only ones encrypting their text messages, their communications stand out. But if everyone encrypts the boring stuff -- the 25 message exchange about who is bringing what to a holiday meal, the back and forth about what time to meet or the dressing room photo of a questionable coat -- then we all clear the way for vulnerable users to use encryption without standing out.

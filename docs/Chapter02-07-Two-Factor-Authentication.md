@@ -10,8 +10,8 @@ This lesson plan will introduce key concepts about 2FA, and guide you through th
 ## About This Lesson Plan
 
 **Review date:** Dec 2017  
-**Lesson duration:** 30 mins (estimated)
-**Level:** Introductory.
+**Lesson duration:** 30 mins (estimated)  
+**Level:** Introductory.  
 
 **Gotcha:** Make sure participants have a reliable strategy for keeping backup codes, so they don't get wholly locked out of their accounts.
 
