@@ -434,4 +434,17 @@ SecureDrop is an open-source whistleblower submission system that media organiza
 ### EVENTS  
 
 **[RightsCon](https://www.rightscon.org/)**  
-<
+<https://www.rightscon.org/>  
+*n/a*  
+Yearly conference focused on human rights and digital technology.  
+**Published:** n/a  
+**Added:** January 2018  
+
+
+**[Global Investigative Journalism Conference](https://gijc2017.org/)**  
+<https://gijc2017.org/>  
+*n/a*  
+Yearly conference hosted by the GIJN and various other institutions. Focuses on issues related to investigative journalism, with some digital security content.  
+**Published:** n/a  
+**Added:** January 2018  
+
