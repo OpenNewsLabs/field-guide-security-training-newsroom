@@ -204,10 +204,50 @@ Guides covering physical and digital security for journalists, along with a help
 **Added:** January 2018   
 **Tags:** Physical Security, Security for Groups, Personal Security  
 
+**[Dart Center for Journalism and Trauma](https://dartcenter.org/)**  
+[https://dartcenter.org/](https://dartcenter.org/)  
+*Multiple authors*  
+Guides and teaching resources to support journalists reporting on traumatic topics and events.  
+**Published:** undated  
+**Added:** January 2018  
+**Tags:** Physical Security, Security for Groups, Psychological Support   
+
+**[International SOS](https://www.internationalsos.com/)**  
+<https://www.internationalsos.com/>  
+*International SOS staff*  
+Risk management consulting and support for organizations operating in hostile environments.  
+**Published:** undated  
+**Added:** January 2018  
+**Tags:** Physical Security, Security for Groups, Risk Management  
+
+**[Control Risks](https://www.controlrisks.com/)**
+<https://www.controlrisks.com//>
+*Control Risks staff*
+Risk management consulting and support for organizations operating in hostile environments.
+**Published:** undated
+**Added:** January 2018
+**Tags:** Physical Security, Security for Groups, Risk Management
+
+**[On Call International](http://www.oncallinternational.com/)**  
+<http://www.oncallinternational.com/>  
+*On Call International  staff*  
+Risk management consulting and support for travelers and organizations operating in hostile environments.  
+**Published:** undated  
+**Added:** January 2018  
+**Tags:** Physical Security, Security for Groups, Risk Management  
+
 
 ### PERSONAL DIGITAL SECURITY
 
 Resources for securing accounts and personal digital integrity.
+
+**[Security Planner](https://securityplanner.org/)**  
+<https://securityplanner.org/>  
+*Citizen Lab staff*  
+A resource that provides digital security recommendations based on responses to a few simple questions. It's a good starting-point for basic digital security policies for journalists in low-risk situations.  
+**Published:** December 2017  
+**Added:** January 2018
+**Tags:** Personal Digital Security  
 
 **[Security for Journalists:  Part 1: the Basics](https://source.opennews.org/articles/security-journalists-part-one-basics/)**  
 [https://source.opennews.org/articles/security-journalists-part-one-basics/](https://source.opennews.org/articles/security-journalists-part-one-basics/)  
@@ -390,3 +430,8 @@ An overview of securing communications with confidential sources.
 SecureDrop is an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.  
 **Published:** updated regularly  
 **Added:** June 2017  
+
+### EVENTS  
+
+**[RightsCon](https://www.rightscon.org/)**  
+<
