@@ -1,5 +1,4 @@
-# Chapter 1
-## Part 3: Games Worth Playing
+## Games Worth Playing
 
 Games are a helpful way to keep your audience engaged, and to gently introduce them to technical concepts. It's unrealistic, and probably not useful, to try to provide a detailed description of how the Internet works in the time you'll most likely have. Instead, the games below will give your participants an intuitive understanding of basic networking concepts and the role that encryption plays in securing their communications - and hopefully add a little fun to your training sessions!
 

@@ -1,5 +1,4 @@
-# Chapter 1
-## Part 3: Organizational Self-Assessment
+## Organizational Self-Assessment
 
 These questions should help you build a better understanding of how your organization approaches security already. They also make a good starting point for a best practices list.  
 
@@ -26,7 +25,7 @@ As a general rule, you want to work with, not against, internal IT policies. So 
     * Have you communicated that plan to newsroom management?
     * Does that plan include post-mortem review?
 
-### Questions for newsroom leadership:
+### Questions for newsroom leadership
 
 * Do you use collaborative document editing and storage services (eg. Google Drive, Dropbox, Trello, Evernote)?
     * Do you have a policy about whether or not to store "sensitive" information in these services?
@@ -46,7 +45,7 @@ As a general rule, you want to work with, not against, internal IT policies. So 
 * Are there tools or techniques you’d like to use but can’t because of internal editorial policies or internal IT policies?
 * Have specific incidents prompted you to seek out additional tools and/or training?
 
-### How to use the information you’ve collected:
+### How to use the information you’ve collected
 
 * Tailor your recommendations for best practices (especially as they relate to newsroom-wide policies or changes to infrastructure). In many news organizations, you’ll find that the IT side and the newsroom side aren’t communicating with each other on these topics. This training and these conversations are a great way to help an organization get started.
 * Help select lessons and training modules to use from this curriculum.
