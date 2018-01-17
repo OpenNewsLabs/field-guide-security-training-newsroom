@@ -1,3 +1,5 @@
+# The Field Guide to Security Training in the Newsroom
+
 Did The Intercept just burn a source? Does that Yahoo hack mean that you need to change all your passwords?  In the weeks following the 2016 presidential election, daily downloads of Signal increased four-fold. Though the US Border Patrol has had the authority to search electronic devices at border crossings for almost a decade, they seem to be using that authority more often in recent months. With the inauguration of a president who is openly hostile to the press, reporters on all kinds of beats have started to ask how to protect their digital data and how to advocate for better policy and infrastructure throughout the newsroom. 
 
 Often the person they turn to for help has to come up with smart answers on the fly. They’re the one developer who uses GPG, or the reporter who’s been trying to convince everyone else to install Signal—and now they’re suddenly pressed into service as the newsroom security expert. Or they’re the IT staffer tasked with keeping the mail servers running, only now they’re also the in-house opsec consultant who doesn’t have any formal training in what reporters and editors need.
