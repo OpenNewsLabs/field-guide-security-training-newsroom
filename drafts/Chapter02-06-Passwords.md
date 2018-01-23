@@ -178,59 +178,33 @@ Now everyone is in a good position to use the password manager as their primary 
 
 *Note:* Some trainers feel strongly that everyone should use the password manager exercise as an opportunity to change *all* their passwords to secure unique passwords, but that adds a layer of work before you’ve even figured out whether this tool will work. We recommend starting by just moving from your current system (which is probably a combination of sticky notes and passwords saved in the browser) to a password manager. You should have already changed your key passwords.
 
+### Option 2: Use Your Inbox
+
+Remember that we're taking a harm reduction approach here. Some people just won’t use a password manager. If you already know your team isn’t on board, or if folks try a password manager and confess that it didn’t stick, this is a slate of "good enough" strategies:
 
 
-**Option 2:** Some people just won’t use a password manager. If you
-already know your team isn’t on board, or if folks try a password
-manager and confess that it didn’t stick, this is a slate of strategies
-that is good enough in many cases:
+1.  Have everyone strongly secure their primary email account. If you only do one thing, do this.
 
-1.  Strongly secure your primary email account. If you only do one
-    > thing, do this.
+2.  Encourage everyone to use single sign on wherever it is available (This is "Sign In With Google" or "Sign in With Facebook"). If you have secured your single sign on account, this is a good option. Click approve the first time, any subsequent login is automatic but **still secure**. Note: make sure every one knows how to watch for the difference between using Facebook or Google to sign  in and giving an app or service permission to access your Facebook or Google data. Sign-in With Google is totally secure and fine, but be very careful about what other access you grant apps that are using Google Sign-In. Don’t just "click okay" and accept whatever access they are asking for. (Note to trainers: consider covering [Mobile Security Settings](docs/Chapter02-01-Mobile-Security-Settings.md) to ensure that participants understand this.)
 
-2.  Use "Sign In With \[Google/Facebook/etc\]"\
-    > \
-    > If you have secured your primary email account, this is a good
-    > option and is the easiest option. (click approve the first time,
-    > any subsequent login is automatic but **still secure**).\
-    > \
-    > Watch for the difference between using Facebook or Google to sign
-    > in and giving the app or service permission to access your
-    > Facebook or Google data.\
-    > \
-    > Sign-in With Google is totally secure and fine, but be very
-    > careful about what other access you grant apps that are using
-    > Google Sign-In. Don’t just "click okay" and accept whatever access
-    > they are asking for. (Note: there’s a whole workshop on working
-    > with mobile apps in this curriculum. It’s worth addressing.)
-
-3.  Use the "reset my password by email" link. It’s very secure (almost
-    > as secure as "sign in with \[google/etc\]") and as long as you
-    > don’t use a weak or reused password to start, it guarantees that
-    > no-one will be able to sign in as you later without access to
-    > your account.
-
-    a.  Use a random password and don’t save it! Especially for sites
-        > you don’t visit often, just using a throw-away password can be
-        > the most secure thing. This has the added benefit in a legal
-        > situation that if someone asks you for the password, you
-        > *literally don’t know it*.
+3.  Use the "reset my password by email" link. It’s very secure (almost as secure as single sign-on) and as long as you don’t use a weak or reused password to start, it guarantees that no-one will be able to sign in as you later without access to your account.
+  a.  Use a random password and don’t save it! Especially for sites you don’t visit often, just using a throw-away password can be the most secure thing. 
 
     b.  Use a password manager to generate a password; if you assume
-        > that you can reset the password later with an email link, then
-        > you don’t need to worry about the password manager
-        > backups, etc.
+     that you can reset the password later with an email link, then
+     you don’t need to worry about the password manager
+     backups, etc.
 
 4.  Email passwords to yourself. As long as you’re confident that your
-    > email account is secure and only accessible to you, and the
-    > passwords aren’t reused, this is a perfectly good option, because
-    > anyone who has access to your email account can almost certainly
-    > sign in to any of your accounts already.\
-    > \
-    > Many security experts will recoil at the thought of this, and
-    > participants should be *encouraged* to use password managers, but
-    > this is a viable backup option for those who can’t or won’t use a
-    > purpose-built password manager.
+ email account is secure and only accessible to you, and the
+ passwords aren’t reused, this is a perfectly good option, because
+ anyone who has access to your email account can almost certainly
+ sign in to any of your accounts already.
+
+ Many security experts will recoil at the thought of this, and
+ participants should be *encouraged* to use password managers, but
+ this is a viable backup option for those who can’t or won’t use a
+ purpose-built password manager.
 
 ### Failure Modes
 
@@ -267,9 +241,9 @@ those include (but aren’t limited to):
 Secondary things might include:
 
 -   Services where you’ve stored credit card information (eg. retailers,
-    > car services, course registration). Note that one way to move
-    > these logins down the hierarchy is to remove your stored
-    > credit card.
+ car services, course registration). Note that one way to move
+ these logins down the hierarchy is to remove your stored
+ credit card.
 
 -   Mileage accounts
 
@@ -291,14 +265,14 @@ blogs, and so on).
 **Follow Up**
 
 -   Homework: if you assigned 2FA or password resets as homework, be
-    > sure to send everyone a follow up note reminding them to DO IT.
+ sure to send everyone a follow up note reminding them to DO IT.
 
 -   Remind everyone to disable stored passwords and set up the password
-    > manager on their secondary computer and on their phone.
+ manager on their secondary computer and on their phone.
 
 -   Remind everyone to take stock of whether they’re still using their
-    > password manager. If they are, a week out is a good moment to look
-    > at all the other places
+ password manager. If they are, a week out is a good moment to look
+ at all the other places
 
 **Recommended Reading**
 
