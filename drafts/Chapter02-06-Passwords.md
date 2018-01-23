@@ -182,29 +182,20 @@ Now everyone is in a good position to use the password manager as their primary 
 
 Remember that we're taking a harm reduction approach here. Some people just won’t use a password manager. If you already know your team isn’t on board, or if folks try a password manager and confess that it didn’t stick, this is a slate of "good enough" strategies:
 
-
 1.  Have everyone strongly secure their primary email account. If you only do one thing, do this.
 
 2.  Encourage everyone to use single sign on wherever it is available (This is "Sign In With Google" or "Sign in With Facebook"). If you have secured your single sign on account, this is a good option. Click approve the first time, any subsequent login is automatic but **still secure**. Note: make sure every one knows how to watch for the difference between using Facebook or Google to sign  in and giving an app or service permission to access your Facebook or Google data. Sign-in With Google is totally secure and fine, but be very careful about what other access you grant apps that are using Google Sign-In. Don’t just "click okay" and accept whatever access they are asking for. (Note to trainers: consider covering [Mobile Security Settings](docs/Chapter02-01-Mobile-Security-Settings.md) to ensure that participants understand this.)
 
 3.  Use the "reset my password by email" link. It’s very secure (almost as secure as single sign-on) and as long as you don’t use a weak or reused password to start, it guarantees that no-one will be able to sign in as you later without access to your account.
-  a.  Use a random password and don’t save it! Especially for sites you don’t visit often, just using a throw-away password can be the most secure thing. 
+  a.  Use a random password and don’t save it! Especially for sites you don’t visit often, just using a throw-away password can be the most secure thing.
 
-    b.  Use a password manager to generate a password; if you assume
-     that you can reset the password later with an email link, then
-     you don’t need to worry about the password manager
-     backups, etc.
+  b.  Use a password manager to generate a password; if you can reset the password later with an email link, then you don’t need to worry about the password manager backups, etc.
 
-4.  Email passwords to yourself. As long as you’re confident that your
- email account is secure and only accessible to you, and the
- passwords aren’t reused, this is a perfectly good option, because
- anyone who has access to your email account can almost certainly
- sign in to any of your accounts already.
+4.  Email passwords to yourself. As long as your email account is secure and only accessible to you, and you don't reusd, this is a perfectly good option, because anyone who has access to your email account can almost certainly sign in to any of your accounts already.
 
- Many security experts will recoil at the thought of this, and
- participants should be *encouraged* to use password managers, but
- this is a viable backup option for those who can’t or won’t use a
- purpose-built password manager.
+More notes about harm reduction: Many security experts will recoil at this strategy. They're right: password managers are far more secure, but this is a viable backup option for those who can’t or won’t use a purpose-built password manager.
+
+Participants should take stock of all the points of entry to their email inboxes: are messages stored locally on their phone or laptop? 
 
 ### Failure Modes
 
