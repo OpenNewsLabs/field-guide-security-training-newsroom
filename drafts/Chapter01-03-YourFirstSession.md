@@ -70,23 +70,22 @@ Contexts in which this framing can be helpful: when working in newsrooms where s
 
 ## Understanding and Honoring Needs and Expectations
 
-DJ and Nicolás Sera-Leyva have already written a lot about understanding and managing expectations in digital security trainings over at [Level Up](https://www.level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/). We really want to stress the idea that communicating with participants, rather than relying entirely on what we *think* they need and expect, will help increase the usefulness of our efforts.
+DJ and Nicolás Sera-Leyva have written extensively about understanding and managing expectations in digital security trainings over at [Level Up](https://www.level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/). Communicating with participants, rather than relying entirely on what a trainer *thinks* they need and expect, will make any training more effective.
 
-The first session is great to help us get the whole group in sync, which sometimes means identifying the expectations that should be kindly adjusted so that we do not get caught up in promises we cannot keep. DJ and Nicolás offer the following messages to address some of the most common expectation-reality gaps in digital security trainings:
+The first session is great to help get the whole group in sync, which sometimes means identifying the expectations that should be kindly adjusted so that we do not get caught up in promises we cannot keep. DJ and Nicolás offer the following messages to address some of the most common expectation-reality gaps in digital security trainings:
 
 * There is no such thing as perfect security.
 * There is no such thing as a permanent digital security solution.
 * You are as secure as the most "un-secure" person you connect with online.
 
-And we add the following:
+A few more valuable points to keep in mind:
 
-* Digital security is not just about learning new things, but about changing habits, and nobody changes all of their habits because they go to a two-hour session. What are the realistic commitments we want to make?
+* Digital security is not just about knowledge: it is also about changing habits. Nobody changes all of their habits based on one two-hour session. What are the realistic commitments we can to make?
 * Security is an effort we make for ourselves, for others we care about, and also for others we currently do not care about. Because we rely on each other. See it as an act of moral obligation, civic responsibility, or love.
 * Everyone has individual needs and different starting points, and we can get to explore some of them in the group setting, but if we are working in an organizational setting, the threat models that address all the participants must be prioritized. Some boundaries will be set to keep the session relevant for everyone.
+* Normalizing secure communications is a way to work in solidarity with more vulnerable groups. As more people use encrypted channels to touch base about what's for dinner, we all help make secure communication normal.
 
-How can we have those conversations at the start? Surveys before workshops are a great way, but they are not the only option. Some of the lesson plans discussed in the previous section start with activities that incorporate (or can be easily tweaked to incorporate) these conversations, and Chris Michael published [this very useful resource for that](https://level-up.cc/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/). Even if you decide to do a lecture because you cannot ensure a participatory format, you can build-in a short interactive part of the session at the beginning to ask people about what they expect about the session.
-
-Now, what are some of those conversation prompts? Some questions you can use:
+How can we have those conversations at the start? Surveys before workshops are  great, but they are not the only option. Some of the "framing" suggestions above start with activities that incorporate (or can be easily tweaked to incorporate) these conversations, and Chris Michael published [a very useful resource for that](https://level-up.cc/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/). Even if you opt for a lecture because a participatory format isn't a good fit, you can build in a short interactive component to ask people about what they expect from the session. Prompts might include:
 
 * What is your previous experience with digital security topics? Saying "none" is okay!
 * What brings you to this workshop?
@@ -96,6 +95,6 @@ Now, what are some of those conversation prompts? Some questions you can use:
 * Do you have any digital security tips or things you already do?
 * What are some of your most pressing questions in terms of digital security?
 
-And then what? If you do this in-session, rather than before, *maybe* you won’t be able to produce a new session agenda from scratch on the spot, but taking notes of what is said can help you tweak your examples and language as you go through the session as you originally planned it (to especially address the points that were raised), and will help you in the planning of future sessions.
+And then what? If you do this in-session, rather than before, *maybe* you won’t be able to produce a new session agenda from scratch on the spot, but taking note of what is said can help you tweak your examples and language as you go through the session as you originally planned it (to especially address the points that were raised), and will help you in the planning of future sessions.
 
-This can also help you figure out any arrangements that you need to make to get everyone in sync. For example: if you have people with more experience, or with technical backgrounds, you can give them extra tasks to keep their attention and promote their growth: you can pair them up in some sections so they can mentor their peers, or they can participate as note-takers or designated [jargon ball throwers](https://www.level-up.cc/you-the-trainer/be-a-better-trainer/).
+Hearing from participants can also help you spot any opportunities to get everyone in sync. For example: if you have people with more experience, or with technical backgrounds, you can give them extra tasks to keep their attention and promote their growth: you can pair them up in some sections so they can mentor their peers, or they can participate as note-takers or designated [jargon ball throwers](https://www.level-up.cc/you-the-trainer/be-a-better-trainer/).
