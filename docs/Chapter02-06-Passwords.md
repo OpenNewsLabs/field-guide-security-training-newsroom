@@ -199,7 +199,7 @@ Remember that we're taking a harm reduction approach here. Some people just won�
 
 More notes about harm reduction: Many security experts will recoil at this strategy. They're right: password managers are far more secure, but this is a viable backup option for those who can’t or won’t use a purpose-built password manager.
 
-Participants should take stock of all the points of entry to their email inboxes: are messages stored locally on their phone or laptop? Will someone who accesses their laptop or phone have access to all of their account information? Remind participants that this strategy is good enough for most threat models but won't protect them from police search, for instance. 
+Participants should take stock of all the points of entry to their email inboxes: are messages stored locally on their phone or laptop? Will someone who accesses their laptop or phone have access to all of their account information? Remind participants that this strategy is good enough for most threat models but won't protect them from police search, for instance.
 
 
 ##Follow Up
