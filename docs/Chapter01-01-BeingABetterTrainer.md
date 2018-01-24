@@ -1,8 +1,9 @@
-It takes more than technical knowledge to be a great trainer. If you’re convening 4-5 colleagues for a quick brown bag, you may not need to think too deeply about the training space you create. 
+# Being a Better Trainer
+It takes more than technical knowledge to be a great trainer. If you’re convening 4-5 colleagues for a quick brown bag, you may not need to think too deeply about the training space you create.
 
 There are some basic steps you can take to ensure a successful, effective training.
 
-# Before: Plan Ahead
+## Before: Plan Ahead
 The time and effort that goes into preparing for a workshop can make a big difference in everyone's experience.
 
 + Use a pre-survey to gauge the group’s needs if you don’t already know them well.
@@ -18,7 +19,7 @@ The time and effort that goes into preparing for a workshop can make a big diffe
 
 
 
-# During: Run a Smooth Session
+## During: Run a Smooth Session
 There are lots of great resources in the introduction that can help you facilitate a session that helps participants grow instead of alienating them. Here are few tips that will help you make the most of training time:
 
 + When someone asks a question, repeating it back to the group is a great way to make sure that everyone hears the question. Plus, the practice helps make sure that you didn’t misunderstand the question.
@@ -31,21 +32,21 @@ There are lots of great resources in the introduction that can help you facilita
 If the group is larger than your own newsroom, definitely establish a code of conduct and some ground rules about photos and [quoting folks](https://www.chathamhouse.org/about/chatham-house-rule).
 
 
-# After: Follow Up!
+## After: Follow Up!
 
 + Send everyone a "Thank You" note within a few days. It should probably include:
-  + Next steps. If everyone left with a lot of good intentions, a short list of action items will help them make good on those intentions. 
+  + Next steps. If everyone left with a lot of good intentions, a short list of action items will help them make good on those intentions.
   + If you set aside any questions during the session, capture them in the follow up email. If you've figured out the answer, share it. If you haven't, just say so: "I haven't had a chance to take a closer look at this one."
 Follow up on any questions you promised to come back to.
   + Links to any sites that you mentioned.
-  + A copy of your slide deck or handouts, so folks can refer back to it. 
-  + A repeat of any instructions you followed (or a link to them). 
+  + A copy of your slide deck or handouts, so folks can refer back to it.
+  + A repeat of any instructions you followed (or a link to them).
 
-+ Review and revise your session plan within a day or two of the session. Look back over your plan and update it to reflect what actually worked in the session. Make any notes you wish you'd had handy this time, while those thoughts are still fresh in your mind. 
++ Review and revise your session plan within a day or two of the session. Look back over your plan and update it to reflect what actually worked in the session. Make any notes you wish you'd had handy this time, while those thoughts are still fresh in your mind.
 
 + Mark your calendar: if you gave participants any next steps, or even if you didn't, follow up with everyone a week or two later to check in about whether they took any action, how it went, where they got stuck.  
 
-## Getting Better 
+## Getting Better
 
 If you're ready to start improving your skills as a trainer, there are some fantastic resources that can help you out. Some of our favorites include:
 
@@ -57,5 +58,3 @@ If you're ready to start improving your skills as a trainer, there are some fant
 + Aspiration facilitates nonprofit technology convenings and they work hard to create collaborative and rewarding workshops. Their [facilitation guidelines](https://facilitation.aspirationtech.org/index.php?title=Facilitation:Facilitator_Guidelines
 ) and [workshop design advice](https://facilitation.aspirationtech.org/index.php?title=Facilitation:Sessions) are both worth checking out.
 + Open News led the process of creating the curriculum resource you're reading right now. Their [SRCCON facilitation guide](https://srccon.org/facilitators/index.html) is great, as is their roundup of [OpenNews posts on session design](https://opennews.org/blog/srccon-session-planning/).
- 
-
