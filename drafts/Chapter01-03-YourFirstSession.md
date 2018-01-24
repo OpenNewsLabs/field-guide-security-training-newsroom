@@ -1,4 +1,4 @@
-# Preparing for Your First Session
+# Setting the Stage for Your First Session
 
 <!-- This is really a guide to a few places to start introducing and framing digital security. -->
 
@@ -6,6 +6,8 @@
 There are a lot of stages to building digital security capacity in a newsroom, so you have to start *somewhere*. If you only run one session, it will still count as the start of the process for the newsroom. For trainers who are just getting started, choosing where and how to begin a facilitation process can feel incredibly daunting; it doesn't help that experienced trainers tend to have passionate feelings about where to start.
 
 Our guide to [Being Better Trainer](docs/Chapter01-01-BeingABetterTrainer.md) is a great resource, whatever your experience level. But the first session is an opportunity to think about how you will frame conversations so that they really do serve as a starting point for further work.
+
+Many trainers like to start with a review of basic digital literacy, to give a foundation to the rest of the work they're doing in subsequent trainings. Other's like to start with threat modeling or risk assessment. Below, we've gathered a variety of great resources to help you frame your trainings.
 
 <!--
  resource discusses considerations that you should have in all of your sessions, but we do think that first sessions can especially serve two purposes: setting a **good framing** that enables further work on digital security capacity building, and **understanding and honoring the needs and expectations of the group with which you will be working**.-->
@@ -34,37 +36,39 @@ Tactical Technology Collective’s [How the Internet Works](https://gendersec.ta
 
 [Internews’ SaferJourno](https://www.internews.org/sites/default/files/resources/SaferJournoGuide_2014-03-21.pdf) includes a nice module on risk assessment (see page 17), [Frontline Defenders Workbook on Security](https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk), and Tactical Technology Collective’s [visual actor mapping](https://holistic-security.tacticaltech.org/exercises/explore/visual-actor-mapping-part-1) session are all good resources for facilitating conversations about risk and risk assessment, which can be a good starting point for discussing concrete steps that are important to take.
 
+This framing is most helpful in an environment where participants are working closely together and share common risks.
+
 ## Where Your Data Lives
 
-[The Data Backup Matrix](https://level-up.cc/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/), a Level Up activity, gets participants to reflect on the spaces where their data is stored by facilitating the creation of an "information map". This exercise is based on the idea that understanding what exactly is at stake in a digital security crisis and what the least and most vulnerable points are, in that regard, will enable subsequent risk assessment and tool learning.
+[The Data Backup Matrix](https://level-up.cc/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/), a Level Up activity, asks participants to reflect on the places where their data is stored by facilitating creation of an "information map". This exercise is based on the idea that understanding what exactly is at stake in a digital security crisis and what the least and most vulnerable points are will enable subsequent risk assessment and tool learning.
 
-Contexts in which this framing can be helpful: when you are going into a session without knowing if all participants work or not in the same organization (the activities can easily be adapted to assist in the creation of either individual or organizational information maps); when working with groups that have had other digital security trainings but never really changed any of their practices, as this exercise can help them re-engage with the importance of better practices in their particular cases. This activity is intended for a session lasting 30 to 45 minutes.
+This framing can be particularly helpful when working with groups that have had other digital security trainings but never really changed any of their practices, as this exercise can help them re-engage with the importance of better practices in their particular cases. This activity is intended for a session lasting 30 to 45 minutes.
 
-#### A Day in Your Life (information mapping, by time)
+## A Day in Your Life
 
-Tactical Technology Collective’s [A day in your life](https://gendersec.tacticaltech.org/wiki/index.php/Holistic_security_-_A_day_in_your_life) gets participants to reflect on the sources of insecurity they face by facilitating the creation of a timeline, or, if we can call it so, a time-based "information map". This exercise is based on the idea that thinking about the times you feel insecure can help participants pinpoint the priorities to start building on their digital security skills.
+Tactical Technology Collective’s [A day in your life](https://gendersec.tacticaltech.org/wiki/index.php/Holistic_security_-_A_day_in_your_life) asks participants to create of a timeline, or a time-based "information map". The exercise is based on the idea that thinking about the times you are most vulnerable can help participants prioritize changes they want to make as they start building on their digital security skills.
 
-Contexts in which this framing can be helpful: when working with freelance journalists, as this activity allows primarily for individual analysis; when working with individuals that have had other digital security trainings but never really changed any of their practices, as this exercise can help them re-engage with the importance of better practices in their particular cases. The activity is intended for a session lasting an hour.
+This framing is most helpful for groups where individual analysis is most appropriate, and when working with groups that have had other digital security trainings but never really changed any of their practices, as this exercise can help them re-engage with the importance of better practices in their particular cases. The activity is intended for a session lasting an hour.
 
-#### Tracking – Who's collecting our data? How? And why?
+## Tracking – Who's collecting our data? How? And why?
 
-Tactical Technology Collective’s [My Shadow](https://myshadow.org/train) offers  activities and workshops crafted around this starting point, based on the idea that people can more easily make sense of best practices if they start by talking about services people already use and the data that is being collected.
+Tactical Technology Collective’s [My Shadow](https://myshadow.org/train) includes a few great  activities and workshops crafted around the idea that people can more easily make sense of best practices if they start by talking about services people already use and the data that is being collected.
 
-Contexts in which this framing can be helpful: in newsrooms that cover low-risk topics but are interested in building digital security capacity. The planned activities that are available are divided into 30-minute modules, which you should complement with discussions on the topic.
+This framing is particularly useful in newsrooms that cover low-risk topics but are interested in building digital security capacity. The planned activities that are available are divided into 30-minute modules, which you should complement with discussions on the topic.
 
-#### Reflecting on existing security practices
+## Reflecting on Existing Security Practices
 
-[This holistic security exercise](https://holistic-security.tacticaltech.org/exercises/prepare/1-1-reflecting-on-existing-security-practices) by Tactical Technology Collective is based on the idea that people are not really starting from scratch in terms of security, even if they are coming to their first training, and exploring previous knowledge and practices is a good way of making the entire process more relevant for them.
+[This holistic security exercise](https://holistic-security.tacticaltech.org/exercises/prepare/1-1-reflecting-on-existing-security-practices) by Tactical Technology Collective is based on the idea that people are not really starting from scratch in terms of security, even if they are coming to their first training. Exploring previous knowledge and practices is a good way of making the entire process more relevant for them.
 
-Contexts in which this framing can be helpful: in newsrooms or mixed-organization groups that have previous experience with security trainings, even if they were not digital security per se. The exercise linked above is not intended as a stand-alone session, but rather as an activity for one.
+This exercise isn't meant to be a stand-alone session, and can be a good warmup for a longer skill-based session.
 
-#### Integrated security
+## Integrated Security
 
 Some digital security trainers have used Kvinna till Kvinna’s [integrated security facilitation approach](http://www.integratedsecuritymanual.org/sites/default/files/samplestructure_0.pdf) based on the idea that collective discussions on what security means and the practices we already take to protect ourselves are a good way to continue building our security capacity.
 
 Contexts in which this framing can be helpful: when working in newsrooms where security needs are much broader than what is typically covered in digital security curriculum. The lesson plan is intended for a session lasting between two and four hours.
 
-### Understanding and honoring needs and expectations
+## Understanding and Honoring Needs and Expectations
 
 DJ and Nicolás Sera-Leyva have already written a lot about understanding and managing expectations in digital security trainings over at [Level Up](https://www.level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/). We really want to stress the idea that communicating with participants, rather than relying entirely on what we *think* they need and expect, will help increase the usefulness of our efforts.
 
