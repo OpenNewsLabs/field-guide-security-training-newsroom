@@ -30,7 +30,7 @@ Read Martin Shelton’s Medium piece, [Journalists, You Are Worthy of a Data Bre
 
 **What materials will the instructor need?**
 
-A projector would help, but isn’t essential.
+A projector would help, but isn't essential.
 
 **How should the instructor prepare?**
 
@@ -50,10 +50,10 @@ A deeper understanding of threat modeling, the high-level mechanics of delegated
 
 This is a lesson where it is very important to make sure that you, as the instructor, aren’t making things up or sharing bad information with participants. So be very clear and honest about what you don’t really know.  
 
-**Harm Reduction** - a guiding principle of this lesson is that people will *not* use passwords properly, they will not store passwords securely, they will forget passwords, they will lose passwords, they will sign up for services that do not store passwords securely and those services will be hacked. The goal of this exercise is to *reduce the harm* that individuals (and the teams they work with) experience *when,* (not if) things go wrong.
+**Harm Reduction** - a guiding principle of this lesson is that people will *not* use passwords properly, they will not store passwords securely, they will forget passwords, they will lose passwords, they will sign up for services that do not store passwords securely and those services will be hacked. The goal of this exercise is to *reduce the harm* that individuals (and the teams they work with) experience *when* (not if) things go wrong.
 
 This is not a workshop that can guarantee that users will adopt strong, unique passwords
-and strong two factor authentication in all situations. Not only is that goal unrealistic (impossible!), it’s counter-productive because it’s an overwhelming goal for most people, and when people are overwhelmed they're more likely to give up. The reality is that if a good approach to passwords is used in just a few key places, a majority of the benefit and protection can be gained.
+and strong two factor authentication in all situations. Not only is that goal unrealistic, it’s counter-productive because it’s an overwhelming goal for most people, and when people are overwhelmed they're more likely to give up. The reality is that if a good approach to passwords is used in just a few key places, a majority of the benefit and protection can be gained.
 
 ### Basic Digital Literacy (Accounts and Encryption)
 
@@ -81,6 +81,10 @@ There are two hard and fast rules:
 2.  Passwords should never be reused.
 
 And even rule #2 is not really that hard and fast: every security expert has a go-to password for those IDGAF moments -- hobbyist forums or your login to the local parents group -- forums where the worst case scenario is that someone uses your login to post spam or malicious content in your name.
+
+You’re always better off if you don’t re-use passwords, but if you’re going to re-use passwords, you can probably safely use the same password for your neighborhood parents newsletter that you use on a game forum.
+
+Lead a brief brainstorming exercise with participants to come up with different "classes" of accounts where reusing a password might be ok, so that they can think about the different security properties of those accounts in a concrete way. Some categories that they might come up with are: online shopping, games, discussion forums, commenting accounts on blogs, and so on).
 
 ## Lesson Plan
 
@@ -195,96 +199,24 @@ Remember that we're taking a harm reduction approach here. Some people just won�
 
 More notes about harm reduction: Many security experts will recoil at this strategy. They're right: password managers are far more secure, but this is a viable backup option for those who can’t or won’t use a purpose-built password manager.
 
-Participants should take stock of all the points of entry to their email inboxes: are messages stored locally on their phone or laptop? 
+Participants should take stock of all the points of entry to their email inboxes: are messages stored locally on their phone or laptop? Will someone who accesses their laptop or phone have access to all of their account information? Remind participants that this strategy is good enough for most threat models but won't protect them from police search, for instance. 
 
-### Failure Modes
 
-We’re addressing a few different scenarios with good password policies.
-These include: non-targeted hacking by spammers and scammers that can
-still make your life absolutely miserable by cutting off access to
-infrastructure you rely on like credit cards and email; targeted hacking
-with a financial goal -- someone wants access to your money and things;
-targeted hacking with a personal goal -- someone wants access to you.
-They know exactly who you are and want to make your life miserable or
-expose you or use you as a stepping stone to reach another target.
+##Follow Up
+-   Homework: if you assigned 2FA or password resets as homework, be sure to send everyone a follow up note reminding them to DO IT.
 
-There’s a good chance that no-one is going to follow all of the advice
-offered as part of this lesson. They’ll make mistakes, and use weak
-passwords and reuse passwords. They won’t consistently use a password
-manager, and when they do, there’s a chance that they’ll expose
-themselves to significant risk by losing control of (or access to) their
-password vault. Offering strategies to minimize the effect of that "risk
-seeking behaviour" is possibly the most valuable advice that can be
-given to participants.
+-   Remind everyone to disable stored passwords and set up the password manager on their secondary computer and on their phone.
 
-Create a hierarchy accounts. For example, passwords for really core
-stuff should be secure, and each should be unique. As above, some of
-those include (but aren’t limited to):
+-   Remind everyone to take stock of whether they’re still using their password manager. If they are, a week out is a good moment to look at all the other places
 
--   Primary email account
+## Recommended Reading
 
--   Your laptop’s password
-
--   Banking passwords
-
--   Apple or Google ID connected to a phone
-
-Secondary things might include:
-
--   Services where you’ve stored credit card information (eg. retailers,
- car services, course registration). Note that one way to move
- these logins down the hierarchy is to remove your stored
- credit card.
-
--   Mileage accounts
-
-Even Less important things:
-
--   Forums and services that don’t have stored credit card information.
-
-You’re always better off if you don’t re-use passwords, but if you’re
-going to re-use passwords, you can probably safely use the same password
-for your neighborhood parents newsletter that you use on a sewing forum.
-
-Lead a brief brainstorming exercise with participants to come up with
-different "classes" of accounts where reusing a password might be ok, so
-that they can think about the different security properties of those
-accounts in a concrete way. Some categories that they might come up with
-are: online shopping, games, discussion forums, commenting accounts on
-blogs, and so on).
-
-**Follow Up**
-
--   Homework: if you assigned 2FA or password resets as homework, be
- sure to send everyone a follow up note reminding them to DO IT.
-
--   Remind everyone to disable stored passwords and set up the password
- manager on their secondary computer and on their phone.
-
--   Remind everyone to take stock of whether they’re still using their
- password manager. If they are, a week out is a good moment to look
- at all the other places
-
-**Recommended Reading**
-
-**Links in the news**
-
-**Reports on Password Dumps**
-
+**Password Dumps in the news**
 -   <https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/>
-
 -   <https://www.buzzfeed.com/blakemontgomery/one-billion-more-yahoo-accounts-have-been-hacked>
-
 -   <https://www.wired.com/story/yahoo-breach-three-billion-accounts/>
-
 -   <http://krebsonsecurity.com/2013/10/adobe-breach-impacted-at-least-38-million-users/>
-
 -   <https://haveibeenpwned.com/>
-
 -   <http://www.espn.com/mlb/story/_/id/13089501/report-fbi-investigating-st-louis-cardinals-hacking-houston-astros-database>
-
 -  <https://www.accessnow.org/doubleswitch-attack/>
-
 -   <https://www.wsj.com/articles/the-man-who-wrote-those-password-rules-has-a-new-tip-n3v-r-m1-d-1502124118>
-
-Big picture readings
