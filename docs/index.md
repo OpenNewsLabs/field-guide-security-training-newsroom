@@ -34,7 +34,7 @@ Chapter 2 is a fantastic collection of lesson plans and training materials to he
 ## Chapter 3 - Resources
 Chapter 3 is our best effort to aggregate links to the best existing resources, to help new trainers deepen their own expertise.  
 
-* [Resources](Chapter03-Resources)
+* [Resources](Chapter03-02-Resources)
 
 
 # Contributing

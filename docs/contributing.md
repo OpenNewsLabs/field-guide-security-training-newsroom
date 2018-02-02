@@ -16,7 +16,7 @@ If you're wondering what you might be able to offer this project, here are a few
 * Could you help add checklists at the ends of lessons?
 * Could you describe how security needs might be different in different countries, or work on translating documentation into another language?
 
-Even just adding a quick link or two is a great way to contribute. If you've got a timely article or an old favorite that really captures the value of taking a lesson seriously, those add fantastic context. We don't want to duplicate work that other people have done better already, and we recognize that this is just one of many great resources. So if you know of a great lesson plan or walkthrough somewhere else, there's a section in each lesson for links, and [our resource guide](https://github.com/OpenNewsLabs/newsroom-security-curricula/blob/master/docs/Chapter03-Resources.md) is an excellent spot for links that don't fit a specific lesson. Share your favorites.
+Even just adding a quick link or two is a great way to contribute. If you've got a timely article or an old favorite that really captures the value of taking a lesson seriously, those add fantastic context. We don't want to duplicate work that other people have done better already, and we recognize that this is just one of many great resources. So if you know of a great lesson plan or walkthrough somewhere else, there's a section in each lesson for links, and [our resource guide](https://github.com/OpenNewsLabs/newsroom-security-curricula/blob/master/docs/Chapter03-02-Resources.md) is an excellent spot for links that don't fit a specific lesson. Share your favorites.
 
 And one more way to help us make this project even better:
 
