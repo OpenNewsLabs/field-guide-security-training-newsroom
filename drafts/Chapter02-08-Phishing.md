@@ -1,8 +1,8 @@
-Phishing Basics
-===============
+# Phishing Basics
 
-## Overview FIX *Phishing* is an email-based social engineering tactic
-that uses misplaced trust to extract information and access. Like other forms of social engineering, its purpose is to trick you (the target) into divulging information that can be used to access to  private data, networks or resources. Phishing is often  *Spear-phishing* is a form of phishing
+## Overview
+
+*Phishing* is an email-based social engineering tactic that uses misplaced trust to extract information and access. Like other forms of social engineering, its purpose is to trick you (the target) into divulging information that can be used to access to  private data, networks or resources. Phishing is often  *Spear-phishing* is a form of phishing
 targeted at a particular individual or group. This sort of attack is
 widespread, common, and responsible for many [*notorious
 examples*](https://en.wikipedia.org/wiki/Podesta_emails) of data loss or
