@@ -1,5 +1,12 @@
 # Physical Custody of Electronics & Full Disk Encryption
 
+Physical Security: what are the assumptions we're making about your threat model.
+
+There's a lot of missing op sec here, we don't address hostile state actors.
+
+DON"T MAKE FALSE PROMISES. 
+
+
 ## Overview
 Digital security isn't just about encryption and data and metadata. The physical security of data and devices is also paramount: What happens to your data if your device is stolen? What's at risk if a border agent or other adversary takes your laptop for 30 minutes? We'll discuss these security aspects and ways to protect yourself from the associated risks.
 
