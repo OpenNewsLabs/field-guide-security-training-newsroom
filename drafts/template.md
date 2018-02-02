@@ -16,7 +16,7 @@ should a participant understand by the end? \]
 
 **Review date:** \[ When was the last time this was reviewed or updated?\]  
 **Lesson duration:** \[ about how long should it take to lead participants through this lesson plan? 20 minutes? An hour? More? \]  
-**Level** (intro, advance)
+**Level** (Introductory, Intermediate, Advanced)  
 
 **Preconditions** (basic or not so basic concepts that the lesson assumes participants already understand)
 
