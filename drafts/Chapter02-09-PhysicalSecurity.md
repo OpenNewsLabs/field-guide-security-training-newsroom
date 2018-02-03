@@ -4,7 +4,7 @@ Physical Security: what are the assumptions we're making about your threat model
 
 There's a lot of missing op sec here, we don't address hostile state actors.
 
-DON"T MAKE FALSE PROMISES. 
+DON"T MAKE FALSE PROMISES.
 
 
 ## Overview
@@ -235,3 +235,6 @@ Android
 -   Make sure you have a strong passcode.
 
 -   Your device is only secure as long as it is powered off, so
+
+
+https://www.justsecurity.org/51759/dehumanized-border-travelers-push/
