@@ -1,119 +1,65 @@
-# Physical Custody of Electronics & Full Disk Encryption
-
-Physical Security: what are the assumptions we're making about your threat model.
-
-There's a lot of missing op sec here, we don't address hostile state actors.
-
-DON"T MAKE FALSE PROMISES.
-
+# Physical Custody of Electronics
 
 ## Overview
-Digital security isn't just about encryption and data and metadata. The physical security of data and devices is also paramount: What happens to your data if your device is stolen? What's at risk if a border agent or other adversary takes your laptop for 30 minutes? We'll discuss these security aspects and ways to protect yourself from the associated risks.
 
-**ABOUT THIS LESSON PLAN**
+What happens to your data if your device is seized or stolen? How should you prepare to cross international borders safely? Full disk encryption can
 
-**Review date:** June 5, 2017
+This module makes a few assumptions about your threat model. It is written with American journalists in mind -- if your work puts you in conflict with hostile state actors, you should seek out more specialized training.
 
-**Lesson duration:** 30 minutes
+## About This Lesson Plan
 
-**What will participants learn?**
+**Review date:** June 5, 2017  
+**Lesson duration:** 30 minutes  
+**Level:** Intermediate  
+**Preconditions:**
 
-What's at risk when you lose custody of your devices, say at an
-international border. How to protect your data from device theft with
-full disk encryption.
+**What materials will participants need?**
 
-**What materials will participants need?** smartphone, laptop
+They should bring their Android / iPhone and laptop.
 
 **How should participants prepare?**
 
-For laptops, a participant needs to have administrator access to their
-machine so that they can change system settings to enable disk
-encryption.
+Participants will need administrator access to their machines.
 
-**What materials will the instructor need?**
+**How should the instructor prepare?**
 
-**EXAMPLE MESSAGING FOR PARTICIPANTS**
+Touch base with IT staff to talk through your plans for the workshop -- you may need their support in actually enabling disk encryption.   
 
-**Links in the news**
+Read through the material carefully and think about what will work for you, as a facilitator and instructor.
 
--   [*https://www.washingtonpost.com/news/the-switch/wp/2016/11/30/u-s-border-agents-stopped-journalist-from-entry-and-took-his-phones/*](https://www.washingtonpost.com/news/the-switch/wp/2016/11/30/u-s-border-agents-stopped-journalist-from-entry-and-took-his-phones/)
+## Lesson Plan
 
--   [*https://www.theguardian.com/media/2016/jul/21/homeland-security-journalist-maria-abi-habib-detained*](https://www.theguardian.com/media/2016/jul/21/homeland-security-journalist-maria-abi-habib-detained)
+**Groundwork**
 
--   [*https://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban*](https://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban)
+Digital security isn't just about encryption and data and metadata. The physical security of data and devices is also paramount: What happens to your data if your device is stolen? What's at risk if a border agent or other adversary takes your laptop for 30 minutes?
 
--   [*http://www.cnn.com/2017/03/17/politics/missing-secret-service-laptop/index.html*](http://www.cnn.com/2017/03/17/politics/missing-secret-service-laptop/index.html)
+Physical custody issues generally boil down to two categories: permanent loss of your device, and temporary custody.
 
-**Advance email**
+**Theft or Permanent Loss** You leave your backpack in a taxi. Your laptop disappears from your hotel room. A thief swipes your phone when you're standing on the sidewalk. What are the risks:
 
-**Followup email**
+*Activity:* Have participants spell out their concerns. Capture them on a white board or sticky notes. If someone malicious takes your laptop, what do you need to worry about?
 
-**LESSON PLAN**
+You're looking for things like:  
 
-**Icebreakers/activities**
++ Someone else has your documents, password, address book, calendar.
++ You don't have them anymore, unless they're backed up.  
++ Sensitive work information, including documents, e-mails, communication about your reporting, communications from anonymous sources could be compromised.
++ You can't do your work because your hardware is gone.
 
-**Walkthrough or Active Lesson**
+**Seizure or Temporary Custody** Border agents seize your computer, but eventually return it to you. Your laptop is seized in a police or FBI investigation, and subsequently returned to you. You leave your laptop unattended -- in a hotel room, or office -- and someone tampers with it.
 
-(This is more of a guide of the subject matter and things to touch on or
-relay in your own teaching; probably not a literal lesson plan.)
+*Activity:* Again, have participants spell out their concerns. Capture them on a white board or sticky notes. If someone malicious takes your laptop, what do you need to worry about?
 
-Digital security isn't just about encryption and data and metadata. The
-physical security of data and devices is also paramount: What happens to
-your data if your device is stolen? What's at risk if a border agent or
-other adversary takes your laptop for 30 minutes?
+You're looking for most things from the first list, as well as things like:
++ someone can make a complete copy of the disk.
++ they can tamper with your device or install malware on it
 
-The physical custody issues generally boil down to two categories: theft
-/ permanent loss of your device, and temporary custody.
-
-**Theft / Permanent Loss**
-
-Examples: You left your backpack in a taxi. Your laptop disappears from
-your hotel room. A thief swipes your phone when you're standing on the
-sidewalk.
-
-Risks:
-
--   Your data (documents, passwords, address book, calendar, etc.)
-    > are stolen.
-
-    -   Is it a work device? Do you have sensitive work information
-        > (documents, e-mails or other communication about your
-        > reporting, communications from anonymous sources)?
-
-Mitigations:
-
--   Full disk encryption (we'll get to this below)
-
--   Backups of your data
-
-**Temporary Custody**
-
-Examples: Border agents seizing your device and then returning it to
-you. "Evil maid" attack: you leave your laptop in a hotel room or
-sitting around in your office or some other place temporarily
-unattended. (The border crossing case has unique legal and operational
-risks that go well beyond this summary guide; for more information,
-[*the EFF has a
-report*](https://www.eff.org/wp/digital-privacy-us-border-2017)
-focussing on these issues at the U.S. border.)
-
-Risks:
-
--   Your data (documents, passwords, address book, calendar, etc.)
-    > are stolen.
-
-    -   (As above: is this a work device? If so, what types of
-        > work-sensitive information is at risk?)
-
-    -   Border or police agent (Department of Homeland Security /
-        > Homeland Security Investigations / ICE / La Migra) takes a
-        > copy of the full disk of your device.
-
--   Your device has been tampered with and contains malware.
+**So what can you do?**
+You can mitigate what is available without your permission. But "mitigation" is a key word. You don't know, not really, that it can't be decrypted. The strategies that make sense vary a lot with your threat model.   
 
 Mitigation:
 
--   Mitigate what data is available without your permission:
+-   Mitigate the data available without your permission:
 
     -   Full disk encryption. (Note that at a border you may be detained
         > indefinitely or refused entry if you refuse to unlock
@@ -238,3 +184,18 @@ Android
 
 
 https://www.justsecurity.org/51759/dehumanized-border-travelers-push/
+
+### Recommended Reading
+
+**Links in the news**
+
++ [U.S. border agents stopped journalist from entry and took his phones (Washington Post, Nov 2016)](https://www.washingtonpost.com/news/the-switch/wp/2016/11/30/u-s-border-agents-stopped-journalist-from-entry-and-took-his-phones/)
++ [Department of Homeland Security detains journalist returning from Beirut (The Guardian, July 2016)](https://www.theguardian.com/media/2016/jul/21/homeland-security-journalist-maria-abi-habib-detained)
++ [A US-born NASA scientist was detained at the border until he unlocked his phone (The Verge, Feb 2017)](https://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban)
++ [Secret Service laptop containing Trump Tower evacuation and floor plans stolen (CNN, Mar 2017)](http://www.cnn.com/2017/03/17/politics/missing-secret-service-laptop/index.html)
++ [Privacy Complaints Mount Over Phone Searches at U.S. Border Since 2011](https://www.nytimes.com/2017/12/22/us/politics/us-border-privacy-phone-searches.html)
++ [“Dehumanized” at the Border, Travelers Push Back (Just Security, Feb 2018)](https://www.justsecurity.org/51759/dehumanized-border-travelers-push/)
+
++ [EFF 2017 Report on Digital Privacy at the US Boarder](https://www.eff.org/wp/digital-privacy-us-border-2017)
+
+**More training resources**
