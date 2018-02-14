@@ -65,5 +65,9 @@ that come up. \]
 **Links in the news**
 \[ as many links as we think are useful to illustrate this concept or need for security \]
 
+* [Title of News Story (Outlet, Date)](URL)
+
+
+
 **More training resources:
 \[Links to as many other curricula and How-to articles that cover the same material as we can fit.\]
