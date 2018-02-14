@@ -67,7 +67,4 @@ that come up. \]
 
 * [Title of News Story (Outlet, Date)](URL)
 
-
-
-**More training resources:
 \[Links to as many other curricula and How-to articles that cover the same material as we can fit.\]
