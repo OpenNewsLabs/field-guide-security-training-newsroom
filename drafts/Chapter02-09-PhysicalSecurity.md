@@ -81,13 +81,14 @@ You can mitigate what is available without your permission. But "mitigation" is 
 
 ### Walkthrough: Full Disk Encryption
 
-What does full disk encryption protect: disk encryption protects data against being read when your computer is off.
+What does full disk encryption protect: disk encryption protects data against being read when your computer is off, or newly powered on.
 
-What does it not protect: if your device is already powered up, the device is decrypted, even if the screen is locked. If someone has your password, either because it was guessable or because you gave it to them, full disk encryption won't protect you.
+What does it not protect: if your device is already powered up, the drive is decrypted, even if the screen is locked. Once you enter your passphrase, the disk is decrypted.
+If someone has your passphrase, either because it was guessable or because you gave it to them, full disk encryption won't protect you.
 
 **Important**: the process of enabling FDE can take many hours, and if you interrupt it you will lose access to everything that was on the disk. So show participants how it works, but **do not have them start the process** until they're sure that a) they have backed up the machine and b) they can live without it for 10-12 hours. Generally that means leaving it over night.
 
-Make sure everyone knows where to find the disk encryption settings on their devices and has a plan to
+Make sure everyone knows where to find the disk encryption settings on their devices and has a plan to actually enable it when they can do so safely.
 
 
 #### MacOS:
@@ -127,6 +128,5 @@ Options will depend on the Android device. Nexus/Pixel devices have full disk en
 + [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices (EFF 217)](https://www.eff.org/wp/digital-privacy-us-border-2017)
 
 **More training resources**
-
 
 + [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices (EFF 217)](https://www.eff.org/wp/digital-privacy-us-border-2017)
