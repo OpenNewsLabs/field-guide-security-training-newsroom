@@ -27,89 +27,79 @@ Before we even talk about tools for taking confidential tips securely, there are
 
 * Give sources as many ways to reach out as you have, and be clear about the advantages and drawbacks of each channel.
 
-
-
 **Don't stop with a tips page.**
 
 Whether or not a source uses your confidential tips infrastructure to reach you, you have a responsibility to consider their safety before you continue to communicate with a source.
 
-Think about who would care about this information being made public (eg., their employer). What capabilities do they have to investigate the source of the tip? What are the potential consequences for your source if they are discovered?
+Think about who would care about this information being made public (eg., their employer). What capabilities do they have to investigate the source of the tip? What are the potential consequences for your source if they are discovered? And then guide your source to the communications channels that will best protect them from surveillance.
 
-And when you're ready to publish,
+And when you're ready to publish, make sure you're not inadvertently revealing your source.
 
 [Protecting Your Sources When Releasing Sensitive Documents (Source, June 2017)](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/) is an excellent review.
 
-
-
-When the time comes to publish, if you’re in a position to speak with your sources, give them a realistic idea about the risks and tradeoffs of publishing before moving ahead.
-
 **Content versus metadata**
 
-Much like our messages sent through a postcard, routine communications through email or phone calls are often legible to anyone who gets ahold of them. That may include your internet service provider, telecommunications company, or any government that makes a legal request of those companies. Just as we must write an address on our postcards so the post office will deliver it correctly, our electronic communications inevitably require us to share information about where to deliver a message. This is called metadata — data about who spoke to whom, when, and for how long.
-
-Even if you secure your conversations, remember that both parties are still identifiable through metadata. A network eavesdropper may not be able to read your messages, but they can still see the parties in conversation. We can’t prevent metadata from being produced, but we can try to minimize it or make it less useful. For example, you can encourage sources to call from a phone that is not clearly linked to them (eg., at a nearby business). The point isn’t to have no metadata; it’s to have metadata that is less revealing when analyzed later.
-
-**The first contact problem**
-
-It’s easy for sources to "out" themselves with their metadata trail. If a source reached out over a work phone or email, they have already left a juicy metadata trail for their employer. This is sometimes called the "first contact problem," and there is no quick fix. We need sources to know the appropriate channels before reaching out.
-
-The best we can do is support the appropriate communication channels, and advertise that we’re available to check out tips. Have a page where these channels are clearly organized, and share it with information about the tradeoffs (eg., see the [confidential tips page from the New York Times](https://nytimes.com/tips)).
+Many of the tools we recommend can protect the contents of your communications, but not the fact that you communicated at all. Even if your phone company isn't surveillance the contents of a phone call, their records will show all the numbers you called, whether the other party answered, and how long you stayed on the line. If you make calls over a service like WhatsApp, your phone history will still show that the call was made.
 
 Most secure communications channels do not protect against metadata surveillance, so make note of these constraints in your documentation.
+
+Similarly, any file on your computer has a bunch of metadata attached to it: the date and time it was created, the time it was last modified, size, and filename. And depending on the software that created a the metadata might include the name of the person who created it, or the company the software was licensed to. EXIF data attached to digital images often includes the type of camera the image was captured with.
+
+**First Contact**
+
+If a source reached out over a work phone or email, they have already given their employer a metadata trail. This is sometimes called the "first contact problem," and there is no quick fix. This is why newsrooms have a responsibility to educate sources (and potential sources) before they reach out.
+
+Your tips page is a good place to offer that education.
+
+The best we can do is support the appropriate communication channels, and advertise that we’re available to check out tips. Have a page where these channels are clearly organized, and share it with information about the tradeoffs.
 
 It’s also important to be be clear that if they have reached out over a less-than-ideal channel, such as calling from their work phone or using their work computer, sources may have burned themselves already.
 
 The Intercept has [an excellent guide](https://theintercept.com/leak/) to reaching out anonymously. They are very clear both about how to reach out, and *what not to do*.
 
-![](img/ch3-03.png)  ASK: NEED IMAGE
+![](img/ch3-03.png)  ASK: NEED IMAGE FROM GDRIVEs
 
 **Be clear about risk**
 
-Many existing resources also fail to give would-be sources enough information about the risks associated with reaching out with sensitive information. News organizations can, and must, do better.
+Many existing resources fail to give would-be sources enough information about the risks associated with reaching out with sensitive information. News organizations can, and must, do better.
 
-If someone’s at risk of going to losing their job, going to jail (or worse) for reaching out to you, you owe them a sober explanation. Only promise the protection you know you can actually provide. They should know what they’re getting into.
+If someone’s at risk of going to losing their job, going to jail (or worse) for reaching out to you, you owe them a sober explanation. Only promise the protection you know you can actually provide. Don't scare people unnecessarily, but do make sure they understand what they’re getting into.
 
-Writing a good tip page needs a delicate touch. You want sources to be informed, but you also don’t want to scare them away. Write a secure communications page that helps people understand the risks well enough to make good decisions, but also does not inspire fear without reason.
 
-**Open secure communication channels and describe the tradeoffs**
+## Onto The Tools
 
-## NOW TOOLS
-Give sources as many ways to reach out as appropriate for your situation, and describe the advantages and constraints of each channel.
-
-Many of us already have a professional email address, desk phone, cell phone, or social media accounts (eg., Twitter, Facebook) to gather information for stories. These are all great channels for less sensitive tips, but what do you do if you need to secure your communications?
+Many of us already have a professional email address, desk phone, cell phone, or social media accounts (eg. Twitter, Facebook) to gather information for stories. These are all great channels for less sensitive tips, but what do you do if you need to secure your communications?
 
 **Common secure channels**
 
 Some common secure communication channels include [Signal](https://signal.org/), [WhatsApp](https://whatsapp.com/), [Off-the-record messaging](https://wikipedia.org/wiki/Off-the-Record_Messaging), and PGP for email encryption. Each has advantages and tradeoffs:
 
-+ [Signal](https://signal.org/). Signal is a free and open source secure messaging app for [iPhone](https://itunes.apple.com/us/app/signal-private-messenger/id874139669) and [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en), developed by [Open Whisper Systems](https://whispersystems.org/).
++ [Signal](https://signal.org/) is a free and open source secure messaging app for [iPhone](https://itunes.apple.com/us/app/signal-private-messenger/id874139669) and [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en), developed by [Open Whisper Systems](https://whispersystems.org/). There is also a [desktop](https://signal.org/download/) application available.
 
-    + Signal supports encrypted messaging and phone calls. Signal’s developers designed the service to retain as little metadata as possible—only the user’s phone number, sign-up time, and the time when the user was last active. It also allows messages to "self-destruct" automatically after a preset amount of time, leaving behind as little information as possible. For help getting started, read [Signal for Beginners](https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0).
+    + Signal supports encrypted messaging and phone calls. Signal’s developers designed the service to retain as little metadata as possible: all they know is the user’s phone number, sign-up time, and the time when the user was last active. Signal also allows messages to "self-destruct" automatically after a preset amount of time, leaving behind as little information as possible. For help getting started, read [Signal for Beginners](https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0).
 
-    + Tradeoffs: While Signal’s servers retain [nearly no metadata](https://whispersystems.org/bigbrother/eastern-virginia-grand-jury/) (only the phone number, sign-up date, and the user’s last sign-in date), the app is also not designed to prevent live metadata surveillance. The users in conversation should not be
-    considered anonymous.
+    + Tradeoffs: While Signal’s servers retain [very little metadata](https://whispersystems.org/bigbrother/eastern-virginia-grand-jury/), the app is  not designed to prevent live metadata surveillance. The users in conversation should not be considered anonymous.
 
-+ [WhatsApp](https://whatsapp.com/). With over a billion users on [iPhone](https://itunes.apple.com/us/app/whatsapp-messenger/id310633997) and [Android](https://play.google.com/store/apps/details?id=com.whatsapp), WhatsApp is a popular messaging application that uses similar encryption to Signal. It’s easy to use, and with the right settings, can be a decent option for routine communications. WhatsApp can share more types of files than Signal, and it can be
++ [WhatsApp](https://whatsapp.com/) has over a billion users on [iPhone](https://itunes.apple.com/us/app/whatsapp-messenger/id310633997) and [Android](https://play.google.com/store/apps/details?id=com.whatsapp) and uses similar encryption to Signal. It’s easy to use, and with the right settings, can be a decent option for routine communications. WhatsApp users can share more types of files than Signal, and it can be
 a great way to send documents.
 
-    + Tradeoffs: Importantly, some settings must be tweaked in order to maximize the security benefits of the app, and to make it safer for routine use. For example, WhatsApp may be backing up your unencrypted messages to iCloud or Google Drive, and you need to turn backups off. To learn more about how to improve the app’s security, read [Upgrading WhatsApp Security](https://medium.com/@mshelton/upgrading-whatsapp-security-386c8ce496d3).
+    + Tradeoffs: Importantly, some settings must be tweaked to maximize the security  of the app, and to make it safer for routine use. By default, WhatsApp backs up unencrypted messages to iCloud or Google Drive. Backups should be disabled.To learn more about how to improve WhatsApp security, read [Upgrading WhatsApp Security](https://medium.com/@mshelton/upgrading-whatsapp-security-386c8ce496d3).
 
     + Like Signal, WhatsApp stores user phone numbers. WhatsApp is owned by Facebook and shares the user's phone number (which can help Facebook map connections) and user analytics with the social media company. Facebook can also be forced to share its troves of user data in response to a court order or subpoena.
 
-+ [Off-the-record](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) (OTR) messaging. OTR is a messaging encryption standard. OTR can be installed as a plug-in for messaging clients, such as [Pidgin](https://pidgin.im/) or [Adium](https://adium.im/), typically using an open messaging standard called [XMPP](https://en.wikipedia.org/wiki/XMPP).
++ [Off-the-record](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) or OTR is a messaging encryption standard. OTR can be installed as a plug-in for messaging clients, such as [Pidgin](https://pidgin.im/) or [Adium](https://adium.im/), typically using an open messaging standard called [XMPP](https://en.wikipedia.org/wiki/XMPP).
 
-    + It can help you encrypt communications with sources on a variety of inter-operable messaging clients. Read the Electronic Frontier Foundation’s primer on getting started with OTR for [Windows](https://ssd.eff.org/en/module/how-use-otr-windows), [Mac](https://ssd.eff.org/en/module/how-use-otr-mac), and [Linux](https://ssd.eff.org/en/module/how-use-otr-linux).
+    + OTR can encrypt communications with sources on a variety of inter-operable messaging clients. Read the Electronic Frontier Foundation’s primer on getting started with OTR for [Windows](https://ssd.eff.org/en/module/how-use-otr-windows), [Mac](https://ssd.eff.org/en/module/how-use-otr-mac), and [Linux](https://ssd.eff.org/en/module/how-use-otr-linux).
 
-    + Note that OTR allows you to accept messages from anyone using an OTR client, including some anonymity-protecting clients such as [Tor Messenger](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily). If your contacts have the know-how, this can be an asset for protecting anonymity.
+    + OTR allows users to accept messages from anyone using an OTR client, including some anonymity-protecting clients such as [Tor Messenger](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily). If your contacts have the know-how, this can be an asset for protecting their anonymity.
 
-    + Tradeoffs: Not everyone is familiar with OTR, and you’re much more likely to receive an OTR message from a savvy user than anyone else. Note that OTR should not be confused with the "off the record" setting in Google Hangouts.
+    + Tradeoffs: Not everyone is familiar with OTR, and you’re much more likely to receive an OTR message from a savvy user than anyone else. OTR should not be confused with the "off the record" setting in Google Hangouts.
 
-+ [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) (PGP) email encryption. PGP is an encryption standard that is becoming increasingly popular among journalists for securing email. PGP uses public key cryptography, meaning that each user has a "public key" used to scramble messages to other users. The public key can be shared with anyone. Each user also has a corresponding "private key" that is used to unscramble messages, and should never be shared. Users typically post their public key in an accessible place, such as a personal website, byline, or a [PGP public keyserver](https://pgp.mit.edu/pks/lookup?search=nytimes&op=index).
++ [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is an email encryption standard, most commonly used to secure email. PGP uses public key cryptography: messages scrambled with the "public" key can only be unscrambled with the corresponding "private" key. The public key can be shared widely, so anyone can create a scrambled message that can only be read by the user who holds the corresponding private key. Users typically post their public key in an accessible place, such as a personal website, byline, or a [public keyserver](https://pgp.mit.edu/pks/lookup?search=nytimes&op=index).
 
     + The Electronic Frontier Foundation has resources for setting up PGP on [Windows](https://ssd.eff.org/en/module/how-use-pgp-windows), [Mac](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x), and [Linux](https://ssd.eff.org/en/module/how-use-pgp-linux).
 
-    + Tradeoffs: PGP is not the best choice for secure communications for a few different reasons. It’s infamously tricky to use, even for security geeks. It’s easy to make a mistake that will compromise your sensitive communications. Most importantly for news organizations, PGP only secures the body of an email, leaving email addresses and the subject line exposed to eavesdroppers. You are likely to get more "return on
-    investment" with simpler channels, such as Signal.
+    + Tradeoffs: PGP is infamously tricky to use, even for security geeks. It’s easy to make a mistake that will compromise your sensitive communications. Most importantly for news organizations, PGP only secures the body of an email: email addresses, timestamps and subject lines are all still sent in plaintext, exposed to eavesdroppers. You are likely to get more "return on investment" with simpler channels, such as Signal.
 
 **Secure Organizational Channels**
 
