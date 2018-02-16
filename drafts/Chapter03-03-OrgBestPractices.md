@@ -58,7 +58,7 @@ It’s also important to be be clear that if they have reached out over a less-t
 
 The Intercept has [an excellent guide](https://theintercept.com/leak/) to reaching out anonymously. They are very clear both about how to reach out, and *what not to do*.
 
-![](img/ch3-03.png)  ASK: NEED IMAGE FROM GDRIVEs
+![](img/ch3-3.png)
 
 **Be clear about risk**
 
@@ -105,7 +105,7 @@ When done properly, physical mail and [SecureDrop](https://securedrop.org/) can 
 
   + Tradeoffs: Sources using SecureDrop don’t have to provide identifying information unless they choose to do so. This added protection for sources can sometimes present challenges for newsrooms that need to verify the legitimacy of an anonymous leak.
 
-  + SecureDrop requires dedicated equipment and an administrator familiar with the basics of Linux and Bash shell. The SecureDrop docs provide a good overview of the process of [setting up SecureDrop](https://docs.securedrop.org/en/stable/index.html). ASK: LINK TO OUR LESSON. It isn't a trivial undertaking. And while some individual reporters have their own SecureDrop instances -- [Bart Gellman](https://tcfmailvault.info/) and Wired’s [Kevin Poulsen](https://freedom.press/people/kevin-poulsen/) both do, in general SecureDrop should be an institutional tool.
+  + SecureDrop requires dedicated equipment and an administrator familiar with the basics of Linux and Bash shell. The SecureDrop docs provide a good overview of the process of [setting up SecureDrop](https://docs.securedrop.org/en/stable/index.html). It isn't a trivial undertaking -- this guide includes a whole [session on SecureDrop planning](docs/Chapter02-11-SecureDrop.md). And while some individual reporters have their own SecureDrop instances -- [Bart Gellman](https://tcfmailvault.info/) and Wired’s [Kevin Poulsen](https://freedom.press/people/kevin-poulsen/) both do, in general SecureDrop should be an institutional tool.
 
 ## Security is your responsibility
 
