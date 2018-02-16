@@ -1,38 +1,45 @@
 # Best Practices for a Tips Page
 
-Adapted from [Opening Secure Channels for Confidential Tips](https://source.opennews.org/articles/opening-secure-channels-confidential-tips/)
+This document was adapted from Martin Shelton's [Opening Secure Channels for Confidential Tips (Source, Feb 2017)](https://source.opennews.org/articles/opening-secure-channels-confidential-tips/). You should read that for a thorough review of best practices.
 
-To make it easier for tipsters to share sensitive information, news organizations are launching resources for confidential tips. [The New York Times](https://nytimes.com/tips), [Washington Post](https://www.washingtonpost.com/anonymous-news-tips/), [The Intercept](https://theintercept.com/2015/01/28/how-to-leak-to-the-intercept/), [Propublica](https://www.propublica.org/article/how-to-leak-to-propublica), and [Buzzfeed](https://contact.buzzfeed.com/) all have one. Maybe you want to set one up?
+You should also read Ted Han and Quinn Norton on [Protecting Your Sources When Releasing Sensitive Documents (Source, June 2017)](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
+
+
 
 This short guide describes some basics around how to think about security on behalf of your sources before thinking about tools and practices. We’ll also describe common communication channels for accepting sensitive tips and tradeoffs when using each channel. When thinking about tradeoffs, consider which channels are right for you.
 
-Let’s talk about how to do it right.
 
-## Someone needs to maintain the page -- is it you?
+## Before We Talk About Tools
 
-If you’re reading this, the person maintaining the secure tip web page is \*probably\* you.
+Before we even talk about tools for taking confidential tips securely, there are some more basic issues to address.
 
-Before we dive into security concerns, there are a few practical considerations to think about when building a secure tip page.
+1. Who is going to maintain the page? If you’re reading this, the person maintaining the secure tip page for your newsroom might be you. Make sure you know what that entails, and that there's a plan in place for handing off ownership if you leave the newsroom.
 
-1.  Someone has to maintain the page. Again, that’s you.
+2.  The page should be somewhere easily accessible, and under the newsroom's control. Don't
 
-2.  The page should be somewhere easily accessible, and under your control (no one else’s). This gives would-be sources a reliable place to reach out.
+3.  Host secure tip pages with HTTPS, not over an unsecured HTTP connection. This prevents unwanted third parties from snooping on would-be sources’ connections to your tip page. If your site doesn't already default to HTTPS, address that first. ASK: WHAT SHOULD YOU DO?
 
-3.  Host secure tip pages with HTTPS, instead of an unsecured HTTP connection. This prevents unwanted third parties from snooping on would-be sources’ connections to your tip page.
+4. HTTPS prevents an eavesdropper from sniffing out anything beyond the domain name, so your tips page should not be served from a dedicated subdomain (eg. https://tips.example.com), but on a subdirectory of your primary website (eg. https://www.example.com/tips).
 
-4. Your tips page should not be served from a dedicated site (https://tips.example.com), but on the HTTPS version of your public website (https://www.example.com/tips).
+5.  Your institution should be prepared to advertise the page widely. A secure tip page only works if people read it *before* reaching out.
 
-4.  Your institution should be prepared to advertise the page widely. A secure tip page only works if people read it *before* reaching out.
+**So what goes on the page?**
 
-Let’s talk about the security concerns to consider for your tip page.
+* Give sources as many ways to reach out as you have, and be clear about the advantages and drawbacks of each channel.
 
-**Who is likely to look into your source, and how?**
 
-The truth is, most tips and sources are not terribly sensitive. But when there’s a reasonable hint that source confidentiality should be upheld, pause and think carefully about what information you’re publishing so they don’t run into trouble.
 
-Think about who would care about this tip being shared with a news organization and the public (e.g., their employer). What capabilities do they have (e.g., legal, financial) to investigate the source of the tip? How likely do you think that it is that anyone will look into it? (Very likely? Not at all?) What are the potential consequences for your source if they are discovered?
+**Don't stop with a tips page.**
 
-Based on the capabilities of the source’s potential investigators and the likely consequences, consider which channels are appropriate for your communications. For example, if you are concerned about an organization with few resources to investigate, your sources have a lot of options for communicating with you—anywhere outside of work. If their potential investigator is a large government agency, however, chances are that the agency has resources for investigating the tip, and so the source needs to be cautious. Encourage them to use the right channels.
+Whether or not a source uses your confidential tips infrastructure to reach you, you have a responsibility to consider their safety before you continue to communicate with a source.
+
+Think about who would care about this information being made public (eg., their employer). What capabilities do they have to investigate the source of the tip? What are the potential consequences for your source if they are discovered?
+
+And when you're ready to publish,
+
+[Protecting Your Sources When Releasing Sensitive Documents (Source, June 2017)](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/) is an excellent review.
+
+
 
 When the time comes to publish, if you’re in a position to speak with your sources, give them a realistic idea about the risks and tradeoffs of publishing before moving ahead.
 
@@ -40,21 +47,21 @@ When the time comes to publish, if you’re in a position to speak with your sou
 
 Much like our messages sent through a postcard, routine communications through email or phone calls are often legible to anyone who gets ahold of them. That may include your internet service provider, telecommunications company, or any government that makes a legal request of those companies. Just as we must write an address on our postcards so the post office will deliver it correctly, our electronic communications inevitably require us to share information about where to deliver a message. This is called metadata — data about who spoke to whom, when, and for how long.
 
-Even if you secure your conversations, remember that both parties are still identifiable through metadata. A network eavesdropper may not be able to read your messages, but they can still see the parties in conversation. We can’t prevent metadata from being produced, but we can try to minimize it or make it less useful. For example, you can encourage sources to call from a phone that is not clearly linked to them (e.g., at a nearby business). The point isn’t to have no metadata; it’s to have metadata that is less revealing when analyzed later.
+Even if you secure your conversations, remember that both parties are still identifiable through metadata. A network eavesdropper may not be able to read your messages, but they can still see the parties in conversation. We can’t prevent metadata from being produced, but we can try to minimize it or make it less useful. For example, you can encourage sources to call from a phone that is not clearly linked to them (eg., at a nearby business). The point isn’t to have no metadata; it’s to have metadata that is less revealing when analyzed later.
 
 **The first contact problem**
 
 It’s easy for sources to "out" themselves with their metadata trail. If a source reached out over a work phone or email, they have already left a juicy metadata trail for their employer. This is sometimes called the "first contact problem," and there is no quick fix. We need sources to know the appropriate channels before reaching out.
 
-The best we can do is support the appropriate communication channels, and advertise that we’re available to check out tips. Have a page where these channels are clearly organized, and share it with information about the tradeoffs (e.g., see the [confidential tips page from the New York Times](https://nytimes.com/tips)).
+The best we can do is support the appropriate communication channels, and advertise that we’re available to check out tips. Have a page where these channels are clearly organized, and share it with information about the tradeoffs (eg., see the [confidential tips page from the New York Times](https://nytimes.com/tips)).
 
 Most secure communications channels do not protect against metadata surveillance, so make note of these constraints in your documentation.
 
 It’s also important to be be clear that if they have reached out over a less-than-ideal channel, such as calling from their work phone or using their work computer, sources may have burned themselves already.
 
-The Intercept has [an excellent guide](https://theintercept.com/leak/) walking through the basics of reaching out anonymously. They are very clear both about how to reach out, and *what not to do*.
+The Intercept has [an excellent guide](https://theintercept.com/leak/) to reaching out anonymously. They are very clear both about how to reach out, and *what not to do*.
 
-![](media/image2.png)
+![](img/ch3-03.png)  ASK: NEED IMAGE
 
 **Be clear about risk**
 
@@ -66,9 +73,10 @@ Writing a good tip page needs a delicate touch. You want sources to be informed,
 
 **Open secure communication channels and describe the tradeoffs**
 
+## NOW TOOLS
 Give sources as many ways to reach out as appropriate for your situation, and describe the advantages and constraints of each channel.
 
-Many of us already have a professional email address, desk phone, cell phone, or social media accounts (e.g., Twitter, Facebook) to gather information for stories. These are all great channels for less sensitive tips, but what do you do if you need to secure your communications?
+Many of us already have a professional email address, desk phone, cell phone, or social media accounts (eg., Twitter, Facebook) to gather information for stories. These are all great channels for less sensitive tips, but what do you do if you need to secure your communications?
 
 **Common secure channels**
 
@@ -86,7 +94,7 @@ a great way to send documents.
 
     + Tradeoffs: Importantly, some settings must be tweaked in order to maximize the security benefits of the app, and to make it safer for routine use. For example, WhatsApp may be backing up your unencrypted messages to iCloud or Google Drive, and you need to turn backups off. To learn more about how to improve the app’s security, read [Upgrading WhatsApp Security](https://medium.com/@mshelton/upgrading-whatsapp-security-386c8ce496d3).
 
-    + Like Signal, WhatsApp stores user phone numbers. Note that WhatsApp is owned by Facebook and shares the user’s phone number (which can help Facebook map connections) and user analytics with the social media company. Facebook can also be forced to share its troves of user data in response to a court order or subpoena.
+    + Like Signal, WhatsApp stores user phone numbers. WhatsApp is owned by Facebook and shares the user's phone number (which can help Facebook map connections) and user analytics with the social media company. Facebook can also be forced to share its troves of user data in response to a court order or subpoena.
 
 + [Off-the-record](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) (OTR) messaging. OTR is a messaging encryption standard. OTR can be installed as a plug-in for messaging clients, such as [Pidgin](https://pidgin.im/) or [Adium](https://adium.im/), typically using an open messaging standard called [XMPP](https://en.wikipedia.org/wiki/XMPP).
 
@@ -121,15 +129,15 @@ When done properly, physical mail and [SecureDrop](https://securedrop.org/) can 
 
 Consider (1) verifying their information independently by asking experts, (2) other previous "insiders" (perhaps not present insiders) who might understand the leak, or (3) consider having a conversation with your source about information they can give that would verify their identity without giving information that would be meaningful to their organization. For example, you can ask them to post a nondescript phrase in a tweet — visible to anyone, but only meaningful to you.
 
-While it is possible for individual reporters to have individual SecureDrop pages (e.g., [Bart Gellman](https://tcfmailvault.info/); Wired.com’s [Kevin Poulsen](https://freedom.press/people/kevin-poulsen/)), it takes a fair bit of know-how. For most, having institutional support is ideal.
+While it is possible for individual reporters to have individual SecureDrop pages (eg., [Bart Gellman](https://tcfmailvault.info/); Wired.com’s [Kevin Poulsen](https://freedom.press/people/kevin-poulsen/)), it takes a fair bit of know-how. For most, having institutional support is ideal.
 
 **Pay Attention to File Metadata**
 
 If you’re going to publish files from a source, look out for file metadata. Metadata is information about a file, such as its creator or associated GPS coordinates. You can accidentally burn sources by publishing metadata alone.
 
-This isn’t new. Back in 2012, [Two Vice journalists accidentally outed the location of then-billionaire-in-hiding, John McAfee](https://www.wired.com/2012/12/oops-did-vice-just-give-away-john-mcafees-location-with-this-photo/). How? They shared a picture on their website. It turns out the image was taken an iPhone 4S, and appended GPS metadata. It’s pretty easy to analyze images for appended metadata, and a growing number of web-based tools make this process painless (e.g., <http://exifdata.com/>.
+This isn’t new. Back in 2012, [Two Vice journalists accidentally outed the location of then-billionaire-in-hiding, John McAfee](https://www.wired.com/2012/12/oops-did-vice-just-give-away-john-mcafees-location-with-this-photo/). How? They shared a picture on their website. It turns out the image was taken an iPhone 4S, and appended GPS metadata. It’s pretty easy to analyze images for appended metadata, and a growing number of web-based tools make this process painless (eg., <http://exifdata.com/>.
 
-Consider whether it’s appropriate to publish original documents with their file metadata intact. You can often remove metadata by converting the file into a new format (e.g., by taking a screenshot of a document).
+Consider whether it’s appropriate to publish original documents with their file metadata intact. You can often remove metadata by converting the file into a new format (eg., by taking a screenshot of a document).
 
 + It’s fairly easy to scrub unwanted metadata on [Windows](http://www.digitalcitizen.life/what-file-s-metadata-and-how-edit-it).
 
