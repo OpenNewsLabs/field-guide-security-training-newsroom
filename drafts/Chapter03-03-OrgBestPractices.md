@@ -30,7 +30,7 @@ Before we even talk about tools for taking confidential tips securely, there are
 
 Whether or not a source uses your confidential tips infrastructure to reach you, you have a responsibility to consider their safety before you continue to communicate with a source.
 
-Think about who would care about this information being made public (eg., their employer). What capabilities do they have to investigate the source of the tip? What are the potential consequences for your source if they are discovered? And then guide your source to the communications channels that will best protect them from surveillance.
+Think about who would care about this information being made public (such as their employer). What capabilities do they have to investigate the source of the tip? What are the potential consequences for your source if they are discovered? And then guide your source to the communications channels that will best protect them from surveillance.
 
 And when you're ready to publish, make sure you're not inadvertently revealing your source.
 
@@ -38,7 +38,7 @@ And when you're ready to publish, make sure you're not inadvertently revealing y
 
 **Content versus metadata**
 
-Many of the tools we recommend can protect the contents of your communications, but not the fact that you communicated at all. Even if your phone company isn't surveilling the contents of a phone call, their records will show all the numbers you called, whether the other party answered, and how long you stayed on the line. If you make calls over a service like WhatsApp, your phone history will still show that the call was made.
+Many of the tools we recommend can protect the contents of your communications, but not the fact that you communicated at all. Even if your phone company isn't monitoring the contents of a phone call, their records will show all the numbers you called, whether the other party answered, and how long you stayed on the line. If you make calls over a service like WhatsApp, your phone history will still show that the call was made.
 
 Most secure communications channels do not protect against metadata surveillance, so make note of these constraints in your documentation.
 

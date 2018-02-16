@@ -85,7 +85,7 @@ You can mitigate what is available without your permission. But "mitigation" is 
 
   + Carry key phone numbers outside your phone: if you find yourself in a situation where you are able to contact an attorney but don't want to power up your phone, make sure you have their number written down somewhere. Business cards are excellent for this purpose.
 
-  + Even if you don't have a staff attorney, do make sure you have someone you can contact if you get into a stand off over your electronics at the border. And make sure that you have their number somewhere analog. 
+  + Even if you don't have a staff attorney, do make sure you have someone you can contact if you get into a stand off over your electronics at the border. And make sure that you have their number somewhere analog.
 
 ### Walkthrough: Full Disk Encryption
 
@@ -120,7 +120,6 @@ iOS has built-in device encryption ([see page 10](https://www.apple.com/business
 #### Android:
 
 Options will depend on the Android device. Nexus/Pixel devices have full disk encryption enabled by default, but you can double-check by going to `Device Settings > Security > Encryption` -- select `Encrypt phone` to start the process, and be sure to set a strong passphrase.
-
 
 ### Recommended Reading
 
