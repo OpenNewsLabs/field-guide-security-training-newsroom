@@ -44,7 +44,7 @@ Most secure communications channels do not protect against metadata surveillance
 
 Similarly, any file on your computer has a bunch of metadata attached to it: the date and time it was created, the time it was last modified, size, and filename. And depending on the software that created a the metadata might include the name of the person who created it, or the company the software was licensed to. EXIF data attached to digital images often includes the type of camera the image was captured with, or even the GPS coordinates of the device at the time the photo was taken. In 2012, Vice [outed the location of then-billionaire-in-hiding, John McAfee](https://www.wired.com/2012/12/oops-did-vice-just-give-away-john-mcafees-location-with-this-photo/) by posting a photo online: the journalist's iPhone 4 automatically tagged the photo with the phone's GPS data.
 
-The tools section below includes a number of resources for scrubbing files of metadata.
+The session on [scrubbing metadata from files](docs/Chapter02-10-ScrubbingMetadata.md) includes some excellent resources to help ensure that hidden metadata doesn't burn your sources.
 
 **First Contact**
 
@@ -65,7 +65,6 @@ The Intercept has [an excellent guide](https://theintercept.com/leak/) to reachi
 Many existing resources fail to give would-be sources enough information about the risks associated with reaching out with sensitive information. News organizations can, and must, do better.
 
 If someone’s at risk of going to losing their job, going to jail (or worse) for reaching out to you, you owe them a sober explanation. Only promise the protection you know you can actually provide. Don't scare people unnecessarily, but do make sure they understand what they’re getting into.
-
 
 ## Onto The Tools
 
@@ -108,34 +107,11 @@ When done properly, physical mail and [SecureDrop](https://securedrop.org/) can 
 
   + SecureDrop requires dedicated equipment and an administrator familiar with the basics of Linux and Bash shell. The SecureDrop docs provide a good overview of the process of [setting up SecureDrop](https://docs.securedrop.org/en/stable/index.html). ASK: LINK TO OUR LESSON. It isn't a trivial undertaking. And while some individual reporters have their own SecureDrop instances -- [Bart Gellman](https://tcfmailvault.info/) and Wired’s [Kevin Poulsen](https://freedom.press/people/kevin-poulsen/) both do, in general SecureDrop should be an institutional tool.
 
-**Tools To Scrub Metadata**
+## Security is your responsibility
 
-It isn't possible to scrub metadata from communca
-
-It’s pretty easy to analyze images for appended metadata, and a growing number of web-based tools make this process painless (eg., <http://exifdata.com/>.
-
-+ It’s fairly easy to scrub unwanted metadata on [Windows](http://www.digitalcitizen.life/what-file-s-metadata-and-how-edit-it).
-
-+ For those who feel comfortable with Bash, consider using the [Metadata Anonymisation Toolkit](https://mat.boum.org/).
-
-To learn more, [please read our section for lessons on scrubbing metadata](https://docs.google.com/document/d/1MS9MoeXmXw_TYOmjXto9mvg-EROL5vds2sl5zytQTZk/edit#).
-
-**Unsafe devices lead to unsafe sources**
-
-Your conversations are only as secure as your devices. Be aware of a few different ways your communications can be compromised.
-
-Perhaps it goes without saying, but encryption doesn’t protect you if someone takes control of your unlocked physical devices. If the device you use to decrypt your messages gets infected with malware, your decrypted files are readily available to the remote attacker. And of course, without strong authentication, there’s not much standing between a hacker and your sensitive communications over your email, Twitter, Facebook, or any online account where you chat with sources.
-
-Defend against common attacks to protect your accounts and conversations with sources. One common way that newsroom accounts and devices are hijacked is through "phishing" emails—emails that link to a fake login page, where you’re encouraged to enter your very real login information.
-
-[Learn more about phishing here](https://freedom.press/training/email-security-tips/).
-
-Another common tactic is to encourage reporters to download and launch malicious file attachments that can give a remote attacker access to your device. Though you will inevitably open email links from strangers (it’s part of the job, after all), use caution and learn to identify suspicious-looking emails. If you’re feeling unsure of a file attachment in an email, consider whether to open PDFs and Microsoft Office documents, which are especially popular for distributing malware. If you’re okay with sharing a document with Google, consider opening it in Google Docs instead of opening it directly on your computer.
-
-To make it harder for remote attackers to log in and see any communications with sources, use hard-to-guess passwords (ideally generated and stored with a [password manager](https://medium.com/@mshelton/password-managers-for-beginners-d1f49866f80f)) and use [two-factor authentication](https://twofactorauth.org/).
+Conversations are only as secure as the least secure devices on your networks. Everyone in the newsroom should be educated about the risks of phishing and poor password hygiene.
 
 Learn more about [how to keep newsroom accounts safe from hijacking](https://source.opennews.org/guides/defending-accounts/).
-
 
 ## Sample Pages
 
