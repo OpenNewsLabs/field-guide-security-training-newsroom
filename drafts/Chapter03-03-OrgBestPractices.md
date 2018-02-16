@@ -4,10 +4,9 @@ This document was adapted from Martin Shelton's [Opening Secure Channels for Con
 
 You should also read Ted Han and Quinn Norton on [Protecting Your Sources When Releasing Sensitive Documents (Source, June 2017)](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
 
-
+Secure tip channels allow sources to come forward with compelling information, while minimizing the risk to their own safety or livelihood. Secure tip channels also signal to sources that you take their confidentiality seriously.
 
 This short guide describes some basics around how to think about security on behalf of your sources before thinking about tools and practices. We’ll also describe common communication channels for accepting sensitive tips and tradeoffs when using each channel. When thinking about tradeoffs, consider which channels are right for you.
-
 
 ## Before We Talk About Tools
 
@@ -39,11 +38,13 @@ And when you're ready to publish, make sure you're not inadvertently revealing y
 
 **Content versus metadata**
 
-Many of the tools we recommend can protect the contents of your communications, but not the fact that you communicated at all. Even if your phone company isn't surveillance the contents of a phone call, their records will show all the numbers you called, whether the other party answered, and how long you stayed on the line. If you make calls over a service like WhatsApp, your phone history will still show that the call was made.
+Many of the tools we recommend can protect the contents of your communications, but not the fact that you communicated at all. Even if your phone company isn't surveilling the contents of a phone call, their records will show all the numbers you called, whether the other party answered, and how long you stayed on the line. If you make calls over a service like WhatsApp, your phone history will still show that the call was made.
 
 Most secure communications channels do not protect against metadata surveillance, so make note of these constraints in your documentation.
 
-Similarly, any file on your computer has a bunch of metadata attached to it: the date and time it was created, the time it was last modified, size, and filename. And depending on the software that created a the metadata might include the name of the person who created it, or the company the software was licensed to. EXIF data attached to digital images often includes the type of camera the image was captured with.
+Similarly, any file on your computer has a bunch of metadata attached to it: the date and time it was created, the time it was last modified, size, and filename. And depending on the software that created a the metadata might include the name of the person who created it, or the company the software was licensed to. EXIF data attached to digital images often includes the type of camera the image was captured with, or even the GPS coordinates of the device at the time the photo was taken. In 2012, Vice [outed the location of then-billionaire-in-hiding, John McAfee](https://www.wired.com/2012/12/oops-did-vice-just-give-away-john-mcafees-location-with-this-photo/) by posting a photo online: the journalist's iPhone 4 automatically tagged the photo with the phone's GPS data.
+
+The tools section below includes a number of resources for scrubbing files of metadata.
 
 **First Contact**
 
@@ -107,15 +108,11 @@ When done properly, physical mail and [SecureDrop](https://securedrop.org/) can 
 
   + SecureDrop requires dedicated equipment and an administrator familiar with the basics of Linux and Bash shell. The SecureDrop docs provide a good overview of the process of [setting up SecureDrop](https://docs.securedrop.org/en/stable/index.html). ASK: LINK TO OUR LESSON. It isn't a trivial undertaking. And while some individual reporters have their own SecureDrop instances -- [Bart Gellman](https://tcfmailvault.info/) and Wired’s [Kevin Poulsen](https://freedom.press/people/kevin-poulsen/) both do, in general SecureDrop should be an institutional tool.
 
+**Tools To Scrub Metadata**
 
+It isn't possible to scrub metadata from communca
 
-**Pay Attention to File Metadata**
-
-If you’re going to publish files from a source, look out for file metadata. Metadata is information about a file, such as its creator or associated GPS coordinates. You can accidentally burn sources by publishing metadata alone.
-
-This isn’t new. Back in 2012, [Two Vice journalists accidentally outed the location of then-billionaire-in-hiding, John McAfee](https://www.wired.com/2012/12/oops-did-vice-just-give-away-john-mcafees-location-with-this-photo/). How? They shared a picture on their website. It turns out the image was taken an iPhone 4S, and appended GPS metadata. It’s pretty easy to analyze images for appended metadata, and a growing number of web-based tools make this process painless (eg., <http://exifdata.com/>.
-
-Consider whether it’s appropriate to publish original documents with their file metadata intact. You can often remove metadata by converting the file into a new format (eg., by taking a screenshot of a document).
+It’s pretty easy to analyze images for appended metadata, and a growing number of web-based tools make this process painless (eg., <http://exifdata.com/>.
 
 + It’s fairly easy to scrub unwanted metadata on [Windows](http://www.digitalcitizen.life/what-file-s-metadata-and-how-edit-it).
 
@@ -139,34 +136,22 @@ To make it harder for remote attackers to log in and see any communications with
 
 Learn more about [how to keep newsroom accounts safe from hijacking](https://source.opennews.org/guides/defending-accounts/).
 
-**Consider What’s Right for Your Sources**
 
-Most newsrooms are overworked, and it’s challenging to find the time to get started with these tools and practices. However, secure tip channels allow sources to come forward with compelling information, especially when they are putting their safety or livelihood at risk for sharing what they know. Secure tip channels also signal to sources that you take their confidentiality seriously. Consider which options are appropriate for your organization and your sources.
+## Sample Pages
 
-Here are some additional examples you can look to for inspiration on your secure tip page:
+Note that a number of these pages use a customized subdomain that would alert an employer that an individual computer user had accessed the tips page.
 
-+ ProPublica: <https://securedrop.propublica.org/> and "[How to Leak to ProPublica](https://www.propublica.org/article/how-to-leak-to-propublica)"
-
++ ProPublica: <https://securedrop.propublica.org/>  (also: [How to Leak to ProPublica](https://www.propublica.org/article/how-to-leak-to-propublica))
 + The New York Times: <https://www.nytimes.com/tips>
-
-+ The Washington Post: <(https://www.washingtonpost.com/anonymous-news-tips/>
-
-    + See also <https://www.washingtonpost.com/securedrop/> and "[Here’s how to leak government documents to The Post](https://www.washingtonpost.com/news/politics/wp/2017/01/25/heres-how-to-leak-government-documents-to-the-post/)"
-
++ The Washington Post: <https://www.washingtonpost.com/anonymous-news-tips/> (also:  <https://www.washingtonpost.com/securedrop/> and [Here’s how to leak government documents to The Post](https://www.washingtonpost.com/news/politics/wp/2017/01/25/heres-how-to-leak-government-documents-to-the-post/))
 + BuzzFeed: <https://contact.buzzfeed.com/>
-
-+ The Associated Press: <https://www.ap.org/tips/>
-
++ Associated Press: <https://www.ap.org/tips/>
 + The Guardian: <https://securedrop.theguardian.com/>
-
 + The New Yorker: <https://projects.newyorker.com/strongbox/>
-
-+ The Intercept: <https://theintercept.com/leak/>
-
-    + See also <https://theintercept.com/2015/01/28/how-to-leak-to-the-intercept/>  
-
++ The Intercept: <https://theintercept.com/leak/> (also: [The Intercept Welcomes Whistleblowers](https://theintercept.com/2015/01/28/how-to-leak-to-the-intercept/))
 + Vice: <https://news.vice.com/securedrop/>
 
 ### Recommended Reading
++ [Opening Secure Channels for Confidential Tips (Source, Feb 2017)](https://source.opennews.org/articles/opening-secure-channels-confidential-tips/)
 
-<https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/>
++  [Protecting Your Sources When Releasing Sensitive Documents (Source, June 2017)](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
