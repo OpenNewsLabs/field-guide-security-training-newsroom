@@ -363,3 +363,8 @@ https://www.buzzfeed.com/sheerafrenkel/russian-hackers-faked-gmail-password-form
 https://en.wikipedia.org/wiki/Podesta_emails and https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak
 
 https://www.welivesecurity.com/2016/04/23/sms-phishing-attackers-continue-pursue-apple-users/
+
+
+### Recommended reading
+
+[Freedom of the Press Foundation's Phishing Training](https://freedom.press/training/email-security-tips/)
