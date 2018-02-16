@@ -65,3 +65,7 @@ In this lesson, trainers are able to help a news organization set up a secure ti
 [***Training Newsrooms on Two-Factor Authentication***](https://docs.google.com/document/d/1LrFfI1Y18U4eTCiDMZ0Lz1Cc4wwK8tkVJWbZ6ZRMYYo): TK minutes, workshop and walkthrough
 
 In this lesson, participants will be introduced to three types of multi-factor authentication: SMS, authentication apps, and security keys. Trainers will discuss the relative merits of each method and provide a demonstration for setting up each type.
+
+
+
+Savvy readers will note that this guide doesn't currently include a guide to encrypting email with GPG or PGP. Why? It's hard to use and history has shown that most folks don't use it properly. As Martin Shelton has pointed out, [newsrooms have better options](https://source.opennews.org/articles/how-lose-friends-and-anger-journalists-pgp/).
