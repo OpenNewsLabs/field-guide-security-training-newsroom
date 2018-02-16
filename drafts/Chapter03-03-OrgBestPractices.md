@@ -105,14 +105,9 @@ When done properly, physical mail and [SecureDrop](https://securedrop.org/) can 
 
   + Tradeoffs: Sources using SecureDrop don’t have to provide identifying information unless they choose to do so. This added protection for sources can sometimes present challenges for newsrooms that need to verify the legitimacy of an anonymous leak.
 
-  + SecureDrop requires dedicated equipment and an administrator familiar with the basics of Linux and Bash shell. The SecureDrop docs provide a good overview of the process of [setting up SecureDrop](https://docs.securedrop.org/en/stable/index.html). ASK: LINK TO OUR LESSON.
+  + SecureDrop requires dedicated equipment and an administrator familiar with the basics of Linux and Bash shell. The SecureDrop docs provide a good overview of the process of [setting up SecureDrop](https://docs.securedrop.org/en/stable/index.html). ASK: LINK TO OUR LESSON. It isn't a trivial undertaking. And while some individual reporters have their own SecureDrop instances -- [Bart Gellman](https://tcfmailvault.info/) and Wired’s [Kevin Poulsen](https://freedom.press/people/kevin-poulsen/) both do, in general SecureDrop should be an institutional tool.
 
 
-**Verification**
-
-Consider (1) verifying their information independently by asking experts, (2) other previous "insiders" (perhaps not present insiders) who might understand the leak, or (3) consider having a conversation with your source about information they can give that would verify their identity without giving information that would be meaningful to their organization. For example, you can ask them to post a nondescript phrase in a tweet — visible to anyone, but only meaningful to you.
-
-While it is possible for individual reporters to have individual SecureDrop pages (eg., [Bart Gellman](https://tcfmailvault.info/); Wired.com’s [Kevin Poulsen](https://freedom.press/people/kevin-poulsen/)), it takes a fair bit of know-how. For most, having institutional support is ideal.
 
 **Pay Attention to File Metadata**
 
