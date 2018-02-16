@@ -20,6 +20,7 @@ Chapter 1 is an enormous resource for new trainers or folks who are looking for 
 * [Being A Better Trainer](Chapter01-01-BeingABetterTrainer)
 * [Training Games](Chapter01-02-TrainingGames)
 * [Organizational Self-Assessment](Chapter01-03-OrganizationalSelfAssessment)
+* [Setting the Stage for Your First Session](Chapter01-04-FramingStrategies)
 
 ## Chapter 2 - Lesson plans
 Chapter 2 is a fantastic collection of lesson plans and training materials to help people cover key topics with their peers.  
@@ -29,14 +30,15 @@ Chapter 2 is a fantastic collection of lesson plans and training materials to he
 * [Locking Down Mobile](Chapter02-03-Locking-Down-Mobile)
 * [Setting Up Signal](Chapter02-04-Setting-Up-Signal)
 * [Good Hygiene For Apps](Chapter02-05-Good-Hygiene-For-Apps)
+* [Passwords and Password Management](Chapter02-06-Passwords)
 * [Two-Factor Authentication](Chapter02-07-Two-Factor-Authentication)
-
+* [Physical Custody of Electronics](Chapter02-09-PhysicalSecurity)
+* [Using SecureDrop Securely](Chapter02-11-SecureDrop)
 
 ## Chapter 3 - Resources
 Chapter 3 is our best effort to aggregate links to the best existing resources, to help new trainers deepen their own expertise.  
 
-* [Resources](Chapter03-Resources)
-
+* [Building Further Expertise](Chapter03-02-Resources)
 
 # Contributing
 

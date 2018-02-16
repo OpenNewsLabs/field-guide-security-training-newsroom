@@ -2,18 +2,21 @@ site_name: The Field Guide to Security Training in the Newsroom
 pages:
     - Home: index.md
     - Chapter 1:
-        - "Being A Better Trainer": Chapter01-01-BeingABetterTrainer.md 
+        - "Being a Better Trainer": Chapter01-01-BeingABetterTrainer.md 
         - "Training Games": Chapter01-02-TrainingGames.md
         - "Organizational Self-Assessment": Chapter01-03-OrganizationalSelfAssessment.md
+        - "Setting the Stage for Your First Session": Chapter01-04-FramingStrategies.md
     - Chapter 2:
         - "Lesson: Mobile Security Settings": Chapter02-01-Mobile-Security-Settings.md 
         - "Lesson: Mobile Backups": Chapter02-02-Mobile-Backups.md 
         - "Lesson: Locking Down Mobile": Chapter02-03-Locking-Down-Mobile.md 
         - "Lesson: Setting Up Signal": Chapter02-04-Setting-Up-Signal.md 
         - "Lesson: Good Hygiene For Apps": Chapter02-05-Good-Hygiene-For-Apps.md
+        - "Lesson: Passwords and Password Management": Chapter02-06-Passwords.md
         - "Lesson: Two-Factor Authentication": Chapter02-07-Two-Factor-Authentication.md
-        - "Lesson: SecureDrop": Chapter02-11-SecureDrop.md
+        - "Lesson: Physical Custody of Electronics": Chapter02-09-PhysicalSecurity.md
+        - "Lesson: Using SecureDrop Securely": Chapter02-11-SecureDrop.md
     - Chapter 3:
-        - "Resources": Chapter03-02-Resources.md
+        - "Resources: Building Further Expertise": Chapter03-02-Resources.md
     - Contribute to this guide: contributing.md
 theme: readthedocs
