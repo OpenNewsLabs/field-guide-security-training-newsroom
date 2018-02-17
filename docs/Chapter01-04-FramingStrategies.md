@@ -58,6 +58,26 @@ Some digital security trainers have used Kvinna till Kvinna’s [integrated secu
 
 Contexts in which this framing can be helpful: when working in newsrooms where security needs are much broader than what is typically covered in digital security curriculum. The lesson plan is intended for a session lasting between two and four hours.
 
+## This is Awesome
+
+Customize it, bring in some of your favorite properties of the net, etc.
+
+    Practical privacy and security is just a part of digital literacy. Right now, for most people, learning how their computers work seems hard enough, learning how the network works seems impossible. But it's not, it's just learning a new perspective about the world we live in everyday.
+
+    It's worthwhile to take a moment to say how amazing the age we live in is, how wonderful and awesome it is, and downright magical it is, living through the mediation of just about everything. When I was young we didn't have 30 second access to all human knowledge, now I can't tolerate being out of touch with the world for more than a few hours. We used to go to the library to find things out. When someone moved away, we accepted that we'd probably never see from or hear from them again. The lives of people in distant lands, or even Des Moines, was mysterious.
+
+    Now, if I want to talk to hundreds, or even thousands, of people, I turn to Twitter. If I wanted to do that when I was a teenager, I just couldn't. I could work for years to get onto a platform with that kind of reach, but that was a career choice -- go to college, try to get a job, work for it, possibly for most of my life. Now it's a regular part of life, normal and even banal.
+
+    There's more books than I could hope to read, much less own, that fit on my three-inch screen. Or, I can realize reading on a 3" screen sucks, and listen to audiobooks, of which there are more than I could ever listen to -- even in the public domain, having been read by random volunteers! Thanks, random volunteers!
+
+    I can book a flight to Seoul, order a box of baby chickens, and find patient communities for dozens of bowel diseases in the span of 20 minutes, all from this magical phone in front of me, or this small box with more computational power than took humanity to the moon.
+
+    We live in an age of working magic wands, an age with no muggles. We're all wizards now -- but there's no Hogwarts. We're muddling through, and everyone having all these powers can seem scary. But the world gets better as we all learn to use them.
+
+    This is digital literacy, getting a sense of your networks. Learning how to use your network powers, and how to defend yourself in an environment of network powers.
+
+Contexts in which this framing can be helpful: when you want to set a tone that none of this should be scary or overwhelming.
+
 ## Understanding and Honoring Needs and Expectations
 
 DJ and Nicolás Sera-Leyva have written extensively about understanding and managing expectations in digital security trainings over at [Level Up](https://www.level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/). Communicating with participants, rather than relying entirely on what a trainer *thinks* they need and expect, will make any training more effective.
@@ -74,4 +94,4 @@ A few more valuable points to keep in mind:
 * Security is an effort we make for ourselves, for others we care about, and also for others we currently do not care about. We rely on each other -- security might be an act of moral obligation, civic responsibility, or love.
 * Normalizing secure communications is a way to work in solidarity with more vulnerable groups. As more people use encrypted channels to touch base about what's for dinner, we all help make secure communication normal.
 
-Many of the "framing" suggestions above start with activities that incorporate (or can be easily tweaked to incorporate) these conversations, and Chris Michael published [a very useful resource for getting participants in sync](https://level-up.cc/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/). 
+Many of the "framing" suggestions above start with activities that incorporate (or can be easily tweaked to incorporate) these conversations, and Chris Michael published [a very useful resource for getting participants in sync](https://level-up.cc/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/).
