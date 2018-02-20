@@ -73,7 +73,7 @@ also require a reconstruction of the document be made for publication,
 as the risk of publishing even the redacted original would be too great.
 
 **Removing Metadata**  
-Metadata-removal software exists, but a simpler lo-fi 
+Metadata-removal software exists, but a simpler 
 approach is to print out a sensitive document, scan it back into your
 computer and rename the file. Similarly, you can remove metadata from an
 image or photograph by screenshotting the original and sharing the copy
@@ -85,20 +85,28 @@ black and white reduces the chance of exposure.)
 to find it-- also gives you a leg up as a reporter when researching and
 developing evidence and leads for stories.)
 
-### Active Lesson: Removing metadata from a Word doc and a JPG image.
+### Active Lesson: Removing metadata from a Word doc and a JPEG image.
 *\[Trainer should begin by introducing participants to the concept of
-document metadata by showing multiple examples of Word documents, PDF
-files and images, showing where to find the metadata and what types of
+document metadata by showing examples of Word documents
+and images, showing where to find the metadata and what types of
 information may be "hidden" in a document’s guts.\]*
 
 **Finding Microsoft Word metadata**  
+The easiest way to view a Word document's metadata is to open it in Word and open the Properties dialog:
+
+* In MS Word for OS X, choose **File > Properties** and select the summary tab.
+
+* In MS Word 2010 and later for Windows, select the **File** tab, click **Info**, and select **Properties > Advanced Properties** on the right-hand side of the pane.
+
+*\[The instructor should take a moment to review the information included under each tab in the Properties dialog box with participants\]*
 
 ![IMAGE:Microsoft Word dialog box showing document metatada](img/metadata-word.png)
 
-**How to find EXIF data on an image file (both for PC and Mac -- do not
-assume the user has access to Photoshop or other paid software). **
+**Finding image metadata (EXIF data)**
+Most digital cameras, including smartphone cameras, add metadata to photographs, typically including information about camera settings and the time and location of the shot. You can find this metadata by opening the image information in an image viewing application. For example, in OS X, you can use the built-in Preview App, by 
 
-**Scenario:** How do you share SOOPERSEKRIT.docx with a 3rd party
+**Scenario: scrubbing metadata**  
+How do you share SOOPERSEKRIT.docx with a 3rd party
 without exposing the information in the document properties? How do you
 share MADSCIENTISTLAIR.jpg without giving away the GPS coordinates
 embedded in the image EXIF data?
@@ -126,14 +134,8 @@ journalist who is going to receive a "scrubbed" image.
 -   The "source" should make a screenshot of the original file and send
     > the scrubbed version to the "journalist."
 
-Follow-up, other tools
-======================
+## Recommended Reading
 
-\[ needs more context on when you’d use other tools… list of software
-options…TK \]
-
-[*Protecting Your Sources When Releasing Sensitive
+* [*Protecting Your Sources When Releasing Sensitive
 Documents*](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
 - a checklist for handling and releasing leaked documents
-
-For consideration:
