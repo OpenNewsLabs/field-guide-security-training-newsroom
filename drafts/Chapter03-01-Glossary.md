@@ -1,6 +1,13 @@
-# Introduction to Digital Literacy
+# Glossary
 
-This is a work in progress on how to give people a grounding it the basics of digital literacy, written in the order I have found works best in my experience.
+There are a lot of different ways to talk about some of the underlying topics, and the explanation that really clicks is different for every person. This is less a glossary than a round-up of great analogies and explanations. These are simplified explanations of technical concepts for non-techinical users, 
+
+possibly with links to helpful analogies or in-depth material.
+
+simplified explanations of technical concepts for non-techinical users, possibly with links to helpful analogies or in-depth material.
+
+These are good ways to talk about security topics. Aka: analogies we love.
+s
 
 + Intro/framing
 + What is a Network
@@ -8,24 +15,7 @@ This is a work in progress on how to give people a grounding it the basics of di
 + What is Authentication
 + What is a Computer (& What is Software)
 
-##Framing: This is _awesome_
 
-**Suggested intro:** (Customize it, bring in some of your favorite properties of the net, etc.)
-
-Practical privacy and security is just a part of digital literacy. Right now, for most people, learning how their computers work seems hard enough, learning how the network works seems impossible. But it's not, it's just learning a new perspective about the world we live in everyday.
-
-It's worthwhile to take a moment to say how amazing the age we live in
-is, how wonderful and awesome it is, and downright magical it is, living through the mediation of just about everything. When I was young we didn't have 30 second access to all human knowledge, now I can't tolerate being out of touch with the world for more than a few hours. We used to go to the library to find things out. When someone moved away, we accepted that we'd probably never see from or hear from them again. The lives of people in distant lands, or even Des Moines, was mysterious.
-
-Now, if I want to talk to hundreds, or even thousands, of people, I turn to Twitter. If I wanted to do that when I was a teenager, I just couldn't. I could work for years to get onto a platform with that kind of reach, but that was a career choice -- go to college, try to get a job, work for it, possibly for most of my life. Now it's a regular part of life, normal and even banal.
-
-There's more books than I could hope to read, much less own, that fit on my three-inch screen. Or, I can realize reading on a 3" screen sucks, and listen to audiobooks, of which there are more than I could ever listen to -- even in the public domain, having been read by random volunteers! Thanks, random volunteers!
-
-I can book a flight to Seoul, order a box of baby chickens, and find patient communities for dozens of bowel diseases in the span of 20 minutes, all from this magical phone in front of me, or this small box with more computational power that took humanity to the moon.
-
-We live in an age of working magic wands, an age with no muggles. We're all wizards now -- but there's no Hogwarts. We're muddling through, and everyone having all these powers can seem scary. But the world gets better as we all learn to use them.
-
-This is digital literacy, getting a sense of your networks. Learning how to use your network powers, and how to defend yourself in an environment of network powers.
 
 Let's start at the beginning: What is a network?
 
@@ -57,10 +47,22 @@ The net is a packet switching network. Packet switching is rather like passing n
 + cell phone exercise (Marco Polo Is a very interesting historical figure/Ping Pong is a game with two people)
 + passing notes in class
 
+## HTTPS
+
+[The US CIO's excellent and thorough explanation](https://https.cio.gov/everything/), and [Chrome's Developer Blog](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+
+
+
+
 ## What is Encryption
+
+https://en.wikipedia.org/wiki/Encryption
 
 ## What is Authentication
 
-Note: this is covered well in Passwords
+The passwords lesson is a great resource for explaining the process of authentication.
+
+
+
 
 ## What is a Computer (& What is Software)

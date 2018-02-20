@@ -1,5 +1,17 @@
 Scrubbing Metadata from Files- A low-fi approach
 ================================================
+**Tools To Scrub Metadata**
+
+If you're planning to publish a document that you got from a source, [don't burn your source](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/) in the process. At a minimum, ensure that you're not
+
+It’s straight forward analyze images for appended metadata, and a growing number of web-based tools make this process painless. <http://exifdata.com/> is one.
+
++ It’s fairly easy to scrub unnecessary metadata on [Windows](http://www.digitalcitizen.life/what-file-s-metadata-and-how-edit-it).
+
++ Users with some Bash comfort should consider the [Metadata Anonymisation Toolkit](https://mat.boum.org/).
+
+To learn more, [please read our section for lessons on scrubbing metadata](https://docs.google.com/document/d/1MS9MoeXmXw_TYOmjXto9mvg-EROL5vds2sl5zytQTZk/edit#)
+
 
 ## Overview 
 Files such as Word documents and JPEG images usually

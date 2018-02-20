@@ -65,19 +65,27 @@ You're looking for most things from the first list, as well as things like:
 **So what can you do?**
 You can mitigate what is available without your permission. But "mitigation" is a key word. You don't know, not really, that it can't be decrypted. The strategies that make sense vary a lot with your threat model. The EFF's [Border Privacy Guide](https://www.eff.org/wp/digital-privacy-us-border-2017) is a great resource -- encourage folks to lean hard on it.
 
-+ Reduce the amount of data you carry across the border, or don't carry sensitive data across borders at all. This is in some ways the easiest solution, at least as far as border search is concerned. It is also, obviously the hardest. But if you have access to a secondary laptop and you're planning a trip, consider taking something other than your primary laptop to use. If you do use an alternate "travel device" and make sure that it doesn't contain your password manager, SSH keys or e-mail client.
++ Reduce the amount of data you carry across the border, or don't carry sensitive data across borders at all. This is in some ways the easiest solution, at least as far as border search is concerned. It is also, obviously the hardest.
 
-+ Do you need a smart phone on your trip? Or would a feature phone with longer battery life meet your needs?
+  + If you have access to a secondary laptop and you're planning a trip, consider taking something other than your primary laptop to use. If you do use an alternate "travel device" and make sure that it doesn't contain your password manager, SSH keys or e-mail client.
 
-+ Consider backing up, and completely wiping your phone before you leave on a trip. You can restore your device either after crossing or when you're back home.
+  + Do you need a smart phone on your trip? Or would a feature phone with longer battery life meet your needs?
 
-+  1Password offers a [travel mode](https://www.theverge.com/2017/5/23/15681990/1password-travel-mode-feature-added-security) that won’t allow you to access to your passwords while traveling.
+  + Consider backing up, and completely wiping your phone before you leave on a trip. You can restore your device either after crossing or when you're back home.
+
+  + Government authorities in particular, may be able to modify the physical hardware of your device. Restoring software from a backup won't protect against hardware modifications.
+
++ Use a "travel mode": 1Password offers a [travel mode](https://www.theverge.com/2017/5/23/15681990/1password-travel-mode-feature-added-security) that won’t allow you to access to your passwords while traveling.
 
 + Minimize the data available without your permission with full disk encryption, but know that you may not always be able to cross international borders without unlocking a device. The EFF has a good overview of [your rights at the US border](https://www.eff.org/wp/digital-privacy-us-border-2017#part-2). *Trainer Note: it is easy to slip into a debate about what the border patrol is likely to do, or a story swapping session about horrible things that have happened. Try to "park" those stories in a "parking lot" for discussion another time.*
 
-+ It is conceivable that authorities, especially, can modify the physical hardware of your device. Restoring your software from a backup won't protect against hardware modifications.
++ Call a lawyer. If your newsroom has staff attorneys, touch base with them before you travel.
 
-+ Carry contact information for your attorney somewhere other than your phone, and consider telling the border agent that your device contains trade secrets and you're not authorized to authorize a search.
+  + Some attorneys recommend telling the border agents that your device contains trade secrets and you're not authorized to authorize a search. That obviously only applies if it is true, but if you have company correspondence or documents on your phone it probably is true.   
+
+  + Carry key phone numbers outside your phone: if you find yourself in a situation where you are able to contact an attorney but don't want to power up your phone, make sure you have their number written down somewhere. Business cards are excellent for this purpose.
+
+  + Even if you don't have a staff attorney, do make sure you have someone you can contact if you get into a stand off over your electronics at the border. And make sure that you have their number somewhere analog.
 
 ### Walkthrough: Full Disk Encryption
 
@@ -112,7 +120,6 @@ iOS has built-in device encryption ([see page 10](https://www.apple.com/business
 #### Android:
 
 Options will depend on the Android device. Nexus/Pixel devices have full disk encryption enabled by default, but you can double-check by going to `Device Settings > Security > Encryption` -- select `Encrypt phone` to start the process, and be sure to set a strong passphrase.
-
 
 ### Recommended Reading
 

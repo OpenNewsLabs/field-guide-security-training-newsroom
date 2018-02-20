@@ -1,28 +1,18 @@
-# Setting the Stage for Your First Session
-
-<!-- This is really a guide to a few places to start introducing and framing digital security. -->
+# Framing the Conversation
 
 ## Overview
-There are a lot of stages to building digital security capacity in a newsroom, so you have to start *somewhere*. If you only run one session, it will still count as the start of the process for the newsroom. For trainers who are just getting started, choosing where and how to begin a facilitation process can feel incredibly daunting; it doesn't help that experienced trainers tend to have passionate feelings about where to start.
 
-Our guide to [Being Better Trainer](docs/Chapter01-01-BeingABetterTrainer.md) is a great resource, whatever your experience level. But the first session is an opportunity to think about how you will frame conversations so that they really do serve as a starting point for further work.
+Many of the lesson plans in this guide are designed to stand alone, and some of the overview lessons skim a few key topics in a lunch hour. But if you're thinking about launching a series of workshops, it is worth also considering how you want to frame that series.
 
-Many trainers like to start with a review of basic digital literacy, to give a foundation to the rest of the work they're doing in subsequent trainings. Other's like to start with threat modeling or risk assessment. Below, we've gathered a variety of great resources to help you frame your trainings.
-
-<!--
- resource discusses considerations that you should have in all of your sessions, but we do think that first sessions can especially serve two purposes: setting a **good framing** that enables further work on digital security capacity building, and **understanding and honoring the needs and expectations of the group with which you will be working**.-->
-
-## Framing
-
-The way you choose to frame the conversations you lead makes an enormous difference.
+There are a lot of different ways to frame a conversation about digital security. Many trainers like to start with a review of basic digital literacy, to provide a foundation for subsequent trainings. Others start with threat modeling or risk assessment. This document is a great roundup of places to start a training series.
 
 * For some participants, this workshop will be their first opportunity to reflect on a subject that is conventionally framed as the domain of experts. Facilitating means showing that participants, too, have what they need to participate in the process.
 
-* You won’t be starting from scratch. Everyone in the room will bring some insight and some baggage. Many participants will have some digital security knowledge that can be woven into the process you’re starting, but you will also have to deal with myths that can take a while to debunk, personal insecurities. Facilitating well means challenging the prevalent narratives.
+* No workshop starts from scratch. Everyone in the room brings some insight and some baggage. Participants will have useful digital security knowledge, but they also bring personal insecurities and myths that take time to debunk.
 
-* Adults usually expect understand the relevance of what we learn. That expectation can be challenging when we don’t have existing mental landscapes that help us make sense of new concepts and tools. Facilitating means providing conducive frames of reference.
+* Adults usually expect understand the relevance of what we learn. That expectation can be challenging when we don’t have existing mental landscapes that help us make sense of new concepts and tools. Facilitating means providing useful frames of reference.
 
-The good news is that you're not alone. You're actually traveling a well trod path. A lot of really great trainers have already done the hard work of articulating foundational concepts for digital security work that then open the conversation up to other specific practice and tools-based topics. You might notice that none of these foundational approaches is based on encryption, malware, or specific topics like that; those come later, once the framing has been established.
+The good news is that a lot of great trainers have already done the hard work of articulating foundational concepts for digital security work that then open the conversation up to other specific practice and tools-based topics.
 
 Here are examples of lesson plans that different individuals and organizations use to facilitate their first sessions, and a brief explanation of the framing on which they rely.
 
@@ -68,6 +58,26 @@ Some digital security trainers have used Kvinna till Kvinna’s [integrated secu
 
 Contexts in which this framing can be helpful: when working in newsrooms where security needs are much broader than what is typically covered in digital security curriculum. The lesson plan is intended for a session lasting between two and four hours.
 
+## This is Awesome
+
+Customize it, bring in some of your favorite properties of the net, etc.
+
+Practical privacy and security is just a part of digital literacy. Right now, for most people, learning how their computers work seems hard enough, learning how the network works seems impossible. But it's not, it's just learning a new perspective about the world we live in everyday.
+
+It's worthwhile to take a moment to say how amazing the age we live in is, how wonderful and awesome it is, and downright magical it is, living through the mediation of just about everything. When I was young we didn't have 30 second access to all human knowledge, now I can't tolerate being out of touch with the world for more than a few hours. We used to go to the library to find things out. When someone moved away, we accepted that we'd probably never see from or hear from them again. The lives of people in distant lands, or even Des Moines, was mysterious.
+
+Now, if I want to talk to hundreds, or even thousands, of people, I turn to Twitter. If I wanted to do that when I was a teenager, I just couldn't. I could work for years to get onto a platform with that kind of reach, but that was a career choice -- go to college, try to get a job, work for it, possibly for most of my life. Now it's a regular part of life, normal and even banal.
+
+There's more books than I could hope to read, much less own, that fit on my three-inch screen. Or, I can realize reading on a 3" screen sucks, and listen to audiobooks, of which there are more than I could ever listen to -- even in the public domain, having been read by random volunteers! Thanks, random volunteers!
+
+I can book a flight to Seoul, order a box of baby chickens, and find patient communities for dozens of bowel diseases in the span of 20 minutes, all from this magical phone in front of me, or this small box with more computational power than took humanity to the moon.
+
+We live in an age of working magic wands, an age with no muggles. We're all wizards now -- but there's no Hogwarts. We're muddling through, and everyone having all these powers can seem scary. But the world gets better as we all learn to use them.
+
+This is digital literacy, getting a sense of your networks. Learning how to use your network powers, and how to defend yourself in an environment of network powers.
+
+Contexts in which this framing can be helpful: when you want to set a tone that none of this should be scary or overwhelming.
+
 ## Understanding and Honoring Needs and Expectations
 
 DJ and Nicolás Sera-Leyva have written extensively about understanding and managing expectations in digital security trainings over at [Level Up](https://www.level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/). Communicating with participants, rather than relying entirely on what a trainer *thinks* they need and expect, will make any training more effective.
@@ -80,21 +90,8 @@ The first session is great to help get the whole group in sync, which sometimes 
 
 A few more valuable points to keep in mind:
 
-* Digital security is not just about knowledge: it is also about changing habits. Nobody changes all of their habits based on one two-hour session. What are the realistic commitments we can to make?
-* Security is an effort we make for ourselves, for others we care about, and also for others we currently do not care about. Because we rely on each other. See it as an act of moral obligation, civic responsibility, or love.
-* Everyone has individual needs and different starting points, and we can get to explore some of them in the group setting, but if we are working in an organizational setting, the threat models that address all the participants must be prioritized. Some boundaries will be set to keep the session relevant for everyone.
+* Digital security is not just about knowledge: it is also about changing habits. Nobody changes all of their habits based on one two-hour session. Encourage participants to make realistic commitments, and keep them.
+* Security is an effort we make for ourselves, for others we care about, and also for others we currently do not care about. We rely on each other -- security might be an act of moral obligation, civic responsibility, or love.
 * Normalizing secure communications is a way to work in solidarity with more vulnerable groups. As more people use encrypted channels to touch base about what's for dinner, we all help make secure communication normal.
 
-How can we have those conversations at the start? Surveys before workshops are  great, but they are not the only option. Some of the "framing" suggestions above start with activities that incorporate (or can be easily tweaked to incorporate) these conversations, and Chris Michael published [a very useful resource for that](https://level-up.cc/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/). Even if you opt for a lecture because a participatory format isn't a good fit, you can build in a short interactive component to ask people about what they expect from the session. Prompts might include:
-
-* What is your previous experience with digital security topics? Saying "none" is okay!
-* What brings you to this workshop?
-* Has anybody been to a digital security session before?
-* At the end of this session, what would you like to walk away with? How about at the end of the process, when we have completed all our sessions?
-* What have you heard people say about digital security on the media or in your social circles?
-* Do you have any digital security tips or things you already do?
-* What are some of your most pressing questions in terms of digital security?
-
-And then what? If you do this in-session, rather than before, *maybe* you won’t be able to produce a new session agenda from scratch on the spot, but taking note of what is said can help you tweak your examples and language as you go through the session as you originally planned it (to especially address the points that were raised), and will help you in the planning of future sessions.
-
-Hearing from participants can also help you spot any opportunities to get everyone in sync. For example: if you have people with more experience, or with technical backgrounds, you can give them extra tasks to keep their attention and promote their growth: you can pair them up in some sections so they can mentor their peers, or they can participate as note-takers or designated [jargon ball throwers](https://www.level-up.cc/you-the-trainer/be-a-better-trainer/).
+Many of the "framing" suggestions above start with activities that incorporate (or can be easily tweaked to incorporate) these conversations, and Chris Michael published [a very useful resource for getting participants in sync](https://level-up.cc/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/).

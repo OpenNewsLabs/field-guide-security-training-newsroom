@@ -128,10 +128,13 @@ Similarly, the journalist should take as many steps and precautions a possible t
 
 ## Recommended Reading
 
+**Links in the news**
+
 + [How To Keep Your Chats Truly Private With Signal](https://theintercept.com/2017/05/01/cybersecurity-for-the-people-how-to-keep-your-chats-truly-private-with-signal/)
 + [Martin Shelton on Signal for Beginners](https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0) 
 + [Security Tips Every Signal User Should Know (The Intercept)](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
 
-### More Great Lesson Plans
+
+**More great lesson plans**
 
 + [EFF's Security Education Companion, on How to Install Signal](https://sec.eff.org/topics/how-to-install-signal)
