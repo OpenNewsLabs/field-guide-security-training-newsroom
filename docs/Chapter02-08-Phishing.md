@@ -12,7 +12,7 @@ Participants will consider phishing in the context of *trust decisions* and deve
 
 **Review date:** June 2017  
 **Lesson duration:** 45 minutes  
-**Level:** Introductory
+**Level:** Introductory  
 
 **What materials will participants need?**
 
