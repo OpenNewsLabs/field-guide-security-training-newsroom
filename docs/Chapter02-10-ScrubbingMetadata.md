@@ -1,17 +1,4 @@
-Scrubbing Metadata from Files- A low-fi approach
-================================================
-**Tools To Scrub Metadata**
-
-If you're planning to publish a document that you got from a source, [don't burn your source](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/) in the process. At a minimum, ensure that you're not
-
-It’s straight forward analyze images for appended metadata, and a growing number of web-based tools make this process painless. <http://exifdata.com/> is one.
-
-+ It’s fairly easy to scrub unnecessary metadata on [Windows](http://www.digitalcitizen.life/what-file-s-metadata-and-how-edit-it).
-
-+ Users with some Bash comfort should consider the [Metadata Anonymisation Toolkit](https://mat.boum.org/).
-
-To learn more, [please read our section for lessons on scrubbing metadata](https://docs.google.com/document/d/1MS9MoeXmXw_TYOmjXto9mvg-EROL5vds2sl5zytQTZk/edit#)
-
+# Scrubbing Metadata from Files- A low-fi approach
 
 ## Overview 
 Files such as Word documents and JPEG images usually
@@ -115,7 +102,10 @@ The easiest way to view a Word document's metadata is to open it in Word and ope
 ![IMAGE:Microsoft Word dialog box showing document metatada](img/metadata-word.png)
 
 **Finding image metadata (EXIF data)**
-Most digital cameras, including smartphone cameras, add metadata to photographs, typically including information about camera settings and the time and location of the shot. You can find this metadata by opening the image information in an image viewing application. For example, in OS X, you can use the built-in Preview App, by 
+Most digital cameras, including smartphone cameras, add metadata to photographs, typically including information about camera settings and the time and location of the shot. You can find this metadata by opening the image information in an image viewing application. For example, in OS X, you can use the built-in Preview App, by opening the image and choosing **Tools > Show Locatio Info**.
+
+![IMAGE:OS X Preview dialog box showing GPS Location](img/metadata-location.png)
+
 
 **Scenario: scrubbing metadata**  
 How do you share SOOPERSEKRIT.docx with a 3rd party
@@ -123,31 +113,37 @@ without exposing the information in the document properties? How do you
 share MADSCIENTISTLAIR.jpg without giving away the GPS coordinates
 embedded in the image EXIF data?
 
-5-10 minute small group discussion: ask participants to brainstorm ideas
+*\[**5-10 minute small group discussion:** Instructor should ask participants to brainstorm ideas
 of ways they could share or publish the sensitive information. Have each
 small group report back and see if anyone came up with the idea to
 retype a document, print and scan, or utilize screenshots. (Spend some
-time talking about other solutions that come up.)
+time talking about other solutions that come up.)\]*
 
-10 minute activity: Trainer should send an image file that has location
-data and a Word document with ownership or similar information stored.
-Have participants partner together, one pretending to be the journalist
-with the sensitive information, the other pretending to be a third-party
-expert in the subject area who is going to review the sensitive
-documents. In the second half of the exercise, one person should be a
-sensitive source with a photo to leak and the other should be a
+*\[**10 minute activity:** Istructor should send an image file that has location
+data [(link)](scrubbing_metadata/MADSCIENTISTLAIR.jpg) and a Word document with ownership metadata [(link)](scrubbing_metadata/SOOPERSEKRIT.docx).\]*  
+Now, split up into pairs, one person pretending to be the journalist
+with sensitive documents, the other pretending to be a third-party
+expert in the subject area who is going to review them
+
+- The "journalist" should print out the document and use a scanner or
+     mobile application to ingest the document (If the
+     "journalist" uses a color printer, the instructor should verify that
+     they printed the document in monochrome.)
+- The "journalist should share the scanned image with the "expert" - for this exercise it doesn't matter how, but in a real-world scenario the image should be shared securely.
+
+Now, change roles: one person should be a
+sensitive source with a photo to leak, and the other should be a
 journalist who is going to receive a "scrubbed" image.
 
--   The "journalist" should print out the document and use a scanner or
-    > mobile application to ingest the document and share. (If the
-    > "journalist" uses a color printer, the trainer should verify that
-    > they printed the document in monochrome.)
-
 -   The "source" should make a screenshot of the original file and send
-    > the scrubbed version to the "journalist."
+     the scrubbed version to the "journalist." 
+- The instructor should verify with the "journalist" that the new file's EXIF data does not contain location info.
 
 ## Recommended Reading
 
 * [*Protecting Your Sources When Releasing Sensitive
-Documents*](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
-- a checklist for handling and releasing leaked documents
+Documents*](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/) - 
+ a checklist for handling and releasing leaked documents.
+* [https://exifdata.com/](https://exifdatacom) - an online tool for examining EXIF data in images. (But note that uploading sensitive images to a third-party site is not recommended.)
+* [*Simple questions: What is a file's metadata and how to edit it in Windows?*](https://www.digitalcitizen.life/what-file-s-metadata-and-how-edit-it) - a guide to removing file metadata under Windows.
+* [The Metadata Anonymisation Toolkit](https://mat.boum.org/) - a CLI-based metadata removal toolkit. Some familiarity with UNIX shell commands is a requirement, and the project is not under active maintenance.

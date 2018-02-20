@@ -14,7 +14,7 @@ pages:
         - "Lesson: Good Hygiene For Apps": Chapter02-05-Good-Hygiene-For-Apps.md
         - "Lesson: Passwords and Password Management": Chapter02-06-Passwords.md
         - "Lesson: Two-Factor Authentication": Chapter02-07-Two-Factor-Authentication.md
-        - "Lesson: Physical Custody of Electronics": Chapter02-09-PhysicalSecurity.md
+        - "Lesson: Physical Custody of Electronics": Chapter02-09-Physical-Security.md
         - "Lesson: Scrubbing Metadata": Chapter02-10-ScrubbingMetadata.md
         - "Lesson: Using SecureDrop Securely": Chapter02-11-SecureDrop.md
     - Chapter 3:
