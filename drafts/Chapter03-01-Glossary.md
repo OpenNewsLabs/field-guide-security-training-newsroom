@@ -1,6 +1,6 @@
 # Glossary
 
-There are a lot of different ways to talk about some of the underlying topics, and the explanation that really clicks is different for every person. This is less a glossary than a round-up of great analogies and explanations. These are simplified explanations of technical concepts for non-techinical users, 
+There are a lot of different ways to talk about some of the underlying topics, and the explanation that really clicks is different for every person. This is less a glossary than a round-up of great analogies and explanations. These are simplified explanations of technical concepts for non-techinical users,
 
 possibly with links to helpful analogies or in-depth material.
 
@@ -21,13 +21,11 @@ Let's start at the beginning: What is a network?
 
 ## What is a network
 
-define for trainer -- A network is two or more nodes connected physically and informationally over time.
+A network is two or more nodes connected physically and informationally over time.
 
-how to teach network
+### How do you teach networks?
 
-What do networks see when they look at you?
-
-examples:
+Examples of Networks:
 * Path data for cellphones
 * Electrical grids
 * Social graphs
@@ -51,7 +49,14 @@ The net is a packet switching network. Packet switching is rather like passing n
 
 [The US CIO's excellent and thorough explanation](https://https.cio.gov/everything/), and [Chrome's Developer Blog](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
 
+[HTTPS as Pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) via Andrea Zanin on freeCodeCamp walks through the core principles of HTTP and HTTPS with some nice pigeon analogies. (Not helpful, but clever, is the [IP Over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers) protocol)
 
+Wikipedia's [HTTPS entry](https://en.wikipedia.org/wiki/HTTPS)
+
+
+## Certificate Authority
+
+[HTTPS as Pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) covers CAs as trusted signatories (but doesn't address Let's Encrypt).
 
 
 ## What is Encryption
