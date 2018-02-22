@@ -2,7 +2,7 @@
 
 ## Overview
 
-*Phishing* is an email-based social engineering tactic that uses misplaced trust to extract information and access. Like other forms of social engineering, its purpose is to trick you (the target) into divulging information that can be used to access to  private data, networks or resources. Phishing is often  *Spear-phishing* is a form of phishing targeted at a particular individual or group. This sort of attack is widespread, common, and responsible for many [notorious examples](https://en.wikipedia.org/wiki/Podesta_emails) of data loss or leakage.
+*Phishing* is an email-based social engineering tactic that uses misplaced trust to extract information and access. Like other forms of social engineering, its purpose is to trick you (the target) into divulging information that can be used to access to  private data, networks or resources. *Spear-phishing* is a form of phishing targeted at a particular individual or group. This sort of attack is widespread, common, and responsible for many [notorious examples](https://en.wikipedia.org/wiki/Podesta_emails) of data loss or leakage.
 
 Defending against phishing begins with *awareness* of particular risks and some basic safety *techniques* and can be aided by the use of certain *tools*.
 
@@ -21,15 +21,14 @@ Access to the internet.
 Read the introductory articles in the intro email.
 
 **What materials will the instructor need?**  
-Presentation software, sticky notes, pens. (Optional: a pair of index cards per participant, numbered 1 and 2.)
+Presentation software, sticky notes, pens. A pair of index cards per participant, numbered 1 and 2.
 
 **How should the instructor prepare?**  
 Use outline below to prepare presentation, send intro email.
 
-
 ## Lesson Plan
 
-### (Optional) Part A: A Trust Game
+### Part A: A Trust Game
 
 Each participant is given two cards, numbered 1 and 2. On each card, participants should write down a statement about themselves, one true and one false. The statements should not be things other participants already know and should not be immediately verifiable ("I have brown hair" is immediately verifiable; "When I was 12 my hair was purple" is not, unless the group has a very long history together.) The false statement shouldn't be implausible.
 
@@ -46,9 +45,7 @@ Each participant is given two cards, numbered 1 and 2. On each card, participant
 
 ### Part B: Awareness
 
-Social engineering always involves the manipulation of trust, aided by deception. As the trust game illustrates, we are frequently required to make trust decisions with limited context and limited time. Attackers know this, and take advantage.
-
-**The social engineering continuum**:
+Social engineering always involves the manipulation of trust, aided by deception. As the trust game illustrates, we are frequently required to make trust decisions with limited context and limited time. Attackers know this, and take advantage. Social engineering attacks are possible across all methods of communication, including:
 
 - **In-person** impersonation fraud (door-to-door sales people misrepresenting themselves, fraudulent personal identification)  
 - **Telephone** impersonation fraud: (calling a help-desk phone number to request unauthorized account details or a password reset)
@@ -56,10 +53,9 @@ Social engineering always involves the manipulation of trust, aided by deception
 
 A definition of phishing: an email-based social-engineering attack that uses deception to extract information and access.
 
-
 **Basic components of a phishing attack:**
 
--   **An email**: the deception begins with an email (or sometimes another message such as an sms message) containing a call to action. The email will very frequently be disguised so that it appears to be from a legitimate source, with which the subject already has a relationship.
+-   **An email**: the deception begins with an email (or sometimes another message such as an SMS message) containing a call to action. The email will very frequently be disguised so that it appears to be from a legitimate source, with which the subject already has a relationship.
 
 -   **A call to action:** the email will always contain a call to action. Typically this is in the form of a link to click on to complete a task or view a document. The call to action is typically designed to appear both urgent and legitimate, and possibly enticing in some way.
 
@@ -69,16 +65,14 @@ A definition of phishing: an email-based social-engineering attack that uses dec
 
 -   Urgent subject matter designed to distract from a trust decision. Use of emergency or urgent language is frequent in phishing attacks because it is emotionally distracting.
 
--   Call to action (click here) will require a login, which is the exploit.
+-   Call to action (click here) will require a login. The login form will appear to be legitimate, but instead will harvest the username and password for the attacker's purposes.
 
 ![](img/ch2-8-1.png)
 
 **Example: a document from a trusted source**
 
 - This email appears to be from the government (a more-or-less trusted source).
-
 - In order to open the document, some kind of information or authentication is required, which is the exploit. The document itself may also contain malware.
-
 - Taxes or other financial interactions are frequently exploited by phishers because they may be perceived by their targets as urgent. Freely-available personal data may be included, to increase the chance of deceiving the target.
 
 ![](img/ch2-8-2.png)
@@ -86,7 +80,6 @@ A definition of phishing: an email-based social-engineering attack that uses dec
 **Example: brand impersonation**
 
 -   What? You didn’t just spend $711 on Amazon? Better click to find out what this is all about … whoops.
-
 -   False transaction reports, when combined with convincing branding, are frequent vectors.
 
 ![](img/ch2-8-3.png)
@@ -123,7 +116,7 @@ Urgency is the enemy of careful decision-making. Even (and especially) when conf
 
 Another reason to slow down is to avoid clicking on anything (links, attachments, etc.) in an untrusted email until a trust decision has been made.
 
-Sanity check: **context**. A first, though not at all sufficient, check on any email is to evaluate whether it is expected or plausible. Is it the result of an activity that we ourselves initiated -- for example a transaction that we initiated or expected? Anything that comes as a surprise or out of the blue should be automatically suspect.
+**Sanity check: context**. A first, though not at all sufficient, check on any email is to evaluate whether it is expected or plausible. Is it the result of an activity that we ourselves initiated -- for example a transaction that we initiated or expected? Anything that comes as a surprise or out of the blue should be automatically suspect.
 
 
 **Techniques: Evaluating emails: implicit factors**  
@@ -144,7 +137,7 @@ A strong indicator of a phishing email is an unexpected domain in the email’s 
 
 In the above example, the bank has sent an email from an unexpected domain. This is highly suggestive of phishing. Note that you must check the *domain*, and not the display name when checking this.
 
-*Note*: [*from domains are easy to spoof*](https://en.wikipedia.org/wiki/Email_spoofing), and therefore a correct-looking address here doesn’t prove that an email is legitimate. However, an obviously bad address in this space strongly suggests that an email is probably illegitimate.
+*Note*: [*"From:" domains are easy to spoof*](https://en.wikipedia.org/wiki/Email_spoofing), and therefore a correct-looking address here doesn’t prove that an email is legitimate. However, an obviously bad address in this space strongly suggests that an email is probably illegitimate.
 
 **Techniques: checking the domain of any links or downloads**  
 The closest thing to a conclusive test for a phishing email is to examine the **domain** of any link it contains. This will likely require checking the HTML markup of the email or otherwise determining what domain the email is attempting to link you to.
@@ -178,15 +171,15 @@ Now that we’re on the destination page, we may be confronted by an additional 
 
 **Links in the news:**
 
-- <https://twitter.com/ericgeller/status/944205900138430464>
+- <https://twitter.com/ericgeller/status/944205900138430464> - "Journalists were Fancy Bear's #3 target, after diplomats and Democrats..."
 
-- <https://gizmodo.com/heres-how-easy-it-is-to-get-trump-officials-to-click-on-1794963635>
+- <https://gizmodo.com/heres-how-easy-it-is-to-get-trump-officials-to-click-on-1794963635> - Gizmodo sent test spearphishing emails to senior Trump administration officials, and almost half of them fell for it.
 
-- <https://www.buzzfeed.com/sheerafrenkel/russian-hackers-faked-gmail-password-form-to-invade-dnc-emai>
+- <https://www.buzzfeed.com/sheerafrenkel/russian-hackers-faked-gmail-password-form-to-invade-dnc-emai> - Hancy Bear used a fake domain, accounts-google.com, in a spearphishing attack against DNC officials.
 
-- <https://en.wikipedia.org/wiki/Podesta_emails and https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak>
+- <https://en.wikipedia.org/wiki/Podesta_emails> and <https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak> - Wikipedia's pages on the 2016 DNC hacks.
 
-- <https://www.welivesecurity.com/2016/04/23/sms-phishing-attackers-continue-pursue-apple-users/>
+- <https://www.welivesecurity.com/2016/04/23/sms-phishing-attackers-continue-pursue-apple-users/> - Social engineering via SMS - attackers used texts to phish for targets' Apple iCloud credentials.
 
 
 **Other resources:**
