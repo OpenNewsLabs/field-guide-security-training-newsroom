@@ -77,7 +77,7 @@ How do you share SOOPERSEKRIT.docx with a third party without exposing the infor
 Now, split up into pairs, one person pretending to be the journalist with sensitive documents, the other pretending to be a third-party expert in the subject area who is going to review them.
 
 - The "journalist" should print out the document and use a scanner or mobile application to ingest the document (If the "journalist" uses a color printer, the instructor should verify that they printed the document in monochrome.)
-- The "journalist should share the scanned image with the "expert"—for this exercise it doesn't matter how, but in a real-world scenario the image should be shared securely.
+- The "journalist" should share the scanned image with the "expert"—for this exercise it doesn't matter how, but in a real-world scenario the image should be shared securely.
 
 Now, change roles: One person should be a sensitive source with a photo to leak, and the other should be a journalist who is going to receive a "scrubbed" image.
 
