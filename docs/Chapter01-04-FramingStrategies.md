@@ -14,7 +14,7 @@ There are a lot of different ways to frame a conversation about digital security
 
 The good news is that a lot of great trainers have already done the hard work of articulating foundational concepts for digital security work that then open the conversation up to other specific practice- and tools-based topics.
 
-Here are examples of lesson plans that different individuals and organizations use to facilitate their first sessions, and a brief explanation of the framing on which they rely.
+Here are examples of lesson plans you might use to facilitate a first session with newsroom colleagues, along with brief explanations of when these framings can be most helpful.
 
 ## How the Internet Works
 
