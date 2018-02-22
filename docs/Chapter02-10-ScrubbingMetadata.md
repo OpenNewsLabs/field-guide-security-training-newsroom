@@ -31,8 +31,7 @@ Example: Vice and John McAfee: [*https://www.vice.com/en\_us/article/john-mcafee
 
 Example: [*How The Intercept Outed Reality Winner*](http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html) - Reality Winner used traditional mail, not the Internet, to share documents with the Intercept, but was caught due to both operational security mistakes and metadata included in the printed files she shared.
 
-Example: [*BBC: Why printers add secret tracking dots*](http://www.bbc.com/future/story/20170607-why-printers-add-secret-tracking-dots)
- - One mistake that Reality Winner made was to use a color printer to print the documents she leaked. Most color printers add a pattern of yellow dots to any printout, encoding a unique serial number and the date and time that the printout was made. This is ostensibly an anti-counterfeiting measure, but it's also pretty handy for tracking down whistleblowers that don't take proper precautions. 
+Example: [*BBC: Why printers add secret tracking dots*](http://www.bbc.com/future/story/20170607-why-printers-add-secret-tracking-dots) - One mistake that Reality Winner made was to use a color printer to print the documents she leaked. Most color printers add a pattern of yellow dots to any printout, encoding a unique serial number and the date and time that the printout was made. This is ostensibly an anti-counterfeiting measure, but it's also pretty handy for tracking down whistleblowers who don't take proper precautions. 
 
 *\[Discussion point: Instructor should ask participants how and when they share documents that they optained from a source, and what the potential risks are in doing so. Then, if they didn't come up, the instructor should cover the 3 points below. \]*
 
