@@ -1,6 +1,13 @@
 # Concept Glossary
 
-There are a lot of ways to talk about the topics and concepts underlying digital security, and the example that really clicks can be different for every person. This resource is less a glossary than a round-up of great analogies and explanations, offering simplified explanations of technical concepts for non-technical users.
+There are a lot of ways to talk about the topics and concepts underlying digital security, and the example that really clicks can be different for every person. This resource is less a glossary than a round-up of great analogies and explanations, offering simplified explanations of technical concepts for non-technical users. (And if you have more concepts or analogies to add to this resource, we'd love to [hear from you](mailto:fieldguide@opennews.org).)
+
+* [Networks](#networks)
+* [HTTPS](#https)
+* [Certificate Authority](#certificate-authority)
+* [Encryption](#encryption)
+* [Authentication](#authentication)
+* [What is a Computer](#what-is-a-computer)
 
 Let's start at the beginning: What is a network?
 
@@ -36,13 +43,13 @@ The net is a packet-switching network. Packet switching is rather like passing n
 
 * [Wikipedia's entry on Encryption](https://en.wikipedia.org/wiki/Encryption) is a solid overview.
 
-### Key-Based Authentication
-
-Seth Schoen leads a great workshop on key based authentication, and the analogy he uses is this: If you remember anything about mathematics, you might remember that one pretty easy thing to do is to multiply two really big numbers together. It takes time, if you're only using a pencil, but you can do it. Factoring the product of two primes, however, is a lot harder. You can think of key-based encryption as taking advantage of this disparity.
-
 ## Authentication
 
 The [passwords lesson](Chapter02-06-Passwords.md) is a great resource for explaining the process of authentication. But at its core, "authentication" is just the process that a system uses to determine that you are who you say you are.
+
+### Key-Based Authentication
+
+Seth Schoen leads a great workshop on key-based authentication, and the analogy he uses is this: If you remember anything about mathematics, you might remember that it's not that hard to multiply two big numbers together. It takes time if you're only using a pencil, but you can do it. Factoring the product of two primes, however, is a lot harder. You can think of key-based encryption as taking advantage of this disparity.
 
 ## What is a Computer (& What is Software)
 
