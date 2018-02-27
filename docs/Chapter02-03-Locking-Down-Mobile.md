@@ -48,7 +48,7 @@ Survey the room:
 -   How many have encryption set up?
 -   How many apply updates regularly?
 
-Spend some time on what makes a good passcode (length and randomness are good, birthdays and sequential numbers are bad). The [password](LINK TK) lesson has more great resources on this question.
+Spend some time on what makes a good passcode (length and randomness are good, birthdays and sequential numbers are bad). The [password](Chapter02-06-Passwords.md) lesson has more great resources on this question.
 
 **Walkthrough**  
 Split people into groups by device types - instructions will differ for iOS vs Android. Everyone is going to ...
