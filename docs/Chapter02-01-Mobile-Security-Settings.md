@@ -90,6 +90,8 @@ The process of checking application permission settings differs between Android 
 
 * [Uber is fingerprinting your device, even across factory resets (arstechnica)](https://arstechnica.com/apple/2017/04/tim-cook-once-slapped-uber-on-the-wrist-for-breaking-the-app-store-rules/)
 
+* [Motherboard Guide to Safe Sexting](https://motherboard.vice.com/en_us/article/mb3nd4/how-to-sext-securely-safely-what-apps-to-use-sexting)
+
 ### Other great training resources:
 
 * [Tactical Training Collective: Data Privacy](https://gitlab.com/ttc/data-privacy-training/blob/4f9a1657770ff0ad8ae27f3c6aaf4196325a692a/content/Workshops/MobilePhoneSettingsHandsOn.md "Tactical Training Collective: Data Privacy")
