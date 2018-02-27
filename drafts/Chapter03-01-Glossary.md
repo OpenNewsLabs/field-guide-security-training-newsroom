@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Glossary
-
-There are a lot of different ways to talk about some of the underlying topics, and the explanation that really clicks is different for every person. This is less a glossary than a round-up of great analogies and explanations. These are simplified explanations of technical concepts for non-techinical users,  approaches that tend to resonate with newsrooms. We welcome [suggestions](docs/contributing.md).
-=======
 # Concept Glossary
 
 There are a lot of ways to talk about the topics and concepts underlying digital security, and the example that really clicks can be different for every person. This resource is less a glossary than a round-up of great analogies and explanations, offering simplified explanations of technical concepts for non-technical users. (And if you have more concepts or analogies to add to this resource, we'd love to [hear from you](mailto:fieldguide@opennews.org).)
@@ -13,17 +8,12 @@ There are a lot of ways to talk about the topics and concepts underlying digital
 * [Encryption](#encryption)
 * [Authentication](#authentication)
 * [What is a Computer](#what-is-a-computer)
->>>>>>> e5d20bfdacbd97838f89595a58b23877aee13d6f
 
 Let's start at the beginning: What is a network?
 
 ## Networks
 
-<<<<<<< HEAD
-### How to teach networks?
-=======
 A network is two or more nodes connected physically and informationally over time. For example:
->>>>>>> e5d20bfdacbd97838f89595a58b23877aee13d6f
 
 * Electrical grids
 * Social graphs
@@ -37,17 +27,6 @@ Most surveillance, good or bad, is built on how networks operate on the physical
 
 We live with and in networks every minute of every day. These networks lay over each other and touch all over the place. Once we start thinking about them, what they're shaped like, where we are in them, our contemporary world starts to make more sense.
 
-<<<<<<< HEAD
-The net is a packet switching network. Packet switching is rather like passing notes in class, you hand the note to someone near you, who tries to hand it to someone closer to the person it's intended for. To know where to pass the note, a person has to know who it's going to, and they know who gave it to them. This knowledge is called metadata: the data a network needs to function.
-
-## What is HTTPS
-
-[The US CIO's excellent and thorough explanation](https://https.cio.gov/everything/), and [Chrome's Developer Blog](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https) are both excellent explanations of why HTTPS is important.
-
-[HTTPS as Pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) via Andrea Zanin on freeCodeCamp walks through the core principles of HTTP and HTTPS with some nice pigeon analogies. (Not helpful, but clever, is the [IP Over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers) protocol).
-
-Wikipedia's [HTTPS entry](https://en.wikipedia.org/wiki/HTTPS).
-=======
 The net is a packet-switching network. Packet switching is rather like passing notes in class: You hand the note to someone near you, who tries to hand it to someone closer to the person it's intended for. To know where to pass the note, a person has to know who it's going to, and they know who gave it to them. This knowledge is called metadata: the data a network needs to function.
 
 ## HTTPS
@@ -55,7 +34,6 @@ The net is a packet-switching network. Packet switching is rather like passing n
 * [The US CIO's excellent and thorough explanation](https://https.cio.gov/everything/), and [Chrome's Developer Blog](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https) are both excellent explanations of why HTTPS is important.
 * [HTTPS as Pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) via Andrea Zanin on freeCodeCamp walks through the core principles of HTTP and HTTPS with some nice pigeon analogies. (Not helpful, but clever, is the [IP Over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers) protocol.)
 * Wikipedia's [HTTPS entry](https://en.wikipedia.org/wiki/HTTPS)
->>>>>>> e5d20bfdacbd97838f89595a58b23877aee13d6f
 
 ### What is a Certificate Authority
 
@@ -63,11 +41,7 @@ The net is a packet-switching network. Packet switching is rather like passing n
 
 ## Encryption
 
-<<<<<<< HEAD
-### What is a Key Based Authentication
-=======
 * [Wikipedia's entry on Encryption](https://en.wikipedia.org/wiki/Encryption) is a solid overview.
->>>>>>> e5d20bfdacbd97838f89595a58b23877aee13d6f
 
 ## Authentication
 
