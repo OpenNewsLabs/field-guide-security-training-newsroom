@@ -1,21 +1,6 @@
 # Glossary
 
-There are a lot of different ways to talk about some of the underlying topics, and the explanation that really clicks is different for every person. This is less a glossary than a round-up of great analogies and explanations. These are simplified explanations of technical concepts for non-techinical users,
-
-possibly with links to helpful analogies or in-depth material.
-
-simplified explanations of technical concepts for non-techinical users, possibly with links to helpful analogies or in-depth material.
-
-These are good ways to talk about security topics. Aka: analogies we love.
-s
-
-+ Intro/framing
-+ What is a Network
-+ What is Encryption
-+ What is Authentication
-+ What is a Computer (& What is Software)
-
-
+There are a lot of different ways to talk about some of the underlying topics, and the explanation that really clicks is different for every person. This is less a glossary than a round-up of great analogies and explanations. These are simplified explanations of technical concepts for non-techinical users,  approaches that tend to resonate with newsrooms. We welcome [suggestions](docs/contributing.md).
 
 Let's start at the beginning: What is a network?
 
@@ -23,7 +8,7 @@ Let's start at the beginning: What is a network?
 
 A network is two or more nodes connected physically and informationally over time.
 
-### How do you teach networks?
+### How to teach networks?
 
 Examples of Networks:
 * Path data for cellphones
@@ -41,20 +26,15 @@ We live with and in networks every minute of every day. These networks lay over 
 
 The net is a packet switching network. Packet switching is rather like passing notes in class, you hand the note to someone near you, who tries to hand it to someone closer to the person it's intended for. To know where to pass the note, a person has to know who it's going to, and they know who gave it to them. This knowledge is called metadata: the data a network needs to function.
 
-**exercises**
-+ cell phone exercise (Marco Polo Is a very interesting historical figure/Ping Pong is a game with two people)
-+ passing notes in class
+## What is HTTPS
 
-## HTTPS
+[The US CIO's excellent and thorough explanation](https://https.cio.gov/everything/), and [Chrome's Developer Blog](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https) are both excellent explanations of why HTTPS is important.
 
-[The US CIO's excellent and thorough explanation](https://https.cio.gov/everything/), and [Chrome's Developer Blog](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+[HTTPS as Pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) via Andrea Zanin on freeCodeCamp walks through the core principles of HTTP and HTTPS with some nice pigeon analogies. (Not helpful, but clever, is the [IP Over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers) protocol).
 
-[HTTPS as Pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) via Andrea Zanin on freeCodeCamp walks through the core principles of HTTP and HTTPS with some nice pigeon analogies. (Not helpful, but clever, is the [IP Over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers) protocol)
+Wikipedia's [HTTPS entry](https://en.wikipedia.org/wiki/HTTPS).
 
-Wikipedia's [HTTPS entry](https://en.wikipedia.org/wiki/HTTPS)
-
-
-## Certificate Authority
+### What is a Certificate Authority
 
 [HTTPS as Pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) covers CAs as trusted signatories (but doesn't address Let's Encrypt).
 
@@ -63,7 +43,7 @@ Wikipedia's [HTTPS entry](https://en.wikipedia.org/wiki/HTTPS)
 
 [Wikipedia's entry on Encryption](https://en.wikipedia.org/wiki/Encryption) is a solid overview.
 
-### Key Based Authentication
+### What is a Key Based Authentication
 
 Seth Schoen leads a great workshop on key based authentication -- the analogy he uses is this: if you remember anything about mathematics, you might remember that one thing that is pretty easy to do is to multiply two really big numbers together. It takes time, if you're only using a pencil, but you can do it. Factoring the product of two primes, however, is a lot harder.  You can think of key-based encryption as taking advantage of this disparity.
 
