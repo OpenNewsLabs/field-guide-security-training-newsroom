@@ -17,6 +17,19 @@ This document can serve as a table of contents/guide to the lessons in this sect
 
 LESSONS and LINKS
 
+[Mobile Security Settings](docs/Chapter02-01-Mobile-Security-Settings.md)
+[mobile Backups](docs/Chapter02-02-Mobile-Backups.md)
+[Locking Down Mobile](docs/Chapter02-03-Locking-Down-Mobile.md)
+[Setting Up Signal](docs/Chapter02-04-Setting-Up-Signal.md)
+[Good Hygeine for Apps](docs/Chapter02-05-Good-Hygiene-For-Apps.md)
+[Passwords and Password Managers](docs/Chapter02-06-Passwords.md)
+[Two Factor Authentication](docs/Chapter02-07-Two-Factor-Authentication.md)
+[Phishing](docs/Chapter02-08-Phishing.md)
+[Physical Security](docs/Chapter02-09-Physical-Security.md)
+[Scrubbing Metadata](docs/Chapter02-10-ScrubbingMetadata.md)
+[Secure Drop](docs/Chapter02-11-SecureDrop.md)
+
+
 [***Connected App Hygiene***](https://docs.google.com/document/d/1ubihg-KeA-NGh7WvVOwOCuOo85PGg8bxn6RuvhTiaNM): 10 minutes, group activity
 
 In this lesson, participants will learn how to check which third-party applications have access to their Gmail, Twitter, Facebook, and Github accounts.
