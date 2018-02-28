@@ -17,11 +17,20 @@ This document can serve as a table of contents/guide to the lessons in this sect
 
 LESSONS and LINKS
 
-[Mobile Security Settings](docs/Chapter02-01-Mobile-Security-Settings.md)
-[mobile Backups](docs/Chapter02-02-Mobile-Backups.md)
-[Locking Down Mobile](docs/Chapter02-03-Locking-Down-Mobile.md)
-[Setting Up Signal](docs/Chapter02-04-Setting-Up-Signal.md)
-[Good Hygeine for Apps](docs/Chapter02-05-Good-Hygiene-For-Apps.md)
+[Mobile Security Settings](docs/Chapter02-01-Mobile-Security-Settings.md) -- This is the first short training module in a series of three trainings dedicated to securing your mobile device. In this module, participants will learn how to review the security settings on their mobile devices (for iPhone and Android users). In later trainings, they will learn how to encrypt their device, set a secure locking mechanism, and install an encrypted messaging system (Signal). These three modules are meant to be short and simple. Each can serve as a quick win in a larger session about something else, or can stand alone as a short session. Or the three mobile sessions can combine nicely into a 60- to 75-minute block of training around securing a mobile device.
+
+[mobile Backups](docs/Chapter02-02-Mobile-Backups.md) -- Creating regular, secure backups of data on your mobile devices is important, whether you want to protect against loss, theft, or catastrophic user error (eg. accidentally wiping your device while encrypting it). This session will cover the creation of encrypted backups for iOS and Android users, and make recommendations on a backup schedule. Even if you don't get on a regular schedule, you should always backup your phone before you make any major changes to it.
+
+[Locking Down Mobile](docs/Chapter02-03-Locking-Down-Mobile.md) -- This lesson plan will guide participants through the process of securing their mobile device by setting up a lockscreen and securing lockscreen notifications, applying system updates, and encrypting the device storage. This module is meant to act as the second in a series of three, building up a 60-75 minute training block on secure mobile communications.
+
+[Setting Up Signal](docs/Chapter02-04-Setting-Up-Signal.md) -- Signal is a secure messaging platform that utilizes end-to-end encryption. Participants should have already been through a [mobile application settings review](Chapter02-01-Mobile-Security-Settings.md) and added secure lock screens, to ensure that their device is now ready to use with a program like Signal.
+
+Benefits of Signal include the fact that they do not store your messages on their servers, participants can set their conversations to "self-destruct" and users can customize what information (contact name, message preview) is available on their phones lock screen.
+
+This lesson plan is intended to be taught as the third in a series, following [mobile app security settings](Chapter02-01-Mobile-Security-Settings) and [locking down mobile devices](Chapter02-03-Locking-Down-Mobile.md).
+
+[Good Hygeine for Apps](docs/Chapter02-05-Good-Hygiene-For-Apps.md) -- Overview:  Don't let orphaned apps degenerate into an unlocked back door to your account.
+
 [Passwords and Password Managers](docs/Chapter02-06-Passwords.md)
 [Two Factor Authentication](docs/Chapter02-07-Two-Factor-Authentication.md)
 [Phishing](docs/Chapter02-08-Phishing.md)
