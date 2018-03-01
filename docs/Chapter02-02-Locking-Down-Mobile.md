@@ -10,7 +10,7 @@ secure mobile communications.
 **Lesson duration:** 30 mins (estimated),  longer if some Android phones need to be encrypted.  
 **Level:** Intermediate. This session assumes participants are able to make a reliable backup of the key data on their phones and have done so very recently. If they haven't, you *should not* proceed.  
 
-**Gotcha:** Consider how much time you have available before choosing to do this session. Are all your participants’ devices either brand new or recently [backed up](Chapter02-02-Mobile-Backups.md)? Do you have 30+ minutes and a low participant to trainer ratio? If not, you may want to either do this session in two parts on subsequent days (cover mobile device backups where you cover encrypted backups on one day, then actual encryption on the second day), *or* you share a link on backups and require participants to complete (or verify cloud backups) *before* this session.
+**Gotcha:** Consider how much time you have available before choosing to do this session. Are all your participants’ devices either brand new or recently [backed up](Chapter02-04-Mobile-Backups.md)? Do you have 30+ minutes and a low participant to trainer ratio? If not, you may want to either do this session in two parts on subsequent days (cover mobile device backups where you cover encrypted backups on one day, then actual encryption on the second day), *or* you share a link on backups and require participants to complete (or verify cloud backups) *before* this session.
 
 **What will participants learn?**
 
@@ -22,7 +22,7 @@ They’ll need their mobile devices (iPhone or Android) and device chargers.
 
 **How should participants prepare?**
 
-Everyone should back up their mobile devices before the workshop. If folks haven't done that or aren't confident that they're backing up everything they need, start with a session on [mobile backups](Chapter02-02-Mobile-Backups.md).
+Everyone should back up their mobile devices before the workshop. If folks haven't done that or aren't confident that they're backing up everything they need, start with a session on [mobile backups](Chapter02-04-Mobile-Backups.md).
 
 **What materials will the instructor need?**
 
@@ -119,7 +119,7 @@ Have everyone open the Settings app and check  `About Phone > System Updates`. I
 -  Follow the on-screen instructions to apply any available updates.
 
 **Encrypt your device:**
-The process of encrypting a phone can take an hour or more. You should make sure that participants know their phone will be unavailable while it is being encrypted. Do not encourage anyone to encrypt their phone unless it is a new phone or they're 100% confident that everything on the [device is backed up](Chapter02-02-Mobile-Backups.md). If someone loses their authenticator app and doesn't have backup codes, they may have a very (very) difficult time restoring access. So just to reiterate: don't encourage anyone to encrypt their phone unless you're 100% confident that all the data and settings they need to restore their phone are backed up.
+The process of encrypting a phone can take an hour or more. You should make sure that participants know their phone will be unavailable while it is being encrypted. Do not encourage anyone to encrypt their phone unless it is a new phone or they're 100% confident that everything on the [device is backed up](Chapter02-04-Mobile-Backups.md). If someone loses their authenticator app and doesn't have backup codes, they may have a very (very) difficult time restoring access. So just to reiterate: don't encourage anyone to encrypt their phone unless you're 100% confident that all the data and settings they need to restore their phone are backed up.
 
 -  Make sure your device is fully charged and connected to its charger - encryption can take a while (an hour or more) and can not be interrupted once it starts.
 -   Open the Settings app and select `Security > Encrypt phone`.

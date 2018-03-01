@@ -8,9 +8,9 @@ pages:
         - "Setting the Stage for Your First Session": Chapter01-04-FramingStrategies.md
     - Chapter 2:
         - "Lesson: Mobile Security Settings": Chapter02-01-Mobile-Security-Settings.md 
-        - "Lesson: Mobile Backups": Chapter02-02-Mobile-Backups.md 
-        - "Lesson: Locking Down Mobile": Chapter02-03-Locking-Down-Mobile.md 
-        - "Lesson: Setting Up Signal": Chapter02-04-Setting-Up-Signal.md 
+        - "Lesson: Locking Down Mobile": Chapter02-02-Locking-Down-Mobile.md 
+        - "Lesson: Setting Up Signal": Chapter02-03-Setting-Up-Signal.md 
+        - "Lesson: Mobile Backups": Chapter02-04-Mobile-Backups.md 
         - "Lesson: Good Hygiene For Apps": Chapter02-05-Good-Hygiene-For-Apps.md
         - "Lesson: Passwords and Password Management": Chapter02-06-Passwords.md
         - "Lesson: Two-Factor Authentication": Chapter02-07-Two-Factor-Authentication.md
