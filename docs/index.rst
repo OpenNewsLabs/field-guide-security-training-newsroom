@@ -41,16 +41,6 @@ remote.
 Table of Contents
 =================
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents:
-   :glob:
-   
-   Chapter01*
-   Chapter02*
-   Chapter03*
-
-
 We’ve organized this guide into three key sections. Chapter 2 is a
 fantastic collection of lesson plans and training materials to help
 people cover key topics with their peers. And Chapter 3 is our best
@@ -67,7 +57,6 @@ valuable resources that already exist in the world.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
    :glob:
    
    Chapter01*
@@ -80,7 +69,6 @@ materials to help people cover key topics with their peers.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
    :glob:
    
    Chapter02*
@@ -93,7 +81,6 @@ resources, to help new trainers deepen their own expertise.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
    :glob:
    
    Chapter03*
