@@ -1,6 +1,4 @@
-NOTE: Each individual lesson plan should be written up in its own document here inside the "Chapter 2" directory. The easiest way to get started is probably copying from the Lesson Plan Template here: [*https://drive.google.com/open?id=1bByrJ2s2cKh-h6XvSFkFz91xCiSmW4rejz1gSbmM6pw*](https://drive.google.com/open?id=1bByrJ2s2cKh-h6XvSFkFz91xCiSmW4rejz1gSbmM6pw)
 
-This document can serve as a table of contents/guide to the lessons in this section, with a bit of preceding documentation on what to expect from the lesson plans.
 
 **Working structure for this chapter document**
 
@@ -14,12 +12,15 @@ This document can serve as a table of contents/guide to the lessons in this sect
     -   Advanced
 -   Things your newsroom can do to improve institutional security
 
+# Chapter 2: Lesson Plans
 
-LESSONS and LINKS
+This chapter includes lesson plans for the most common newsroom needs. If there's a lesson you're looking for and you don't see it here, definitely [let us know](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/issues) and if you have a favorite resource that you think we should include, we'd love to hear about that, too. 
+
+## What is Included
 
 [Mobile Security Settings](docs/Chapter02-01-Mobile-Security-Settings.md) -- This is the first short training module in a series of three trainings dedicated to securing your mobile device. In this module, participants will learn how to review the security settings on their mobile devices (for iPhone and Android users). In later trainings, they will learn how to encrypt their device, set a secure locking mechanism, and install an encrypted messaging system (Signal). These three modules are meant to be short and simple. Each can serve as a quick win in a larger session about something else, or can stand alone as a short session. Or the three mobile sessions can combine nicely into a 60- to 75-minute block of training around securing a mobile device.
 
-[mobile Backups](docs/Chapter02-02-Mobile-Backups.md) -- Creating regular, secure backups of data on your mobile devices is important, whether you want to protect against loss, theft, or catastrophic user error (eg. accidentally wiping your device while encrypting it). This session will cover the creation of encrypted backups for iOS and Android users, and make recommendations on a backup schedule. Even if you don't get on a regular schedule, you should always backup your phone before you make any major changes to it.
+[Mobile Backups](docs/Chapter02-02-Mobile-Backups.md) -- Creating regular, secure backups of data on your mobile devices is important, whether you want to protect against loss, theft, or catastrophic user error (eg. accidentally wiping your device while encrypting it). This session will cover the creation of encrypted backups for iOS and Android users, and make recommendations on a backup schedule. Even if you don't get on a regular schedule, you should always backup your phone before you make any major changes to it.
 
 [Locking Down Mobile](docs/Chapter02-03-Locking-Down-Mobile.md) -- This lesson plan will guide participants through the process of securing their mobile device by setting up a lockscreen and securing lockscreen notifications, applying system updates, and encrypting the device storage. This module is meant to act as the second in a series of three, building up a 60-75 minute training block on secure mobile communications.
 
