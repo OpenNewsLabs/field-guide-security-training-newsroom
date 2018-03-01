@@ -4,8 +4,8 @@
 Overview:  Don't let orphaned apps degenerate into an unlocked back door to your account.
 
 ## About This Lesson Plan
-**Review date:** October 9, 2017  
-**Lesson duration:** 30 minutes  
+**Review date:** October 9, 2017<br />
+**Lesson duration:** 30 minutes<br />
 
 ### Level
 Introductory. This is a great exercise to do as a group. Sometimes people need to convene and be reminded together to do this little bit of homework. This could also be a great icebreaker to a longer and more challenging lesson -- everyone will leave knowing that they got something done! Think of it as an install party, for uninstalling.
@@ -19,7 +19,7 @@ You want some way to share links with folks. <https://etherpad.opennews.org/> is
 ### How should the instructor prepare?
 Review the recommended reading.
 
-Take stock of any social networks that your own office is active in that aren't on this list and find the privacy settings and connected apps for that network. Consider [filing an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) or pull request if those instructions should be part of this lesson plan.  
+Take stock of any social networks that your own office is active in that aren't on this list and find the privacy settings and connected apps for that network. Consider [filing an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) or pull request if those instructions should be part of this lesson plan.<br />
 
 
 ## Lesson Plan
@@ -50,7 +50,7 @@ It is worth taking a moment to take a look at any additional social networks tha
 
 ### Bonus: Recognized Devices, Cookies, Keys
 This is also a good opportunity to explore the "recognized logins" section of each platform.  Even though old logins and expired keys are less likely to serve as a vector for an outsider,
-it's a great opportunity to spot any suspicious logins or behavior.  
+it's a great opportunity to spot any suspicious logins or behavior.<br />
 
 #### Github
 * Active sessions: <https://github.com/settings/security>

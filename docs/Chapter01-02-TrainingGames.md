@@ -57,7 +57,7 @@ Materials: notes with messages, envelopes with To and From fields, pen or pencil
 
 Keep or return to a packet switching network image.
 
-[![Diagram of a Packet Switching Network](/docs/img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)  
+[![Diagram of a Packet Switching Network](/docs/img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)<br />
 
 After you've run the first variation of passing notes in class, you can relax the pretense of teacher (though it may be fun to keep it up, depending on the audience) and begin to add layers.
 

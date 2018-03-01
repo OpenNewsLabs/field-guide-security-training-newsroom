@@ -7,9 +7,9 @@ Getting everyone started backing up their phones is a great way to make sure eve
 
 ## About This Lesson Plan
 
-**Review date:** Dec 5, 2017  
-**Lesson duration:** This should take under an hour.  
-**Level:** Introductory  
+**Review date:** Dec 5, 2017<br />
+**Lesson duration:** This should take under an hour.<br />
+**Level:** Introductory<br />
 
 **What materials will participants need?**
 

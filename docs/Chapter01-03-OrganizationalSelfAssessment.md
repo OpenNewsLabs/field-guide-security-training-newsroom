@@ -1,6 +1,6 @@
 ## Organizational Self-Assessment
 
-These questions should help you build a better understanding of how your organization approaches security already. They also make a good starting point for a best practices list.  
+These questions should help you build a better understanding of how your organization approaches security already. They also make a good starting point for a best practices list.<br />
 
 ### Questions for IT
 

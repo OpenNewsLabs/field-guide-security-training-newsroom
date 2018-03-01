@@ -10,9 +10,9 @@ This lesson plan is intended to be taught as the third in a series, following [m
 
 ## About This Lesson Plan
 
-**Review date:** June 6, 2017  
-**Lesson duration:** 15-30 minutes   
-**Level:** Beginner  
+**Review date:** June 6, 2017<br />
+**Lesson duration:** 15-30 minutes <br />
+**Level:** Beginner<br />
 
 ### Preconditions
 This lesson assumes users have already reviewed their [mobile app security settings](Chapter02-01-Mobile-Security-Settings), and walked through  [locking down mobile devices](Chapter02-03-Locking-Down-Mobile.md).

@@ -5,13 +5,13 @@ Passwords are the bedrock of account security, but hard to get right. This lesso
 
 ## About This Lesson Plan
 
-**Review date:** Oct 5, 2017  
+**Review date:** Oct 5, 2017<br />
 **Lesson duration:**  Variable, depending on objectives and time available:
   1.  Overview, basic introduction, and securing primary email: **30 minutes**.
   2.  Strategies for protecting secondary accounts: **30 minutes**.
-  3.  Setup and use of password managers: **30 minutes**  
+  3.  Setup and use of password managers: **30 minutes**<br />
 
-**Level** Introductory    
+**Level** Introductory  <br />
 **Preconditions**
 
 **What will participants learn?**
@@ -48,7 +48,7 @@ Read EFF's essays on [Harm Reduction](https://sec.eff.org/articles/harm-reductio
 
 A deeper understanding of threat modeling, the high-level mechanics of delegated authentication, password hashing, and encryption would also be helpful, though is by no means essential.
 
-This is a lesson where it is very important to make sure that you, as the instructor, aren’t making things up or sharing bad information with participants. So be very clear and honest about what you don’t really know.  
+This is a lesson where it is very important to make sure that you, as the instructor, aren’t making things up or sharing bad information with participants. So be very clear and honest about what you don’t really know.<br />
 
 **Harm Reduction** - a guiding principle of this lesson is that people will *not* use passwords properly, they will not store passwords securely, they will forget passwords, they will lose passwords, they will sign up for services that do not store passwords securely and those services will be hacked. The goal of this exercise is to *reduce the harm* that individuals (and the teams they work with) experience *when* (not if) things go wrong.
 
