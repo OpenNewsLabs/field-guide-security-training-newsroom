@@ -9,10 +9,10 @@ Some users will want to lead a formal series of in-depth workshops, while others
 ### Just mobile
 
 1. [Mobile Security Settings](Chapter02-01-Mobile-Security-Settings.md)
-2. [Backing up Mobile Devices](Chapter02-02-Mobile-Backups.md)
-3. [Locking Down Mobile Devices](Chapter02-03-Locking-Down-Mobile.md)
+2. [Locking Down Mobile Devices](Chapter02-02-Locking-Down-Mobile.md)
+3. [Setting up Signal](Chapter02-03-Setting-Up-Signal.md)
+4. [Backing up Mobile Devices](Chapter02-04-Mobile-Backups.md)
 5. [Physical Security](Chapter02-09-Physical-Security.md) -- iPhones are already encrypted but Android users should set up disk encryption.
-4. [Setting up Signal](Chapter02-04-Setting-Up-Signal.md)
 
 ## Secure email use
 

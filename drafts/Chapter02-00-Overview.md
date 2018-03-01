@@ -21,14 +21,14 @@ This chapter includes lesson plans for the most common newsroom needs. If there'
 **[Mobile Security Settings](Chapter02-01-Mobile-Security-Settings.md)**  
 This is the first short module in a series of three trainings dedicated to securing your mobile device. In this module, iPhone and Android users will learn how to review the security settings on their mobile devices. In later trainings, they will learn how to encrypt their device, set a secure locking mechanism, and install an encrypted messaging system (Signal). These three modules are meant to be short and simple. Each can serve as a quick win in a larger session about something else, or can stand alone as a short session. Or the three mobile sessions can combine nicely into a 60- to 75-minute block of training around securing a mobile device.
 
-**[Mobile Backups](Chapter02-02-Mobile-Backups.md)**  
-Creating regular, secure backups of data on mobile devices is important, whether users want to protect against loss, theft, or catastrophic error (e.g. accidentally wiping a device while encrypting it). This session covers the creation of encrypted backups for iOS and Android users, and make recommendations on a backup schedule.
-
-**[Locking Down Mobile](Chapter02-03-Locking-Down-Mobile.md)**  
+**[Locking Down Mobile](Chapter02-02-Locking-Down-Mobile.md)**  
 This lesson plan helps participants secure their mobile devices by setting up lockscreens and securing lockscreen notifications, applying system updates, and encrypting device storage. This module is meant to act as the second in a series of three, building up a 60-75 minute training block on secure mobile communications.
 
-**[Setting Up Signal](Chapter02-04-Setting-Up-Signal.md)**  
+**[Setting Up Signal](Chapter02-03-Setting-Up-Signal.md)**  
 Signal is a secure messaging platform that utilizes end-to-end encryption. Before starting this lesson, participants should have already been through a [mobile application settings review](Chapter02-01-Mobile-Security-Settings.md) and added secure lockscreens to ensure that their device is ready to use with a program like Signal. Some benefits of Signal: they do not store messages on their servers, participants can set their conversations to "self-destruct," and users can customize what information (contact name, message preview) is available on their phone's lockscreen. This lesson plan is intended to be taught as the third in a series, following [mobile app security settings](Chapter02-01-Mobile-Security-Settings) and [locking down mobile devices](Chapter02-03-Locking-Down-Mobile.md).
+
+**[Mobile Backups](Chapter02-04-Mobile-Backups.md)**  
+Creating regular, secure backups of data on mobile devices is important, whether users want to protect against loss, theft, or catastrophic error (e.g. accidentally wiping a device while encrypting it). This session covers the creation of encrypted backups for iOS and Android users, and make recommendations on a backup schedule.
 
 **[Good Hygiene for Apps](Chapter02-05-Good-Hygiene-For-Apps.md)**  
 Overview: Don't let orphaned apps degenerate into an unlocked back door to your account.

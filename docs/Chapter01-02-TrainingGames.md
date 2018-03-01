@@ -40,7 +40,7 @@ This is an exercise that can be modified and extended throughout trainings to bu
 
 Start with a diagram or picture of a packet switching network. I often use this one:
 
-[![Diagram of a Packet Switching Network](/docs/img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)
+[![Diagram of a Packet Switching Network](img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)
 
 Explain that the node on the end breaks the message into pieces, then passes the pieces to the node it thinks will get the message closer to the destination. That node hands the packet to the next that seems like it might be closer, and so on until it gets to the end point it was intended for. The destination node reassembles the message, and voila! The internet magic happens. This system is more like passing notes in an 8th grade classroom than anything else.
 
@@ -57,7 +57,7 @@ Materials: notes with messages, envelopes with To and From fields, pen or pencil
 
 Keep or return to a packet switching network image.
 
-[![Diagram of a Packet Switching Network](/docs/img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)<br />
+[![Diagram of a Packet Switching Network](img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)<br />
 
 After you've run the first variation of passing notes in class, you can relax the pretense of teacher (though it may be fun to keep it up, depending on the audience) and begin to add layers.
 
