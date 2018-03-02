@@ -1,20 +1,8 @@
-
-
-**Working structure for this chapter document**
-
--   Introduction/how we’ve grouped these lessons
--   What you’ll find inside a lesson plan
--   MVP curriculum -- suggested set of lessons to get a newsroom started?
--   Lessons
--   Threats to understand
--   Things you can do to improve your personal security
-    -   Basic
-    -   Advanced
--   Things your newsroom can do to improve institutional security
-
 # Chapter 2: Lesson Plans
 
 This chapter includes lesson plans for the most common newsroom needs. If there's a lesson you're looking for and you don't see it here, definitely [let us know](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/issues). If you have a favorite resource that you think we should include, we'd love to hear about that, too. 
+
+Every lesson plan includes an overview of the lesson, prerequisites and materials that trainers and participants will need, and a good walk through of the tool and concepts. If you run one of these lessons and find that it goes a lot faster (or a lot slower) than our estimate, we want to know. Each lesson concludes with a round up of links in the news that illustrate the importance of the material in the lesson, and a round up of links to other teaching resources that cover the material well. If you have resources that should be included in those link round ups, please do share them with us. 
 
 ## What Is Included
 
