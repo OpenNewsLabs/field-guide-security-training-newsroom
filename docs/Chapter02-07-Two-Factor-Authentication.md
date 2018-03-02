@@ -107,7 +107,7 @@ A security key is a physical device, usually connected via USB, that you can use
 They’re reasonably cheap — one of the most popular options, a [Yubikey](https://www.yubico.com/) costs
 [$18](https://www.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/).
 
-![YubiKey in action](img/ch2-7-4.png)
+![YubiKey in action](img/ch2-7-4.gif)
 
 Using them is easy—you simply insert your security key during login, and physically tap it when prompted.
 
