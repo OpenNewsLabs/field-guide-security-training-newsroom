@@ -1,4 +1,4 @@
-# Using SecureDrop Securely
+# Using SecureDrop Safely
 
 ## Overview 
 

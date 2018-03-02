@@ -20,7 +20,7 @@ only now they’re also the in-house opsec consultant who doesn’t have any
 formal training in what reporters and editors need.
 
 About This Guide
-================
+----------------
 
 This resource collects the advice and experience of journalists,
 newsroom developers, and security experts, organized into a set of
@@ -38,18 +38,8 @@ fellowship program at BuzzFeed News. The first draft began during a
 two-day event in June 2017, with about 20 people working in-person and
 remote.
 
-Table of Contents
-=================
 
-We’ve organized this guide into three key sections. Chapter 2 is a
-fantastic collection of lesson plans and training materials to help
-people cover key topics with their peers. And Chapter 3 is our best
-effort to aggregate links to the best existing resources, to help new
-trainers deepen their own expertise.
-
-Chapter 1 - Being a better Trainer
-----------------------------------
-
+We’ve organized this guide into three key sections.
 Chapter 1 is an enormous resource for new trainers or folks who are
 looking for ways to be better at training, in general. We’ve written
 this with a newsroom audience in mind, and we’ve pooled a lot of
@@ -57,43 +47,49 @@ valuable resources that already exist in the world.
 
 .. toctree::
    :maxdepth: 1
+   :caption: Chapter 1 - Being a better Trainer
+   :name: sec-chapter1
    :glob:
    
    Chapter01*
 
-Chapter 2 - Lesson plans
-------------------------
 
 Chapter 2 is a fantastic collection of lesson plans and training
 materials to help people cover key topics with their peers.
 
 .. toctree::
    :maxdepth: 1
+   :caption: Chapter 2 - Lesson Plans
+   :name: sec-chapter2
    :glob:
    
    Chapter02*
-
-Chapter 3 - Resources
----------------------
 
 Chapter 3 is our best effort to aggregate links to the best existing
 resources, to help new trainers deepen their own expertise.
 
 .. toctree::
    :maxdepth: 1
+   :caption: Chapter 3 - Resources
+   :name: sec-chapter3
    :glob:
    
    Chapter03*
 
 
-Contributing
-============
 
 This is a community resource, and it gets better every time anyone from
 the journalism and security communities shares advice, writes up a new
 lesson, asks a question, or even just spots a typo. We'd love to add
-your expertise to this project, and `here's how you can join
-in <contributing.md>`__.
+your expertise to this project.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contributing
+   :name: sec-contributing
+   
+   contributing.md
+
 
 Authors
 -------

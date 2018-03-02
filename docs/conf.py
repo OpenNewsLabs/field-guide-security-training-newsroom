@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u'The Field Guide to Security Training in the Newsroom'
-copyright = u'2018, OpenNewsLabs'
-author = u'OpenNewsLabs'
+copyright = u'2018, OpenNews and contributors (MIT license)'
+author = u'OpenNews and contributors (MIT license)'
 
 # The short X.Y version
 version = u''
