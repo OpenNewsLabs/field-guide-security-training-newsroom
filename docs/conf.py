@@ -122,6 +122,10 @@ latex_elements = {
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
+    'preamble': "".join((
+        '\DeclareUnicodeCharacter{1F407}{*}',  # BunniES!!!
+        '\DeclareUnicodeCharacter{200A}{ }',  # hairline space
+    )),
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
@@ -184,4 +188,7 @@ source_parsers = {
 }
 
 source_suffix = ['.rst', '.md']
+
+# -- unicode substitutions -- because PDF converter can't handle unicode bunnies
+
 
