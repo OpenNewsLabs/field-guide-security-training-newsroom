@@ -1,9 +1,8 @@
-## Games Worth Playing
+# Games Worth Playing
 
 Games are a helpful way to keep your audience engaged, and to gently introduce them to technical concepts. It's unrealistic, and probably not useful, to try to provide a detailed description of how the Internet works in the time you'll most likely have. Instead, the games below will give your participants an intuitive understanding of basic networking concepts and the role that encryption plays in securing their communications - and hopefully add a little fun to your training sessions!
 
-**Cell phone game (generally for 10+ people)**
-----------------------------------------------
+##Cell phone game (generally for 10+ people)
 
 Ask for volunteers to be cell towers, and get them to stand up.
 
@@ -31,8 +30,7 @@ Let the phones start walking again, meet, and do a third iteration when they mee
 
 Thank the towers and cell phones, if it's a big room it's fun to clap for them, and ask everyone to sit down again.
 
-**Packet switching/passing notes in class (Not easily playable with fewer than 6 people)**
---------------------------------------------------------------------------
+##Packet switching/passing notes in class (Not easily playable with fewer than 6 people)
 
 Materials: notes made out with To and From fields as well as a message, pen or pencil. (Pre-populate the notes with something funny or cute.)
 
@@ -40,7 +38,7 @@ This is an exercise that can be modified and extended throughout trainings to bu
 
 Start with a diagram or picture of a packet switching network. I often use this one:
 
-[![Diagram of a Packet Switching Network](/docs/img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)
+[![Diagram of a Packet Switching Network](img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)
 
 Explain that the node on the end breaks the message into pieces, then passes the pieces to the node it thinks will get the message closer to the destination. That node hands the packet to the next that seems like it might be closer, and so on until it gets to the end point it was intended for. The destination node reassembles the message, and voila! The internet magic happens. This system is more like passing notes in an 8th grade classroom than anything else.
 
@@ -50,14 +48,13 @@ If the message is going by a circuitous route, it's fun, and true, to note that 
 
 Once the note passing is complete, ask everyone who saw the note to raise their hands. Once their hands are up, ask what the problems are with a packet switching network. Discuss the fact that everyone on the network has the chance to see, and even modify the note. I like to allege that one of the evil 8th graders could, change the name of a crush and ruin the rest of the semester for someone. Bring it back to the internet, pointing out that people can read and change messages on a packet switching network.
 
-**Packet switching/passing notes in class with encryption variations**
-----------------------------------------------------------------------
+## Packet switching/passing notes in class with encryption variations
 
 Materials: notes with messages, envelopes with To and From fields, pen or pencil. (Pre-populate the notes with something funny or cute.)
 
 Keep or return to a packet switching network image.
 
-[![Diagram of a Packet Switching Network](/docs/img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)  
+[![Diagram of a Packet Switching Network](img/ch1-2-packets.jpg)](https://www.flickr.com/photos/quinn/34298256984)<br />
 
 After you've run the first variation of passing notes in class, you can relax the pretense of teacher (though it may be fun to keep it up, depending on the audience) and begin to add layers.
 
@@ -85,8 +82,7 @@ Now, pretend to be a European or the American government, someone that has the a
 
 You can follow these variations by combining them, putting another envelope inside the TLS/SSL HTTPS envelope that your Google volunteer has to be put into the envelope to the destination volunteer. You can either leave them with a "cyphertext" version or nothing, so that when you return as the government, you are frustrated by Google not having the message to show you. This presages a discussion of OTR or Double Ratchet protocols. In all cases, you can demonstrate that the To: and From: data is preserved by Google, or potentially by the transiting network itself, for whatever part isn't covered by TLS.
 
-**Tor note passing variation**
-------------------------------
+### Tor note passing variation
 
 Materials: Three nesting envelopes, one message (content isn't important.) Largest envelope should be addressed to "Node 1", second largest, addressed to "Node 2", smallest addressed to "Node 3".
 
@@ -96,7 +92,7 @@ Give the supplies to the Tor user, and instruct them to put the message in the s
 
 Ask what the problem is now, but also what this system is accomplishing (in short, neither Node 3 or the internet can figure out where the message came from, but they can see what the message is, without a further layer of encryption using one of the two models we've talked about in previous note passing exercises)
 
-# More games to use in training
+## More games to use in training
 These are great road tested games for teaching networking principles. If you're looking for more ideas for games trainers play, check out:
 
 + [Games Trainers Play](http://www.worldcat.org/oclc/6016638) and [Even More Games Trainers Play](http://www.worldcat.org/oclc/30318772) for some great ideas.

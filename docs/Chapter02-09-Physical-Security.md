@@ -8,9 +8,9 @@ This module makes a few assumptions about your threat model. It is written with 
 
 ## About This Lesson Plan
 
-**Review date:** June 5, 2017  
-**Lesson duration:** 30 minutes  
-**Level:** Intermediate  
+**Review date:** June 5, 2017<br />
+**Lesson duration:** 30 minutes<br />
+**Level:** Intermediate<br />
 **Preconditions:** Participants should know how to back up their devices and how to choose a strong passphrase.
 
 **What materials will participants need?**
@@ -25,7 +25,7 @@ Everyone should read [Digital Privacy at the U.S. Border: Protecting the Data On
 
 **How should the instructor prepare?**
 
-Touch base with IT staff to talk through your plans for the workshop -- you may need their support in actually enabling disk encryption.   
+Touch base with IT staff to talk through your plans for the workshop -- you may need their support in actually enabling disk encryption. <br />
 
 Read through the material carefully and think about what will work for you, as a facilitator and instructor.
 
@@ -47,10 +47,10 @@ Physical custody issues generally boil down to two categories: permanent loss of
 
 *Activity: Have participants spell out their concerns. Capture them on a white board or sticky notes. If someone malicious takes your laptop, what do you need to worry about?*
 
-You're looking for things like:  
+You're looking for things like:<br />
 
 + Someone else has your documents, password, address book, calendar.
-+ You don't have them anymore, unless they're backed up.  
++ You don't have them anymore, unless they're backed up.<br />
 + Sensitive work information, including documents, e-mails, communication about your reporting, communications from anonymous sources could be compromised.
 + You can't do your work because your hardware is gone.
 
@@ -81,7 +81,7 @@ You can mitigate what is available without your permission. But "mitigation" is 
 
 + Call a lawyer. If your newsroom has staff attorneys, touch base with them before you travel.
 
-  + Some attorneys recommend telling the border agents that your device contains trade secrets and you're not authorized to authorize a search. That obviously only applies if it is true, but if you have company correspondence or documents on your phone it probably is true.   
+  + Some attorneys recommend telling the border agents that your device contains trade secrets and you're not authorized to authorize a search. That obviously only applies if it is true, but if you have company correspondence or documents on your phone it probably is true. <br />
 
   + Carry key phone numbers outside your phone: if you find yourself in a situation where you are able to contact an attorney but don't want to power up your phone, make sure you have their number written down somewhere. Business cards are excellent for this purpose.
 
@@ -115,7 +115,7 @@ Users that only have  Windows "Home edition" can look into Veracrypt.
 
 #### iOS:
 
-iOS has built-in device encryption ([see page 10](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)) -- but it is only as good as your passphrase.  
+iOS has built-in device encryption ([see page 10](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)) -- but it is only as good as your passphrase.<br />
 
 #### Android:
 

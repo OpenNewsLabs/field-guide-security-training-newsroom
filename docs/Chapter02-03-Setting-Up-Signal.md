@@ -10,9 +10,9 @@ This lesson plan is intended to be taught as the third in a series, following [m
 
 ## About This Lesson Plan
 
-**Review date:** June 6, 2017  
-**Lesson duration:** 15-30 minutes   
-**Level:** Beginner  
+**Review date:** June 6, 2017<br />
+**Lesson duration:** 15-30 minutes <br />
+**Level:** Beginner<br />
 
 ### Preconditions
 

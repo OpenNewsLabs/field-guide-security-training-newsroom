@@ -9,9 +9,9 @@ This lesson plan will introduce key concepts about 2FA, and guide you through th
 
 ## About This Lesson Plan
 
-**Review date:** Dec 2017  
-**Lesson duration:** 30 mins (estimated)  
-**Level:** Introductory.  
+**Review date:** Dec 2017<br />
+**Lesson duration:** 30 mins (estimated)<br />
+**Level:** Introductory.<br />
 
 **Gotcha:** Make sure participants have a reliable strategy for keeping backup codes, so they don't get wholly locked out of their accounts.
 
@@ -25,7 +25,7 @@ They’ll need their mobile devices (iPhone or Android) and laptop computers.
 Have participants read [Two-Factor Authentication for
 Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/) and [The 12 Days of 2FA: How to Enable Two-Factor Authentication For Your Online Accounts](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts)—both are good overviews of the process.
 
-If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop. Make sure to include install links for iOS and Android versions in your pre-workshop communications.  
+If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop. Make sure to include install links for iOS and Android versions in your pre-workshop communications.<br />
 
 **What materials will the instructor need?**
 
@@ -107,7 +107,7 @@ A security key is a physical device, usually connected via USB, that you can use
 They’re reasonably cheap — one of the most popular options, a [Yubikey](https://www.yubico.com/) costs
 [$18](https://www.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/).
 
-![YubiKey in action](img/ch2-7-4.png)
+![YubiKey in action](img/ch2-7-4.gif)
 
 Using them is easy—you simply insert your security key during login, and physically tap it when prompted.
 

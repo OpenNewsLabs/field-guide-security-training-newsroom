@@ -10,20 +10,20 @@ Participants will consider phishing in the context of *trust decisions* and deve
 
 ## About This Lesson Plan
 
-**Review date:** June 2017  
-**Lesson duration:** 45 minutes  
-**Level:** Introductory  
+**Review date:** June 2017<br />
+**Lesson duration:** 45 minutes<br />
+**Level:** Introductory<br />
 
-**What materials will participants need?**  
+**What materials will participants need?**<br />
 Access to the internet.
 
-**How should participants prepare?**  
+**How should participants prepare?**<br />
 Read the introductory articles in the intro email.
 
-**What materials will the instructor need?**  
+**What materials will the instructor need?**<br />
 Presentation software, sticky notes, pens. A pair of index cards per participant, numbered 1 and 2.
 
-**How should the instructor prepare?**  
+**How should the instructor prepare?**<br />
 Use outline below to prepare presentation, send intro email.
 
 ## Lesson Plan
@@ -47,7 +47,7 @@ Each participant is given two cards, numbered 1 and 2. On each card, participant
 
 Social engineering always involves the manipulation of trust, aided by deception. As the trust game illustrates, we are frequently required to make trust decisions with limited context and limited time. Attackers know this, and take advantage. Social engineering attacks are possible across all methods of communication, including:
 
-- **In-person** impersonation fraud (door-to-door sales people misrepresenting themselves, fraudulent personal identification)  
+- **In-person** impersonation fraud (door-to-door sales people misrepresenting themselves, fraudulent personal identification)<br />
 - **Telephone** impersonation fraud: (calling a help-desk phone number to request unauthorized account details or a password reset)
 - **Phishing:** impersonation fraud using email
 
@@ -84,7 +84,7 @@ A definition of phishing: an email-based social-engineering attack that uses dec
 
 ![](img/ch2-8-3.png)
 
-**Spear Phishing**  
+**Spear Phishing**<br />
 The phishing examples so far are cases of general-purpose or mass-market phishing. In contrast, **spear phishing** is a highly targeted variant of phishing that leverages details about the target’s life and social connections to intensify the deception. Emails may contain personal messages that **appear to be from friends or colleagues**, and may even relate to **real events**, issues or other plausible subject matter.
 
 Those who have access to particular information or access that a sophisticated attacker wants are most likely to be spear-phished. Journalists are particularly vulnerable.
@@ -99,7 +99,7 @@ Those who have access to particular information or access that a sophisticated a
 
 **Trust decisions**. When we disclose information, we are making a **trust decision** about the legitimacy, safety and intentions of the party to which we disclose. Defending against phishing requires the development of one **habit** and a set of **techniques**.
 
-**Habit: Every trust decision should be a conscious one**  
+**Habit: Every trust decision should be a conscious one**<br />
 Every time we disclose information online, we grant trust to whoever receives our data; it's better to make these decisions on purpose rather than subconsciously. Developing the mental habit to evaluate the trustworthiness of the recipient of our data is critical to protect against phishing attacks.
 
 ** Activities that imply trust:** 
@@ -108,10 +108,10 @@ Every time we disclose information online, we grant trust to whoever receives ou
 -   Clicking on an email attachment
 -   Replying to an email
 
-**Exercise:**  
+**Exercise:**<br />
  What other activities online imply trust? What would help you to remember to make a conscious trust decision when divulging information online?
 
-**Techniques: Evaluating emails: slowing down, context**  
+**Techniques: Evaluating emails: slowing down, context**<br />
 Urgency is the enemy of careful decision-making. Even (and especially) when confronted by an urgent email, it is important to **slow down**, and take the time to evaluate the legitimacy of the email.
 
 Another reason to slow down is to avoid clicking on anything (links, attachments, etc.) in an untrusted email until a trust decision has been made.
@@ -119,7 +119,7 @@ Another reason to slow down is to avoid clicking on anything (links, attachments
 **Sanity check: context**. A first, though not at all sufficient, check on any email is to evaluate whether it is expected or plausible. Is it the result of an activity that we ourselves initiated -- for example a transaction that we initiated or expected? Anything that comes as a surprise or out of the blue should be automatically suspect.
 
 
-**Techniques: Evaluating emails: implicit factors**  
+**Techniques: Evaluating emails: implicit factors**<br />
 Answering "yes" to any of the following questions may suggest that the email is not legitimate:
 
 -   The email has an unusual "from" address whose domain is not associated with the organization
@@ -130,7 +130,7 @@ Answering "yes" to any of the following questions may suggest that the email is 
 
 While any of these factors suggest illegitimacy, **their absence does not guarantee trustworthiness.
 
-**Techniques: checking the "from" domain**  
+**Techniques: checking the "from" domain**<br />
 A strong indicator of a phishing email is an unexpected domain in the email’s **from** header.
 
 ![](img/ch2-8-4.png)
@@ -139,7 +139,7 @@ In the above example, the bank has sent an email from an unexpected domain. This
 
 *Note*: [*"From:" domains are easy to spoof*](https://en.wikipedia.org/wiki/Email_spoofing), and therefore a correct-looking address here doesn’t prove that an email is legitimate. However, an obviously bad address in this space strongly suggests that an email is probably illegitimate.
 
-**Techniques: checking the domain of any links or downloads**  
+**Techniques: checking the domain of any links or downloads**<br />
 The closest thing to a conclusive test for a phishing email is to examine the **domain** of any link it contains. This will likely require checking the HTML markup of the email or otherwise determining what domain the email is attempting to link you to.
 
 Some tips:
@@ -148,10 +148,10 @@ Some tips:
 -   Look for tricky domains. Sometimes attackers use special, confusingly-similar domains. The domain may only differ from the legitimate one by a single character.
 -   If unsure, consult the WHOIS record of the domain (you can use the free service at <https://whois.icann.org/en> for instance). Legitimate companies will use public WHOIS records to confirm their actual ownership of a domain.
 
-**Group Exercise: phishing quiz**  
+**Group Exercise: phishing quiz**<br />
 Take the phishing quiz at: [*https://www.sonicwall.com/phishing/*](https://www.sonicwall.com/phishing/) and discuss the results.
 
-**Techniques: after the click-through: context check**  
+**Techniques: after the click-through: context check**<br />
 After deciding to click on a link in an email, we have the opportunity to evaluate context again. Questions to ask:
 
 -   Was the result of the click what I expected?
@@ -159,10 +159,10 @@ After deciding to click on a link in an email, we have the opportunity to evalua
 -   Does the state of the page (logged in or not) appear correct? For example, if I’m already logged in to Google in my browser, is the page I’m on asking me to authenticate again?
 -   Does the link I clicked on ask for any sensitive information? If so, can I verify the request in some way other than email?
 
-**Techniques: after the click-through, check the domain again**  
+**Techniques: after the click-through, check the domain again**<br />
 Now that we’re on the destination page, we may be confronted by an additional call to action. It’s time to make a second trust decision. Before submitting information, evaluate the domain of the page again according to the same criteria used to evaluate it in the email.
 
-**Summary: flow of trust**  
+**Summary: flow of trust**<br />
 *\[Instructor can use examples from section B, as well as examples mentioned by participants, to work through the flow diagram below:\]*
 ![](img/ch2-8-5.png)
 
