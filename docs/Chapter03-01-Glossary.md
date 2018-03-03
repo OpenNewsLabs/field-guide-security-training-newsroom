@@ -1,6 +1,8 @@
 # Concept Glossary
 
-There are a lot of ways to talk about the topics and concepts underlying digital security, and the example that really clicks can be different for every person. This resource is less a glossary than a round-up of great analogies and explanations, offering simplified explanations of technical concepts for non-technical users. (And if you have more concepts or analogies to add to this resource, we'd love to [hear from you](mailto:fieldguide@opennews.org).)
+There are many ways to talk about digital-security concepts, and the example that really clicks can be different for every person. This resource is less a glossary than a roundup of great analogies and explanations, offering easier ways to explain technical concepts for non-technical users.
+
+**Adding your ideas:** We know this list is incomplete, and it probably always will be! It's a great place for contributions from the journalism-security community, so if you have a favorite concept or helpful analogy to share, we'd love to [hear from you](mailto:fieldguide@opennews.org). Let's make this list a lot longer:
 
 * [Networks](#networks)
 * [HTTPS](#https)
@@ -9,7 +11,6 @@ There are a lot of ways to talk about the topics and concepts underlying digital
 * [Authentication](#authentication)
 * [What is a Computer](#what-is-a-computer)
 
-Let's start at the beginning: What is a network?
 
 ## Networks
 
