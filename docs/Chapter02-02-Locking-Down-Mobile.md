@@ -63,7 +63,7 @@ For *lock screens,* a strong password is always recommended. A PIN or passcode i
 
 Biometric locking (eg. face or fingerprint recognition) is not recommended, as both are fakeable and do not offer the same degree of legal protection. For example, in the US you can be legally compelled to provide your biometrics to unlock a device by a court.
 
-Android phones offer pattern locking, which is also problematic and not as secure as a pas
+Android phones offer pattern locking, which is also problematic. It's not as secure as a passphrase, and weak to shoulder-surfing.
 
 When you tackle *lockscreen notifications* keep in mind that some users may opt to keep convenient but insecure notifications coming for day to day use and change the settings when they're in more vulnerable situations or traveling.
 
