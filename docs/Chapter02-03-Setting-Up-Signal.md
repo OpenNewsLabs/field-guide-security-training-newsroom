@@ -31,7 +31,7 @@ Smartphone: iPhone or Android
 Two excellent resources on how and why journalists are moving to Signal:
 
 + [Martin Shelton on Signal for Beginners](https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0) 
-+ [Security Tips Every Signal User Should Know (The Intercept)](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/).
++ [Cybersecurity for the People: How to Keep Your Chats Truly Private With Signal (The Intercept)](https://theintercept.com/2017/05/01/cybersecurity-for-the-people-how-to-keep-your-chats-truly-private-with-signal/).
 This lesson draws from both.
 
 Review the Verification process for [Android](https://ssd.eff.org/en/module/how-use-signal-android)  and [iOS](https://ssd.eff.org/en/module/how-use-signal-iOS).
@@ -67,13 +67,13 @@ These screenshots reflect the iOS install process.
 
 1. Start by downloading and installing Signal. Visit <https://signal.org> for quick access to the most current download links.
 
-1. You will be prompted to confirm your device and phone number. ![Phone confirmation screen](img/ch2-4/image6.png)
+1. You will be prompted to confirm your device and phone number. ![Phone confirmation screen](img/ch2-4/small-image6.png)
 
-1. Next, Signal/Open Whisper Systems will send you a six-digit verification code. Add it. ![Verification Code Example](img/ch2-4/image4.png) ![Submit the verification code.](img/ch2-4/image7.png)
+1. Next, Signal/Open Whisper Systems will send you a six-digit verification code. Add it. ![Verification Code Example](img/ch2-4/small-image4.png) ![Submit the verification code.](img/ch2-4/small-image7.png)
 
 1. Android users: Signal will offer to become your default messaging app. Say yes! You can still use Signal to send cleartext messages to contacts who don't use the app, and you won't miss messages.
 
-1. You'll know that you've set Signal up correctly when you see the Welcome! popup. You can allow the system to access your contacts and send you notifications. *(NOTE: in the newest version of iOS, it is possible to continue without giving access to your contacts)* ![Welcome!](img/ch2-4/image5.png)![Notifications](img/ch2-4/image3.png)
+1. You'll know that you've set Signal up correctly when you see the Welcome! popup. You can allow the system to access your contacts and send you notifications. *(NOTE: in the newest version of iOS, it is possible to continue without giving access to your contacts)* ![Welcome!](img/ch2-4/small-image5.png)![Notifications](img/ch2-4/small-image3.png)
 
 ### For Android:
 
@@ -133,8 +133,7 @@ Similarly, the journalist should take as many steps and precautions a possible t
 
 + [How To Keep Your Chats Truly Private With Signal](https://theintercept.com/2017/05/01/cybersecurity-for-the-people-how-to-keep-your-chats-truly-private-with-signal/)
 + [Martin Shelton on Signal for Beginners](https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0) 
-+ [Security Tips Every Signal User Should Know (The Intercept)](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
-
++ [Cybersecurity for the People: How to Keep Your Chats Truly Private With Signal (The Intercept)](https://theintercept.com/2017/05/01/cybersecurity-for-the-people-how-to-keep-your-chats-truly-private-with-signal/).
 
 **More great lesson plans**
 
