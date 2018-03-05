@@ -46,7 +46,7 @@ Read EFF's essays on [Harm Reduction](https://sec.eff.org/articles/harm-reductio
 
 5.  Read the lesson plan and think about how you want to structure sharing these core concepts with participants.
 
-A deeper understanding of threat modeling, the high-level mechanics of delegated authentication, password hashing, and encryption would also be helpful, though is by no means essential.
+A deeper understanding of threat modeling, the high-level mechanics of delegated authentication, [password hashing](https://en.wikipedia.org/wiki/Cryptographic_hash_function#Password_verification), and encryption would also be helpful, though is by no means essential.
 
 This is a lesson where it is very important to make sure that you, as the instructor, aren’t making things up or sharing bad information with participants. So be very clear and honest about what you don’t really know.<br />
 
@@ -156,7 +156,7 @@ Either have everyone set a secure password and enable 2FA or have everyone make 
 
 #### Never, Ever Reuse Passwords
 
-If you reuse the same password all over the place, you run the risk that one service’s poor password management will compromise all of your accounts. [Have I Been Pwned?](https://en.wikipedia.org/wiki/Have_I_Been_Pwned%3F) is a great resource but the real takeaway is that everyone, everywhere has been pwned somewhere along the line. So don’t reuse passwords.
+If you reuse the same password all over the place, you run the risk that one service’s poor password management will compromise all of your accounts. Troy Hunt's [Have I Been Pwned?](https://en.wikipedia.org/wiki/Have_I_Been_Pwned%3F) is a great resource for tracking database breaches to see if your username or email address is included in the latest batch of pwned accounts. It's also a great teaching tool for your participants - chances are, at least one of their email addresses is listed for at least one service. If they are, and they reused a password for that service, their other logins are also at risk.
 
 The challenge is that **not** reusing passwords is really inconvenient. So there are a few strategies you can use to avoid worrying about it:
 
@@ -180,7 +180,7 @@ Some people think password managers are annoying and terrible. Some people genui
 
 Now everyone is in a good position to use the password manager as their primary password repository for a while and decide whether or not it is a fit.
 
-*Note:* Some trainers feel strongly that everyone should use the password manager exercise as an opportunity to change *all* their passwords to secure unique passwords, but that adds a layer of work before you’ve even figured out whether this tool will work. We recommend starting by just moving from your current system (which is probably a combination of sticky notes and passwords saved in the browser) to a password manager. You should have already changed your key passwords.
+*Note:*  The password manager exercise might seem like a good opportunity to change *all* their passwords to secure unique passwords, but this isn't typically practical in the time available. We recommend starting by just moving from your current system (which is probably a combination of sticky notes and passwords saved in the browser) to a password manager, and focusing on changing key passwords. Once they have a password manager set up, people can replace old passwords with more secure versions as they use them.
 
 ### Option 2: Use Your Inbox
 
@@ -191,18 +191,15 @@ Remember that we're taking a harm reduction approach here. Some people just won�
 2.  Encourage everyone to use single sign on wherever it is available (This is "Sign In With Google" or "Sign in With Facebook"). If you have secured your single sign on account, this is a good option. Click approve the first time, any subsequent login is automatic but **still secure**. Note: make sure every one knows how to watch for the difference between using Facebook or Google to sign  in and giving an app or service permission to access your Facebook or Google data. Sign-in With Google is totally secure and fine, but be very careful about what other access you grant apps that are using Google Sign-In. Don’t just "click okay" and accept whatever access they are asking for. (Note to trainers: consider covering [Mobile Security Settings](Chapter02-01-Mobile-Security-Settings.md) to ensure that participants understand this.)
 
 3.  Use the "reset my password by email" link. It’s very secure (almost as secure as single sign-on) and as long as you don’t use a weak or reused password to start, it guarantees that no-one will be able to sign in as you later without access to your account.
-  a.  Use a random password and don’t save it! Especially for sites you don’t visit often, just using a throw-away password can be the most secure thing.
-
-  b.  Use a password manager to generate a password; if you can reset the password later with an email link, then you don’t need to worry about the password manager backups, etc.
-
-4.  Email passwords to yourself. As long as your email account is secure and only accessible to you, and you don't reusd, this is a perfectly good option, because anyone who has access to your email account can almost certainly sign in to any of your accounts already.
+    *  Use a random password and don’t save it! Especially for sites you don’t visit often, just using a throw-away password can be the most secure thing.
+    * Use a password manager to generate a password; if you can reset the password later with an email link, then you don’t need to worry about the password manager backups, etc.
 
 More notes about harm reduction: Many security experts will recoil at this strategy. They're right: password managers are far more secure, but this is a viable backup option for those who can’t or won’t use a purpose-built password manager.
 
 Participants should take stock of all the points of entry to their email inboxes: are messages stored locally on their phone or laptop? Will someone who accesses their laptop or phone have access to all of their account information? Remind participants that this strategy is good enough for most threat models but won't protect them from police search, for instance.
 
 
-##Follow Up
+### Follow Up
 -   Homework: if you assigned 2FA or password resets as homework, be sure to send everyone a follow up note reminding them to DO IT.
 
 -   Remind everyone to disable stored passwords and set up the password manager on their secondary computer and on their phone.

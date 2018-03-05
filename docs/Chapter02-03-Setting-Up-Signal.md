@@ -31,7 +31,7 @@ Smartphone: iPhone or Android
 Two excellent resources on how and why journalists are moving to Signal:
 
 + [Martin Shelton on Signal for Beginners](https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0) 
-+ [Security Tips Every Signal User Should Know (The Intercept)](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/).
++ [Cybersecurity for the People: How to Keep Your Chats Truly Private With Signal (The Intercept)](https://theintercept.com/2017/05/01/cybersecurity-for-the-people-how-to-keep-your-chats-truly-private-with-signal/).
 This lesson draws from both.
 
 Review the Verification process for [Android](https://ssd.eff.org/en/module/how-use-signal-android)  and [iOS](https://ssd.eff.org/en/module/how-use-signal-iOS).
@@ -133,8 +133,7 @@ Similarly, the journalist should take as many steps and precautions a possible t
 
 + [How To Keep Your Chats Truly Private With Signal](https://theintercept.com/2017/05/01/cybersecurity-for-the-people-how-to-keep-your-chats-truly-private-with-signal/)
 + [Martin Shelton on Signal for Beginners](https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0) 
-+ [Security Tips Every Signal User Should Know (The Intercept)](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
-
++ [Cybersecurity for the People: How to Keep Your Chats Truly Private With Signal (The Intercept)](https://theintercept.com/2017/05/01/cybersecurity-for-the-people-how-to-keep-your-chats-truly-private-with-signal/).
 
 **More great lesson plans**
 

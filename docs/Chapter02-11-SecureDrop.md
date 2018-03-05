@@ -56,7 +56,7 @@ SecureDrop started off as DeadDrop, a whistleblowing system developed by Aaron S
 
 3.  and it isolates critical components from any networks.
 
-These features make SecureDrop a powerful tool, but they also impose strict requirements on how the system is implemented and used. Specifically, you'll need to establish a culture of security, set SecureDrop up securely, and ensure your sources know how to use it safely.
+These features make SecureDrop a powerful tool, but they also impose strict requirements on how the system is implemented and used. If basic digital security practices are not already being followed in your newsroom, the safety of leaked documents can't be guaranteed to any reasonable level. You'll need to make sure they, creating a culture of security that emphasizes best practices and includes everybody working with leaked documents. You'll need to set SecureDrop up securely, to reduce the risk of an implementation flaw compromising your sources. Finally, you'll need to provide information to your sources to help them use it safely.. 
 
 ### A culture of security
 
@@ -78,6 +78,9 @@ At a minimum:
     support it.
 
 Your organization should have existing policies for the sharing and storage of sensitive information (and if it doesn't, you need to create them). These should be reviewed and updated as necessary to cover digital documents. One important thing to consider in this updated policy is whether to reveal the use of SecureDrop in a story. In general, this is not recommended, as it may provide correlating information for someone trying to uncover an anonymous source, but every story is different.
+
+SecureDrop is built on TOR and Onion services - you'll need to make sure that people who will be using the system know how to use the TOR Browser safely. For more information, see the Tor Project's documentation, starting here: [https://www.torproject.org/about/overview.html.en](https://www.torproject.org/about/overview.html.en). 
+
 
 ### Setting up SecureDrop
 
@@ -126,7 +129,7 @@ High-risk sources need to take more precautions. The SecureDrop Source Guide ([h
 
 
 ### Alternatives
-SecureDrop's requirements might make it not the best fit for your newsroom. In particular, if you can't guarantee the physical security of the public-facing servers or the air-gapped SVS, you should consider other options to support anonymous sources. Traditional methods such as postal mail still work, if sources take the appropriate precautions. GPG-encrypted email is another option, although it can be difficult to use correctly and may leak information about source identities via email metadata. One option worth considering is a newsroom dropbox using Signal, the encrypted messaging platform written and maintained by Open Whisper Systems. Barton Gellmann has written a guide on using Signal as a newsroom dropbox, which you can find here: [https://github.com/b4rton/signal-newsroom/blob/master/README.md](https://github.com/b4rton/signal-newsroom/blob/master/README.md). 
+SecureDrop's requirements might make it not the best fit for your newsroom. In particular, if you can't guarantee the physical security of the public-facing servers or the air-gapped SVS, you should consider other options to support anonymous sources. Traditional methods such as postal mail still work, if sources take the appropriate precautions. One option worth considering is a newsroom dropbox using Signal, the encrypted messaging platform written and maintained by Open Whisper Systems. Barton Gellmann has written a guide on using Signal as a newsroom dropbox, which you can find here: [https://github.com/b4rton/signal-newsroom/blob/master/README.md](https://github.com/b4rton/signal-newsroom/blob/master/README.md). For more information on the risks and benefits of alternative whistleblowing methods, see [Opening Secure Channels for Confidential Tips](https://source.opennews.org/articles/opening-secure-channels-confidential-tips/).
 
 
 ### (Optional) SecureDrop Demo

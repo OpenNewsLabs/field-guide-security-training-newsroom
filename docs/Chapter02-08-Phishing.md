@@ -2,7 +2,7 @@
 
 ## Overview
 
-*Phishing* is an email-based social engineering tactic that uses misplaced trust to extract information and access. Like other forms of social engineering, its purpose is to trick you (the target) into divulging information that can be used to access to  private data, networks or resources. *Spear-phishing* is a form of phishing targeted at a particular individual or group. This sort of attack is widespread, common, and responsible for many [notorious examples](https://en.wikipedia.org/wiki/Podesta_emails) of data loss or leakage.
+Many security attacks take advantage of human cognitive bias, using psychological manipulation to trick people into revealing data or acting on behalf of the attacker. These attacks are typically referred to as *social engineering*. *Phishing* is an email-based social engineering tactic that uses misplaced trust to extract information and access. Like other forms of social engineering, its purpose is to trick you (the target) into divulging information that can be used to access to  private data, networks or resources. *Spear-phishing* is a form of phishing targeted at a particular individual or group. This sort of attack is widespread, common, and responsible for many [notorious examples](https://en.wikipedia.org/wiki/Podesta_emails) of data loss or leakage.
 
 Defending against phishing begins with *awareness* of particular risks and some basic safety *techniques* and can be aided by the use of certain *tools*.
 
@@ -45,7 +45,7 @@ Each participant is given two cards, numbered 1 and 2. On each card, participant
 
 ### Part B: Awareness
 
-Social engineering always involves the manipulation of trust, aided by deception. As the trust game illustrates, we are frequently required to make trust decisions with limited context and limited time. Attackers know this, and take advantage. Social engineering attacks are possible across all methods of communication, including:
+Social engineering - the use of psychological manipulation to trick people into revealing data or acting on behalf of an attacker - always involves the manipulation of trust, aided by deception. As the trust game illustrates, we are frequently required to make trust decisions with limited context and limited time. Attackers know this, and take advantage. Social engineering attacks are possible across all methods of communication, including:
 
 - **In-person** impersonation fraud (door-to-door sales people misrepresenting themselves, fraudulent personal identification)<br />
 - **Telephone** impersonation fraud: (calling a help-desk phone number to request unauthorized account details or a password reset)
@@ -71,7 +71,7 @@ A definition of phishing: an email-based social-engineering attack that uses dec
 
 **Example: a document from a trusted source**
 
-- This email appears to be from the government (a more-or-less trusted source).
+- This email appears to be from the government (a legitimate-looking source).
 - In order to open the document, some kind of information or authentication is required, which is the exploit. The document itself may also contain malware.
 - Taxes or other financial interactions are frequently exploited by phishers because they may be perceived by their targets as urgent. Freely-available personal data may be included, to increase the chance of deceiving the target.
 
@@ -128,7 +128,7 @@ Answering "yes" to any of the following questions may suggest that the email is 
 -   The formatting of the email differs from other email received from the same organization
 -   The email contains threatening, overly-urgent or very enthusiastic language
 
-While any of these factors suggest illegitimacy, **their absence does not guarantee trustworthiness.
+While any of these factors suggest illegitimacy, their absence does not guarantee trustworthiness.
 
 **Techniques: checking the "from" domain**<br />
 A strong indicator of a phishing email is an unexpected domain in the email’s **from** header.
@@ -149,7 +149,8 @@ Some tips:
 -   If unsure, consult the WHOIS record of the domain (you can use the free service at <https://whois.icann.org/en> for instance). Legitimate companies will use public WHOIS records to confirm their actual ownership of a domain.
 
 **Group Exercise: phishing quiz**<br />
-Take the phishing quiz at: [*https://www.sonicwall.com/phishing/*](https://www.sonicwall.com/phishing/) and discuss the results.
+
+There are several online quizzes designed to test people on their ability to spot phishing emails. These can be useful for participants as a way to reinforce what they've learned so far. Using the techniques described above, take the phishing quiz at: [*https://www.sonicwall.com/phishing/*](https://www.sonicwall.com/phishing/). Take some time to discuss the results as a group.
 
 **Techniques: after the click-through: context check**<br />
 After deciding to click on a link in an email, we have the opportunity to evaluate context again. Questions to ask:
@@ -175,7 +176,7 @@ Now that we’re on the destination page, we may be confronted by an additional 
 
 - <https://gizmodo.com/heres-how-easy-it-is-to-get-trump-officials-to-click-on-1794963635> - Gizmodo sent test spearphishing emails to senior Trump administration officials, and almost half of them fell for it.
 
-- <https://www.buzzfeed.com/sheerafrenkel/russian-hackers-faked-gmail-password-form-to-invade-dnc-emai> - Hancy Bear used a fake domain, accounts-google.com, in a spearphishing attack against DNC officials.
+- <https://www.buzzfeed.com/sheerafrenkel/russian-hackers-faked-gmail-password-form-to-invade-dnc-emai> - Fancy Bear used a fake domain, accounts-google.com, in a spearphishing attack against DNC officials.
 
 - <https://en.wikipedia.org/wiki/Podesta_emails> and <https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak> - Wikipedia's pages on the 2016 DNC hacks.
 

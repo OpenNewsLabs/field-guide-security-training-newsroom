@@ -75,7 +75,7 @@ You can mitigate what is available without your permission. But "mitigation" is 
 
   + Government authorities in particular, may be able to modify the physical hardware of your device. Restoring software from a backup won't protect against hardware modifications.
 
-+ Use a "travel mode": 1Password offers a [travel mode](https://www.theverge.com/2017/5/23/15681990/1password-travel-mode-feature-added-security) that won’t allow you to access to your passwords while traveling.
++ Use a "travel mode": 1Password offers a [travel mode](https://www.theverge.com/2017/5/23/15681990/1password-travel-mode-feature-added-security) that won’t allow you to access your passwords while traveling.
 
 + Minimize the data available without your permission with full disk encryption, but know that you may not always be able to cross international borders without unlocking a device. The EFF has a good overview of [your rights at the US border](https://www.eff.org/wp/digital-privacy-us-border-2017#part-2). *Trainer Note: it is easy to slip into a debate about what the border patrol is likely to do, or a story swapping session about horrible things that have happened. Try to "park" those stories in a "parking lot" for discussion another time.*
 
