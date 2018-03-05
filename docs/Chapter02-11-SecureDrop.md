@@ -56,7 +56,7 @@ SecureDrop started off as DeadDrop, a whistleblowing system developed by Aaron S
 
 3.  and it isolates critical components from any networks.
 
-These features make SecureDrop a powerful tool, but they also impose strict requirements on how the system is implemented and used. If basic digital security practices are not already being followed in your newsroom, the safety of leaked documents can't be guaranteed to any reasonable level. You'll need to make sure they, creating a culture of security that emphasizes best practices and includes everybody working with leaked documents. You'll need to set SecureDrop up securely, to reduce the risk of an implementation flaw compromising your sources. Finally, you'll need to provide information to your sources to help them use it safely.. 
+These features make SecureDrop a powerful tool, but they also impose strict requirements on how the system is implemented and used. If basic digital security practices are not already being followed in your newsroom, the safety of leaked documents can't be guaranteed to any reasonable level. You'll need to make sure that people have the tools and knowledge to protect their devices and data, by creating a culture of security that emphasizes best practices and includes everybody working with leaked documents. You'll need to set SecureDrop up securely, to reduce the risk of an implementation flaw compromising your sources. Finally, you'll need to provide information to your sources to help them use it safely.. 
 
 ### A culture of security
 
