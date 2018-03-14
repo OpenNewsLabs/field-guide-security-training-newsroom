@@ -1,4 +1,6 @@
-Security in the Newsroom:
+# Security in the Newsroom:
+
+This is a living document and the most recent version can be found at: <https://goo.gl/7ojKpw>
 
 # Who are you?
 
@@ -6,7 +8,6 @@ Security in the Newsroom:
 
 There’s a login for everything these days. The default way to prove to computers that you are you is with a username and password. We all have hundreds of different websites, computers, and other digital things that require passwords. That’s a lot of opportunity for attackers to try to steal your identity or your personal information. So, how can we make sure we are being safe when we log into things? Let’s talk about strong passwords, password managers, two-factor authentication, digital keys, HTTPS and more.
 
-This is a living document and the most recent version can be found at: <https://goo.gl/7ojKpw>
 
 ## Security
 
@@ -29,6 +30,10 @@ Just to make sure we are all on the same page, here are some top-level words and
 -   **Password**: Usually a single word or short random set of characters used for authentication.
 -   **Passphrase**: A phrase used for authentication, usually at least a few words or a whole sentence. Note, that when we refer to good, secure “passwords”, we usually mean a passphrase.
 
+![customize](img/ch2_o01_02.png) -- this icon indicates that you should customize the section to your newsroom.
+
+
+![important](img/ch2_o01_01.png) -- If you see this icon, this is important.
 
 ## What’s at stake?
 
@@ -54,6 +59,9 @@ Passwords (and usernames) are probably the most common way to authenticate someo
 
 Most of us have hundreds of services that require a username and password. Most of us can’t remember hundreds of passwords. This is where a password manager comes in; they create a secure way to store all the username and passwords you need. And most have the ability to integrate with your web browser so it makes it easy to login to a service.
 
+
+![important](img/ch2_o01_01.png) **Installing and using a password manager is possibly the biggest step you can take in making your life more secure, and it’s one of the easiest.**
+
 There are two popular password manager products that you should consider using: LastPass and 1Password. Both have similar features, but **LastPass** has a free tier with all the main features, and it can be used/installed without installing an application on your computer, so it is suggested for most users.
 
 To see other options and features, see this [*Wirecutter review*](https://thewirecutter.com/reviews/best-password-managers/).
@@ -66,13 +74,24 @@ There are many ways to use and access LastPass.
 
 One of the main ways is to use their [*browser extensions*](https://lastpass.com/download.php). These are particularly great because they make it very easy to log into websites.
 
+![Last Pass](img/ch2_o01_05.png)
+
 Another useful way to get access to your LastPass account is with their mobile applications, both for [*Android*](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid&hl=en) and [*iOS*](https://itunes.apple.com/us/app/lastpass-password-manager/id324613447?mt=8).
 
+![Last Pass](img/ch2_o01_03.jpg)
+
 You can also install [*stand-alone desktop applications*](https://lastpass.com/download.php) for LastPass.
+
+![important](img/ch2_o01_02.png)
+**Does your newsroom have a policy that prevents users from installing software or plugins? How should users in your newsroom install?**
+
 
 ### Unique passwords
 
 So, now that you have a password manager, you can practice some other good security more easily.
+
+
+![important](img/ch2_o01_01.png) **Use unique passwords for everything.**
 
 Unique passwords are important because you never know what site or service may be compromised. If you share passwords among services, the password is only as strong as the weakest security of all the services.
 
@@ -85,6 +104,9 @@ With a password manager, it is trivial to use a unique, unrelated password for e
 ### Strong passwords
 
 The strength of a password refers to the ability for it to be determined or guessed by trying many combinations of words, letters, numbers, and symbols. The password “password” is both very short and extremely common and might be the first attempt someone uses when guessing your password; therefore it is very weak.
+
+
+![important](img/ch2_o01_01.png) **Use strong passwords.**
 
 In fact, just use long, random passwords. Most password managers will provide a way to generate passwords.
 
@@ -136,6 +158,8 @@ Many services these days offer 2FA (two-factor authentication), allowing you to 
 
 Note that two-factor authentication may be referred to in other ways such as “two step verification” or “multi-factor authentication”.
 
+![important](img/ch2_o01_01.png) **Enable two-factor authentication wherever you can.**
+
 2FA makes your accounts much more secure (note nothing is 100% secure). If for some reason an attacker gets your password, or finds some way to reset your account, they still need some access to your second factor which makes it much harder to compromise your account.
 
 Common services that have the ability to turn on 2FA:
@@ -145,6 +169,8 @@ Common services that have the ability to turn on 2FA:
 -   Twitter
 -   LastPass
 -   and [*more*](https://twofactorauth.org/)
+
+![Customize This](img/ch2_o01_02.png) **If your newsroom has a two factor policy, include it here.**
 
 ###  Choosing your second factor
 
@@ -252,7 +278,7 @@ Just as importantly, you should make sure the browser is communicating securely 
 
 Look for a lock icon near the website address. Similar to the following:
 
-![HTTPS Lock icon](img/ch2_o01_01.png)
+![HTTPS Lock icon](img/ch2_o01_04.png)
 
 ## In the newsroom
 
