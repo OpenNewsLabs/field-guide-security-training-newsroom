@@ -5,9 +5,9 @@ This is the first short training module in a series of three trainings dedicated
 
 ## About this lesson plan
 
-**Review date:** June 5, 2017  
-**Lesson duration:** 20-30 minutes  
-**Level:** Introductory.  
+**Review date:** June 5, 2017<br />
+**Lesson duration:** 20-30 minutes<br />
+**Level:** Introductory.<br />
 This session is for journalists who may not realize how many permissions they have given to the third-party apps on their phone, and for those who are not regularly doing good security hygiene on their devices.
 
 ### What will participants learn?

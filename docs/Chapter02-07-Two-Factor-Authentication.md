@@ -9,9 +9,9 @@ This lesson plan will introduce key concepts about 2FA, and guide you through th
 
 ## About This Lesson Plan
 
-**Review date:** Dec 2017  
-**Lesson duration:** 30 mins (estimated)  
-**Level:** Introductory.  
+**Review date:** Dec 2017<br />
+**Lesson duration:** 30 mins (estimated)<br />
+**Level:** Introductory.<br />
 
 **Gotcha:** Make sure participants have a reliable strategy for keeping backup codes, so they don't get wholly locked out of their accounts.
 
@@ -25,7 +25,7 @@ They’ll need their mobile devices (iPhone or Android) and laptop computers.
 Have participants read [Two-Factor Authentication for
 Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/) and [The 12 Days of 2FA: How to Enable Two-Factor Authentication For Your Online Accounts](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts)—both are good overviews of the process.
 
-If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop. Make sure to include install links for iOS and Android versions in your pre-workshop communications.  
+If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop. Make sure to include install links for iOS and Android versions in your pre-workshop communications.<br />
 
 **What materials will the instructor need?**
 
@@ -52,7 +52,7 @@ When you follow up after the workshop, remind folks to confirm that the spot the
 
 ### Discussion
 
-If someone gains access to your primary email account, they can easily use that access to reset passwords and take over your other accounts. Two-factor authentication (2FA), along with [strong passwords](Chapter02-06-Passwords.md) and alertness to [phishing](Chapter02-08-Phishing.md), will go a long way towards protecting your online accounts. So have everyone start by identifying their primary email account and setting up 2FA there. Any accounts that participants use for single sign on—Github, Facebook, Twitter, Google—are also a high priority. If someone is able to take over your Facebook account, that may give them a back door to all kinds of other accounts and services.
+If someone gains access to your primary email account, they can easily use that access to reset passwords and take over your other accounts. Two-factor authentication (2FA), along with [strong passwords](Chapter02-06-Passwords.md) and alertness to [phishing](Chapter02-08-Phishing.md), will go a long way towards protecting your online accounts. So have everyone start by identifying their primary email account and setting up 2FA there. Single Sign-On (SSO) accounts, used for logging into multiple services, are also a high priority. Common examples of accounts used for SSO include Google, Facebook, Twitter, and Github. If someone is able to take over your Facebook account, that may give them a back door to all kinds of other accounts and services.
 
 Note: it's easy to get lost in a "is this really going to happen to me?" spiral, or a "sure, but what's the worst that could happen" discussion. Some clarity about what is at stake is certainly valuable but it probably isn't useful to get to caught up in horror stories. Remind folks that 2FA is relatively straightforward once it is part of your workflow. You can either get in the habit of carrying your keys and locking the door behind you, or you can stop and think everytime you leave the house "Have I left anything valuable out? What are the odds that someone will break in today?" [Mat Honan](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/) lost a lot of personal archives because some hackers wanted his Twitter handle. For a while hackers were doing a good job of taking over email accounts to send out desperate pleas for money—"Help, I'm traveling and I was hit by a car and I can't reach my parents, but I desperately need you to wire $400 to this random stranger so I can pay my hospital bill and come home."—even though the apparent sender was safe at home. If you work in a newsroom with someone working on sensitive investigations, if anyone who trusts you is doing sensitive work, you owe it to them to ensure that you're not the vector for an attack.
 
@@ -107,7 +107,7 @@ A security key is a physical device, usually connected via USB, that you can use
 They’re reasonably cheap — one of the most popular options, a [Yubikey](https://www.yubico.com/) costs
 [$18](https://www.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/).
 
-![YubiKey in action](img/ch2-7-4.png)
+![YubiKey in action](img/ch2-7-4.gif)
 
 Using them is easy—you simply insert your security key during login, and physically tap it when prompted.
 

@@ -12,7 +12,7 @@ The time and effort that goes into preparing for a workshop can make a big diffe
   + Should participants do any pre-reading? A couple of recent news stories that give context to the material are always helpful.
   + Do participants need to download or install anything? Avoid a bandwidth fiasco by having everyone at least complete any downloads before you gather.
   + If your plans call for participants to install software in the session, make sure they all have the ability to actually do so -- check with the organization's IT department beforehand if necessary.
-  + Every email reminder should include everything that participants need, even if you've sent it all before. Don't make folks dredge up an old email to remember where to go or how to prepare.  
+  + Every email reminder should include everything that participants need, even if you've sent it all before. Don't make folks dredge up an old email to remember where to go or how to prepare.<br />
 + Consider offering office hours ahead of time, especially if you need folks to complete an installation.
 + If you’re planning a software walk-through, even if you’ve done 100 times, do it one more time on the machine you’ll be presenting from. You’d be surprised how often a new version of something thoroughly scrambles your plans.
 + Don't be afraid of a slide deck. Powerpoint probably deserves its [bad rap](https://duckduckgo.com/?q=powerpoint+makes+you+stupid&t=canonical&ia=web), but that doesn't mean you can't create a slide deck that adds context and visual aids.
@@ -44,7 +44,7 @@ Follow up on any questions you promised to come back to.
 
 + Review and revise your session plan within a day or two of the session. Look back over your plan and update it to reflect what actually worked in the session. Make any notes you wish you'd had handy this time, while those thoughts are still fresh in your mind.
 
-+ Mark your calendar: if you gave participants any next steps, or even if you didn't, follow up with everyone a week or two later to check in about whether they took any action, how it went, where they got stuck.  
++ Mark your calendar: if you gave participants any next steps, or even if you didn't, follow up with everyone a week or two later to check in about whether they took any action, how it went, where they got stuck.<br />
 
 ## Getting Better
 

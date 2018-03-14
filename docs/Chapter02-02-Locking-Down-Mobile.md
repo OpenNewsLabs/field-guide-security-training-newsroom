@@ -6,9 +6,9 @@ secure mobile communications.
 
 ## About This Lesson Plan
 
-**Review date:** June 6 2017  
-**Lesson duration:** 30 mins (estimated),  longer if some Android phones need to be encrypted.  
-**Level:** Intermediate. This session assumes participants are able to make a reliable backup of the key data on their phones and have done so very recently. If they haven't, you *should not* proceed.  
+**Review date:** June 6 2017<br />
+**Lesson duration:** 30 mins (estimated),  longer if some Android phones need to be encrypted.<br />
+**Level:** Intermediate. This session assumes participants are able to make a reliable backup of the key data on their phones and have done so very recently. If they haven't, you *should not* proceed.<br />
 
 **Gotcha:** Consider how much time you have available before choosing to do this session. Are all your participants’ devices either brand new or recently [backed up](Chapter02-04-Mobile-Backups.md)? Do you have 30+ minutes and a low participant to trainer ratio? If not, you may want to either do this session in two parts on subsequent days (cover mobile device backups where you cover encrypted backups on one day, then actual encryption on the second day), *or* you share a link on backups and require participants to complete (or verify cloud backups) *before* this session.
 
@@ -39,7 +39,7 @@ Consider setting a calendar appointment for a week after the training, to remind
 
 ## Lesson plan
 
-**Introduction**  
+**Introduction**<br />
 Survey the room:
 
 -   Who’s lost their phone before? (Bonus points for the best story! If anybody lost theirs and got it back, might be a good time to ask if they were worried about the time it spent out of their control)
@@ -50,7 +50,7 @@ Survey the room:
 
 Spend some time on what makes a good passcode (length and randomness are good, birthdays and sequential numbers are bad). The [password](Chapter02-06-Passwords.md) lesson has more great resources on this question.
 
-**Walkthrough**  
+**Walkthrough**<br />
 Split people into groups by device types - instructions will differ for iOS vs Android. Everyone is going to ...
 
 + set a password or passcode,
@@ -63,7 +63,7 @@ For *lock screens,* a strong password is always recommended. A PIN or passcode i
 
 Biometric locking (eg. face or fingerprint recognition) is not recommended, as both are fakeable and do not offer the same degree of legal protection. For example, in the US you can be legally compelled to provide your biometrics to unlock a device by a court.
 
-Android phones offer pattern locking, which is also problematic and not as secure as a pas
+Android phones offer pattern locking, which is also problematic. It's not as secure as a passphrase, and weak to shoulder-surfing.
 
 When you tackle *lockscreen notifications* keep in mind that some users may opt to keep convenient but insecure notifications coming for day to day use and change the settings when they're in more vulnerable situations or traveling.
 
