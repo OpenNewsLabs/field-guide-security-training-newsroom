@@ -1,15 +1,21 @@
 # The Field Guide to Security Training in the Newsroom
 
-In the weeks following the 2016 presidential election, [daily downloads of Signal increased four-fold](https://www.buzzfeed.com/hamzashaban/after-trumps-win-secure-messaging-app-signals-downloads-incr). Though the US Border Patrol has had the authority to search electronic devices at border crossings [for almost a decade](https://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_cbp_laptop.pdf), they seem to be [using that authority](https://www.nytimes.com/2017/02/14/business/border-enforcement-airport-phones.html) more often in recent months. With the inauguration of a president who is [openly hostile](https://www.washingtonpost.com/politics/trump-wages-war-against-the-media-as-demonstrators-protest-his-presidency/2017/01/21/705be9a2-e00c-11e6-ad42-f3375f271c9c_story.html) to the press (whose own campaign benefited immeasurably when hackers released his opponent’s private correspondence), reporters on all kinds of beats have started to ask how to protect their digital data from snoops of all stripes. Often there isn’t anyone nearby who can offer solid, informed answers to those questions. 
 
-In a moment when reporters are asking how to protect themselves and their sources, we want to see a whole lot more people armed to answer those questions and help newsrooms do a better job of communicating (and storing data) securely.  So BuzzFeed Open Lab and OpenNews are teaming up to assemble a solid, thoughtful series of training modules and resource guides that folks can use to help colleagues step up their security literacy. We’d like to cover everything from how to explain why migrating to a password manager is worth the trouble, to how to convince whoever needs convincing that installing Secure Drop is worth the trouble. 
+The curriculum is hosted by [OpenNews]<https://opennews.org/>, a team
+that helps developers, designers, and data analysts convene and
+collaborate on open journalism projects. The first draft was composed  during a
+two-day convening in Chicago in June 2017. The curriculum launched publicly in the Spring of 2018.
 
-But we need your help to do it! On June 5 & 6, we’ll bring a group of contributors together to develop the first version of this resource for the journalism community. We’ll spend two days in Chicago, writing walkthroughs and building lists of best practices, and making a plan for sharing the material with trainers in newsrooms everywhere. And as we work, this repo will turn into much more than a README file. 
+This is a living resource and we welcome your [contributions](docs/contributing.md) and [feedback](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/issues).
 
-If you’re already training reporters on how to communicate and store information securely online, even informally, we’d love to have you in the room. We're also looking for people who can bring: 
+Our goal is not to replicate good work that other organizations have already done, so if you know about great training resources for security trainers, we'd love to add those to our [resource roundup](docs/Chapter03-02-Resources.md).
 
-    + deep technical expertise 
-    + legal expertise (what are your rights; using the law to protect yourself)
-    + newsroom training experience (if you’ve done this before, where do your colleagues get stuck?)
+## More ways to contribute
 
-Our call for participation closed on Tuesday, May 2, but if you’d like to help with  on this project—or if you know someone we should reach out to—we’d love to hear from you.
+Every lesson plan in Chapter 2 ends with a list of current links in the news that capture the importance of the material covered in that lesson. If your favorite links are missing, we'd love it if you added them.
+
+We also wrap each lesson with links to other lesson plans, from EFF or Freedom of the Press Foundation or elsewhere, that cover the same material for a different audience or with a different approach. If your favorite lesson plans are missing, we'd love it if you added them.
+
+Take a look at the github [issues](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/issues) -- there we've captured specific tasks that need to be addressed.
+
+Have you used *The Field Guide to Security Training in the Newsroom* to lead a workshop in your newsroom? We'd love to hear about it. EMAIL TK
