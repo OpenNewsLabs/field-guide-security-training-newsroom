@@ -50,7 +50,7 @@ valuable resources that already exist in the world.
    :caption: Chapter 1 - Being a better Trainer
    :name: sec-chapter1
    :glob:
-   
+
    Chapter01*
 
 
@@ -62,7 +62,7 @@ materials to help people cover key topics with their peers.
    :caption: Chapter 2 - Lesson Plans
    :name: sec-chapter2
    :glob:
-   
+
    Chapter02*
 
 Chapter 3 is our best effort to aggregate links to the best existing
@@ -73,7 +73,7 @@ resources, to help new trainers deepen their own expertise.
    :caption: Chapter 3 - Resources
    :name: sec-chapter3
    :glob:
-   
+
    Chapter03*
 
 
@@ -87,14 +87,14 @@ your expertise to this project.
    :maxdepth: 2
    :caption: Contributing
    :name: sec-contributing
-   
+
    contributing.md
 
 
 Authors
 -------
 
-The following people have contributed to this resource:
+This resource began with a convening in Chicago where a dozen committed folks dedicated several days to writing the first draft. More folks stepped in to edit those drafts and offer feedback on them, or submit new lesson plans or workshop materials. This curriculum wouldn't exist without their hard work:
 
 -  Martin Shelton
 -  Matt Perry
@@ -110,6 +110,9 @@ The following people have contributed to this resource:
 -  Amanda Hickman
 -  Dan Sinker
 -  Ryan Pitts
+-  Alan Piazzolo
+-  Jason Reich
+
 
 License
 -------
