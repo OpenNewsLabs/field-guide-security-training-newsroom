@@ -232,6 +232,9 @@ Your email becomes a gateway to many other accounts, as it is the username, and 
 
 Note that Google Mail allows you to use [*different forms*](https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html) of your email address. This helps obfuscate your address, making it slightly harder to associate accounts.
 
+![Lock icon](img/ch2_o01_01.png)
+
+**At the very least, make sure you use strong passwords and 2FA for your email addresses.**
 
 ###  Temporary emails
 
@@ -248,6 +251,8 @@ When actually logging into a site, you should consider a couple things. First, y
 Just as importantly, you should make sure the browser is communicating securely with the server via HTTPS. The default of the web is to use HTTP (hypertext transfer protocol); the thing to know about HTTP is that information is transferred as is. So, if you send your password to the website, someone who has access to the network itself can see that password. That’s where HTTPS (“s” is for secure); it creates an encrypted channel between your computer and the website. So, it’s important to use HTTPS when logging in. Your browser should make it fairly easy to know if the site is secure.
 
 Look for a lock icon near the website address. Similar to the following:
+
+![HTTPS Lock icon](img/ch2_o01_01.png)
 
 ## In the newsroom
 
