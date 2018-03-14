@@ -110,7 +110,7 @@ This resource began with a convening in Chicago where a dozen committed folks de
 -  Amanda Hickman
 -  Dan Sinker
 -  Ryan Pitts
--  Alan Piazzolo
+-  Alan Palazzolo
 -  Jason Reich
 
 
