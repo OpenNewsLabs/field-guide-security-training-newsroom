@@ -2,7 +2,7 @@
 
 ## Overview
 
-Enabling two-factor authentication (2FA) is one of the easiest steps you can take to protect your online accounts. Even if someone gets ahold of your password, 2FA will ensure that they can't get very far. 2FA adds extra protection by requiring additional information for login, provided by either a text message to your phone, a code from an authenticator app, or the use of a hardware security key. 
+Enabling two-factor authentication (2FA) is one of the easiest steps you can take to protect your online accounts. Even if someone gets ahold of your password, 2FA will ensure that they can't get very far. 2FA adds extra protection by requiring additional information for login, provided by either a text message to your phone, a code from an authenticator app, or the use of a hardware security key.
 
 This lesson plan will introduce key concepts about 2FA, and guide you through the process of setting up app-based 2FA for your primary email account.
 
@@ -32,7 +32,7 @@ If folks will be sharing unreliable wifi (eg. if you're at a conference center o
 EFF's [Two Factor Authentication Handout](https://sec.eff.org/materials/two-factor-authentication-handout-for-learners) is a great resource to provide to participants.
 
 **How should the instructor prepare?**
- 
+
 - Read through the lesson plan.
 - Set up an email account to use to demo 2FA—a secondary or dummy gmail account is a good option for this.
 - Read the two recommended participant readings.
@@ -83,7 +83,7 @@ Most services allow you to receive an authentication code via text message. SMS 
 
 ![SMS auth code example](img/ch2-7-1.png)
 
-SMS-based 2FA is better than using a password alone, but relying on telephone infrastructure comes with enough trade-offs that the National Institute of Standards and Technology [does not recommend it](https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/).
+SMS-based 2FA is better than using a password alone, but relying on telephone infrastructure comes with enough trade-offs that the National Institute of Standards and Technology [does not recommend it](https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/). However, if SMS-based 2FA is your only option, using it is better than not using it. 
 
 For example: by convincing Verizon to redirect Deray McKesson's phone messages to a new SIM card, a hacker was able to bypass 2FA. They were able to access the Black Lives Matter activist's email and Twitter records.
 
@@ -131,13 +131,13 @@ Make sure everyone also sets aside backup codes!
 
 Setting up 2FA should take no more than 10 minutes.
 
-Time to break out the laptops. The instructions below apply to Gmail. If any participants use a different primary email provider, you may need to modify the lesson plan accordingly. 
+Time to break out the laptops. The instructions below apply to Gmail. If any participants use a different primary email provider, you may need to modify the lesson plan accordingly.
 
 Show everyone how to navigate to the Gmail setup page. From the Account icon (top right) select `My Account > Sign-in & security > Signing in to Google` and look for a `2-Step Verification` option. Click `Get Started`.
 
 ![2FA on Google](img/ch2-7-5.gif)
 
-**Set up SMS authentication:** 
+**Set up SMS authentication:**
 First, participants will need to enter their password to verify that they own the account.
 
 Next, participants will have to add a phone number. (Exasperatingly, you can't set up app based authentication without first setting up SMS authentication. At least not on Gmail.)
@@ -150,7 +150,7 @@ As discussed, we want more security than SMS provides. So once you have enabled 
 **Backup Codes:**
 Now that everybody has 2FA set up, they DEFINITELY need to download backup codes and put them someplace safe. Each backup code can only be used once, but if you lose your phone (or just leave it home one day) and all your authentication is connected to your phone, you're going to be awfully frustrated without backup codes.
 
-**Disable SMS authentication:** 
+**Disable SMS authentication:**
 After setting up an authenticator app or security keys, participants should remove their phone as a 2FA method.
 
 **Security Keys (optional):**
