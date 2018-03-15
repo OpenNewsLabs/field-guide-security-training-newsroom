@@ -106,6 +106,15 @@ This resource began with a convening in Chicago where a dozen committed folks de
 -  Ryan Pitts
 -  Alan Palazzolo
 -  Jason Reich
+-  Eliot Stempf
+-  Erik Reyna
+-  Rodney Gibbs
+-  Mago Torres
+-  Jennifer Henrichsen
+-  Lo Benichou
+-  Harlo Holmes
+-  Ted Han
+-  Lindsay Beck
 
 
 License
