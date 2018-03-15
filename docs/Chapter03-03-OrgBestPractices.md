@@ -131,3 +131,6 @@ Note that a number of these pages use a customized subdomain that would alert an
 + [Opening Secure Channels for Confidential Tips (Source, Feb 2017)](https://source.opennews.org/articles/opening-secure-channels-confidential-tips/)
 
 +  [Protecting Your Sources When Releasing Sensitive Documents (Source, June 2017)](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
+
++ [Beyond Signal: Secure messaging channels & confidential tip pages (NICAR, March 2018)](https://docs.google.com/presentation/d/1P9-C6TK2GfWZ0CPGkN7YmOeDqNtoktNd6ETueD7EohI/edit#slide=id.p)
+
