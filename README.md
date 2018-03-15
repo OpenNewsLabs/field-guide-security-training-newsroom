@@ -1,10 +1,8 @@
 # The Field Guide to Security Training in the Newsroom
 
+The Field Guide to Security Training in the Newsroom is a round up of resources and lesson plans designed to improve and expand newsroom digital privacy training. 
 
-The curriculum is hosted by [OpenNews]<https://opennews.org/>, a team
-that helps developers, designers, and data analysts convene and
-collaborate on open journalism projects. The first draft was composed  during a
-two-day convening in Chicago in June 2017. The curriculum launched publicly in the Spring of 2018.
+This curriculum is hosted by [OpenNews](https://opennews.org/), a team that helps developers, designers, and data analysts convene and collaborate on open journalism projects. The first draft was composed  during a two-day convening in Chicago in June 2017. The curriculum launched publicly in the Spring of 2018.
 
 This is a living resource and we welcome your [contributions](docs/contributing.md) and [feedback](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/issues).
 
