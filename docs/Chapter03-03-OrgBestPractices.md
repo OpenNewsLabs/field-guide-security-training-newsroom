@@ -14,7 +14,7 @@ Before we even talk about tools for taking confidential tips securely, there are
 
 1. Who is going to maintain the page? If you’re reading this, the person maintaining the secure tip page for your newsroom might be you. Make sure you know what that entails, and that there's a plan in place for handing off ownership if you leave the newsroom.
 
-2.  The page should easily accessible, and under the newsroom's control. Don't
+2.  The page should easily accessible, and under the newsroom's control. 
 
 3.  Host secure tip pages with HTTPS, not over an unsecured HTTP connection. This prevents unwanted third parties from snooping on would-be sources’ connections to your tip page. If your site doesn't already default to HTTPS, address that first. Two excellent resources to help make the case: [The US CIO's excellent and thorough explanation](https://https.cio.gov/everything/), and [Chrome's Developer Blog](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https).
 
@@ -54,7 +54,7 @@ Your tips page is a good place to offer that education.
 
 The best we can do is support the appropriate communication channels, and advertise that we’re available to check out tips. Have a page where these channels are clearly organized, and share it with information about the tradeoffs.
 
-It’s also important to be be clear that if they have reached out over a less-than-ideal channel, such as calling from their work phone or using their work computer, sources may have burned themselves already.
+It’s also important to be clear that if they have reached out over a less-than-ideal channel, such as calling from their work phone or using their work computer, sources may have burned themselves already.
 
 The Intercept has [an excellent guide](https://theintercept.com/leak/) to reaching out anonymously. They are very clear both about how to reach out, and *what not to do*.
 
@@ -81,7 +81,7 @@ Some common secure communication channels include [Signal](https://signal.org/),
 + [WhatsApp](https://whatsapp.com/) has over a billion users on [iPhone](https://itunes.apple.com/us/app/whatsapp-messenger/id310633997) and [Android](https://play.google.com/store/apps/details?id=com.whatsapp) and uses similar encryption to Signal. It’s easy to use, and with the right settings, can be a decent option for routine communications. WhatsApp users can share more types of files than Signal, and it can be
 a great way to send documents.
 
-    + Tradeoffs: Importantly, some settings must be tweaked to maximize the security  of the app, and to make it safer for routine use. Under some circumstances, WhatsApp backs up unencrypted messages to iCloud or Google Drive by default: users may need to confirm that backups are be disabled. [Upgrading WhatsApp Security](https://medium.com/@mshelton/upgrading-whatsapp-security-386c8ce496d3) is an excellent guide to ... upgrading WhatsApp securit.
+    + Tradeoffs: Importantly, some settings must be tweaked to maximize the security  of the app, and to make it safer for routine use. Under some circumstances, WhatsApp backs up unencrypted messages to iCloud or Google Drive by default: users may need to confirm that backups are disabled. [Upgrading WhatsApp Security](https://medium.com/@mshelton/upgrading-whatsapp-security-386c8ce496d3) is a good place to get started.
 
     + Like Signal, WhatsApp stores user phone numbers. They also [store substantially more data](https://www.whatsapp.com/legal/#privacy-policy) -- your address book, who you contact most often, and other information about how you use the service. WhatsApp [shares that data with their parent company, Facebook](https://www.eff.org/deeplinks/2016/08/what-facebook-and-whatsapps-data-sharing-plans-really-mean-user-privacy-0). Facebook,and WhatsApp can be forced to share their user data in response to a court order or subpoena.
 
