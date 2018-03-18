@@ -20,7 +20,7 @@ This resource collects the advice and experience of journalists,
 newsroom developers, and security experts, organized into a set of
 lessons and training materials available for newsroom staff who find
 themselves leading security trainings. In a moment when reporters are
-asking how to protect themselves and their sources, we want to see a
+asking how to protect themselves and their sources, we want to see 
 more people armed to answer those questions and help newsrooms
 communicate and store data more securely.
 
