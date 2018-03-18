@@ -70,7 +70,7 @@ Now, if we want to talk to hundreds, or even thousands, of people, we can turn t
 
 There are more books than we could hope to read, much less own, that fit on a three-inch screen. Or, realizing that reading on a 3" screen sucks,  we can turn to audiobooks, of which there are more than we could ever listen to -- even in the public domain, having been read by random volunteers! Thanks, random volunteers!
 
-We can book a flight to Seoul, order a box of baby chickens, and find patient communities for dozens ofrare diseases in the span of 20 minutes, all from a magical phone in our pockets, or a small box with more computational power than took humanity to the moon.
+We can book a flight to Seoul, order a box of baby chickens, and find patient communities for dozens of rare diseases in the span of 20 minutes, all from a magical phone in our pockets, or a small box with more computational power than took humanity to the moon.
 
 We live in an age of working magic wands, an age with no muggles. We're all wizards now -- but there's no Hogwarts. We're muddling through, and everyone having all these powers can seem scary. But the world gets better as we all learn to use them.
 
