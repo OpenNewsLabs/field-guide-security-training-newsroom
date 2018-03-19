@@ -60,19 +60,25 @@ This framing can be helpful in newsrooms where security needs are much broader t
 
 ## This is Awesome
 
+It is easy to get caught up in everything that's wrong with the internet and digital communications. Some digital security trainers like to start by resetting that pessimism with a conversation about just how awesome the internet actually is. If this is a framing strategy that resonates for you as a trainer, the general idea is that you start with a roundup of everything that is fabulous about the internet and then shift gears to talking a bit about the value of digital literacy. Eg. 
+
+    Today, if we want to talk to hundreds, or even thousands, of people, we can turn to Twitter, or a host of other platforms. Networks with equivalent reach and ease of access simply didn't exist for previous generations. Now it's a regular part of life.
+
+    There are more books than we could hope to read, much less own, that fit on a three-inch screen. Or, realizing that reading on a 3" screen sucks, we can turn to audiobooks, of which there are more than we could ever listen to -- even in the public domain, having been read by random volunteers! Thanks, random volunteers!
+
+    We can book a flight to Seoul, order a box of baby chickens, and find patient communities for dozens of rare diseases in the span of 20 minutes, all from a magical phone in our pockets, or a small box with more computational power than took humanity to the moon.
+
+    We live in an age of working magic wands, an age with no muggles. We're all wizards now -- but there's no Hogwarts. We're muddling through, and everyone having all these powers can seem scary. But the world gets better as we all learn to use them.
+
+Practical privacy and security is just a part of digital literacy. Right now, for most people, learning how their computers work is hard enough. Learning how the network works seems out of reach. It's not impossible, it just takes a new perspective on the world we live in everyday. 
+
+
+
+
+start by mapping out and talkign through the things that are most awesome about the modern internet. 
+
 Customize it, bring in some of your favorite properties of the net, etc.
 
-Practical privacy and security is just a part of digital literacy. Right now, for most people, learning how their computers work seems hard enough, learning how the network works seems impossible. But it's not, it's just learning a new perspective about the world we live in everyday.
-
-It's worthwhile to take a moment to say how amazing the age we live in is, how wonderful and awesome it is, and downright magical it is, living through the mediation of just about everything. At the turn of the century we didn't have 30-second access to all human knowledge, now we can't tolerate being out of touch with the world for more than a few hours. We used to go to the library to find things out. When someone moved away, we accepted that we'd probably never see from or hear from them again. The lives of people in distant lands, or even Des Moines, was mysterious.
-
-Now, if we want to talk to hundreds, or even thousands, of people, we can turn to Twitter, or a host of other platforms. Networks with equivalent reach and ease of access simply didn't exist for previous generations. Someone could work for years to get onto a platform with that kind of reach, but that was a career choice -- go to college, try to get a job, work for it, possibly for most of their life. Now it's a regular part of life, normal and even banal.
-
-There are more books than we could hope to read, much less own, that fit on a three-inch screen. Or, realizing that reading on a 3" screen sucks,  we can turn to audiobooks, of which there are more than we could ever listen to -- even in the public domain, having been read by random volunteers! Thanks, random volunteers!
-
-We can book a flight to Seoul, order a box of baby chickens, and find patient communities for dozens of rare diseases in the span of 20 minutes, all from a magical phone in our pockets, or a small box with more computational power than took humanity to the moon.
-
-We live in an age of working magic wands, an age with no muggles. We're all wizards now -- but there's no Hogwarts. We're muddling through, and everyone having all these powers can seem scary. But the world gets better as we all learn to use them.
 
 This is digital literacy, getting a sense of your networks. Learning how to use your network powers, and how to defend yourself in an environment of network powers.
 
