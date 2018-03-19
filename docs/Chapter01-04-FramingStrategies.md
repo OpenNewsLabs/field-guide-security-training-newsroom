@@ -78,20 +78,18 @@ This is digital literacy, getting a sense of your networks. Learning how to use 
 
 Contexts in which this framing can be helpful: when you want to set a tone that none of this should be scary or overwhelming.
 
-## Understanding and Honoring Needs and Expectations
+# Setting Expectations
 
-DJ and Nicolás Sera-Leyva have written extensively about understanding and managing expectations in digital security trainings at [Level Up](https://www.level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/). Communicating with participants, rather than relying entirely on what a trainer *thinks* they need and expect, will make any training more effective.
-
-The first session is great to help get the whole group in sync, which sometimes means identifying the expectations that should be kindly adjusted so that we do not get caught up in promises we cannot keep. DJ and Nicolás offer the following messages to address some of the most common expectation-reality gaps in digital security trainings:
+Once you've identified a framing that resonates with you as a trainer, or that will resonate with the group, let that framing help you identify, and (as necessary) gently adjust expectations for the group. Most of these framing suggestsions start with activities that incorporate a conversation about expectations. Two other great resources on setting and managing expectations are Chris Michael guide to  [getting participants in sync](https://level-up.cc/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/), and DJ and Nicolás Sera-Leyva's guide to [understanding and managing expectations in digital security trainings](https://www.level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/), both at [Level Up](https://www.level-up.cc).Some of the places where there's often a gap between expectation and reality, in digital security trainings: 
 
 * There is no such thing as perfect security.
 * There is no such thing as a permanent digital security solution.
 * You are as secure as the most "un-secure" person you connect with online.
+* Security is personal. 
 
-A few more valuable points to keep in mind:
+Participants who come in hoping to given The Right Answer™️ will leave frustrated if you don't reset expectations at the outset of a series. Digital security is not just about knowledge: it is also about changing habits. Nobody changes long cultivated habits after a single two-hour workshop. As a trainer, you can set participants up for success by encouraging everyone to make realistic commitments, and to keep those commitments.
 
-* Digital security is not just about knowledge: it is also about changing habits. Nobody changes all of their habits based on one two-hour session. Encourage participants to make realistic commitments, and keep them.
-* Security is an effort we make for ourselves, for others we care about, and also for others we currently do not care about. We rely on each other -- security might be an act of moral obligation, civic responsibility, or love.
-* Normalizing secure communications is a way to work in solidarity with more vulnerable groups. As more people use encrypted channels to touch base about what's for dinner, we all help make secure communication normal.
+Privacy and digital security aren't solo endeavors. Normalizing secure communications is a way to work in solidarity with more vulnerable groups--as people use encrypted channels to touch base about what's for dinner, or what time to meet up, we all help make private and secure communication normal. By using secure communication tools for every day chatter, we can also identify, articulate and document bugs and issues that make those tools hard to use in high stakes situations. 
 
-Many of the "framing" suggestions above start with activities that incorporate (or can be easily tweaked to incorporate) these conversations, and Chris Michael published [a very useful resource for getting participants in sync](https://level-up.cc/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/).
+Security is an effort we make for ourselves, for others we care about, and also for others we currently do not care about. We rely on each other -- security might be an act of moral obligation, civic responsibility, or love.
+
