@@ -64,23 +64,11 @@ It is easy to get caught up in everything that's wrong with the internet and dig
 
     Today, if we want to talk to hundreds, or even thousands, of people, we can turn to Twitter, or a host of other platforms. Networks with equivalent reach and ease of access simply didn't exist for previous generations. Now it's a regular part of life.
 
-    There are more books than we could hope to read, much less own, that fit on a three-inch screen. Or, realizing that reading on a 3" screen sucks, we can turn to audiobooks, of which there are more than we could ever listen to -- even in the public domain, having been read by random volunteers! Thanks, random volunteers!
+    There are more books than we could hope to read, much less own, that fit on a three-inch screen. There are more audiobooks,  than we could ever listen to in the public domain, read by random volunteers. We can book a flight to Seoul, order a box of baby chickens, and find patient communities for dozens of rare diseases in the span of 20 minutes, all from a phone, or a small box with more computational power than took humanity to the moon.
 
-    We can book a flight to Seoul, order a box of baby chickens, and find patient communities for dozens of rare diseases in the span of 20 minutes, all from a magical phone in our pockets, or a small box with more computational power than took humanity to the moon.
+    We live in an age of working magic wands, an age with no muggles. We're all wizards, but there's no Hogwarts: we're muddling through, and a world where everyone has all these powers can look scary. But the world gets better as we all learn to use our powers.
 
-    We live in an age of working magic wands, an age with no muggles. We're all wizards now -- but there's no Hogwarts. We're muddling through, and everyone having all these powers can seem scary. But the world gets better as we all learn to use them.
-
-Practical privacy and security is just a part of digital literacy. Right now, for most people, learning how their computers work is hard enough. Learning how the network works seems out of reach. It's not impossible, it just takes a new perspective on the world we live in everyday. 
-
-
-
-
-start by mapping out and talkign through the things that are most awesome about the modern internet. 
-
-Customize it, bring in some of your favorite properties of the net, etc.
-
-
-This is digital literacy, getting a sense of your networks. Learning how to use your network powers, and how to defend yourself in an environment of network powers.
+Practical privacy and security is just a part of digital literacy. Right now, for most people, learning how their computers work is hard enough. Learning how the network works seems out of reach. It's not impossible, it just takes a new perspective on the world we live in everyday. Digital privacy is digital literacy: It means learning how to use your network powers, and how to defend yourself in an environment of network powers.
 
 Contexts in which this framing can be helpful: when you want to set a tone that none of this should be scary or overwhelming.
 
