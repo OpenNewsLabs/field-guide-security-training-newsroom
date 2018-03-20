@@ -26,8 +26,8 @@ Comprehensive resources addressing digital security in general, and online commu
 *Electronic Frontier Foundation*<br />
 A resource for people teaching digital security to their friends and neighbors.<br />
 **Published:** November 2017 <br />
-**Added: ** December 2017<br />
-**Tags: ** curriculum, train-the-trainer<br />
+**Added:**  December 2017<br />
+**Tags:**  curriculum, train-the-trainer<br />
 
 **[Surveillance Self-Defense:  Tips, Tools and How-tos for Safer Online Communication](https://ssd.eff.org/)**<br />
 <https://ssd.eff.org/><br />
@@ -44,6 +44,14 @@ A primer booklet for those beginning to think about digital security and threat 
 **Published:**  last updated May 2017<br />
 **Added:**  June 2017<br />
 **Tags:** guides, beginners<br />
+
+**[Introduction to Digital Security for Journalists Handout (NICAR 2018)](https://docs.google.com/document/d/1q3gBvOEviV_0XMpMjvBiHSaKcl64uu4NwOoEVfXyYqU/edit)**<br />
+<url><br />
+*@mshelton, @geminiimatt, @mtigas, Sequoia McDowell, @camfassett*<br />
+<description>A thorough roundup of tools and best practices from NICAR 2018<br />
+**Published:** March 2018<br />
+**Added:** March 2018<br />
+**Tags:** guides, intros<br />
 
 **[11 tips for protecting your privacy and digital security in the age of Trump](https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/)**<br />
 [https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/](https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/)<br />
@@ -121,7 +129,7 @@ An in-depth and still relevant guide to digital security for Journalists.<br />
 GUIDE<br />
 Links to videos and other resources on secure communication and digital security. (Includes a well-developed risk assessment series for journalists.)<br />
 **Published:**  various<br />
-**Added: **June 2017<br />
+**Added:** June 2017<br />
 
 **[Information Security for Journalists](http://www.tcij.org/node/1016)**<br />
 [http://www.tcij.org/node/1016](http://www.tcij.org/node/1016)<br />
@@ -130,7 +138,7 @@ GUIDE (Advanced)<br />
 **12/2017:** *This resource is not currently available. Reached out to TCIJ for more info. -- abh*<br />
 This guide focuses on security concerns for investigative journalists, particularly those with sophisticated attackers. This guide examines threat modeling, hardware security, enhancing operating system security (e.g., with TAILS), disk and communications encryption (e.g., PGP and OTR), file data and metadata, browser privacy tools, circumvention software, and strong password practices. (Great advanced guide,but probably not the best guide to give to users who are new to digital security, since they are likely to be overwhelmed and decide that digital security is not for them.)<br />
 **Published:**  2016<br />
-**Added: **June 2017<br />
+**Added:** June 2017<br />
 
 **[How to Lead a Digital Security Workshop](https://motherboard.vice.com/en_us/article/how-to-give-a-digital-security-training)**<br />
 [https://motherboard.vice.com/en_us/article/how-to-give-a-digital-security-training](https://motherboard.vice.com/en_us/article/how-to-give-a-digital-security-training)<br />
@@ -138,7 +146,7 @@ ARTICLE/101 TRAINING ADVICE<br />
 *Rachel Weidinger, Cooper Quintin, Martin Shelton, Matt Mitchell via Motherboard*<br />
 How to get started on digital security training for first-timers. The short guide encourages new and would-be security trainers with some considerations for effective training. These considerations include how to think about practical security advice, planning and logistics, building knowledge, focusing on teaching narrowly-scoped mastery, as well as self-presentation and audience engagement in security trainings.<br />
 **Published:** February 2017<br />
-**Added: **June 2017<br />
+**Added:** June 2017<br />
 
 **[My Shadow Training Curriculum (Tactical Tech)](https://myshadow.org/train)**<br />
 [https://myshadow.org/train](https://myshadow.org/train) and [https://gitlab.com/ttc/data-privacy-training/tree/master/content](https://gitlab.com/ttc/data-privacy-training/tree/master/content) for easier access to .md content<br />
@@ -447,4 +455,3 @@ Yearly conference focused on human rights and digital technology.<br />
 Yearly conference hosted by the GIJN and various other institutions. Focuses on issues related to investigative journalism, with some digital security content.<br />
 **Published:** n/a<br />
 **Added:** January 2018<br />
-
