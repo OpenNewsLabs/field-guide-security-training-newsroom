@@ -72,9 +72,9 @@ Practical privacy and security is just a part of digital literacy. Right now, fo
 
 Contexts in which this framing can be helpful: when you want to set a tone that none of this should be scary or overwhelming.
 
-# Setting Expectations
+## Setting Expectations
 
-Once you've identified a framing that resonates with you as a trainer, or that will resonate with the group, let that framing help you identify, and (as necessary) gently adjust expectations for the group. Most of these framing suggestsions start with activities that incorporate a conversation about expectations. Two other great resources on setting and managing expectations are Chris Michael guide to  [getting participants in sync](https://level-up.cc/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/), and DJ and Nicolás Sera-Leyva's guide to [understanding and managing expectations in digital security trainings](https://www.level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/), both at [Level Up](https://www.level-up.cc).Some of the places where there's often a gap between expectation and reality, in digital security trainings: 
+Once you've identified a framing that resonates with you as a trainer, or that will resonate with the group, let that framing help you identify, and (as necessary) gently adjust expectations for the group. Most of these framing suggestions start with activities that incorporate a conversation about expectations. Two other great resources on setting and managing expectations are Chris Michael guide to  [getting participants in sync](https://level-up.cc/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/), and DJ and Nicolás Sera-Leyva's guide to [understanding and managing expectations in digital security trainings](https://www.level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/), both at [Level Up](https://www.level-up.cc).Some of the places where there's often a gap between expectation and reality, in digital security trainings: 
 
 * There is no such thing as perfect security.
 * There is no such thing as a permanent digital security solution.
