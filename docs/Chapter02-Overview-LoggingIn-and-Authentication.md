@@ -1,7 +1,10 @@
 # Security in the Newsroom: Who are you?
 
-This is a living document and the most recent version can be found at: <https://goo.gl/7ojKpw>. This lesson plan, which covers Passwords and Two Factor Authentication is a great hour long brown-bag session that was shared with us by Alan Palazzolo at the Minneapolis Star Tribune.
+This is a living document and the most recent version can be found at: <https://goo.gl/7ojKpw>. This lesson plan, which covers Passwords and Two Factor Authentication is a great hour long brown-bag session that was shared with us by Alan Palazzolo at the Minneapolis Star Tribune. For other great overview lesson plans, take a look at:
 
+[NICAR18: Digital Security Tip Sheet for Journalists](https://docs.google.com/document/d/1q3gBvOEviV_0XMpMjvBiHSaKcl64uu4NwOoEVfXyYqU/edit#), March 2018 by @mshelton, @geminiimatt, @mtigas, Sequoia McDowell and @camfassett. 
+
+Or, there are more great resources in [the resource roundup](Capter03-02-Resources.html).
 
 ## Logging in and authentication
 
