@@ -59,8 +59,8 @@ materials to help people cover key topics with their peers.
 
    Chapter02*
 
-Chapter 3 is our best effort to aggregate links to the best existing
-resources, to help new trainers deepen their own expertise.
+Chapter 3 aggregates links to the best existing
+resources, to help new trainers deepen their own expertise. It also includes a glossary of common terms.
 
 .. toctree::
    :maxdepth: 1

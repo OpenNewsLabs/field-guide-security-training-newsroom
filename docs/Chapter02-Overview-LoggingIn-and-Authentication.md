@@ -1,8 +1,7 @@
-# Security in the Newsroom:
+# Security in the Newsroom: Who are you?
 
 This is a living document and the most recent version can be found at: <https://goo.gl/7ojKpw>. This lesson plan, which covers Passwords and Two Factor Authentication is a great hour long brown-bag session that was shared with us by Alan Palazzolo at the Minneapolis Star Tribune.
 
-# Who are you?
 
 ## Logging in and authentication
 
