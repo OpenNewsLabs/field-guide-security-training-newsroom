@@ -11,7 +11,7 @@ There are many ways to talk about digital-security concepts, and the example tha
 * [Authentication](#authentication)
 * [What is a Computer](#what-is-a-computer)
 
-And if you're looking to build your own expertise as a security trainer, you'll find a community-driven list of resources to help you in [Chapter 3: Resources](Chapter03-02-Resources.md).
+And if you're looking to build your own expertise as a security trainer, you'll find a community-driven list of resources to help you in [Chapter 3: Resources](Chapter03-01-Resources.md).
 
 ## Networks
 

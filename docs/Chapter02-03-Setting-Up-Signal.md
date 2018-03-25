@@ -36,7 +36,7 @@ This lesson draws from both.
 
 Review the Verification process for [Android](https://ssd.eff.org/en/module/how-use-signal-android)  and [iOS](https://ssd.eff.org/en/module/how-use-signal-iOS).
 
-Review the [Glossary](docs/Chapter03-01-Glossary.md) to think about how you want to explain encryption to the group.
+Review the [Glossary](docs/Chapter03-02-Glossary.md) to think about how you want to explain encryption to the group.
 
 Read [Signals, Intelligence](https://medium.com/@thegrugq/signal-intelligence-free-for-all-5993c2f72f90) for a good critique of some of the things Signal doesn't protect users against.
 
