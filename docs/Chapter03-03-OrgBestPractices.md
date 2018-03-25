@@ -44,7 +44,7 @@ Most secure communications channels do not protect against metadata surveillance
 
 Similarly, any file on your computer has a bunch of metadata attached to it: the date and time it was created, the time it was last modified, size, and filename. And depending on the software that created a the metadata might include the name of the person who created it, or the company the software was licensed to. EXIF data attached to digital images often includes the type of camera the image was captured with, or even the GPS coordinates of the device at the time the photo was taken. In 2012, Vice [outed the location of then-billionaire-in-hiding, John McAfee](https://www.wired.com/2012/12/oops-did-vice-just-give-away-john-mcafees-location-with-this-photo/) by posting a photo online: the journalist's iPhone 4 automatically tagged the photo with the phone's GPS data.
 
-The session on [scrubbing metadata from files](Chapter02-10-ScrubbingMetadata.md) includes some excellent resources to help ensure that hidden metadata doesn't burn your sources.
+The session on [scrubbing metadata from files](Chapter02-10-ScrubbingMetadata.html) includes some excellent resources to help ensure that hidden metadata doesn't burn your sources.
 
 **First Contact**
 
@@ -105,7 +105,7 @@ When done properly, physical mail and [SecureDrop](https://securedrop.org/) can 
 
   + Tradeoffs: Sources using SecureDrop don’t have to provide identifying information unless they choose to do so. This added protection for sources can sometimes present challenges for newsrooms that need to verify the legitimacy of an anonymous leak.
 
-  + SecureDrop requires dedicated equipment and an administrator familiar with the basics of Linux and Bash shell. The SecureDrop docs provide a good overview of the process of [setting up SecureDrop](https://docs.securedrop.org/en/stable/index.html). It isn't a trivial undertaking -- this guide includes a whole [session on SecureDrop planning](Chapter02-11-SecureDrop.md). And while some individual reporters have their own SecureDrop instances -- [Bart Gellman](https://tcfmailvault.info/) and Wired’s [Kevin Poulsen](https://freedom.press/people/kevin-poulsen/) both do, in general SecureDrop should be an institutional tool.
+  + SecureDrop requires dedicated equipment and an administrator familiar with the basics of Linux and Bash shell. The SecureDrop docs provide a good overview of the process of [setting up SecureDrop](https://docs.securedrop.org/en/stable/index.html). It isn't a trivial undertaking -- this guide includes a whole [session on SecureDrop planning](Chapter02-11-SecureDrop.html). And while some individual reporters have their own SecureDrop instances -- [Bart Gellman](https://tcfmailvault.info/) and Wired’s [Kevin Poulsen](https://freedom.press/people/kevin-poulsen/) both do, in general SecureDrop should be an institutional tool.
 
 ## Security is your responsibility
 
