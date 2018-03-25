@@ -1,4 +1,4 @@
-# Chapter 3:  Resources for building further expertise<br />
+#Resources for building further expertise<br />
 What follows is a curated list of links to guides, curricula, how-to’s and in-depth resources suitable for those who wish to build further expertise.<br />
 
 ### Contributing<br />
