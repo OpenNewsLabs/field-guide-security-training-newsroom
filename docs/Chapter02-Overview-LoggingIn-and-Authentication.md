@@ -144,7 +144,7 @@ you want to dive deeper.
 
 -   [*Security in a Box’s article on passwords*](https://securityinabox.org/en/guide/passwords/)
 -   [*Wirecutter’s review of password managers*](https://thewirecutter.com/reviews/best-password-managers/)
--   [*OpenNews security training on passwords*](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/blob/master/docs/Chapter02-06-Passwords.md) (currently draft)
+-   [*OpenNews security training on passwords*](Chapter02-06-Passwords..html) 
 
 ## Two-factor authentication
 
@@ -214,8 +214,7 @@ that you can do and there’s lots more to read up about it if you want.
 -   [*TurnOn1FA.com*](https://www.turnon2fa.com/) has lots of specific
     tutorials on how to turn on 2FA for many services.
 -   [*OpenNews security training chapter on
-    2FA*](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/blob/master/docs/Chapter02-07-Two-Factor-Authentication.md)
-    (currently in draft)
+    2FA*](Chapter02-07-Two-Factor-Authentication.html)
 
 ##  Biometric authentication
 

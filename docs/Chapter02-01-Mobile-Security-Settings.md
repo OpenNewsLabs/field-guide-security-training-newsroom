@@ -28,7 +28,7 @@ A white board, chalkboard or big sticky pads will help, but you can certainly ma
 
 ### How should the instructor prepare?
 
-Rview the materials, and review the [resources on how to be a better trainer](Chapter01-01-BeingABetterTrainer.md).
+Rview the materials, and review the [resources on how to be a better trainer](Chapter01-01-BeingABetterTrainer.html).
 
 ## Lesson Plan
 

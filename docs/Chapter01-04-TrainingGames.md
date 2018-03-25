@@ -98,4 +98,4 @@ Ask what the problem is now, but also what this system is accomplishing (in shor
 These are great road tested games for teaching networking principles. If you're looking for more ideas for games trainers play, check out:
 
 + [Games Trainers Play](http://www.worldcat.org/oclc/6016638)(<http://www.worldcat.org/oclc/6016638>) and [Even More Games Trainers Play](http://www.worldcat.org/oclc/30318772)(<http://www.worldcat.org/oclc/30318772>) for some great ideas.
-+ Or take a look at the curricula and guides we've aggregated in our [Resource Guide](/docs/Chapter03-01-Resources).
++ Or take a look at the curricula and guides we've aggregated in our [Resource Guide](Chapter03-01-Resources.html).

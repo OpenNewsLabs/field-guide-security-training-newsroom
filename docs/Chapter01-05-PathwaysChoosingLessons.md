@@ -8,16 +8,16 @@ Some users will want to lead a formal series of in-depth workshops, while others
 
 ### Just mobile
 
-1. [Mobile Security Settings](Chapter02-01-Mobile-Security-Settings.md)
-2. [Locking Down Mobile Devices](Chapter02-02-Locking-Down-Mobile.md)
-3. [Setting up Signal](Chapter02-03-Setting-Up-Signal.md)
-4. [Backing up Mobile Devices](Chapter02-04-Mobile-Backups.md)
-5. [Physical Security](Chapter02-09-Physical-Security.md) -- iPhones are already encrypted but Android users should set up disk encryption.
+1. [Mobile Security Settings](Chapter02-01-Mobile-Security-Settings.html)
+2. [Locking Down Mobile Devices](Chapter02-02-Locking-Down-Mobile.html)
+3. [Setting up Signal](Chapter02-03-Setting-Up-Signal.html)
+4. [Backing up Mobile Devices](Chapter02-04-Mobile-Backups.html)
+5. [Physical Security](Chapter02-09-Physical-Security.html) -- iPhones are already encrypted but Android users should set up disk encryption.
 
 ## Secure email use
 
-2. [Passwords](Chapter02-06-Passwords.md)
-3. [Two-factor Authentication](Chapter02-07-Two-Factor-Authentication.md)
-4. [Phishing](Chapter02-08-Phishing.md)
+2. [Passwords](Chapter02-06-Passwords.html)
+3. [Two-factor Authentication](Chapter02-07-Two-Factor-Authentication.html)
+4. [Phishing](Chapter02-08-Phishing.html)
 
 Savvy readers will note that this guide doesn't currently include a guide to encrypting email with GPG or PGP. Why? It's hard to use and history has shown that most folks don't use it properly. As Martin Shelton has pointed out, [newsrooms have better options](https://source.opennews.org/articles/how-lose-friends-and-anger-journalists-pgp/).
