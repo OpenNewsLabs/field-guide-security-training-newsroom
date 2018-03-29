@@ -1,12 +1,12 @@
 # Setting Up Signal
 
 ## Overview
-Signal is a secure messaging platform that utilizes end-to-end encryption. Participants should have already been through a [mobile application settings review](Chapter02-01-Mobile-Security-Settings.md) and added secure lock screens, to ensure that their device is now ready to use with a program like Signal.
+Signal is a secure messaging platform that utilizes end-to-end encryption. Participants should have already been through a [mobile application settings review](Chapter02-01-Mobile-Security-Settings.html) and added secure lock screens, to ensure that their device is now ready to use with a program like Signal.
 
 Benefits of Signal include the fact that they do not store your messages on their servers, participants can set their conversations to "self-destruct" and users can customize what information (contact name,
 message preview) is available on their phones lock screen.
 
-This lesson plan is intended to be taught as the third in a series, following [mobile app security settings](Chapter02-01-Mobile-Security-Settings) and [locking down mobile devices](Chapter02-02-Locking-Down-Mobile.md).
+This lesson plan is intended to be taught as the third in a series, following [mobile app security settings](Chapter02-01-Mobile-Security-Settings.html) and [locking down mobile devices](Chapter02-02-Locking-Down-Mobile.html).
 
 ## About This Lesson Plan
 
@@ -16,7 +16,7 @@ This lesson plan is intended to be taught as the third in a series, following [m
 
 ### Preconditions
 
-This lesson assumes users have already reviewed their [mobile app security settings](Chapter02-01-Mobile-Security-Settings), and walked through  [locking down mobile devices](Chapter02-02-Locking-Down-Mobile.md).
+This lesson assumes users have already reviewed their [mobile app security settings](Chapter02-01-Mobile-Security-Settings.html), and walked through  [locking down mobile devices](Chapter02-02-Locking-Down-Mobile.html).
 
 ### What will participants learn?
 
@@ -36,7 +36,7 @@ This lesson draws from both.
 
 Review the Verification process for [Android](https://ssd.eff.org/en/module/how-use-signal-android)  and [iOS](https://ssd.eff.org/en/module/how-use-signal-iOS).
 
-Review the [Glossary](docs/Chapter03-01-Glossary.md) to think about how you want to explain encryption to the group.
+Review the [Glossary](Chapter03-02-Glossary.html) to think about how you want to explain encryption to the group.
 
 Read [Signals, Intelligence](https://medium.com/@thegrugq/signal-intelligence-free-for-all-5993c2f72f90) for a good critique of some of the things Signal doesn't protect users against.
 

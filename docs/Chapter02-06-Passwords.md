@@ -1,7 +1,7 @@
 # Passwords and Password Management
 
 ## Overview
-Passwords are the bedrock of account security, but hard to get right. This lesson provides a methodology for understanding how to take a harm reduction approach to password management. Participants should have a clear understanding of [phishing](Chapter02-08-Phishing.md) and [two factor authentication](Chapter02-07-Two-Factor-Authentication.md), or you should cover those topics with Password Management.
+Passwords are the bedrock of account security, but hard to get right. This lesson provides a methodology for understanding how to take a harm reduction approach to password management. Participants should have a clear understanding of [phishing](Chapter02-08-Phishing.html) and [two factor authentication](Chapter02-07-Two-Factor-Authentication.html), or you should cover those topics with Password Management.
 
 ## About This Lesson Plan
 
@@ -146,7 +146,7 @@ The strategy we'd recommend is to come up with a short password based on a memor
 
 #### Keeping that Password Secure
 
-If you force yourself to type your email password every time you check your email, you’ll do a much better job of remembering your password. But a strong password isn’t enough to keep your email safe. You also need to enable [two-factor authentication](Chapter02-07-Two-Factor-Authentication.md). If you haven't already covered 2FA, do it now.
+If you force yourself to type your email password every time you check your email, you’ll do a much better job of remembering your password. But a strong password isn’t enough to keep your email safe. You also need to enable [two-factor authentication](Chapter02-07-Two-Factor-Authentication.html). If you haven't already covered 2FA, do it now.
 
 Slightly trickier is securing other central services. The same basic rules apply: secure, unique password plus 2FA. Examples of these services include: Apple ID (for participants with iPhones, iPads, or Macs), Google Account (especially for Android, even if not using GMail), Facebook, Twitter, WhatsApp, Signal.
 
@@ -188,7 +188,7 @@ Remember that we're taking a harm reduction approach here. Some people just won�
 
 1.  Have everyone strongly secure their primary email account. If you only do one thing, do this.
 
-2.  Encourage everyone to use single sign on wherever it is available (This is "Sign In With Google" or "Sign in With Facebook"). If you have secured your single sign on account, this is a good option. Click approve the first time, any subsequent login is automatic but **still secure**. Note: make sure every one knows how to watch for the difference between using Facebook or Google to sign  in and giving an app or service permission to access your Facebook or Google data. Sign-in With Google is totally secure and fine, but be very careful about what other access you grant apps that are using Google Sign-In. Don’t just "click okay" and accept whatever access they are asking for. (Note to trainers: consider covering [Mobile Security Settings](Chapter02-01-Mobile-Security-Settings.md) to ensure that participants understand this.)
+2.  Encourage everyone to use single sign on wherever it is available (This is "Sign In With Google" or "Sign in With Facebook"). If you have secured your single sign on account, this is a good option. Click approve the first time, any subsequent login is automatic but **still secure**. Note: make sure every one knows how to watch for the difference between using Facebook or Google to sign  in and giving an app or service permission to access your Facebook or Google data. Sign-in With Google is totally secure and fine, but be very careful about what other access you grant apps that are using Google Sign-In. Don’t just "click okay" and accept whatever access they are asking for. (Note to trainers: consider covering [Mobile Security Settings](Chapter02-01-Mobile-Security-Settings.html) to ensure that participants understand this.)
 
 3.  Use the "reset my password by email" link. It’s very secure (almost as secure as single sign-on) and as long as you don’t use a weak or reused password to start, it guarantees that no-one will be able to sign in as you later without access to your account.
     *  Use a random password and don’t save it! Especially for sites you don’t visit often, just using a throw-away password can be the most secure thing.

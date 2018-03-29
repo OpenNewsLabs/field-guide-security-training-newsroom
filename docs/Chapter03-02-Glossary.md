@@ -11,7 +11,7 @@ There are many ways to talk about digital-security concepts, and the example tha
 * [Authentication](#authentication)
 * [What is a Computer](#what-is-a-computer)
 
-And if you're looking to build your own expertise as a security trainer, you'll find a community-driven list of resources to help you in [Chapter 3: Resources](Chapter03-02-Resources.md).
+And if you're looking to build your own expertise as a security trainer, you'll find a community-driven list of resources to help you in [Chapter 3: Resources](Chapter03-01-Resources.html).
 
 ## Networks
 
@@ -47,7 +47,7 @@ The net is a packet-switching network. Packet switching is rather like passing n
 
 ## Authentication
 
-The [passwords lesson](Chapter02-06-Passwords.md) is a great resource for explaining the process of authentication. But at its core, "authentication" is just the process that a system uses to determine that you are who you say you are.
+The [passwords lesson](Chapter02-06-Passwords.html) is a great resource for explaining the process of authentication. But at its core, "authentication" is just the process that a system uses to determine that you are who you say you are.
 
 ### Key-Based Authentication
 

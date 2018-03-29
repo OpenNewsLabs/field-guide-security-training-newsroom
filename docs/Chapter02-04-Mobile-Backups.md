@@ -63,4 +63,4 @@ In addition to backing up to a cloud or web-based service, Android users can bac
 
 ### iOS Users
 
-*You can help us make this lesson stronger by [contributing](contributing.md) insights on backup strategies for iOS users.*
+*You can help us make this lesson stronger by [contributing](contributing.html) insights on backup strategies for iOS users.*
