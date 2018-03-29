@@ -215,5 +215,6 @@ Participants should take stock of all the points of entry to their email inboxes
 -   <http://krebsonsecurity.com/2013/10/adobe-breach-impacted-at-least-38-million-users/>
 -   <https://haveibeenpwned.com/>
 -   <http://www.espn.com/mlb/story/_/id/13089501/report-fbi-investigating-st-louis-cardinals-hacking-houston-astros-database>
--  <https://www.accessnow.org/doubleswitch-attack/>
+-   <https://www.accessnow.org/doubleswitch-attack/>
 -   <https://www.wsj.com/articles/the-man-who-wrote-those-password-rules-has-a-new-tip-n3v-r-m1-d-1502124118>
+-   <https://www.csoonline.com/article/3266607/password-security/1-4b-stolen-passwords-are-free-for-the-taking-what-we-know-now.html>
