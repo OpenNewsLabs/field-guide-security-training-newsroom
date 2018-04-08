@@ -33,3 +33,11 @@ pip install recommonmark
 pip install sphinx sphinx-autobuild sphinx_rtd_theme
 ```
 (If you encounter permission errors, you may need to run the commands with a `sudo` at the beginning, eg. `sudo pip install recommonmark`.)
+
+3. If you haven't already done so, fork the project on Github and clone your fork on your local computer.
+4. From the command line, `cd` into the project's `docs` subdirectory.
+5. Run the command `make html`. This will build the guide in the `docs/_build/html` project subdirectory.
+(The `make` utility is installed by default on most unix-like environments. If you see errors like `make not found`, you should install the base development tools for your environment, which will include `make`.)
+
+6. Open the file `docs/_build/html/index.html` in your browser to view the local copy of the guide.
+
