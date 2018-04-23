@@ -34,7 +34,7 @@ remote.
 
 
 We've organized this guide into three key sections.
-Chapter 1 is an resource for new trainers, or folks who are
+Chapter 1 is a resource for new trainers, or folks who are
 looking for ways to be better at training in general. We've written
 this with a newsroom audience in mind, and we've pooled a lot of
 valuable resources that already exist in the world.
