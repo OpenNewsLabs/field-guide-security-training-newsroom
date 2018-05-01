@@ -1,22 +1,6 @@
 ## Resources for building further expertise<br />
 What follows is a curated list of links to guides, curricula, how-to’s and in-depth resources suitable for those who wish to build further expertise.<br />
 
-### Contributing<br />
-
-To contribute a link, please open a pull request.  This is a community-curated list, so we welcome additions, edits, deletions (in the case of content that no longer exists) and other helpful changes.  We attempt to maintain a standard format to make this list more readable by both robots and humans, so please follow the format below when submitting or editing links.  <br />
-
-**To add a link please follow this format:**<br />
-
-```
-**<title>**<br />
-<url><br />
-*<authors> (csv)*<br />
-<description> (single paragraph, or sentence)<br />
-**Published:** <date> (date known to be published or updated)  format:  [month] [yyyy]
-**Added:** <added> (date added to this list) [month] [yyyy]
-**Tags:** <tags> (keywords, csv)
-```
-
 ### COMMUNITIES, LEARNING AND GUIDES
 
 Comprehensive resources addressing digital security in general, and online communities where digital security is discussed.
@@ -455,3 +439,20 @@ Yearly conference focused on human rights and digital technology.<br />
 Yearly conference hosted by the GIJN and various other institutions. Focuses on issues related to investigative journalism, with some digital security content.<br />
 **Published:** n/a<br />
 **Added:** January 2018<br />
+
+
+### Contributing<br />
+
+To contribute a link, please open a pull request.  This is a community-curated list, so we welcome additions, edits, deletions (in the case of content that no longer exists) and other helpful changes.  We attempt to maintain a standard format to make this list more readable by both robots and humans, so please follow the format below when submitting or editing links.  <br />
+
+**To add a link please follow this format:**<br />
+
+```
+**<title>**<br />
+<url><br />
+*<authors> (csv)*<br />
+<description> (single paragraph, or sentence)<br />
+**Published:** <date> (date known to be published or updated)  format:  [month] [yyyy]
+**Added:** <added> (date added to this list) [month] [yyyy]
+**Tags:** <tags> (keywords, csv)
+```
