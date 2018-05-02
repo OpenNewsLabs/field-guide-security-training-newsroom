@@ -4,7 +4,7 @@ The Field Guide is a collaborative project. It gets better every time anyone fro
 
 ## Who should contribute
 
-This project actively encourages contributions from people of all genders and statuses, races, ethnicities, ages, creeds, nationalities, persuasions, alignments, sizes, shapes, and journalistic affiliations. You are welcome here. By participating in this project, you are agreeing to abide by its [code of conduct](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/blob/master/CODE_OF_CONDUCT.md). Please report unacceptable behaviour to <mailto:fieldguide@opennews.org>
+This project actively encourages contributions from people of all genders and statuses, races, ethnicities, ages, creeds, nationalities, persuasions, alignments, sizes, shapes, and journalistic affiliations. You are welcome here. By participating in this project, you are agreeing to abide by its [code of conduct](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/blob/master/CODE_OF_CONDUCT.md). Please report unacceptable behaviour to [fieldguide@opennews.org](mailto:fieldguide@opennews.org)
 
 The curriculum also benefits from contributors of all skill levels. Sharing a resource that helped you understand something for the first time is awesome. Telling everyone about a training game your colleagues loved is awesome, too. And so is just asking a question, as you think about how your newsroom can better protect its journalists and sources.
 
@@ -38,7 +38,7 @@ If you're comfortable using git and GitHub, you should feel free to submit chang
 Have you used The Field Guide to Security Training in the Newsroom to lead a workshop in your newsroom? We'd love to hear about it. 
 
 ### Write new lesson plans
-As new tools are developed and new threats emerge, lesson plans will be added to the guide to cover them. If you want to get started on a lesson plan right away, please start by [opening an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues/new). If you're comfortable with git and Markdown, the best way to submit changes is to fork this project and [open a pull request](https://github.com/OpenNewsLabs/newsroom-security-curricula/compare). If git is not your thing, you can write your lesson plans in your editor of choice and send them to us at <mailto:fieldguide@opennews.org>. You'll find Markdown and HTML lesson plan templates in the project's [templates](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/tree/master/templates) directory.
+As new tools are developed and new threats emerge, lesson plans will be added to the guide to cover them. If you want to get started on a lesson plan right away, please start by [opening an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues/new). If you're comfortable with git and Markdown, the best way to submit changes is to fork this project and [open a pull request](https://github.com/OpenNewsLabs/newsroom-security-curricula/compare). If git is not your thing, you can write your lesson plans in your editor of choice and send them to us at [fieldguide@opennews.org](mailto:fieldguide@opennews.org). You'll find Markdown and HTML lesson plan templates in the project's [templates](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/tree/master/templates) directory.
 
 ### Add new resources and glossary items
 Chapter 3 includes a glossary and links to existing security resources, to complement and extend the topics covered in our lesson plans. If your favourite links are missing, we'd love to add them! If you're comfortable with GitHub, we welcome Pull Requests and new Issues, or you can also drop us an email anytime.
@@ -48,4 +48,5 @@ The initial version of the guide was written with North American English-speakin
 
 ## Reporting errors
 
-## Getting in touch
+If you see something that looks wrong in the guide, from simple typos to out-dated or questionable security advice, please let us know. In most cases, the best way to bring it to our attention is by [opening an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues/new). We can also be reached via email at [fieldguide@opennews.org](mailto:fieldguide@opennews.org).
+
