@@ -38,7 +38,7 @@ More than anything, we want this curriculum to be useful to people as they help 
 
 ## Where to start
 
-The latest version of the field guide is available at <https://securitytraining.opennews.org>. You can read it there, or download ePub or PDF versions for offline reading. The source code for the field guide lives in Github, at <https://github.com/OpenNewsLabs/newsroom-security-curricula>, where we love to see comments, issues, and pull requests. If you're interested in contributing but you're not sure where to start, we have a [list of open issues](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) - pick one and dive in!
+The latest version of the field guide is available at <https://securitytraining.opennews.org/en/latest/>. You can read it there, or download ePub or PDF versions for offline reading. The source code for the field guide lives in Github, at <https://github.com/OpenNewsLabs/newsroom-security-curricula>, where we love to see comments, issues, and pull requests. If you're interested in contributing but you're not sure where to start, we have a [list of open issues](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) - pick one and dive in!
 
 ## How to contribute
 
