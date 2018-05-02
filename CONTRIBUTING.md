@@ -1,5 +1,7 @@
 # Contributing to The Field Guide to Security Training In The Newsroom
 
+Thank you for your interest in contributing to the project! This resource collects the advice and experience of journalists, newsroom developers, and security experts, organized into a set of lessons and training materials available for newsroom staff who find themselves leading security trainings. In a moment when reporters are asking how to protect themselves and their sources, we want to see more people armed to answer those questions and help newsrooms communicate and store data more securely.
+
 The Field Guide is a collaborative project. It gets better every time anyone from the journalism, tech, and security communities shares advice, writes up an experience, asks a question, or even just spots a typo. We'd love to add your voice to this project.
 
 ## Table of contents
@@ -40,7 +42,7 @@ The latest version of the field guide is available at <https://securitytraining.
 
 ## How to contribute
 
-### Send us feedback
+### Send us feedback 
 Have you used The Field Guide to Security Training in the Newsroom to lead a workshop in your newsroom? We'd love to hear about it. You can reach us via email at [fieldguide@opennews.org](mailto:fieldguide@opennews.org). Project maintainers can also be found in the security channel of the [NewsNerdery Slack team](https://newsnerdery.slack.com/).
 
 ### Write new lesson plans
