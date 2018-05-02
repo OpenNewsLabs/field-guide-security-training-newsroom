@@ -16,7 +16,7 @@ This project actively encourages contributions from people of all genders and st
 
 ## Who should contribute
 
-The curriculum also benefits from contributors of all skill levels. Sharing a resource that helped you understand something for the first time is awesome. Telling everyone about a training game your colleagues loved is awesome, too. And so is just asking a question, as you think about how your newsroom can better protect its journalists and sources.
+The project benefits from contributors of all skill levels and backgrounds. Sharing a resource that helped you understand something for the first time is awesome. Telling everyone about a training game your colleagues loved is awesome, too. And so is just asking a question, as you think about how your newsroom can better protect its journalists and sources.
 
 If you're wondering what you might be able to offer this project, here are a few questions to get you started:
 
@@ -36,7 +36,7 @@ More than anything, we want this curriculum to be useful to people as they help 
 
 ## Where to start
 
-The documentation in this guidebook lives in [a GitHub repository](https://github.com/OpenNewsLabs/newsroom-security-curricula), where we love to see comments, issues, and pull requests. If you're interested in contributing but you're not sure where to start, we have a [list of open issues](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) - pick one and dive in!
+The latest version of the field guide is available at <https://securitytraining.opennews.org>. You can read it there, or download ePub or PDF versions for offline reading. The source code for the field guide lives in Github, at <https://github.com/OpenNewsLabs/newsroom-security-curricula>, where we love to see comments, issues, and pull requests. If you're interested in contributing but you're not sure where to start, we have a [list of open issues](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) - pick one and dive in!
 
 ## How to contribute
 
@@ -47,7 +47,7 @@ Have you used The Field Guide to Security Training in the Newsroom to lead a wor
 If you'd like to submit a new lesson plan to this guidebook, first of all, thank you! Please start by [opening an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues/new). If you're comfortable with Github and Markdown, the best way to submit changes is to fork this project and [open a pull request](https://github.com/OpenNewsLabs/newsroom-security-curricula/compare). If git is not your thing, you can write your lesson plans in your editor of choice and send them to us at [fieldguide@opennews.org](mailto:fieldguide@opennews.org). You'll find Markdown and HTML lesson plan templates in the project's [templates](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/tree/master/templates) directory.
 
 ### Add new resources and glossary items
-Chapter 3 includes a glossary and links to existing security resources, to complement and extend the topics covered in our lesson plans. If your favourite links are missing, we'd love to add them! If you're comfortable with GitHub, we welcome Pull Requests and new Issues, or you can also drop us an email anytime.
+Chapter 3 includes a glossary and links to existing security resources, to complement and extend the topics covered in our lesson plans. If your favourite links are missing, we'd love to add them! If you're comfortable with GitHub, we welcome pull Requests and new issues, or you can also drop us an email anytime.
 
 ### Translate and localize the guide
 The initial version of the guide was written with North American English-speaking newsrooms in mind, but digital security is important for journalists working in all communities and languages. If you can provide translations of the existing guide resources, or if you'd like to add lesson plans covering topics more relevant to your community, please contact us.
