@@ -218,3 +218,4 @@ Participants should take stock of all the points of entry to their email inboxes
 -   <https://www.accessnow.org/doubleswitch-attack/>
 -   <https://www.wsj.com/articles/the-man-who-wrote-those-password-rules-has-a-new-tip-n3v-r-m1-d-1502124118>
 -   <https://www.csoonline.com/article/3266607/password-security/1-4b-stolen-passwords-are-free-for-the-taking-what-we-know-now.html>
++ + [Twitter discovered 336 million passwords stored in plaintext](https://www.wired.com/story/change-your-twitter-password-right-now/) (that is, not encrypted) on an internal server. They [don't think](https://blog.twitter.com/official/en_us/topics/company/2018/keeping-your-account-secure.html) that anyone actually accessed the password list, but the announcement is a good reminder that re-using passwords is a bad practice, precisely because you can't assume that services outside your control are storing your password responsibly. (Wired, May 2018)
