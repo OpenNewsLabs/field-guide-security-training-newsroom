@@ -5,6 +5,13 @@ What follows is a curated list of links to guides, curricula, how-to’s and in-
 
 Comprehensive resources addressing digital security in general, and online communities where digital security is discussed.
 
+**PEN America's [Online Harassment Field Manual](https://onlineharassmentfieldmanual.pen.org/)**<br />
+<https://onlineharassmentfieldmanual.pen.org/><br />
+*Pen America*<br />
+A resource containing effective strategies and resources that writers, journalists, their allies, and their employers can use to defend against cyber hate and fight online abuse.<br />
+**Published:** April 2018<br />
+**Added:** May 2018<br />
+
 **EFF's [Security Education Companion](https://sec.eff.org)**<br />
 <https://sec.eff.org><br />
 *Electronic Frontier Foundation*<br />
