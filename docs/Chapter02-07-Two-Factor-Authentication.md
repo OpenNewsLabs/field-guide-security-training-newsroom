@@ -58,6 +58,8 @@ Note: it's easy to get lost in a "is this really going to happen to me?" spiral,
 
 There's very good reason to believe that the Clinton email hack was made possible because [John Podesta didn't have 2FA turned on](http://fortune.com/2016/10/29/clinton-email-phishing-attack/). Don't be John Podesta. He fell for a spearphishing scam that told him he needed to change his password. With 2FA enabled, just knowing his new password wouldn't be enough to give a hacker access to his emails.
 
+It's also possible for passwords to be exposed in error, rather than maliciously. In May 2018, [Twitter asked all of its 336 million users to change their passwords](https://www.wired.com/story/change-your-twitter-password-right-now/), after discovering that they had been written in plaintext to an internal log. Without 2FA enabled, users risked their accounts being accessed by anyone with access to the log. With 2FA, they had an extra level of protection.
+
 Common services include:
 
 - Email: everyone should have 2FA on their primary email account.
