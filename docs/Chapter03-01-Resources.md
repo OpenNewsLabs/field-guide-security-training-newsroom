@@ -85,13 +85,13 @@ Part of CPJ’s comprehensive Journalism security guide.  <br />
 **Published:** 2012, updated since (note: asked for update policy)<br />
 **Added:**  June 2017<br />
 
-**[Tinfoil Press](https://tinfoil.press/)**<br />
-[https://tinfoil.press/](https://tinfoil.press/)<br />
+**[Tinfoil Press](https://mshelt.onl/tinfoil.press/)**<br />
+<https://mshelt.onl/tinfoil.press/><br />
 COMMUNITY<br />
 *An online community space founded by Martin Shelton*<br />
-A tinfoil-hat free zone to discuss digital security and Journalism with others in the field.<br />
+A tinfoil-hat free zone to discuss digital security and Journalism with others in the field. Now inactive, but available as an archive.<br />
 **Published:**  ?<br />
-**Added:**  June 2017<br />
+**Added:**  May 2018<br />
 
 **[LevelUP](https://level-up.cc/)**<br />
 [https://level-up.cc/](https://level-up.cc/)<br />
