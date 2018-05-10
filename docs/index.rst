@@ -13,26 +13,19 @@ formal training in what reporters and editors need.
 
 We want to see a whole lot more people prepared to answer those questions and help newsrooms do a better job of communicating (and storing data) securely. BuzzFeed Open Lab and OpenNews teamed up to assemble a solid, thoughtful series of training modules and resource guides that folks can use to help colleagues step up their security literacy. We'd like to cover everything from how to explain why migrating to a password manager is worth the trouble, to how to convince whoever needs convincing that installing Secure Drop is worth the trouble.
 
-About This Guide
-----------------
+.. toctree::
+   :maxdepth: 1
+   :caption: About This Guide
+   :name: sec-about
+   :glob:
 
-This resource collects the advice and experience of journalists,
-newsroom developers, and security experts, organized into a set of
-lessons and training materials available for newsroom staff who find
-themselves leading security trainings. In a moment when reporters are
-asking how to protect themselves and their sources, we want to see 
-more people armed to answer those questions and help newsrooms
-communicate and store data more securely.
+   about
+   contributing
+   authors
+   license
 
-The curriculum is hosted by `OpenNews <https://opennews.org/>`__, a team
-that helps developers, designers, and data analysts convene and
-collaborate on open journalism projects, and `BuzzFeed Open
-Lab <https://www.buzzfeed.com/openlab>`__, an arts and technology
-fellowship program at BuzzFeed News. The first draft began during a
-two-day event in June 2017, with about 20 people working in-person and
-remote.
-
-
+Chapter 1 - Being A Better Trainer
+----------------------------------
 We've organized this guide into three key sections.
 Chapter 1 is a resource for new trainers, or folks who are
 looking for ways to be better at training in general. We've written
@@ -41,82 +34,38 @@ valuable resources that already exist in the world.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Chapter 1 - Being a better Trainer
+   :caption: Being A Better Trainer
    :name: sec-chapter1
    :glob:
 
    Chapter01*
 
 
+
+Chapter 2 - Lesson Plans
+------------------------
 Chapter 2 is an ever-expanding collection of lesson plans and training
 materials to help people cover key topics with their peers.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Chapter 2 - Lesson Plans
+   :caption: Lesson Plans
    :name: sec-chapter2
    :glob:
 
    Chapter02*
 
+
+Chapter 3 - Resources
+---------------------
 Chapter 3 aggregates links to the best existing
 resources, to help new trainers deepen their own expertise. It also includes a glossary of common terms.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Chapter 3 - Resources
+   :caption: Resources
    :name: sec-chapter3
    :glob:
 
    Chapter03*
 
-
-
-This is a community resource, and it gets better every time anyone from
-the journalism and security communities shares advice, writes up a new
-lesson, asks a question, or even just spots a typo. We'd love to add
-your expertise to this project.
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contributing
-   :name: sec-contributing
-
-   contributing.md
-
-
-Authors
--------
-
-This resource began with a convening in Chicago where a dozen committed folks dedicated several days to writing the first draft. More folks stepped in to edit those drafts and offer feedback on them, or submit new lesson plans or workshop materials. This curriculum wouldn't exist without their hard work:
-
--  Alan Palazzolo
--  Amanda Hickman
--  Blaine Cook
--  Carol Waters
--  Dan Sinker
--  Eliot Stempf
--  Emma Carew Grovum
--  Erik Reyna
--  Freddy Martinez
--  Harlo Holmes
--  Jason Reich
--  Jennifer Henrichsen
--  Kevin O'Gorman
--  Lindsay Beck
--  Lo Benichou
--  Mago Torres
--  Mariel García-Montes
--  Martin Shelton
--  Matt Perry
--  Mike Tigas
--  Norman Shamas
--  Quinn Norton
--  Rodney Gibbs
--  Ryan Pitts
--  Ted Han
-
-License
--------
-
-`MIT <https://github.com/OpenNewsLabs/newsroom-security-curricula/blob/master/LICENSE>`__
