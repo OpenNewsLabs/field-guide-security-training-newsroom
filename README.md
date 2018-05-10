@@ -25,17 +25,24 @@ If you're comfortable with GitHub, we welcome [Pull Requests](https://github.com
 
 The field guide is published on ReadTheDocs using Sphinx, a Python-based documentation system. If you have changes to share and want to preview them before sending us a pull request, here's how to build the guide locally. (Note that these instructions assume a Unix-like environment. If you're using OS X or Linux, you should be good to go. Windows 10 users should consider enabling the Windows Subsystem for Linux - users of earlier Windows versions should look into [Cygwin](https://www.cygwin.com/).) 
 
-1. If they're not already available, install Python 2 and pip. For more information, see the [Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Download).
-2. From the command line, use pip to install the necessary modules:
+1. If they're not already available, install Python 2, pip, and virtualenv. For more information, see the [Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Download).
+2. From the command line, create and activate a new virtualenv:
 ```bash
-pip install recommonmark
-pip install sphinx sphinx-autobuild sphinx_rtd_theme
+virtualenv field-guide
+cd field-guide
+source bin/activate
 ```
-(If you encounter permission errors, you may need to run the commands with a `sudo` at the beginning, eg. `sudo pip install recommonmark`.)
-
-3. If you haven't already done so, fork the project on Github and clone your fork on your local computer.
-4. From the command line, `cd` into the project's `docs` subdirectory.
-5. Run the command `make html`. This will build the guide in the `docs/_build/html` project subdirectory.
+3. From the command line, use pip to install the necessary modules:
+```bash
+pip install recommonmark sphinx sphinx-autobuild sphinx_rtd_theme
+```
+4. If you haven't already done so, fork the project on Github and clone your fork on your local computer, within the virtualenv directory:
+```bash 
+git clone <your fork here> 
+cd field-guide-security-training-newsroom
+```
+4. From the the project's `docs` subdirectory,
+run the command `make html`. This will build the guide in the `docs/_build/html` project subdirectory.
 
 (The `make` utility is installed by default on most unix-like environments. If you see errors like `make: command not found`, you should install the base development tools for your environment, which will include `make`.)
 
