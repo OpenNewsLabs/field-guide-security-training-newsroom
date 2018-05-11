@@ -32,14 +32,14 @@ virtualenv field-guide
 cd field-guide
 source bin/activate
 ```
-3. From the command line, use pip to install the necessary modules:
-```bash
-pip install recommonmark sphinx sphinx-autobuild sphinx_rtd_theme
-```
-4. If you haven't already done so, fork the project on Github and clone your fork on your local computer, within the virtualenv directory:
+4. Fork the project on Github and clone your fork on your local computer, within the virtualenv directory:
 ```bash 
 git clone <your fork here> 
 cd field-guide-security-training-newsroom
+```
+3. From the command line, use pip to install the necessary modules:
+```bash
+pip install -r requirements.txt 
 ```
 4. From the the project's `docs` subdirectory,
 run the command `make html`. This will build the guide in the `docs/_build/html` project subdirectory.
