@@ -109,7 +109,7 @@ Depending on your threat model, you might want to decline the Apple iCloud recov
 
 #### Windows (Pro, Ultimate, or Enterprise editions):
 
-Use [BitLocker] <https://technet.microsoft.com/en-us/library/cc731549(v=ws.10).aspx>.
+Use [BitLocker](https://technet.microsoft.com/en-us/library/cc731549(v=ws.10).aspx).
 
 Users that only have  Windows "Home edition" can look into Veracrypt.
 
