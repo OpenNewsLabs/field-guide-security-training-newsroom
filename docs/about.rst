@@ -17,3 +17,9 @@ fellowship program at BuzzFeed News. The first draft began during a
 two-day event in June 2017, with about 20 people working in-person and
 remote.
 
+Version History
+===============
+
+**Current version:** |release|
+
+ - v1.0.0 - Initial release.
