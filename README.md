@@ -1,4 +1,4 @@
-# The Field Guide to Security Training in the Newsroom
+# The Field Guide to Security Training in the Newsroom v 1.0.0
 
 The Field Guide to Security Training in the Newsroom is a round up of resources and lesson plans designed to improve and expand newsroom digital privacy training. 
 
