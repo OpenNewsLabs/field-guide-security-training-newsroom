@@ -61,12 +61,42 @@ TBD
 ## Lesson Plan
 
 **Icebreakers/activities**  
-- If you have the budget, get a USB key for each participant. Leave one on each desk, chair, or a pile on tables. To start the session ask people, "OK everyone, you each have a USB key. Did anyone try and check what's on it?"
+- If you have the budget, get a USB key for each participant. Leave one on each desk, chair, or a pile on tables with a sign saying "one per user." To start the session ask people, "OK everyone, you each have a USB key. Did anyone try and check what's on it?"
 
 - Review the [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet#Natanz_nuclear_facilities) transmission story as an example of danger.
 
 **Walkthrough or Active Lesson**  
 \[ A hands on activity that will help participants either implement the tool -- ideally with some notes about stumbling blocks - or drive home the concept in a useful way. If you're installing or demonstrating a specific tool, make sure there's enough information here to get around potential roadblocks. \]
+
+### Common Mistakes Make
+- Laptop is encrypted but the backup is not.
+- Received a free USB device at a conference or meeting and you plug it in to see what it does.
+- Received a USB cable and just used it without thinking that it might have a surveillance device in it.
+- Your phone is running low and you plug it into a random USB power port, not knowing what *that's* plugged into.
+
+Have the group run the above scenarios discussing in just a few minutes what could be wrong with each situation.
+
+Ensure that the following is hit on by the students:
+- Backing up data is great, but if you encrypt your computer but not your hard drives the data is still insecure.
+- Back up drives are easier to lose, steal, or forget about.
+- USB keys can contain malware set to automatically run, and then hide itself as well
+- USB cables can have chips hidden in them that can do the same as the previous point
+- Ports that advertise as "power only" may not in fact be so.
+
+### Mitigation Strategies
+
+Disucss with students possible mitigation techniques for the above problem. The following points should be discussed if not brought up by the students themselves:
+
+- Don't use USB keys you don't buy from a reputable store.
+- Carry your own cables for your devices.
+- You can buy "power only" USB cables. If you don't have one, use a power adapter and outlet instead of the port.
+- Choose backup solutions that automatically encrypt your data (For instance, MacOS's Time Machine can be set to encrypt automatically)
+
+### Practical Discussion
+
+Explain to students that there are safe ways to share data using USB keys.
+
+TD: explain and set through veracrypt.
 
 ## Recommended Reading
 
