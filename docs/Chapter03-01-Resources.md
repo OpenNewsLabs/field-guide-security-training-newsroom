@@ -279,6 +279,12 @@ A basic guide to personal digital security from Motherboard.<br />
 **Published:** August, 2016<br />
 **Added:** June 2017<br />
 
+**[The Wired Guide to Digital Security](https://www.wired.com/2017/12/digital-security-guide/)**<br />
+[https://www.wired.com/2017/12/digital-security-guide/](https://www.wired.com/2017/12/digital-security-guide/)**<br />
+"In this guide, we’ve included a few ways to improve your online security posture based on [three different] levels of risk: *civilian*, *public figure* (e.g., activist, journalist, politician), and *spy*."<br />
+**Published:** Unknown (updated continuously)<br />
+**Added:** July 2018<br />
+
 **[Umbrella from Security First](https://secfirst.org/index.html)**<br />
 [https://secfirst.org/index.html](https://secfirst.org/index.html)<br />
 MULTIPLE GUIDES (ANDROID, TEXT FILES)  Umbrella is a huge conglomeration of numerous *other* guides, including EFF’s SSD, Security-in-a-Box, humanitarian physical safety guides, and many more -- complete list of guides [here](https://github.com/securityfirst/Umbrella_content).<br />
