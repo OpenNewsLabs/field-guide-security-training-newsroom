@@ -276,13 +276,14 @@ A very approachable guide to better security practices for the average user of t
 GUIDE (101)<br />
 *Vice, Joseph Cox and Lorenzo Franceschi-Bicchierai*<br />
 A basic guide to personal digital security from Motherboard.<br />
-**Published:** August, 2016<br />
+**Published:** August 2016<br />
 **Added:** June 2017<br />
 
 **[The Wired Guide to Digital Security](https://www.wired.com/2017/12/digital-security-guide/)**<br />
-[https://www.wired.com/2017/12/digital-security-guide/](https://www.wired.com/2017/12/digital-security-guide/)**<br />
-"In this guide, we’ve included a few ways to improve your online security posture based on [three different] levels of risk: *civilian*, *public figure* (e.g., activist, journalist, politician), and *spy*."<br />
-**Published:** Unknown (updated continuously)<br />
+[https://www.wired.com/2017/12/digital-security-guide/](https://www.wired.com/2017/12/digital-security-guide/)<br />
+*Aaron Fernandez*<br/>
+Described as "everything from Phishing to Faraday Cages" this is a solid round up of Wired's current digital privacy advice and guidance on fairly entry level topics like password tips through tips on sweeping a room for bugs and hidden cameras. <br />
+**Published:** December 2017<br />
 **Added:** July 2018<br />
 
 **[Umbrella from Security First](https://secfirst.org/index.html)**<br />
