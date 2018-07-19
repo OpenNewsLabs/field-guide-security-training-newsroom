@@ -122,50 +122,6 @@ Security keys for the Web require [browser support](https://en.wikipedia.org/wik
 
 Note: Some new computers (e.g., the 2016 Macbook) only have USB Type-C ports. If you can’t use a traditional USB 2.0 or 3.0 port, you can still use security keys with a USB Type-C adapter. Here’s a short list of [Type-C adapters that are confirmed to work](https://www.yubico.com/support/knowledge-base/categories/articles/how-do-i-use-a-yubikey-with-usb-c-adapters/). Alternatively, you can purchase a [USB Type-C Yubikey](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c).
 
-**Best Available Option (for Google) - Advanced Protection Program (advanced)**
-
-To avoid the vulnerabilities of 2FA mechanisms that use text messages,
-backup codes that could be stolen, or weak password recovery mechanisms,
-Google provides a free service that delivers their strongest security
-under the name "[The]
-[Advanced Protection Program](https://landing.google.com/advancedprotection/)".
-This program, as Google describes it, "safeguards the personal Google Accounts of
-anyone at risk of targeted attacks – like journalists, activists, business
-leaders, and political campaign teams."
-
-> "There is an overlooked minority of our users that are at particularly high
-> risk of targeted online attacks," reads a blog post about the new feature
-> from Google's security team. "For example, these might be campaign staffers
-> preparing for an upcoming election, journalists who need to protect the
-> confidentiality of their sources, or people in abusive relationships
-> seeking safety."  -- [Andy Greenberg, Wired](https://www.wired.com/story/google-advanced-protection-locks-down-accounts/)
-
-Being the strongest security available also means it is more stringent (and
-thus more costly and more difficult to use) than the basic 2FA mechanisms
-covered earlier.  You must purchase
-*two* of the U2F compatible 2FA tokens described earlier:
-one compatible with the type of USB your laptop or desktop computer uses and
-the other supporting Bluetooth or Near Field Communication (NFC) for use with
-your mobile device(s). Advanced Protection *does not* use backup codes.
-It requires one of the two 2FA tokens be used in order to log in. If you
-don't have these tokens with you, or you lose them, you will *not* be able
-to log in to you Gmail account and must go through a much more rigorous
-recovery process than the normal "forgot my password" mechanisms.
-
-Think about the cost/benefit evaluation this way. An
-[indictment](https://www.justice.gov/file/1080281/download) filed by the U.S.
-Department of Justice on July 7, 2018 against twelve high level Russian
-Federation military intelligence agents details how they sent spoofed Google
-security alerts to staff at the Democratic Congressional Campaign Committee
-(DCCC), the Democratic National Committee (DNC), and the Hillary Clinton
-Presidential campaign. They successfully obtained passwords to Gmail
-accounts using these simple techniques. Emails and sensitive documents
-were stolen and then leaked to the public in the run up to the 2016
-election.  Paraphrasing Joseph Lorenzo Hall, the chief technologist for the
-Center for Democracy and Technology quoted in Greenberg's Wired article, "If
-John Podesta had been able to turn this on [before at least March 2016], the
-world might be a very different place."
-
 ### Pick One
 
 Encourage your audience to use whichever 2FA method is available and practical. SMS is absolutely better than going without, but you should strongly nudge participants toward hardened options, such as authenticator apps or security keys. In most cases participants will need to download an authenticator app.
@@ -217,5 +173,3 @@ They'll be prompted to name the newly-registered device. During login, instead o
 + [London Calling: Two-Factor Authentication Phishing From Iran](https://citizenlab.org/2015/08/iran_two_factor_phishing/) from Citizen Lab (Munk School of Global Affairs, University of Toronto) is a good roundup of ways that really good phishing can circumvent 2FA. (August 2015)
 + [Phishers rip into two-factor authentication](https://www.theregister.co.uk/2017/05/03/hackers_fire_up_ss7_flaw/), *The Register* also covers some ways that phishing can be used to circumvent 2FA. (July 2006)
 + [Text scams: The messages that allow criminals to break into your iPhone, and how to spot them](https://www.independent.co.uk/life-style/gadgets-and-tech/features/text-scams-icloud-iphone-google-android-messages-sms-security-privacy-cybercrime-a7067411.html), *The Independent*, details another SMS-based phishing attack (June 2016)
-+ [Google's 'Advanced Protection' Locks Down Accounts Like Never Before](https://www.wired.com/story/google-advanced-protection-locks-down-accounts/), by Andy Greenberg, Wired, October 17, 2017
-+ [The Most Secure Account of All—If You Can Stand it](https://www.wired.com/story/google-advanced-protection/), by Andy Greenberg, Wired, December 9, 2017
