@@ -22,7 +22,8 @@ Participants will set up an authenticator app and 2FA on at least a few services
 They’ll need their mobile devices (iPhone or Android) and laptop computers.
 
 **How should participants prepare?**
-Have participants read [Two-Factor Authentication for Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/) and [The 12 Days of 2FA: How to Enable Two-Factor Authentication For Your Online Accounts](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts)—both are good overviews of the process.
+Have participants read [Two-Factor Authentication for
+Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/) and [The 12 Days of 2FA: How to Enable Two-Factor Authentication For Your Online Accounts](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts)—both are good overviews of the process.
 
 If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop. Make sure to include install links for iOS and Android versions in your pre-workshop communications.<br />
 
@@ -103,9 +104,7 @@ Some web services let you attach multiple authentication apps to the same accoun
 Unlike SMS messages, authenticator apps aren't vulnerable to attacks against your mobile network.
 
 **Even Better Option - Security Keys:**
-A security key is a physical device that you can use to authenticate your account. Security keys supporting the [FIDO Alliance U2F 1.0 standard](https://fidoalliance.org/fido-alliance-equips-u2f-for-mobile-and-wireless-applications/) can connect to computers and laptops via USB, or to mobile devices using Bluetooth or Near-Field Communication (NFC).
-
-Security keys can be used to produce cryptographically secure values that work in combination with your password, or may be [used as a storage device for GNU Privacy Guard (GPG) or Secure Shell (SSH) keys](https://github.com/drduh/YubiKey-Guide). They are much safer than SMS (text message) codes sent over unsecure cell phone links which can be intercepted with the proper radio frequency equipment.
+A security key is a physical device, usually connected via USB, that you can use to authenticate your account.
 
 They’re reasonably cheap — one of the most popular options, a [Yubikey](https://www.yubico.com/) costs
 [$18](https://www.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/).
@@ -119,8 +118,6 @@ Security keys are fairly resistant to phishing attacks, making them one of the b
 Security keys are not yet as widely supported as authenticator apps, but the standard is getting traction on large websites. Google, Facebook, and Dropbox all support security keys.  If you’re using Gmail as your email provider, or if you're using any other Google services, security keys are a great option.
 
 Security keys for the Web require [browser support](https://en.wikipedia.org/wiki/Universal_2nd_Factor). The Yubikey works with [Opera](https://www.opera.com/) and [Google Chrome](https://www.google.com/chrome/),  and there's a good [workaround](https://www.yubico.com/support/knowledge-base/categories/articles/how-to-use-your-yubikey-with-authenticator-codes/) for Firefox users.
-
-Note: Some new computers (e.g., the 2016 Macbook) only have USB Type-C ports. If you can’t use a traditional USB 2.0 or 3.0 port, you can still use security keys with a USB Type-C adapter. Here’s a short list of [Type-C adapters that are confirmed to work](https://www.yubico.com/support/knowledge-base/categories/articles/how-do-i-use-a-yubikey-with-usb-c-adapters/). Alternatively, you can purchase a [USB Type-C Yubikey](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c).
 
 ### Pick One
 
@@ -165,11 +162,16 @@ They'll be prompted to name the newly-registered device. During login, instead o
 
 ![YubiKey on Google](img/ch2-7-6.gif)
 
+Note: Some new computers (e.g., the 2016 Macbook) only have USB Type-C ports. If you can’t use a traditional USB 2.0 or 3.0 port, you can still use security keys with a USB Type-C adapter. Here’s a short list of [Type-C adapters that are confirmed to work](https://www.yubico.com/support/knowledge-base/categories/articles/how-do-i-use-a-yubikey-with-usb-c-adapters/). Alternatively, you can purchase a [USB Type-C
+Yubikey](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c).
+
 
 ## Recommended Reading
 
 + EFF's Security Education Companion has a great [Two Factor Authentication](https://sec.eff.org/topics/two-factor-authentication) lesson.
-+ [Two-Factor Authentication for Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/)
++ [Two-Factor Authentication for
+Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/)
+
 + [London Calling: Two-Factor Authentication Phishing From Iran](https://citizenlab.org/2015/08/iran_two_factor_phishing/) from Citizen Lab (Munk School of Global Affairs, University of Toronto) is a good roundup of ways that really good phishing can circumvent 2FA. (August 2015)
 + [Phishers rip into two-factor authentication](https://www.theregister.co.uk/2017/05/03/hackers_fire_up_ss7_flaw/), *The Register* also covers some ways that phishing can be used to circumvent 2FA. (July 2006)
 + [Text scams: The messages that allow criminals to break into your iPhone, and how to spot them](https://www.independent.co.uk/life-style/gadgets-and-tech/features/text-scams-icloud-iphone-google-android-messages-sms-security-privacy-cybercrime-a7067411.html), *The Independent*, details another SMS-based phishing attack (June 2016)
