@@ -1,3 +1,8 @@
+Hi, and thanks for taking the time to create a pull request! The information below will help us work with you to add your contributions to the Guide. Two notes before we get started:
+
+* If this repo doesn't already have a GitHub issue for the topic of your pull request, we invite you to [create one](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/issues/new). That gives us a great place to ask any questions.
+* Lots of small pull requests are better than one big one! It's totally fine for a single pull request to touch multiple files, but if you're doing more than one thing—for example, fixing a typo in a lesson plan _and_ adding a couple links to the resource list—splitting into multiple pull requests makes sure that easy fixes aren't blocked by updates that need a bit more discussion.
+
 ## Status
 
 Ready for review / Work in progress
