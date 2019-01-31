@@ -92,6 +92,10 @@ The process of checking application permission settings differs between Android 
 
 * [Motherboard Guide to Safe Sexting](https://motherboard.vice.com/en_us/article/mb3nd4/how-to-sext-securely-safely-what-apps-to-use-sexting)
 
+* [Google tracks your movements, like it or not (Associated Press)](https://apnews.com/828aefab64d4411bac257a07c1af0ecb/AP-Exclusive:-Google-tracks-your-movements,-like-it-or-not) (and the sidebar, [How to find and delete where Google knows you’ve been](https://apnews.com/b031ee35d4534f548e43b7575f4ab494)
+
+
+
 ### Other great training resources:
 
 * [Tactical Training Collective: Data Privacy](https://gitlab.com/ttc/data-privacy-training/blob/4f9a1657770ff0ad8ae27f3c6aaf4196325a692a/content/Workshops/MobilePhoneSettingsHandsOn.md "Tactical Training Collective: Data Privacy")
