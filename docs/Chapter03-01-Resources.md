@@ -37,12 +37,18 @@ A primer booklet for those beginning to think about digital security and threat 
 **Tags:** guides, beginners<br />
 
 **[Introduction to Digital Security for Journalists Handout (NICAR 2018)](https://docs.google.com/document/d/1q3gBvOEviV_0XMpMjvBiHSaKcl64uu4NwOoEVfXyYqU/edit)**<br />
-<url><br />
 *@mshelton, @geminiimatt, @mtigas, Sequoia McDowell, @camfassett*<br />
-<description>A thorough roundup of tools and best practices from NICAR 2018<br />
+A thorough roundup of tools and best practices from NICAR 2018<br />
 **Published:** March 2018<br />
 **Added:** March 2018<br />
 **Tags:** guides, intros<br />
+  
+ **[The Best VPN Service for 2019](https://thewirecutter.com/reviews/best-vpn-service/)**<br />
+*Yael Grauer, Wirecutter*<br />
+An excellent review of VPN services which includes ease of use and security considerations. 
+**Published:** August 2019<br />
+**Added:**  August 2019<br />
+**Tags:**  guides, reviews, product recommendations<br />
 
 **[11 tips for protecting your privacy and digital security in the age of Trump](https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/)**<br />
 [https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/](https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/)<br />
