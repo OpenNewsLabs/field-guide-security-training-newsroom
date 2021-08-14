@@ -44,7 +44,7 @@ EFF's [Two Factor Authentication Handout](https://sec.eff.org/materials/two-fact
 
 When you follow up after the workshop, remind folks to confirm that the spot they stowed their backup codes still makes sense, and remind them to follow through on enabling 2FA on any services they didn't get to in the workshop.
 
-[2fa.directory](2fa.directory) is a great resource to share as well.
+[2fa.directory](https://2fa.directory) is a great resource to share as well.
 
 ## Lesson Plan
 
