@@ -2,7 +2,7 @@
 
 ## Overview
 
-Enabling two-factor authentication (2FA) is one of the easiest steps you can take to protect your online accounts. Even if someone gets ahold of your password, 2FA will ensure that they can't get very far. 2FA adds extra protection by requiring additional information for login, provided by either a text message to your phone, a code from an authenticator app, or the use of a hardware security key.
+Enabling two-factor authentication (2FA) is one of the easiest steps you can take to protect your online accounts. Even if someone gets ahold of your password, 2FA will ensure that they can't get very far. 2FA adds extra protection by requiring additional information when you log in, provided by either a text message to your phone, a code from an authenticator app, or the use of a hardware security key.
 
 This lesson plan will introduce key concepts about 2FA, and guide you through the process of setting up app-based 2FA for your primary email account.
 
@@ -23,7 +23,7 @@ They’ll need their mobile devices (iPhone or Android) and laptop computers.
 
 **How should participants prepare?**
 Have participants read [Two-Factor Authentication for
-Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/) and [The 12 Days of 2FA: How to Enable Two-Factor Authentication For Your Online Accounts](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts)—both are good overviews of the process.
+Beginners](https://freedom.press/training/2fa-beginners/).
 
 If folks will be sharing unreliable wifi (eg. if you're at a conference center or hotel) encourage folks to install your preferred authenticator app in advance of the workshop. Make sure to include install links for iOS and Android versions in your pre-workshop communications.<br />
 
@@ -36,7 +36,7 @@ EFF's [Two Factor Authentication Handout](https://sec.eff.org/materials/two-fact
 - Read through the lesson plan.
 - Set up an email account to use to demo 2FA—a secondary or dummy gmail account is a good option for this.
 - Read the two recommended participant readings.
-- If you're unfamiliar with concepts in the lesson plan, the recommended readings at the end of this lesson are an excellent way to build your own knowledge store. You should also review the [phishing](Chapter02-08-Phishing.html) lesson and recommended readings—they'll help you articulate the importance of 2FA.
+- If you're unfamiliar with concepts in the lesson plan, the recommended readings at the end of this lesson are an excellent way to build your own knowledge store. You should also review the [phishing](https://github.com/OpenNewsLabs/field-guide-security-training-newsroom/blob/master/docs/Chapter02-08-Phishing.md) lesson and recommended readings—they'll help you articulate the importance of 2FA.
 - If you're working with a larger organization, check with their IT team to find out if their organizational email supports 2FA. It may not be supported—or they may require and enforce it already. Either way, you'll want to tailor your conversation to their circumstances.
 - If possible, check with participants to find out their primary email provider (Gmail, Hotmail, corporate, etc.). The lesson plan covers setting up 2FA for Gmail—you may need to review instructions for other providers beforehand based on the needs of your participants.
 
@@ -44,7 +44,7 @@ EFF's [Two Factor Authentication Handout](https://sec.eff.org/materials/two-fact
 
 When you follow up after the workshop, remind folks to confirm that the spot they stowed their backup codes still makes sense, and remind them to follow through on enabling 2FA on any services they didn't get to in the workshop.
 
-[Twofactorauth.org](https://twofactorauth.org/) and [TurnOn2FA.com](https://www.turnon2fa.com/tutorials/) are great followup resources to share.
+[2fa.directory](https://2fa.directory) is a great resource to share as well.
 
 ## Lesson Plan
 
@@ -64,9 +64,9 @@ Common services include:
 
 - Email: everyone should have 2FA on their primary email account.
 - Online banking: banks usually require 2FA, but if your bank makes it only optional, definitely turn it on.
-- Backup and file sharing services (eg. Dropbox)
-- Developer tools (eg. Github, AWS)
-- Social media networks (eg. Facebook, Twitter)
+- Backup and file sharing services (e.g., Dropbox)
+- Developer tools (e.g., GitHub, AWS)
+- Social media networks (e.g., Facebook, Twitter)
 
 Folks should brainstorm other services that they want to prioritize and start setting them up. [Twofactorauth.org](https://twofactorauth.org/) is a useful roundup of services that do provide 2FA, while [TurnOn2FA.com](https://www.turnon2fa.com/tutorials/) has great instructions for many of those services.
 
@@ -91,7 +91,7 @@ For example: by convincing Verizon to redirect Deray McKesson's phone messages t
 
 ![Vulnerable](img/ch2-7-2.png)
 
-[SMS-based 2FA is better than nothing](https://motherboard.vice.com/en_us/article/youre-probably-fine-with-sms-based-two-factor-authentication), but it isn't a great option.
+[SMS-based 2FA is better than nothing](https://motherboard.vice.com/en_us/article/youre-probably-fine-with-sms-based-two-factor-authentication), but it isn't the best option.
 
 **Better Option - Authentication Apps:**
 Some services allow you to receive your 2FA code from a mobile app. There are many options to choose from, including [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en),
@@ -106,18 +106,18 @@ Unlike SMS messages, authenticator apps aren't vulnerable to attacks against you
 **Even Better Option - Security Keys:**
 A security key is a physical device, usually connected via USB, that you can use to authenticate your account.
 
-They’re reasonably cheap — one of the most popular options, a [Yubikey](https://www.yubico.com/) costs
-[$18](https://www.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/).
+They’re reasonably cheap — one of the most popular options, a [YubiKey](https://www.yubico.com/) costs
+[~$25.00](https://www.yubico.com/store/).
 
 ![YubiKey in action](img/ch2-7-4.gif)
 
 Using them is easy—you simply insert your security key during login, and physically tap it when prompted.
 
-Security keys are fairly resistant to phishing attacks, making them one of the best options available. Unlike code-based 2FA, phishing sites don’t have a great way to intercept information from security keys. Also, Yubikeys  generate and store a unique ID for each login on first registration, and check this ID on subsequent logins. If you were to land on a phishing site with an illegitimate URL domain (e.g., faceboook.com instead of facebook.com), the ID will not match and the key will not cooperate with the website.
+Security keys are [highly resistant](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) to phishing attacks, making them one of the best options available. Unlike a code-based 2FA method, phishing sites don’t have a great way to intercept information from security keys. Security keys generate and store a unique ID for each login on first registration, and check this ID on subsequent logins. If you were to land on a phishing site with an illegitimate URL domain (e.g., faceboook.com instead of facebook.com), the ID will not match and the key will not cooperate with the website.
 
-Security keys are not yet as widely supported as authenticator apps, but the standard is getting traction on large websites. Google, Facebook, and Dropbox all support security keys.  If you’re using Gmail as your email provider, or if you're using any other Google services, security keys are a great option.
+Security keys are not yet as widely supported as authenticator apps, but the standard is getting traction on large websites. 
+Google, Facebook, and Dropbox all support security keys. If you’re using Gmail as your email provider, or if you're using any other Google services, security keys are a great option. Most major browsers also now support security keys.
 
-Security keys for the Web require [browser support](https://en.wikipedia.org/wiki/Universal_2nd_Factor). The Yubikey works with [Opera](https://www.opera.com/) and [Google Chrome](https://www.google.com/chrome/),  and there's a good [workaround](https://www.yubico.com/support/knowledge-base/categories/articles/how-to-use-your-yubikey-with-authenticator-codes/) for Firefox users.
 
 ### Pick One
 
@@ -127,7 +127,7 @@ You should have already demonstrated setting up 2FA, but if you didn't, do that 
 
 Everyone should have downloaded Authy or Google Authenticator by now, but if they haven't, have them do that. Seriously though: it is far preferable to do this during the discussion so you don't overload your bandwidth.
 
-And then have everyone set it up on their primary email account. Have folks look through [TurnOn2FA.com](https://www.turnon2fa.com/tutorials/) if it isn't obvious how to setup 2FA on their primary email account.
+And then have everyone set it up on their primary email account. Have folks look through [2fa.directory](https://2fa.directory) if it isn't obvious how to setup 2FA on their primary email account.
 
 Make sure everyone also sets aside backup codes!
 
@@ -135,9 +135,10 @@ Setting up 2FA should take no more than 10 minutes.
 
 Time to break out the laptops. The instructions below apply to Gmail. If any participants use a different primary email provider, you may need to modify the lesson plan accordingly.
 
-Show everyone how to navigate to the Gmail setup page. From the Account icon (top right) select `My Account > Sign-in & security > Signing in to Google` and look for a `2-Step Verification` option. Click `Get Started`.
+Show everyone how to navigate to the Gmail setup page. Account icon (top right) > `Manage your Google Account` > `Security` > `Signing in to Google` > `2-Step Verification` > `Get started`
 
-![2FA on Google](img/ch2-7-5.gif)
+![Enabling 2FA on Google](https://user-images.githubusercontent.com/4054013/129428316-6b8cc509-602d-4104-b962-dfe9dbee7d67.gif)
+
 
 **Set up SMS authentication:**
 First, participants will need to enter their password to verify that they own the account.
@@ -156,14 +157,14 @@ Now that everybody has 2FA set up, they DEFINITELY need to download backup codes
 After setting up an authenticator app or security keys, participants should remove their phone as a 2FA method.
 
 **Security Keys (optional):**
-If particpants have Yubikeys and want to set them up, they should scroll down to `Security keys` and click `Add security key`. When prompted, they should insert the key into the USB port, and physically tap the gold disk on top.
+If particpants have YubiKeys and want to set them up, they should scroll down to `Security keys` and click `Add security key`. When prompted, they should insert the key into the USB port, and physically tap the gold disk on top.
 
 They'll be prompted to name the newly-registered device. During login, instead of typing in a 2FA code, anyone who sets this up can just insert and tap the key.
 
 ![YubiKey on Google](img/ch2-7-6.gif)
 
-Note: Some new computers (e.g., the 2016 Macbook) only have USB Type-C ports. If you can’t use a traditional USB 2.0 or 3.0 port, you can still use security keys with a USB Type-C adapter. Here’s a short list of [Type-C adapters that are confirmed to work](https://www.yubico.com/support/knowledge-base/categories/articles/how-do-i-use-a-yubikey-with-usb-c-adapters/). Alternatively, you can purchase a [USB Type-C
-Yubikey](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c).
+Note: Some new computers (e.g., Macbooks released since 2016) only have USB Type-C ports. If you can’t use a traditional USB 2.0 or 3.0 port, you can still use security keys with a USB Type-C adapter. Here’s a short list of [Type-C adapters that are confirmed to work](https://www.yubico.com/support/knowledge-base/categories/articles/how-do-i-use-a-yubikey-with-usb-c-adapters/). Alternatively, you can purchase a [USB Type-C
+YubiKey](https://www.yubico.com/store/).
 
 
 ## Recommended Reading
@@ -171,7 +172,7 @@ Yubikey](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c).
 + EFF's Security Education Companion has a great [Two Factor Authentication](https://sec.eff.org/topics/two-factor-authentication) lesson.
 + [Two-Factor Authentication for
 Newsrooms](https://source.opennews.org/articles/two-factor-authentication-newsrooms/)
-
 + [London Calling: Two-Factor Authentication Phishing From Iran](https://citizenlab.org/2015/08/iran_two_factor_phishing/) from Citizen Lab (Munk School of Global Affairs, University of Toronto) is a good roundup of ways that really good phishing can circumvent 2FA. (August 2015)
 + [Phishers rip into two-factor authentication](https://www.theregister.co.uk/2017/05/03/hackers_fire_up_ss7_flaw/), *The Register* also covers some ways that phishing can be used to circumvent 2FA. (July 2006)
 + [Text scams: The messages that allow criminals to break into your iPhone, and how to spot them](https://www.independent.co.uk/life-style/gadgets-and-tech/features/text-scams-icloud-iphone-google-android-messages-sms-security-privacy-cybercrime-a7067411.html), *The Independent*, details another SMS-based phishing attack (June 2016)
++ [Evolving Phishing Attacks Targeting Journalists and Human Rights Defenders from the Middle-East and North Africa](https://www.amnesty.org/en/latest/research/2019/08/evolving-phishing-attacks-targeting-journalists-and-human-rights-defenders-from-the-middle-east-and-north-africa/), by Amnesty International (2019)
