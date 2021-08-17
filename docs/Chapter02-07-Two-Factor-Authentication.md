@@ -9,7 +9,7 @@ This lesson plan will introduce key concepts about 2FA, and guide you through th
 
 ## About This Lesson Plan
 
-**Review date:** Dec 2017<br />
+**Review date:** August 2021<br />
 **Lesson duration:** 30 mins (estimated)<br />
 **Level:** Introductory.<br />
 
