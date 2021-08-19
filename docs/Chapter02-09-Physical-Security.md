@@ -8,7 +8,7 @@ This module makes a few assumptions about your threat model. It is written with 
 
 ## About This Lesson Plan
 
-**Review date:** June 5, 2017<br />
+**Review date:** August 5, 2017<br />
 **Lesson duration:** 30 minutes<br />
 **Level:** Intermediate<br />
 **Preconditions:** Participants should know how to back up their devices and how to choose a strong passphrase.
@@ -21,7 +21,7 @@ They should bring their Android / iPhone and laptop.
 
 Participants will need administrator access to their machines.
 
-Everyone should read [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices (EFF 217)](https://www.eff.org/wp/digital-privacy-us-border-2017).
+Everyone should read [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices (EFF 2017)](https://www.eff.org/wp/digital-privacy-us-border-2017).
 
 **How should the instructor prepare?**
 
@@ -81,7 +81,7 @@ You can mitigate what is available without your permission. But "mitigation" is 
 
 + Call a lawyer. If your newsroom has staff attorneys, touch base with them before you travel.
 
-  + Some attorneys recommend telling the border agents that your device contains trade secrets and you're not authorized to authorize a search. That obviously only applies if it is true, but if you have company correspondence or documents on your phone it probably is true. <br />
+  + Some attorneys recommend telling the border agents that your device contains trade secrets and you're not at liberty to authorize a search. That obviously only applies if it is true, but if you have company correspondence or documents on your phone it probably is true. <br />
 
   + Carry key phone numbers outside your phone: if you find yourself in a situation where you are able to contact an attorney but don't want to power up your phone, make sure you have their number written down somewhere. Business cards are excellent for this purpose.
 
@@ -92,9 +92,9 @@ You can mitigate what is available without your permission. But "mitigation" is 
 What does full disk encryption protect: disk encryption protects data against being read when your computer is off, or newly powered on.
 
 What does it not protect: if your device is already powered up, the drive is decrypted, even if the screen is locked. Once you enter your passphrase, the disk is decrypted.
-If someone has your passphrase, either because it was guessable or because you gave it to them, full disk encryption won't protect you.
+If someone has your passphrase, either because it was guessable or because you gave it to them, full disk encryption won't protect you. When setting it up, [use a strong passphrase](https://securitytraining.opennews.org/en/latest/Chapter02-06-Passwords.html)!
 
-**Important**: the process of enabling FDE can take many hours, and if you interrupt it you will lose access to everything that was on the disk. So show participants how it works, but **do not have them start the process** until they're sure that a) they have backed up the machine and b) they can live without it for 10-12 hours. Generally that means leaving it over night.
+**Important**: the process of enabling FDE can take many hours, and if you interrupt it you will lose access to everything that was on the disk. So show participants how it works, but **do not have them start the process** until they're sure that a) they have backed up the machine and b) they can live without it for 10-12 hours. Generally that means leaving it running overnight.
 
 Make sure everyone knows where to find the disk encryption settings on their devices and has a plan to actually enable it when they can do so safely.
 
@@ -103,23 +103,23 @@ Make sure everyone knows where to find the disk encryption settings on their dev
 
 Use [FileVault](https://support.apple.com/en-us/HT204837).
 
-In `system preferences > Security > FileVault` you should see a toggle labeled `Enable FileVault`. When you are ready to actually encrypt the disk always write down the recovery key on a piece of paper and store it somewhere safe.
+In `system preferences > Security & Privacy > FileVault` you should see a toggle labeled `Enable FileVault`. When you are ready to actually encrypt the disk always write down the recovery key on a piece of paper and store it somewhere safe.
 
 Depending on your threat model, you might want to decline the Apple iCloud recovery method, as it may leave your data vulnerable to state actors.
 
 #### Windows (Pro, Ultimate, or Enterprise editions):
 
-Use [BitLocker](https://technet.microsoft.com/en-us/library/cc731549(v=ws.10).aspx).
+Use [BitLocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838).
 
-Users that only have  Windows "Home edition" can look into Veracrypt.
+Users that only have  Windows "Home edition" can still use disk encryption with [Veracrypt](https://www.howtogeek.com/howto/6169/use-truecrypt-to-secure-your-data/).
 
 #### iOS:
 
-iOS has built-in device encryption ([see page 10](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)) -- but it is only as good as your passphrase.<br />
+iOS has [built-in device encryption](https://support.apple.com/guide/security/encryption-and-data-protection-overview-sece3bee0835/web) -- but it is only as good as your passphrase.<br />
 
 #### Android:
 
-Options will depend on the Android device. Nexus/Pixel devices have full disk encryption enabled by default, but you can double-check by going to `Device Settings > Security > Encryption` -- select `Encrypt phone` to start the process, and be sure to set a strong passphrase.
+Most modern Android devices do provide disk encryption by default, but older devices may not. You can check by going into your Android Settings, and checking under Security for "Device Encryption" "Disk Encryption" 
 
 ### Recommended Reading
 
@@ -128,12 +128,11 @@ Options will depend on the Android device. Nexus/Pixel devices have full disk en
 + [U.S. border agents stopped journalist from entry and took his phones (Washington Post, Nov 2016)](https://www.washingtonpost.com/news/the-switch/wp/2016/11/30/u-s-border-agents-stopped-journalist-from-entry-and-took-his-phones/)
 + [Department of Homeland Security detains journalist returning from Beirut (The Guardian, July 2016)](https://www.theguardian.com/media/2016/jul/21/homeland-security-journalist-maria-abi-habib-detained)
 + [A US-born NASA scientist was detained at the border until he unlocked his phone (The Verge, Feb 2017)](https://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban)
-+ [Secret Service laptop containing Trump Tower evacuation and floor plans stolen (CNN, Mar 2017)](http://www.cnn.com/2017/03/17/politics/missing-secret-service-laptop/index.html)
++ [I'm a journalist but I didn't fully realize the terrible power of U.S. border officials until they violated my rights and privacy (The Intercept, 2019)](https://theintercept.com/2019/06/22/cbp-border-searches-journalists/)
 + [Privacy Complaints Mount Over Phone Searches at U.S. Border Since 2011](https://www.nytimes.com/2017/12/22/us/politics/us-border-privacy-phone-searches.html)
-+ [“Dehumanized” at the Border, Travelers Push Back (Just Security, Feb 2018)](https://www.justsecurity.org/51759/dehumanized-border-travelers-push/)
-
-+ [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices (EFF 217)](https://www.eff.org/wp/digital-privacy-us-border-2017)
+ßasxasw2q
++ [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices (EFF, 2017)](https://www.eff.org/wp/digital-privacy-us-border-2017)
 
 **More training resources**
 
-+ [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices (EFF 217)](https://www.eff.org/wp/digital-privacy-us-border-2017)
++ [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices (EFF, 2017)](https://www.eff.org/wp/digital-privacy-us-border-2017)
