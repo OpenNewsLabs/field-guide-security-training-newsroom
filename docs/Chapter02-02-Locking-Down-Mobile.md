@@ -6,7 +6,7 @@ secure mobile communications.
 
 ## About This Lesson Plan
 
-**Review date:** June 6 2017<br />
+**Review date:** August 2021<br />
 **Lesson duration:** 30 mins (estimated),  longer if some Android phones need to be encrypted.<br />
 **Level:** Intermediate. This session assumes participants are able to make a reliable backup of the key data on their phones and have done so very recently. If they haven't, you *should not* proceed.<br />
 
@@ -61,7 +61,7 @@ Split people into groups by device types - instructions will differ for iOS vs A
 **Trainer notes:**
 For *lock screens,* a strong password is always recommended. A PIN or passcode is an acceptable alternative, but it should be at least 6 digits long. For example, in the US you can be legally compelled to provide your biometrics to unlock a device by a court.
 
-Biometric locking (eg. face or fingerprint recognition) is not recommended, as both are fakeable and do not offer the same degree of legal protection. For example, in the US you can be legally compelled to provide your biometrics to unlock a device by a court.
+Biometric locking (e.g., face or fingerprint recognition) is not recommended, as both are fakeable and do not offer the same degree of legal protection. For example, in the US you can be legally compelled to provide your biometrics to unlock a device by a court.
 
 Android phones offer pattern locking, which is also problematic. It's not as secure as a passphrase, and weak to shoulder-surfing.
 
@@ -75,7 +75,7 @@ When you tackle *lockscreen notifications* keep in mind that some users may opt 
 
 **Set a passcode:**
 
--   To set a passcode, open `Settings > Touch ID & Passcode` (it’s a little red icon with a fingerprint on it)
+-   To set a passcode, open `Settings > Face / Touch ID & Passcode` (it’s a little red icon with a fingerprint on it)
 -   If you already have a passcode in place, you will be asked to re-enter your existing passcode.
 -   Click "set passcode" to reset your passcode or create a new one. The default is a 6-digit code, but if you click "passcode options" you can also choose Custom Alphanumeric Code, Custom Numeric Code, and 4-Digit Numeric Code.
 -   Enter your new passcode twice to verify it
@@ -101,10 +101,10 @@ iPhones are already encrypted. Congratulations!
 
 #### For Android:
 
-
+Note that most modern Android devices are encrypted by default, but you may need to double check that your device is encrypted in the Settings app.
 **Set a passcode:**
 
--   Open the Settings app and select `Security >  Screen Lock`
+-   Open the Settings app and select `Security >  Screen Lock` (Note: this might be slightly different, depending on your version of Android.)
 -   Select a lock screen type. A strong password is the most secure option.
 -   Depending on Android version, you may also be prompted to enable a setting called "Require password to start device" -- this setting will lock your device on startup, preventing it from receiving calls or messages until the password is entered. It’s recommended but not required.
 -   Memorize and enter your new password or passcode.
@@ -119,10 +119,10 @@ Have everyone open the Settings app and check  `About Phone > System Updates`. I
 -  Follow the on-screen instructions to apply any available updates.
 
 **Encrypt your device:**
-The process of encrypting a phone can take an hour or more. You should make sure that participants know their phone will be unavailable while it is being encrypted. Do not encourage anyone to encrypt their phone unless it is a new phone or they're 100% confident that everything on the [device is backed up](Chapter02-04-Mobile-Backups..html). If someone loses their authenticator app and doesn't have backup codes, they may have a very (very) difficult time restoring access. So just to reiterate: don't encourage anyone to encrypt their phone unless you're 100% confident that all the data and settings they need to restore their phone are backed up.
+The process of encrypting a phone can take an hour or more. You should make sure that participants know their phone will be unavailable while it is being encrypted. Do not encourage anyone to encrypt their phone unless it is a new phone or they're 100% confident that everything on the [device is backed up](https://securitytraining.opennews.org/en/latest/Chapter02-04-Mobile-Backups.html). If someone loses their authenticator app and doesn't have backup codes, they may have a very (very) difficult time restoring access. So just to reiterate: don't encourage anyone to encrypt their phone unless you're 100% confident that all the data and settings they need to restore their phone are backed up.
 
 -  Make sure your device is fully charged and connected to its charger - encryption can take a while (an hour or more) and can not be interrupted once it starts.
--   Open the Settings app and select `Security > Encrypt phone`.
+-   Open the Settings app and select `Security > Encrypt phone`. (Note: this might be slightly different, depending on your version of Android.)
 -   Follow the instructions to complete the encryption process.
 
 ## Follow Up
@@ -133,10 +133,11 @@ If anyone (or everyone) opted to put off applying system updates or encrypting t
 **Other Great Tutorials and Curriculum**
 
 + [Why You Should Be Encrypting Your Devices and How to Easily Do It](http://fieldguide.gizmodo.com/why-you-should-be-encrypting-your-devices-and-how-to-ea-1798698901)(Gizmodo, Sept 2017)
-+ Mobile Phone Settings from [Me and My My Shadow:Tactical Tech' Training Curriculum](https://myshadow.org/train)
++ [Your smartphone and you: A handbook to modern mobile maintenance](https://freedom.press/training/your-smartphone-and-you-handbook-modern-mobile-maintenance/)
 
 **Links in the News**
 
 + [John Kelly's personal cell phone was compromised, White House believe](http://www.politico.com/story/2017/10/05/john-kelly-cell-phone-compromised-243514), Politico, Oct 4, 2017
++ [Cellebrite Under Fire Again, After Cops Use Its Phone-Cracking Tech to Target a Journalist](https://gizmodo.com/cellebrite-under-fire-again-after-cops-use-its-phone-c-1847283647)
 
-*Note: it would be great to include a few links to stories about phone search and seizure here. If you want to help the curriculum grow, we'd love your help adding recommended reading links. [Submit an  issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) or a pull request if you have good links to add.
+*Note: it would be great to include a few links to stories about phone search and seizure here. If you want to help the curriculum grow, we'd love your help adding recommended reading links. [Submit an issue](https://github.com/OpenNewsLabs/newsroom-security-curricula/issues) or a pull request if you have good links to add.
