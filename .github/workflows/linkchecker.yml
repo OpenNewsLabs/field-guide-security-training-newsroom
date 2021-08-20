@@ -1,0 +1,20 @@
+name: Link Checker
+
+on:
+  pull_request:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Link Checker
+        id: lc
+        uses: lycheeverse/lychee-action@v1.0.8
+        with:
+          args: --verbose **/*.md --exclude-mail --exclude "chrome:" --exclude "twitter.com" --exclude "haveibeenpwned.com" --exclude "example.com"
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - name: Fail on errors
+        run: exit ${{steps.lc.outputs.exit_code }} 

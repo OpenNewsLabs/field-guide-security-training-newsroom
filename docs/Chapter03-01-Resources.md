@@ -36,11 +36,11 @@ A primer booklet for those beginning to think about digital security and threat 
 **Added:**  June 2017<br />
 **Tags:** guides, beginners<br />
 
-**[11 tips for protecting your privacy and digital security in the age of Trump](https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/)**<br />
-[https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/](https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/)<br />
+**[Security and privacy tips for journalists in a moment of turbulence](https://freedom.press/training/blog/security-and-privacy-tips-resources-journalists-moment-turbulence/)**<br />
+[https://freedom.press/training/blog/security-and-privacy-tips-resources-journalists-moment-turbulence/](https://freedom.press/training/blog/security-and-privacy-tips-resources-journalists-moment-turbulence/)<br />
 *Olivia Martin, Freedom of the Press Foundation*<br />
 An introduction to digital security with brief descriptions and links to resources on threat modeling, strong authentication, secure communications, device encryption, browser security. The article also includes guidance on update hygiene, VPNs, and phishing.<br />
-**Published:** January, 2017<br />
+**Published:** December, 2020<br />
 **Added:** June 2017<br />
 **Tags:**  intros, lists, beginners<br />
 
@@ -323,7 +323,7 @@ A useful resource for understanding how Signal’s encryption works and the vari
 **Added:** June 2017<br />
 
 **[Upgrading WhatsApp Security](https://freedom.press/training/upgrading-whatsapp-security/)**<br />
-[hhttps://freedom.press/training/upgrading-whatsapp-security/](https://freedom.press/training/upgrading-whatsapp-security/)<br />
+[https://freedom.press/training/upgrading-whatsapp-security/](https://freedom.press/training/upgrading-whatsapp-security/)<br />
 *Martin Shelton, Freedom of the Press Foundation*<br />
 A short guide that walks through improving WhatsApp’s security by turning off and removing cloud backups, adjusting privacy settings, encryption key change notifications, and using session verification, as well as information on securing the device itself (e.g., with device encryption).<br />
 **Published:**  February 2021<br />

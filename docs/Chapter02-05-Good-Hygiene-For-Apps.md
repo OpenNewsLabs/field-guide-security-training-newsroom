@@ -35,7 +35,7 @@ So go through the apps connected to your social media accounts and make sure tha
 * <https://myaccount.google.com/permissions?pli=1>
 
 #### Twitter
-* <https://twitter.com/settings/applications>
+* <https://twitter.com/settings/apps_and_sessions>
 
 #### Facebook
 * <https://www.facebook.com/settings?tab=applications>
@@ -62,7 +62,7 @@ it's a great opportunity to spot any suspicious logins or behavior.<br />
 * Active logins: <https://www.facebook.com/settings?tab=security&section=sessions&view>
 
 #### Twitter
-* Privacy settings: <https://twitter.com/settings/safety>
+* Privacy settings: <https://twitter.com/settings/privacy_and_safety>
 
 #### Google
 * Active sessions: <https://myaccount.google.com/security?utm_source=OGB&utm_medium=act#activity>
