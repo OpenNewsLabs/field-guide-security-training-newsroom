@@ -1,11 +1,11 @@
 # Passwords and Password Management
 
 ## Overview
-Passwords are the bedrock of account security, but hard to get right. This lesson provides a methodology for understanding how to take a harm reduction approach to password management. Participants should have a clear understanding of [phishing](Chapter02-08-Phishing.html) and [two factor authentication](Chapter02-07-Two-Factor-Authentication.html), or you should cover those topics with Password Management.
+Passwords are the bedrock of account security, but hard to get right. This lesson provides a methodology for understanding how to take a harm reduction approach to password management. Participants should have a clear understanding of [phishing](Chapter02-08-Phishing.html) and [two-factor authentication](Chapter02-07-Two-Factor-Authentication.html), or you should cover those topics with Password Management.
 
 ## About This Lesson Plan
 
-**Review date:** Oct 5, 2017<br />
+**Review date:** August 19, 2021<br />
 **Lesson duration:**  Variable, depending on objectives and time available:
   1.  Overview, basic introduction, and securing primary email: **30 minutes**.
   2.  Strategies for protecting secondary accounts: **30 minutes**.
@@ -78,7 +78,7 @@ There are two hard and fast rules:
 
 1.  Password security does not need to be uniform. For most people, strongly securing your primary email address(es) will provide the biggest benefit for the least amount of effort.
 
-2.  Passwords should never be reused.
+2.  Passwords should not be reused.
 
 And even rule #2 is not really that hard and fast: every security expert has a go-to password for those IDGAF moments -- hobbyist forums or your login to the local parents group -- forums where the worst case scenario is that someone uses your login to post spam or malicious content in your name.
 
@@ -140,7 +140,7 @@ The strategy we'd recommend is to come up with a short password based on a memor
 >
 > Google: <https://www.google.com/settings/passwordchange>
 >
-> Hotmail: <https://account.live.com/password/change>
+> Microsoft / Outlook: <https://account.live.com/password/reset>
 >
 > Apple iCloud: <https://support.apple.com/en-us/HT201355>
 
@@ -156,24 +156,24 @@ Either have everyone set a secure password and enable 2FA or have everyone make 
 
 #### Never, Ever Reuse Passwords
 
-If you reuse the same password all over the place, you run the risk that one service’s poor password management will compromise all of your accounts. Troy Hunt's [Have I Been Pwned?](https://en.wikipedia.org/wiki/Have_I_Been_Pwned%3F) is a great resource for tracking database breaches to see if your username or email address is included in the latest batch of pwned accounts. It's also a great teaching tool for your participants - chances are, at least one of their email addresses is listed for at least one service. If they are, and they reused a password for that service, their other logins are also at risk.
+If you reuse the same password all over the place, you run the risk that one service’s poor password management will compromise all of your accounts. Troy Hunt's [Have I Been Pwned?](https://haveibeenpwned.com/) is a great resource for tracking database breaches to see if your username or email address is included in the latest batch of pwned accounts. It's also a great teaching tool for your participants - chances are, at least one of their email addresses is listed for at least one service. If they are, and they reused a password for that service, their other logins are also at risk.
 
 The challenge is that **not** reusing passwords is really inconvenient. So there are a few strategies you can use to avoid worrying about it:
 
 #### Option 1: Password Manager
 Using a password manager is the most secure approach. It is also the most unwieldy, and it isn't without tradeoffs. Martin Shelton has a [great roundup of password managers](https://medium.com/@mshelton/password-managers-for-beginners-d1f49866f80f). You want a password manager that will keep your passwords accessible if you lose access to your primary computer, but won’t store them in plain text or make them available to anyone who shouldn’t have them.
 
-Martin’s review covers LastPass, [1Password](https://1password.com/), and [KeePass](http://keepass.info/), all of which are excellent solutions. Note that if you go with KeePass, [Martin Shelton’s installation guide](https://medium.com/@mshelton/keypass-for-beginners-dc8adfcdad54) is the best way to get it running on OSX.
+Martin’s review covers [Bitwarden](https://bitwarden.com), [1Password](https://1password.com/), and [KeePassXC](http://keepassxc.org), all of which are excellent solutions. Note that if you go with KeePassXC, [Martin Shelton’s installation guide](https://medium.com/@mshelton/keypass-for-beginners-dc8adfcdad54) is the best way to get it running on OSX.
 
 Some people think password managers are annoying and terrible. Some people genuinely love them. They are not a silver bullet. As a trainer you should share what works for you, but make sure participants understand that your preferred solution isn't their only option.
 
 **Activity:** Installing a password manager together. As the trainer, you should pick one and have everyone install the same one. Have everyone ...
 
-1. Export their saved browser passwords. There’s a [good Firefox plugin](https://addons.mozilla.org/en-US/firefox/addon/password-exporter/) for this, in Chrome users should be able to go to <chrome://flags/#password-import-export>.
+1. Export their saved browser passwords. In Firefox, users can export passwords saved in the browser by typing "about:logins" into their search bar (or navigate to `Settings` > `Privacy & Security` > `Saved Logins` > `...` (three-dot menu). In Chrome users should be able to go to "chrome://settings/passwords" (or navigate to `Settings` > `Autofill` > `Passwords` > `...` (three-dot menu, under `Saved Passwords`).
 2. Install the password manager that you’ve decided to focus on.
 3. Set a strong password for the password manager vault.
 4. Decide where to store the vault.
-4. Import their stored browser passwords and ...
+4. Import their stored browser passwords and...
   * delete them from the browser
   * disable password storage
 5. Add a browser plugin to integrate the password manager with their primary web browser.
@@ -210,13 +210,13 @@ Participants should take stock of all the points of entry to their email inboxes
 
 **Password Dumps in the news**
 -   <https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/>
--   <https://www.buzzfeed.com/blakemontgomery/one-billion-more-yahoo-accounts-have-been-hacked>
+-   <https://www.buzzfeednews.com/article/blakemontgomery/one-billion-more-yahoo-accounts-have-been-hacked>
 -   <https://www.wired.com/story/yahoo-breach-three-billion-accounts/>
--   <http://krebsonsecurity.com/2013/10/adobe-breach-impacted-at-least-38-million-users/>
+-   <https://krebsonsecurity.com/2013/10/adobe-breach-impacted-at-least-38-million-users/>
 -   <https://haveibeenpwned.com/>
--   <http://www.espn.com/mlb/story/_/id/13089501/report-fbi-investigating-st-louis-cardinals-hacking-houston-astros-database>
+-   <https://www.espn.com/mlb/story/_/id/13089501/report-fbi-investigating-st-louis-cardinals-hacking-houston-astros-database>
 -   <https://www.accessnow.org/doubleswitch-attack/>
 -   <https://www.wsj.com/articles/the-man-who-wrote-those-password-rules-has-a-new-tip-n3v-r-m1-d-1502124118>
--   <https://www.csoonline.com/article/3266607/password-security/1-4b-stolen-passwords-are-free-for-the-taking-what-we-know-now.html>
+-   <https://www.csoonline.com/article/3266607/1-4b-stolen-passwords-are-free-for-the-taking-what-we-know-now.html>
 +  [Twitter discovered 336 million passwords stored in plaintext](https://www.wired.com/story/change-your-twitter-password-right-now/) (that is, not encrypted) on an internal server. They [don't think](https://blog.twitter.com/official/en_us/topics/company/2018/keeping-your-account-secure.html) that anyone actually accessed the password list, but the announcement is a good reminder that re-using passwords is a bad practice, precisely because you can't assume that services outside your control are storing your password responsibly. (Wired, May 2018)
 +  [Collection #1](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/) is a massive, multi-site breach that includes 773M email address with a combined total of 1.16B username/passwords combinations. (January 2019)
