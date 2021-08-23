@@ -1,10 +1,8 @@
 # Security in the Newsroom: Who are you?
 
-This is a living document and the most recent version can be found at: <https://goo.gl/7ojKpw>. This lesson plan, which covers Passwords and Two Factor Authentication is a great hour long brown-bag session that was shared with us by Alan Palazzolo at the Minneapolis Star Tribune. For other great overview lesson plans, take a look at:
+This lesson plan, which covers Passwords and Two Factor Authentication is a great hour long brown-bag session that was shared with us by Alan Palazzolo at the Minneapolis Star Tribune.
 
-[NICAR18: Digital Security Tip Sheet for Journalists](https://docs.google.com/document/d/1q3gBvOEviV_0XMpMjvBiHSaKcl64uu4NwOoEVfXyYqU/edit#), March 2018 by @mshelton, @geminiimatt, @mtigas, Sequoia McDowell and @camfassett. 
-
-Or, there are more great resources in [the resource roundup](Capter03-02-Resources.html).
+Or, there are more great resources in [the resource roundup](https://securitytraining.opennews.org/en/latest/Chapter03-01-Resources.html).
 
 ## Logging in and authentication
 
@@ -15,12 +13,11 @@ There’s a login for everything these days. The default way to prove to compute
 
 A quick step back. Security comes in many forms, not just digital. There are lots of aspects to consider when it comes to your personal security, and many things to focus in on when talking about security in the newsroom. A few things to keep in mind about security in general:
 
--   It’s unfortunate, but more often than not, good security takes a bit of effort. And in practice, there is often a trade-off of what is easy and what is most secure.
--   Good security does not rely on trust, though in practice it requires some.
+-   Good security takes a little bit of effort. There is sometimes a trade-off of what is easy and what is most secure.
 -   Though there are good general security practices, thinking about your security in terms of threat modeling (who will reasonably attack me, and what specifically do you need to defend against) will help focus your efforts.
--   Attacks are always changing, it’s good to stay up to date if just on a high level.
+-   Attacks are always changing, it’s good to stay up to date, even if just on a high level.
 -   Talk to experts. Unless you are totally confident of what you are doing, take a moment to double check with someone how to practice good security.
--   You are never 100% secure. Understand what you are risking.
+-   Nothing can be 100% secure, but we can be significantly more secure with minimal cost.
 -   Even if you don’t think you are at risk, we are all avenues to other people who may be targets. [*You are worthy of a data breach*](https://medium.com/@mshelton/journalists-you-are-worthy-of-a-data-breach-55f8e53fd3fe).
 
 ## Some terminology
@@ -49,9 +46,9 @@ It is very possible that you have had an account compromised. The site “[*Have
 
 **Your identity**. If someone has access to your account, they can do things as you, such as post things to Twitter, reset accounts, or access sensitive information.
 
-The Twitter account of CNN’s host, Anderson Cooper, was [*compromised*](http://thehill.com/homenews/media/364646-anderson-cooper-says-twitter-account-hacked-after-tweet-calling-trump-a) just as recently as December. Deray Mckesson ([*@deray*](https://www.wired.com/2016/06/deray-twitter-hack-2-factor-isnt-enough/)), a prominent figure in the Black Lives Matter organization and movement, had his account hacked into, even with second-factor authentication enabled. This is a good instance where one thought a security practice was solid, but in reality, it had holes.
+In 2017, the Twitter account of CNN’s host, Anderson Cooper claimed his account was [*compromised*](http://thehill.com/homenews/media/364646-anderson-cooper-says-twitter-account-hacked-after-tweet-calling-trump-a). And even with two-factor authentication enabled, Deray McKesson ([*@deray*](https://www.wired.com/2016/06/deray-twitter-hack-2-factor-isnt-enough/)), a prominent figure in the Black Lives Matter movement, had his account breached. The lesson: High-profile individuals are disproportionately targeted, and must take extra steps to lock down their account tightly.
 
-**Specifically your email**. Your email is very strongly tied to your identity. In fact, most online accounts allow you to reset authentication with email, so, if your email gets compromised, many other accounts can be compromised. Your email is also often a trusted contact for the inbox of the people you know, so an attacker can more easily become a trusted contact if your email is compromised.
+**Specifically your email**. Your email is very strongly tied to your identity. In fact, most online accounts allow you to reset authentication with email, so, if your email gets compromised, many other accounts can be compromised. Your email is also often a trusted contact for the inbox of the people you know, so an attacker can more easily become a trusted contact if your email is compromised. Generally, when it comes to securing your online accounts, securing your primary email should be your first priority.
 
 ### Passwords
 
@@ -59,30 +56,32 @@ Passwords (and usernames) are probably the most common way to authenticate someo
 
 ### Password managers
 
-Most of us have hundreds of services that require a username and password. Most of us can’t remember hundreds of passwords. This is where a password manager comes in; they create a secure way to store all the username and passwords you need. And most have the ability to integrate with your web browser so it makes it easy to login to a service.
+Most of us have hundreds of services that require a username and password. Most of us can’t remember hundreds of passwords. This is where a password manager comes in; they create a secure way to store all the username and passwords you need. And most have the ability to integrate with your web browser so it makes it easy to log in to a service.
 
 
 ![important](img/ch2_o01_01.png) **Installing and using a password manager is possibly the biggest step you can take in making your life more secure, and it’s one of the easiest.**
 
-There are two popular password manager products that you should consider using: LastPass and 1Password. Both have similar features, but **LastPass** has a free tier with all the main features, and it can be used/installed without installing an application on your computer, so it is suggested for most users.
+There are a few strong password managers you should consider using: 1Password, DashLane, or Bitwarden are all good choices. They offer similar features, though there are some key differences to consider. **Bitwarden** is free and open source, but a little clunkier than paid options like 1Password and DashLane. However, 1Password has an all-around great user experience and [offers free accounts to journalists](https://1password.com/for-journalism/).
 
-To see other options and features, see this [*Wirecutter review*](https://thewirecutter.com/reviews/best-password-managers/).
+To see other options and features, see this [*Wirecutter review*](https://thewirecutter.com/reviews/best-password-managers/) or [suggestions from Freedom of the Press Foundation](https://freedom.press/training/blog/choosing-password-manager/).
 
 It’s important to note that you are putting a lot of trust into your password manager and the company that makes it and stores your data. Though it is not in their interest to compromise anyone’s security, you cannot be 100% sure that it won’t happen, and access to all your passwords is a lot of important information. But, it is still better than most alternatives.
 
-### LastPass
+### Example: 1Password
 
-There are many ways to use and access LastPass.
+There are many types of password managers, but one of the best and easiest to use is 1Password. There are many ways to use 1Passwords.
 
-One of the main ways is to use their [*browser extensions*](https://lastpass.com/download.php). These are particularly great because they make it very easy to log into websites.
+One of the main ways is to use their [*browser extensions*](https://support.1password.com/getting-started-browser/). These are particularly great because they make it very easy to log into websites.
 
-![Last Pass](img/ch2_o01_05.png)
+![1Password in the browser](https://user-images.githubusercontent.com/4054013/129640160-480ba891-6ff2-47f5-a27e-c88c7fb68e61.gif)
 
-Another useful way to get access to your LastPass account is with their mobile applications, both for [*Android*](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid&hl=en) and [*iOS*](https://itunes.apple.com/us/app/lastpass-password-manager/id324613447?mt=8).
+Another useful way to get access to your 1Password account is with their mobile applications, both for [*Android*](https://1password.com/downloads/android/) and [*iOS*](https://1password.com/downloads/ios/).
 
-![Last Pass](img/ch2_o01_03.jpg)
+![1Password mobile](https://user-images.githubusercontent.com/4054013/129640681-508c5634-3791-4e3d-8433-ff3d24f27a0f.png)
 
-You can also install [*stand-alone desktop applications*](https://lastpass.com/download.php) for LastPass.
+You can also install [*stand-alone desktop applications*](https://1password.com/downloads) for 1Password.
+
+Note that normally many password managers are paid services, but [journalists may request a free 1Password account](https://1password.com/for-journalism/)! 
 
 ![important](img/ch2_o01_02.png)
 **Does your newsroom have a policy that prevents users from installing software or plugins? How should users in your newsroom install?**
@@ -139,12 +138,11 @@ Until our organization has a common, shared password solution that makes shared 
 
 ###  More about passwords
 
-There is plenty written about passwords; here are some good resources if
-you want to dive deeper.
+There is plenty written about passwords; here are some good resources if you want to dive deeper.
 
--   [*Security in a Box’s article on passwords*](https://securityinabox.org/en/guide/passwords/)
 -   [*Wirecutter’s review of password managers*](https://thewirecutter.com/reviews/best-password-managers/)
--   [*OpenNews security training on passwords*](Chapter02-06-Passwords..html) 
+-   [*OpenNews security training on passwords*](https://securitytraining.opennews.org/en/latest/Chapter02-06-Passwords.html) 
+-   [*Freedom of the Press Foundation's work on choosing a password manager*](https://freedom.press/training/blog/choosing-password-manager/)
 
 ## Two-factor authentication
 
@@ -154,7 +152,7 @@ Many services these days offer 2FA (two-factor authentication), allowing you to 
 
 -   A text or call sent to your phone with a specific code.
 -   A custom or 3rd-party application that provides a code (usually installed on your phone).
--   A USB key
+-   A USB key.
 -   A physical device that generates a code.
 -   Fingerprint.
 
@@ -169,8 +167,8 @@ Common services that have the ability to turn on 2FA:
 -   Google (GMail)
 -   Dropbox
 -   Twitter
--   LastPass
--   and [*more*](https://twofactorauth.org/)
+-   Facebook
+-   and [*more*](https://2fa.directory/)
 
 ![Customize This](img/ch2_o01_02.png) **If your newsroom has a two factor policy, include it here.**
 
@@ -180,21 +178,29 @@ Some services allow you to choose different methods for your second factor. We�
 
 ####  Texting (SMS) or phone call
 
-Probably the most popular, this is where the service will send you a code via SMS and then you enter that code into the service.
+This is where the service will send you a code via SMS and then you enter that code into the service.
+
+![2FA via SMS](https://user-images.githubusercontent.com/4054013/129642015-8018b913-2dd4-4ef1-821a-1d1f58a4c508.png)
 
 The main downsides of this is that you need to have phone reception, and your text and phone access is actually tied to your SIM card and not the actual phone; and there has been cases where a SIM has been transferred and an [*account compromised*](https://www.wired.com/2016/06/deray-twitter-hack-2-factor-isnt-enough/).
 
 ####  Authenticator application
 
-Another popular option, if available, is to use an authenticator application, often on your phone. This works similarly to SMS by generating a code that is tied to your account.
+Another popular option is to use an authenticator application, often on your phone. This works similarly to SMS by generating a code that is tied to your account.
+
+![2FA via Authenticator app](https://user-images.githubusercontent.com/4054013/129642416-e53ad050-f38a-4726-8acc-8e04b6752eed.png)
 
 This is beneficial over the SMS approach, since it does not require network access, and does not lend itself to the SIM attacks described above.
 
 There are a number of authenticator applications. Most services will let you use the one you want, but some are more forceful in their requirements. Some popular authenticator applications are [*Google’s Authenticator for Android*](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en) and [*iOS*](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8) and [*Authy*](https://authy.com/).
 
+
 ####  Security keys
 
-Though only really supported by some of the major services at this point, another option is a physical security key (usually via USB). These are much harder to compromise, but they are not free. A very popular option is [*Yubikey*](https://www.yubico.com/), and they offer a basic key for as little as [*\$18*](https://smile.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/).
+While not offered on all services, many major services support the use of physical security keys — usually small USB devices that help you authenticate into a website. These are much harder to compromise, but they are not free. A very popular option is [*YubiKey*](https://www.yubico.com/), and they offer a basic key for as little as [*\$25*](https://www.yubico.com/store/).
+
+![2FA via security key](https://user-images.githubusercontent.com/4054013/129642480-245780eb-5793-48ba-b1ee-3d9c05e581bb.gif)
+
 
 ###  You have a password manager now...
 
@@ -202,27 +208,19 @@ When setting up a 2FA, you will usually get some set of recovery codes that can 
 
 ###  More about 2FA
 
-Enabling two-factor authentication is one of the best security practices
-that you can do and there’s lots more to read up about it if you want.
+Enabling two-factor authentication is one of the best security practices that you can do and there’s lots more to read up about it if you want.
 
--   [*OpenNews article on
-    2FA*](https://source.opennews.org/articles/two-factor-authentication-newsrooms/)
--   [*TwoFactorAuth.org*](https://twofactorauth.org/), a place to see
-    what services offer two-factor authentication and what kind
--   [*EFF’s guide to enabling 2FA on common
-    services*](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts)
--   [*TurnOn1FA.com*](https://www.turnon2fa.com/) has lots of specific
-    tutorials on how to turn on 2FA for many services.
--   [*OpenNews security training chapter on
-    2FA*](Chapter02-07-Two-Factor-Authentication.html)
+-   [*Freedom of the Press Foundation: "Two-factor authentication for beginners*](https://freedom.press/training/2fa-beginners/)
+-   [*2fa.directory*](https://2fa.directory/), a place to see what services offer two-factor authentication, and what kind they offer
+-   [*OpenNews security training chapter on 2FA*](https://securitytraining.opennews.org/en/latest/Chapter02-07-Two-Factor-Authentication.html)
 
 ##  Biometric authentication
 
-Often used in place of a password, biometric authentication is using something that is unique to your physical body to prove that you are you. The most common is fingerprint scanning on our phones, as well as the face recognition that Apple has recently introduced.
+Often used in place of a password, biometric authentication is using something that is unique to your physical body to prove that you are you. The most common is fingerprint scanning on our phones, as well as face recognition (e.g., Face ID on iPhones).
 
-Biometric authentication has its pros and cons (need reference). If you want to use biometric authentication, it is suggested to enhance it with a password or PIN; for instance, on Android, you can require the password every few days. If you are at a higher risk than most, such as working on very sensitive materials, use both a password and biometrics every time.
+Biometric authentication has its pros and cons. If you want to use biometric authentication, it is suggested to enhance it by requiring occasional use of a password or PIN; for instance, on Android, you can require the password every few days. 
 
-The use of biometric authentication is not new, but its consumer use is relatively new, and it really isn’t known what the [*practical*](https://views-voices.oxfam.org.uk/aid/2017/11/biometrics-help-us-answer-question) or [*legal*](https://www.popsci.com/iphonex-facial-recognition-legal-unlock) consequences of it are.
+If you think you are going into a risky situation where you may risk arrest or device seizure, such as a protest or border checkpoint, the safest thing to do is temporarily disable biometric unlock features. We are still learning about the [*practical*](https://techcrunch.com/2021/07/26/court-orders-us-capitol-rioter-to-unlock-his-laptop-with-his-face/) and [*legal*](http://www.pennstatelawreview.org/print-issues/face-it-the-convenience-of-a-biometric-password-may-mean-forfeiting-your-fifth-amendment-rights/) implications of biometric device unlock software, but at least in the U.S., you generally do not have as substantial privacy rights to your biometric information as information in your mind (such as passwords). In general, in risky situations where there is a reasonable chance your device might be seized, disable biometrics.
 
 ##  Enhancements when authenticating
 
@@ -232,14 +230,13 @@ Some services will use different techniques or data points to “enhance” the 
 
 “Security questions” are often used to enhance authentication. The idea is that by using some simple, easy-to-remember questions and answers, the service can be more certain you are who you are.
 
-In practice, these should just be viewed as another password. So, treat it like one. Use unique answers, and write them down in your password manager. It is suggested to use simpler answer for these, as they may be used to confirm your account verbally over the phone (though hopefully not).
+In practice, these should just be viewed as another password. So, treat it like one. Use unique answers, and write them down in your password manager. You should use human-readable answers for these, as they may be used to confirm your account verbally over the phone with customer service representatives (though hopefully not).
 
 ###  PIN
 
-A PIN (personal identification number) is sometimes used to enhance a username and login, and sometimes it is the main method of
-authentication.
+A PIN (personal identification number) is sometimes used to enhance a username and login, and sometimes it is the main method of authentication.
 
-Again, these should be considered the same as passwords. Make them as long as possible, don’t use the same one twice, and store in your password manager.
+Again, these should be considered the same as passwords. Make them as long as possible, don’t use the same one twice, and store them in your password manager.
 
 For things like a debit card, you’re authenticating with the card itself and the PIN. In practice, you will probably want to use a number that you can remember. Make sure not to use a number that is easily associated with you, such as your house number.
 
@@ -257,34 +254,28 @@ This is a sort of second form of authentication, as your email is assumed to be 
 
 Your email becomes a gateway to many other accounts, as it is the username, and it is the main mechanism for services to reset your account. Make sure you use a very strong, unique password for you email and turn on two-factor authentication.
 
-Note that Google Mail allows you to use [*different forms*](https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html) of your email address. This helps obfuscate your address, making it slightly harder to associate accounts.
-
-![Lock icon](img/ch2_o01_01.png)
-
 **At the very least, make sure you use strong passwords and 2FA for your email addresses.**
 
 ###  Temporary emails
 
-For serious, though a bit risky, security, you can use temporary or throw-away email services to verify accounts. This is a good idea to ensure that your own email is not compromised, but it means that you won’t be able to recover access if needed.
+For serious, though a bit risky, security, you can use temporary or throw-away email services to verify accounts. While researching online, and obviously depending on the nature of the research, it may be beneficial to use a temporary email to sign up for websites so that your real email is not tied to any work you may be doing. Note that these email providers may decrypt your emails, so any email you receive through these services should not be considered private. This is a good idea to ensure that your own email is not compromised, but it means that you won’t be able to recover access if needed. 
 
-This list has not been reviewed, but here is a list of [*disposable email services*](https://www.digitaltrends.com/computing/best-sites-for-creating-a-disposable-email-address/). If “temporary” is not super important, consider using [*ProtonMail*](https://protonmail.com/), a secure mail service that stores emails on an encrypted server and encrypts any messages sent to other ProtonMail users (but not outside email addresses).
+This list has not been reviewed, but here is a list of [*disposable email services*](https://www.digitaltrends.com/computing/best-sites-for-creating-a-disposable-email-address/).
 
 ## Make sure the site is secure
 
-When actually logging into a site, you should consider a couple things. First, you should make sure it’s the correct site and you are not being phished, but this will be covered in another session.
+When actually logging into a site, you should consider a couple things. First, particularly if someone has sent you the link, you should make sure it’s the correct site and you are not being phished. This is covered in-depth [in the phishing section](https://securitytraining.opennews.org/en/latest/Chapter02-08-Phishing.html).
 
 ###  HTTPS
 
-Just as importantly, you should make sure the browser is communicating securely with the server via HTTPS. The default of the web is to use HTTP (hypertext transfer protocol); the thing to know about HTTP is that information is transferred as is. So, if you send your password to the website, someone who has access to the network itself can see that password. That’s where HTTPS (“s” is for secure); it creates an encrypted channel between your computer and the website. So, it’s important to use HTTPS when logging in. Your browser should make it fairly easy to know if the site is secure.
+You should make sure the browser is communicating securely with the server via HTTPS. When you connect to a website, some may use unsecured HTTP connections. You can see this by looking at corner of your browser's address bar for "http://" (as in (http://example.com) or in many browsers, an unlocked padlock icon. On an HTTP website, intermediaries (e.g., your Internet Service Provider; other people on an unsecured Wi-Fi connection) can see that password. That’s where HTTPS comes in (the “s” in HTTPS is for secure)! HTTPS creates an encrypted channel between your computer and the website. Fortunately, most common websites now use HTTPS. Your browser should make it fairly easy to know if the site is secure.
 
-Look for a lock icon near the website address. Similar to the following:
+On most browsers HTTPS websites have a padlock in the address bar, similar to the following:
 
-![HTTPS Lock icon](img/ch2_o01_04.png)
+![Lock icon](https://user-images.githubusercontent.com/4054013/129637935-e06f875d-8545-4282-8304-fa437ef6ee3e.png)
+
+Note that in recent years, even phishing websites may use HTTPS. When you receive an email or communication over email or anywhere else, the safest thing to do is navigate directly to the website you want to visit by searching for it or entering its URL yourself, if you know the URL.
 
 ## In the newsroom
 
 What are specific considerations in the newsroom. Indirectly, any information or communications that can be accessed by a login is at stake; this may include a source’s identity, communication to colleagues, sensitive documents, etc.
-
-###  Research
-
-While researching online, and obviously depending on the nature of the research, it may be beneficial to use a temporary email so that your identity is not tied to any research you may be doing.
