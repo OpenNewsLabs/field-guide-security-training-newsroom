@@ -1,6 +1,6 @@
 # Security in the Newsroom: Who are you?
 
-This lesson plan, which covers Passwords and Two Factor Authentication is a great hour long brown-bag session that was shared with us by Alan Palazzolo at the Minneapolis Star Tribune. For other great overview lesson plans, take a look at:
+This lesson plan, which covers Passwords and Two Factor Authentication is a great hour long brown-bag session that was shared with us by Alan Palazzolo at the Minneapolis Star Tribune.
 
 Or, there are more great resources in [the resource roundup](https://securitytraining.opennews.org/en/latest/Chapter03-01-Resources.html).
 
@@ -25,6 +25,7 @@ A quick step back. Security comes in many forms, not just digital. There are lot
 Just to make sure we are all on the same page, here are some top-level words and concepts:
 
 -   **Authentication**: A mechanism used to identify someone. The most common mechanism is a username and password, but there are others, such as PIN codes, fingerprints, and more.
+-   **Authorization**: The ability to access a particular resource. For instance, your user on your computer has access to edit certain files, but not core, system files.
 -   **Password**: Usually a single word or short random set of characters used for authentication.
 -   **Passphrase**: A phrase used for authentication, usually at least a few words or a whole sentence. Note, that when we refer to good, secure “passwords”, we usually mean a passphrase.
 
@@ -45,7 +46,7 @@ It is very possible that you have had an account compromised. The site “[*Have
 
 **Your identity**. If someone has access to your account, they can do things as you, such as post things to Twitter, reset accounts, or access sensitive information.
 
-In 2017, the Twitter account of CNN’s host, Anderson Cooper claimed his account was was [*compromised*](http://thehill.com/homenews/media/364646-anderson-cooper-says-twitter-account-hacked-after-tweet-calling-trump-a). And even with two-factor authentication enabled, Deray McKesson ([*@deray*](https://www.wired.com/2016/06/deray-twitter-hack-2-factor-isnt-enough/)), a prominent figure in the Black Lives Matter movement, had his account breached. The lesson: High-profile individuals are disproportionately targeted, and must take extra steps to lock down their account tightly.
+In 2017, the Twitter account of CNN’s host, Anderson Cooper claimed his account was [*compromised*](http://thehill.com/homenews/media/364646-anderson-cooper-says-twitter-account-hacked-after-tweet-calling-trump-a). And even with two-factor authentication enabled, Deray McKesson ([*@deray*](https://www.wired.com/2016/06/deray-twitter-hack-2-factor-isnt-enough/)), a prominent figure in the Black Lives Matter movement, had his account breached. The lesson: High-profile individuals are disproportionately targeted, and must take extra steps to lock down their account tightly.
 
 **Specifically your email**. Your email is very strongly tied to your identity. In fact, most online accounts allow you to reset authentication with email, so, if your email gets compromised, many other accounts can be compromised. Your email is also often a trusted contact for the inbox of the people you know, so an attacker can more easily become a trusted contact if your email is compromised. Generally, when it comes to securing your online accounts, securing your primary email should be your first priority.
 
@@ -55,12 +56,12 @@ Passwords (and usernames) are probably the most common way to authenticate someo
 
 ### Password managers
 
-Most of us have hundreds of services that require a username and password. Most of us can’t remember hundreds of passwords. This is where a password manager comes in; they create a secure way to store all the username and passwords you need. And most have the ability to integrate with your web browser so it makes it easy to login to a service.
+Most of us have hundreds of services that require a username and password. Most of us can’t remember hundreds of passwords. This is where a password manager comes in; they create a secure way to store all the username and passwords you need. And most have the ability to integrate with your web browser so it makes it easy to log in to a service.
 
 
 ![important](img/ch2_o01_01.png) **Installing and using a password manager is possibly the biggest step you can take in making your life more secure, and it’s one of the easiest.**
 
-There are two popular password manager products that you should consider using: LastPass and 1Password. Both have similar features, but **LastPass** has a free tier with all the main features, and it can be used/installed without installing an application on your computer, so it is suggested for most users.
+There are a few strong password managers you should consider using: 1Password, DashLane, or Bitwarden are all good choices. They offer similar features, though there are some key differences to consider. **Bitwarden** is free and open source, but a little clunkier than paid options like 1Password and DashLane. However, 1Password has an all-around great user experience and [offers free accounts to journalists](https://1password.com/for-journalism/).
 
 To see other options and features, see this [*Wirecutter review*](https://thewirecutter.com/reviews/best-password-managers/) or [suggestions from Freedom of the Press Foundation](https://freedom.press/training/blog/choosing-password-manager/).
 
@@ -215,11 +216,11 @@ Enabling two-factor authentication is one of the best security practices that yo
 
 ##  Biometric authentication
 
-Often used in place of a password, biometric authentication is using something that is unique to your physical body to prove that you are you. The most common is fingerprint scanning on our phones, as well as the face recognition that Apple has recently introduced.
+Often used in place of a password, biometric authentication is using something that is unique to your physical body to prove that you are you. The most common is fingerprint scanning on our phones, as well as face recognition (e.g., Face ID on iPhones).
 
-Biometric authentication has its pros and cons (need reference). If you want to use biometric authentication, it is suggested to enhance it with a password or PIN; for instance, on Android, you can require the password every few days. If you are at a higher risk than most, such as working on very sensitive materials, use both a password and biometrics every time.
+Biometric authentication has its pros and cons. If you want to use biometric authentication, it is suggested to enhance it by requiring occasional use of a password or PIN; for instance, on Android, you can require the password every few days. 
 
-The use of biometric authentication is not new, but its consumer use is relatively new, we are still learning about the [*practical*](https://techcrunch.com/2021/07/26/court-orders-us-capitol-rioter-to-unlock-his-laptop-with-his-face/) and [*legal*](http://www.pennstatelawreview.org/print-issues/face-it-the-convenience-of-a-biometric-password-may-mean-forfeiting-your-fifth-amendment-rights/) implications of biometric device unlock software. In general, in risky situations where there is a reasonable chance your device might be seized (e.g., when visiting a border or protest) it may be best to disable biometrics.
+If you think you are going into a risky situation where you may risk arrest or device seizure, such as a protest or border checkpoint, the safest thing to do is temporarily disable biometric unlock features. We are still learning about the [*practical*](https://techcrunch.com/2021/07/26/court-orders-us-capitol-rioter-to-unlock-his-laptop-with-his-face/) and [*legal*](http://www.pennstatelawreview.org/print-issues/face-it-the-convenience-of-a-biometric-password-may-mean-forfeiting-your-fifth-amendment-rights/) implications of biometric device unlock software, but at least in the U.S., you generally do not have as substantial privacy rights to your biometric information as information in your mind (such as passwords). In general, in risky situations where there is a reasonable chance your device might be seized, disable biometrics.
 
 ##  Enhancements when authenticating
 
