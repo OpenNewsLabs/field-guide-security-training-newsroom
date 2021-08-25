@@ -194,7 +194,7 @@ There are a number of authenticator applications. Most services will let you use
 
 ####  Security keys
 
-Though only really supported by some of the major services at this point, another option is a physical security key (usually via USB). These are much harder to compromise, but they are not free. A very popular option is [*Yubikey*](https://www.yubico.com/), and they offer a basic key for as little as [*\$18*](https://smile.amazon.com/Yubico-Y-123-FIDO-U2F-Security/dp/B00NLKA0D8/).
+Though only really supported by some of the major services at this point, another option is a physical security key (usually via USB). These are much harder to compromise, but they are not free. A very popular option is [*Yubikey*](https://www.yubico.com/), and they offer a basic key for as little as USD$25.
 
 ###  You have a password manager now...
 
@@ -211,8 +211,6 @@ that you can do and there’s lots more to read up about it if you want.
     what services offer two-factor authentication and what kind
 -   [*EFF’s guide to enabling 2FA on common
     services*](https://www.eff.org/deeplinks/2016/12/12-days-2fa-how-enable-two-factor-authentication-your-online-accounts)
--   [*TurnOn1FA.com*](https://www.turnon2fa.com/) has lots of specific
-    tutorials on how to turn on 2FA for many services.
 -   [*OpenNews security training chapter on
     2FA*](Chapter02-07-Two-Factor-Authentication.html)
 

@@ -25,7 +25,7 @@ Laptop, projector, Android or iOS phone
 **How should the instructor prepare?**<br />
 Review current SecureDrop documentation at [https://docs.securedrop.org/en/stable/index.html](https://docs.securedrop.org/en/stable/index.html)
 
-Optional: Set up journalist access to Securedrop Demo instance at [https://securedrop.org/demo](https://securedrop.org/demo):
+Optional: Set up journalist access to Securedrop Demo instance at [https://demo.securedrop.org/](https://demo.securedrop.org/):
 
 - add journalist userame and password to password manager (or write them on a Post-it!)
 - scan QR-code with Google Authenticator app to set up 2FA
@@ -134,7 +134,7 @@ SecureDrop's requirements might make it not the best fit for your newsroom. In p
 
 ### (Optional) SecureDrop Demo
 
-*\[Practical: Instructor should guide participants through the process of submitting to SecureDrop, using the FPF demo instance at [https://securedrop.org/demo](https://securedrop.org/demo). Participants should play the role of sources, using the source interface to send one or more messages. The instructor should have already configured their access to the demo instance's Journalist interface and be able to decrypt submissions.\]*
+*\[Practical: Instructor should guide participants through the process of submitting to SecureDrop, using the FPF demo instance at [https://demo.securedrop.org/](https://demo.securedrop.org/). Participants should play the role of sources, using the source interface to send one or more messages. The instructor should have already configured their access to the demo instance's Journalist interface and be able to decrypt submissions.\]*
  
 ## Recommended Reading
 

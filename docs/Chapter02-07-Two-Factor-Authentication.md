@@ -68,7 +68,7 @@ Common services include:
 - Developer tools (e.g., GitHub, AWS)
 - Social media networks (e.g., Facebook, Twitter)
 
-Folks should brainstorm other services that they want to prioritize and start setting them up. [Twofactorauth.org](https://twofactorauth.org/) is a useful roundup of services that do provide 2FA, while [TurnOn2FA.com](https://www.turnon2fa.com/tutorials/) has great instructions for many of those services.
+Folks should brainstorm other services that they want to prioritize and start setting them up. [2fa.directory](https://2fa.directory/) is a useful roundup of services that do provide 2FA.
 
 **DO:** Demo adding 2FA to a Google or Github account, by setting it up, walking through the process of printing recovery codes, and then using it. Flag for everyone that setting up 2FA can mean they'll be permanently, irrevocably locked out of their account if they lose access to their 2FA device, so everyone should absolutely store backup codes somewhere safe.
 

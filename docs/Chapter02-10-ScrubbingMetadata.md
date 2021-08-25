@@ -89,6 +89,6 @@ Now, change roles: One person should be a sensitive source with a photo to leak,
 ## Recommended Reading
 
 * [*Protecting Your Sources When Releasing Sensitive Documents*](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/) - a checklist for handling and releasing leaked documents.
-* [https://exifdata.com/](https://exifdatacom) - an online tool for examining EXIF data in images. (But note that uploading sensitive images to a third-party site is not recommended.)
+* [https://exifdata.com/](https://exifdata.com) - an online tool for examining EXIF data in images. (But note that uploading sensitive images to a third-party site is not recommended.)
 * [*Simple questions: What is a file's metadata and how to edit it in Windows?*](https://www.digitalcitizen.life/what-file-s-metadata-and-how-edit-it) - a guide to removing file metadata under Windows.
 * [The Metadata Anonymisation Toolkit](https://mat.boum.org/) - a CLI-based metadata removal toolkit. Some familiarity with UNIX shell commands is a requirement, and the project is not under active maintenance.
