@@ -265,7 +265,7 @@ Note that Google Mail allows you to use [*different forms*](https://gmail.google
 
 For serious, though a bit risky, security, you can use temporary or throw-away email services to verify accounts. This is a good idea to ensure that your own email is not compromised, but it means that you won’t be able to recover access if needed.
 
-This list has not been reviewed, but here is a list of [*disposable email services*](https://www.digitaltrends.com/computing/best-sites-for-creating-a-disposable-email-address/). If “temporary” is not super important, consider using [*ProtonMail*](https://protonmail.com/), a secure mail service that stores emails on an encrypted server and encrypts any messages sent to other ProtonMail users (but not outside email addresses).
+This list has not been reviewed, but here is a list of [*disposable email services*](https://www.digitaltrends.com/computing/best-sites-for-creating-a-disposable-email-address/). If “temporary” is not super important, consider using [*ProtonMail*](https://proton.me/), a secure mail service that stores emails on an encrypted server and encrypts any messages sent to other ProtonMail users (but not outside email addresses).
 
 ## Make sure the site is secure
 
